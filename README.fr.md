@@ -60,26 +60,30 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
     <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
     <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -137,15 +141,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Face Shape Detector
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
+### Pixelverse AI & Animate image AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Face Shape Detector
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
+
+#### Détecteur de forme de visage : identifie la forme de ton visage
+
+
+[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Télécharge tes photos sur notre détecteur de formes faciales et reçois une analyse complète basée sur les repères faciaux. Notre outil sophistiqué évalue des indicateurs clés tels que la mâchoire, la largeur du front et la structure des pommettes, en fournissant une répartition détaillée en pourcentage des différentes formes de visage. Comprends les proportions uniques de ton visage grâce à notre analyseur avancé de la forme du visage.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -232,23 +252,6 @@ Transforme ton texte en de belles présentations professionnelles en quelques mi
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Image Describer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
-
-#### Image Describer - Image ou image AI Describe en ligne
-
-
-[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Image Describer est un outil d'intelligence artificielle qui permet de décrire une image ou une image, de générer des descriptions ou des interprétations détaillées.
-Avec Image Describer, il te suffit de télécharger une image, de saisir ton intention de décrire l'image, et enfin de la soumettre pour analyse. Au final, tu auras une description complète du contenu de l'image.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
