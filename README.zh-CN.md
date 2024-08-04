@@ -135,15 +135,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Pixelverse AI & Animate image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
+### Stellafai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Pixelverse AI & Animate image AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
+
+#### 使用人工智能创建强大的视频。
+
+
+[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Animate Image AI 是一项革命性的功能，使用户只需点击几下即可将静态照片变为现实。利用先进的人工智能和机器学习算法，我们的平台可以为您的图像添加逼真的动感，使其更具吸引力和动态感。无论您是想创建引人入胜的社交媒体帖子还是想增强营销材料。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,23 +245,6 @@ Nex使用尖端的人工智能为任何文章或YouTube视频生成要点和大�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Slides.bot: AI Presentation Maker Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
-
-#### Slides.bot：免费在线人工智能演示制作工具
-
-
-[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🚀 推出 Slides.bot：终极 AI 演示制作工具免费在线！ 
-在短短几分钟内将您的文本转换为精美、专业的演示文稿。非常适合商业、教育和创意项目。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
