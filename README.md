@@ -70,30 +70,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
-    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -151,6 +145,23 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### 2markdown
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
+
+#### 2markdown is a tool designed to convert web data into structured markdown format, tailored for Large Language Models. 
+
+
+[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+2markdown simplifies the process of transforming URLs, code, and HTML into structured markdown, empowering AI models with access to rich website content. Whether you’re enhancing AI context, training datasets, or integrating content into applications, 2markdown ensures seamless operation and efficiency.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VoiceChanger.im
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
 
@@ -248,24 +259,6 @@ Our mission is to build the last job search engine you'll ever use - every job, 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
-
-#### AI Filter - Transform your photos with filters
-
-
-[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Transform your photos with AI filters into anime, clay, 3D, pixel, emoji, video game, sticker, and more styles.
-
-Register to receive 20 credits, and you can subscribe to different plans for more credits.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

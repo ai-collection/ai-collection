@@ -72,12 +72,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
-    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### VoiceChanger.im
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+### 2markdown
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### VoiceChanger.im
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicechanger-im.webp" alt="VoiceChanger.im">
+
+#### VoiceChanger.im: клонер голоса с искусственным интеллектом и бесплатный перевод текста в речь в Интернете
+
+
+[Visit](https://thataicollection.com/redirect/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🎙️ VoiceChanger.im: клонер голоса с искусственным интеллектом и бесплатный перевод текста в речь в Интернете!
+🔄 Без труда клонируйте свой голос с помощью Voicechanger.im! Наш передовой искусственный интеллект позволяет загрузить 1-минутный голосовой клип и идеально его клонировать. Кроме того, вы можете легко преобразовывать текст в речь и изменять существующие голосовые записи. Идеально подходит для создателей контента, геймеров и всех, кто изучает новые аспекты вокала.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/voicechanger-im?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,24 +248,6 @@ HireBase.org — это система поиска работы, которая
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-filter.webp" alt="AI Filter">
-
-#### Фильтр AI - преобразуйте свои фотографии с помощью фильтров
-
-
-[Visit](https://thataicollection.com/redirect/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Преобразуйте свои фотографии с помощью фильтров искусственного интеллекта в аниме, глину, 3D, пиксели, смайлики, видеоигры, стикеры и другие стили.
-
-Зарегистрируйтесь, чтобы получить 20 кредитов, и вы сможете подписаться на разные тарифные планы, чтобы получить больше кредитов.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ai-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
