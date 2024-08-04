@@ -74,12 +74,12 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -137,15 +137,32 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### 2markdown
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
+### Face Shape Detector
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### 2markdown
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
+
+#### 2markdown est un outil conçu pour convertir les données Web en format Markdown structuré, adapté aux grands modèles linguistiques. 
+
+
+[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+2markdown simplifie le processus de transformation des URL, du code et du code HTML en markdown structuré, permettant ainsi aux modèles d'IA d'accéder à du contenu riche sur le site Web. Qu'il s'agisse d'améliorer le contexte de l'IA, de former des ensembles de données ou d'intégrer du contenu à des applications, 2markdown garantit un fonctionnement et une efficacité fluides.
+
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -232,24 +249,6 @@ Avec Image Describer, il te suffit de télécharger une image, de saisir ton int
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Hirebase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirebase.webp" alt="Hirebase">
-
-#### Moteur de recherche d'emploi basé sur l'IA et fournisseur de données sur le marché du travail
-
-
-[Visit](https://thataicollection.com/redirect/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Hirebase.org est un moteur de recherche d'emploi qui explore Internet à la recherche d'offres en direct sur les sites Web des entreprises, et les organise en un seul endroit avec un moteur de recherche à la fois facile à utiliser et extrêmement puissant à portée de main. 
-
-Notre mission est de créer le dernier moteur de recherche d'emploi que tu utiliseras : chaque offre d'emploi, chaque entreprise, qui recrute actuellement sur Internet.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/hirebase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
