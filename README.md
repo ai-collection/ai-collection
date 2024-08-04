@@ -70,26 +70,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
-    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
-
-ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
     <br />
 </div>
 
@@ -147,6 +145,22 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Nex : AI Knowledge Copilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
+
+#### Nex :  AI Knowledge Copilot, Get Ideas 10X faser
+
+
+[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nex uses cutting-edge AI to generate takeaways and outlines for any article or YouTube video, highlighting important quotes
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Slides.bot: AI Presentation Maker Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
 
@@ -245,22 +259,6 @@ Discover the newest and best meme coins at MEME is Game, featuring AI-powered in
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
-
-#### Create realistic AI sounds with our AI sound effect generator.
-
-
-[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Our AI sound effect generator allows you to create customized sound effects for your projects. From futuristic tones to nature sounds, you can easily generate unique audio to enhance your content.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

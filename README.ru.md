@@ -72,18 +72,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
 
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
@@ -141,15 +137,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Slides.bot: AI Presentation Maker Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
+### Nex : AI Knowledge Copilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
+
+#### Slides.bot: бесплатный онлайн-конструктор презентаций с искусственным интеллектом
+
+
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 Представляем Slides.bot: лучший бесплатный онлайн-конструктор презентаций с искусственным интеллектом! 
+Превратите свой текст в красивые профессиональные презентации всего за несколько минут. Идеально подходит для бизнеса, образования и творческих проектов.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,22 +251,6 @@ HireBase.org — это система поиска работы, которая
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
-
-#### Создавайте реалистичные звуки искусственного интеллекта с помощью нашего генератора звуковых эффектов AI.
-
-
-[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Наш генератор звуковых эффектов AI позволяет создавать индивидуальные звуковые эффекты для ваших проектов. От футуристических тонов до звуков природы — вы можете легко создать уникальный звук, который улучшит ваш контент.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -60,26 +60,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -137,15 +135,32 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Slides.bot: AI Presentation Maker Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
+### Nex : AI Knowledge Copilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
+
+#### Slides.bot：免费在线人工智能演示制作工具
+
+
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 推出 Slides.bot：终极 AI 演示制作工具免费在线！ 
+在短短几分钟内将您的文本转换为精美、专业的演示文稿。非常适合商业、教育和创意项目。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +249,6 @@ Hirebase.org是一个求职引擎，它可以从互联网上抓取公司网站�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
-
-#### 使用我们的 AI 音效生成器创建逼真的 AI 声音。
-
-
-[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的 AI 音效生成器允许您为项目创建自定义音效。从未来派的音色到自然的声音，您可以轻松生成独特的音频来增强您的内容。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
