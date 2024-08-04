@@ -70,12 +70,14 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -145,6 +147,22 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### ContentStudio AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
+
+#### Transform Your Ideas into Automated Videos with AI
+
+
+[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Content Studio AI is a groundbreaking platform that transforms the landscape of video content creation. Harnessing the power of advanced artificial intelligence, this innovative tool enables creators to produce high-quality, engaging videos without the need for extensive technical skills or on-camera appearances. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Stellafai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
 
@@ -242,22 +260,6 @@ AmigoChat is an innovative AI-powered friend, an advanced conversational platfor
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Nex : AI Knowledge Copilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
-
-#### Nex :  AI Knowledge Copilot, Get Ideas 10X faser
-
-
-[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nex uses cutting-edge AI to generate takeaways and outlines for any article or YouTube video, highlighting important quotes
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

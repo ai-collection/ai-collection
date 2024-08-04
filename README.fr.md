@@ -60,30 +60,26 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -141,15 +137,34 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Stellafai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
+### ContentStudio AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Stellafai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
+
+#### La boîte à outils d'exécution de stratégies pour les équipes orientées vers les objectifs
+
+
+[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Stellafai est une boîte à outils d'exécution de stratégies conçue pour les équipes axées sur les objectifs, qui résout les problèmes liés à la visibilité des objectifs, au manque de conseils d'experts et à la déconnexion entre les tâches quotidiennes et les objectifs stratégiques
+- Conseils en matière d'IA : Armstrong, un assistant basé sur l'IA, propose des informations contextuelles
+- Coaching d'experts : accès aux conseils des meilleurs professionnels du secteur
+- Gestion des objectifs : outils pour suiv
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +250,6 @@ AmigoChat est un ami innovant alimenté par l'IA, une plateforme conversationnel
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Nex : AI Knowledge Copilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
-
-#### Suivant : AI Knowledge Copilot, trouve des idées 10 fois plus vite
-
-
-[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nex utilise une IA de pointe pour générer des points à retenir et des plans pour n'importe quel article ou vidéo YouTube, en mettant en évidence les citations importantes
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
