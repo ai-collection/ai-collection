@@ -60,18 +60,6 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -80,6 +68,18 @@
 
 ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
+    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -137,15 +137,31 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Nex : AI Knowledge Copilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
+### AmigoChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Nex : AI Knowledge Copilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nex-ai-knowledge-copilot.webp" alt="Nex : AI Knowledge Copilot">
+
+#### Далее: Второй пилот AI Knowledge, получайте идеи в 10 раз быстрее
+
+
+[Visit](https://thataicollection.com/redirect/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nex использует передовой искусственный интеллект для создания выводов и контуров для любой статьи или видео на YouTube, выделяя важные цитаты
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/nex-ai-knowledge-copilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +251,6 @@ HireBase.org — это система поиска работы, которая
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MEME Is Game - Best Meme Coins with AI Insights
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meme-is-game-best-meme-coins-with-ai-insights.webp" alt="MEME Is Game - Best Meme Coins with AI Insights">
-
-#### Ознакомьтесь с последними тенденциями, новостями и аналитикой мира монет MEME и криптовалют. Meme Is Game представляет собой полное руководство по навигации по этому захватывающему новому рынку.
-
-
-[Visit](https://thataicollection.com/redirect/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Откройте для себя новейшие и лучшие монеты для мемов в MEME is Game, в которых представлены аналитические данные на основе искусственного интеллекта. Будьте в курсе последних тенденций, обзоров и анализов лучших мем-монет, включая самые популярные мем-монеты и лучшие мем-монеты.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/meme-is-game-best-meme-coins-with-ai-insights?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
