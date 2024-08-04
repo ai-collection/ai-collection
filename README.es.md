@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1698" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1705" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,32 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Image Describer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Image Describer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+
+#### Descriptor de imágenes: IA Describe una imagen o imagen en línea
+
+
+[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El descriptor de imágenes es una herramienta de inteligencia artificial para describir imágenes o imágenes y generar descripciones o interpretaciones detalladas.
+Con Image Describer, todo lo que tienes que hacer es subir una imagen, introducir tu intención de describir la imagen y, por último, enviarla para su análisis. Al final, obtendrás una descripción detallada del contenido de la imagen.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +248,6 @@ Nuestro generador de efectos de sonido con IA te permite crear efectos de sonido
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
-
-#### Humanizar Texto: un humanizador de textos con IA optimizado para idiomas menores, como el español y el portugués.
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experimenta el poder de Humanizar Texto, un humanizador de textos avanzado con IA diseñado específicamente para español y portugués. Esta innovadora herramienta garantiza que tu contenido sea indistinguible del texto escrito por humanos. Humanizar Texto puede eludir sin problemas detectores de IA como ZeroGpt, GptZero, OpenAI Detector y Copyscape, haciendo que tu texto sea indetectable incluso para los sistemas más sofisticados.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3279,22 +3280,6 @@ La interfaz es fácil de usar, lo que facilita la navegación y la creación de 
 <br />
 
 
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### Chat de IA de personajes de la NSFW sin filtro: Tu novia de IA
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El chatbot Nextpart.ai mejora tu experiencia de chat con escenarios de NSFW sin filtro: escapadas románticas, juegos de rol, aventuras y eventos de estilo de vida.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### PornGen
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
@@ -3331,15 +3316,34 @@ PornGen es una plataforma impulsada por la IA que se especializa en crear conten
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
-#### La IA de Undressbaby ofrece probaciones de ropa virtuales de última generación impulsadas por la IA, simulaciones de desnudez e intercambios de rostros por fotos y vídeos, lo que proporciona a los usuarios una experiencia de moda divertida e interactiva
+#### Undressbaby AI - Undress AI, AI Nudify, Deep nude gratis
 
 
 [Visit](https://thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-En Undressbaby AI, ofrecemos Grey's Secret Room, un servicio distintivo impulsado por una tecnología de IA generativa de vanguardia. Desarrollado por Stable Diffusion, este sistema avanzado es competente en la creación de imágenes realistas y muy detalladas. Nuestra nueva función de intercambio de rostros no solo cumple con las exigencias de intercambio de rostros tanto en vídeo como en foto, sino que también permite a los usuarios cambiar rostros sin problemas por cuerpos diversos.
+La IA de Undressbaby ofrece un conjunto completo de funciones impulsadas por la IA, que incluyen probaciones de ropa virtuales de última generación, simulaciones de desnudez e intercambio de rostros por fotos y vídeos, que ofrecen una experiencia de moda dinámica y atractiva. En nuestra plataforma, los usuarios pueden acceder a Grey's Secret Room, un servicio único que aprovecha la innovadora tecnología de IA generativa impulsada por Stable Diffusion. 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - Lo último en tecnología Undress AI - Desnuda a cualquiera
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI: Haz realidad tu fantasía sobre ella al instante con un intercambio de rostros con tecnología de IA o transformando sus imágenes al estilo anime.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

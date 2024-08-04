@@ -23,7 +23,7 @@
     <h4>Положение дел</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1698" />
+    <img alt="Количество приложений генеративного ИИ" src="https://img.shields.io/static/v1?message=Количество приложений генеративного ИИ&color=informational&style=flat-square&label=1705" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Количество категорий" src="https://img.shields.io/static/v1?message=Количество категорий&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot</h4>
-    <p>Инструмент перефразирования WordFixerBot — идеальный инструмент, который поможет вам быстро и точно перефразировать любые тексты, предложения, статьи, абзацы, статьи или документы. Начните прямо сейчас и сделайте свой текст незабываемым!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Начать работу с Wordfixerbot</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
@@ -141,15 +141,32 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Image Describer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Image Describer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+
+#### Описатель изображений - AI Опишите изображение или картинку онлайн
+
+
+[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Image Describer — это инструмент искусственного интеллекта для описания изображения или картинки, создания подробных описаний или интерпретаций.
+С помощью Image Describer все, что вам нужно сделать, это загрузить изображение, указать, что вы хотите описать изображение, и, наконец, отправить его на анализ. В итоге вы получите подробное описание содержимого изображения.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,22 +254,6 @@ HireBase.org — это система поиска работы, которая
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
-
-#### Humanizar Texto — гуманизатор текстов с искусственным интеллектом, оптимизированный для второстепенных языков, таких как испанский и португальский.
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ощутите мощь Humanizar Texto, усовершенствованного гуманизатора текстов с искусственным интеллектом, специально разработанного для испанского и португальского языков. Этот инновационный инструмент гарантирует, что ваш контент будет неотличим от текста, написанного человеком. Humanizar Texto может легко обходить детекторы искусственного интеллекта, такие как ZeroGPT, GPTZero, OpenAI Detector и Copyscape, делая ваш текст незаметным даже для самых сложных систем.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3286,22 +3287,6 @@ DreamPaint.NET использует самые передовые техноло
 <br />
 
 
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### Чат с искусственным интеллектом с персонажами NSFW без фильтров - ваша подруга с искусственным интеллектом
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Чат-бот Nextpart.ai расширяет возможности общения в чате благодаря сценариям NSFW без фильтров — романтическим побегам, ролевым играм, стильным приключениям и событиям.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### PornGen
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
@@ -3338,15 +3323,34 @@ PornGen — это платформа, управляемая искусстве
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
-#### Undressbaby AI предлагает передовые виртуальные примерки одежды на базе искусственного интеллекта, симуляции раздевания и обмен лицами для фотографий и видео, предоставляя пользователям увлекательные и интерактивные впечатления от моды
+#### Undressbaby AI - искусственный интеллект раздевай, искусственный интеллект обнажай, глубоко обнаженный бесплатно
 
 
 [Visit](https://thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-В Undressbaby AI мы предлагаем уникальную услугу Grey's Secret Room, основанную на передовой генеративной технологии искусственного интеллекта. Эта усовершенствованная система, основанная на технологии Stable Diffusion, позволяет создавать высокодетализированные и реалистичные изображения. Наша новая функция замены лиц не только отвечает требованиям смены лиц как на видео, так и на фотографиях, но и позволяет пользователям легко менять лица на разных телах.
+Undressbaby AI предоставляет полный набор функций, основанных на искусственном интеллекте, включая ультрасовременные виртуальные примерки одежды, симуляцию раздевания и замену лица на фотографиях и видео, обеспечивая динамичный и увлекательный модный опыт. На нашей платформе пользователи могут получить доступ к Grey's Secret Room, уникальному сервису, использующему инновационную генеративную технологию искусственного интеллекта на основе технологии Stable Diffusion. 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - новейшие технологии Раздевайте ИИ - Раздевайте кого угодно
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI - Мгновенно реализуйте свои фантазии о ней с помощью искусственного интеллекта, меняя ее лица или преобразуя ее изображения в стиле аниме.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

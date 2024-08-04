@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1698" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1705" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -70,24 +70,26 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -145,6 +147,23 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
+
+#### Slides.bot: AI Presentation Maker Free Online
+
+
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🚀 Introducing Slides.bot: The Ultimate AI Presentation Maker Free Online! 
+Transform your text into beautiful, professional presentations in just minutes. Perfect for business, education, and creative projects.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Image Describer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
 
@@ -242,22 +261,6 @@ Our AI sound effect generator allows you to create customized sound effects for 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
-
-#### Humanizar Texto - An AI texts humanizer optimized for minor languages, such as Spanish and Portuguese.
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience the power of Humanizar Texto, an advanced AI texts humanizer specifically designed for Spanish and Portuguese. This innovative tool ensures your content is indistinguishable from human-written text. Humanizar Texto can seamlessly bypass AI detectors like ZeroGPT, GPTZero, OpenAI Detector, and Copyscape, making your text undetectable by even the most sophisticated systems.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3291,22 +3294,6 @@ The interface is user-friendly, making it straightforward for you to navigate an
 <br />
 
 
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### No Filter NSFW Character AI Chat - Your AI Girlfriend
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nextpart.ai chatbot elevates your chatting experience with No Filter NSFW scenarios – romantic escapes, roleplays, lifestyle adventures and events.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### PornGen
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
@@ -3343,15 +3330,34 @@ Best NEW FREE AI undressing technology! AI-powered undressing for photos! Instan
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
-#### Undressbaby AI offers cutting-edge AI-powered virtual clothing try-ons, undressing simulations, and face swaps for both photos and videos, providing users with a fun and interactive fashion experience
+#### Undressbaby AI - Undress AI, AI Nudify, Deep nude for free
 
 
 [Visit](https://thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-At Undressbaby AI, we offer Grey''s Secret Room, a distinctive service driven by cutting-edge generative AI technology. Powered by Stable Diffusion, this advanced system is proficient in crafting highly detailed and realistic images. Our new face swap feature not only meets the demands for both video and photo face swapping but also allows users to seamlessly swap faces onto diverse bodies.
+Undressbaby AI provides a comprehensive suite of AI-driven features, including cutting-edge virtual clothing try-ons, undressing simulations, and face swaps for both photos and videos, delivering a dynamic and engaging fashion experience. Within our platform, users can access Grey's Secret Room, a unique service harnessing innovative generative AI technology powered by Stable Diffusion. 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI - The State of the Art Undress AI - Undress anyone
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI - Realize your fantasy about her instantly with AI-powered face swapping or by transforming her images into Anime style.
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

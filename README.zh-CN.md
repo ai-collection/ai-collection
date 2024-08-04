@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1698" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1705" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -60,12 +60,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -135,15 +137,32 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Image Describer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+### Slides.bot: AI Presentation Maker Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slides-bot-ai-presentation-maker-free-online.webp" alt="Slides.bot: AI Presentation Maker Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Image Describer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
+
+#### 图像描述器-AI 在线描述图像或图片
+
+
+[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Image Describer 是一款用于描述图像或图片、生成详细描述或解释的 AI 工具。
+使用 Image Describer，您只需上传一张图片，输入描述图片的意图，最后将其提交以供分析即可。最后，您将获得对图片内容的详尽描述。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +250,6 @@ Hirebase.org是一个求职引擎，它可以从互联网上抓取公司网站�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar Texto
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto.webp" alt="Humanizar Texto">
-
-#### Humanizar Texto-一款针对西班牙语和葡萄牙语等次要语言进行了优化的 AI 文本人性化工具。
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-体验 Humanizar Texto 的强大功能，这是一款专为西班牙语和葡萄牙语设计的高级人工智能文本人性化工具。这种创新的工具可确保您的内容与人写文本没有区别。Humanizar Texto 可以无缝绕过 ZeroGPT、GPTZero、OpenAI Detector 和 Copyscape 等人工智能探测器，即使是最复杂的系统也无法检测到你的文本。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/humanizar-texto?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3280,22 +3283,6 @@ Dreampaint.net 使用最先进的技术来对图像进行脱衣。
 <br />
 
 
-### Nextpart AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nextpart-ai_.webp" alt="Nextpart AI">
-
-#### No Filter NSFW 角色 AI 聊天-你的 AI 女友
-
-
-[Visit](https://thataicollection.com/redirect/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nextpart.ai 聊天机器人通过 No Filter NSFW 场景提升您的聊天体验——浪漫逃亡、角色扮演、生活方式冒险和活动。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/nextpart-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### PornGen
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-porngen_.webp" alt="PornGen">
 
@@ -3332,15 +3319,34 @@ PornGen是一个人工智能驱动的平台，专门通过先进的图像生成�
 ### Undressbaby AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undressbaby-ai.webp" alt="Undressbaby AI">
 
-#### Undressbaby AI 提供基于人工智能的尖端虚拟服装试穿、脱衣模拟以及照片和视频的面部交换，为用户提供有趣的互动时尚体验
+#### Undressbaby AI-免费脱衣服 AI、AI Nudify、Deep nudify
 
 
 [Visit](https://thataicollection.com/redirect/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-在Undressbaby AI，我们提供 Grey's Secret Room，这是一项由尖端生成人工智能技术驱动的独特服务。这个先进的系统由 Stable Diffusion 提供支持，精通制作高度细节和逼真的图像。我们新的面部交换功能不仅可以满足视频和照片人脸交换的需求，还允许用户将脸部无缝地交换到不同的身体上。
+Undressbaby AI 提供了一整套由人工智能驱动的功能，包括尖端的虚拟服装试穿、脱衣模拟，以及照片和视频的面部交换，提供动态和引人入胜的时尚体验。在我们的平台内，用户可以访问 Grey's Secret Room，这是一项利用由 Stable Diffusion 提供支持的创新生成人工智能技术的独特服务。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/undressbaby-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Undress Pro AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undress-pro-ai.webp" alt="Undress Pro AI">
+
+#### Undress Pro AI-最先进的脱衣服 AI-为任何人脱衣服
+
+
+
+[Visit](https://thataicollection.com/redirect/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Undress Pro AI-通过人工智能驱动的脸部交换或将她的图像转换为动漫风格，立即实现你对她的幻想。
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/undress-pro-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
