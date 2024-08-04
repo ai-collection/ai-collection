@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Face Shape Detector
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
+### Pixelverse AI & Animate image AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Face Shape Detector
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
+
+#### 脸型探测器：识别您的脸型
+
+
+[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将您的照片上传到我们的脸部形状检测器，并根据面部特征获得全面的分析。我们先进的工具可评估下巴线、额头宽度和颧骨结构等关键指标，提供不同脸型的详细百分比分布。使用我们先进的脸型分析仪了解您脸部的独特比例。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,23 +246,6 @@ Nex使用尖端的人工智能为任何文章或YouTube视频生成要点和大�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/slides-bot-ai-presentation-maker-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Image Describer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-describer.webp" alt="Image Describer">
-
-#### 图像描述器-AI 在线描述图像或图片
-
-
-[Visit](https://thataicollection.com/redirect/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Image Describer 是一款用于描述图像或图片、生成详细描述或解释的 AI 工具。
-使用 Image Describer，您只需上传一张图片，输入描述图片的意图，最后将其提交以供分析即可。最后，您将获得对图片内容的详尽描述。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/image-describer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
