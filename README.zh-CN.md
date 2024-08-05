@@ -60,12 +60,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
+### MachineTranslation.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MakeBestMusic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
+
+#### AI 音乐生成器 | 人工智能驱动的音乐制作套件
+
+
+[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用高级 AI 模型，直接根据文字描述生成高质量歌曲。毫不费力地将您的文字变成音乐。此外，它还提供了许多与AI音乐相关的功能，例如拆分音乐、混音、修复音乐等。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,23 +246,6 @@ Animate Image AI 是一项革命性的功能，使用户只需点击几下即可
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### 2markdown
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
-
-#### 2markdown 是一款旨在将网络数据转换为结构化降价格式的工具，专为大型语言模型量身定制。 
-
-
-[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-2markdown 简化了将网址、代码和 HTML 转换为结构化降价的过程，使人工智能模型能够访问丰富的网站内容。无论您是增强人工智能环境、训练数据集还是将内容集成到应用程序中，2markdown 都能确保无缝操作和效率。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

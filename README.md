@@ -70,12 +70,18 @@ Select and download your favorites from your results—they''re indistinguishabl
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
@@ -145,6 +151,24 @@ Select and download your favorites from your results—they''re indistinguishabl
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### MachineTranslation.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
+
+#### Translates, compares, and recommends the best translations.
+
+
+
+
+[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MachineTranslation.com, by Tomedes, offers real-time, high-quality translations with AI analyses and scores for informed choices.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MakeBestMusic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
 
@@ -240,23 +264,6 @@ Upload your photos to our Face Shape Detector and receive a comprehensive analys
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### 2markdown
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
-
-#### 2markdown is a tool designed to convert web data into structured markdown format, tailored for Large Language Models. 
-
-
-[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-2markdown simplifies the process of transforming URLs, code, and HTML into structured markdown, empowering AI models with access to rich website content. Whether you’re enhancing AI context, training datasets, or integrating content into applications, 2markdown ensures seamless operation and efficiency.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

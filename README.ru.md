@@ -78,12 +78,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -141,15 +141,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
+### MachineTranslation.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MakeBestMusic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
+
+#### Генератор музыки с искусственным интеллектом | Пакет для создания музыки на базе искусственного интеллекта
+
+
+[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Создавайте высококачественные песни прямо из текстовых описаний, используя передовые модели искусственного интеллекта. Легко превращайте свои слова в музыку. Кроме того, он также предоставляет множество функций, связанных с искусственным интеллектом, таких как разделение музыки, микширование музыки, восстановление музыки и т. д.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,23 +252,6 @@ Animate Image AI — это революционная функция, кото�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### 2markdown
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-2markdown.webp" alt="2markdown">
-
-#### 2markdown — это инструмент, предназначенный для преобразования веб-данных в структурированный формат разметки, предназначенный для больших языковых моделей. 
-
-
-[Visit](https://thataicollection.com/redirect/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-2markdown упрощает процесс преобразования URL-адресов, кода и HTML в структурированную разметку, предоставляя моделям искусственного интеллекта доступ к богатому контенту веб-сайта. Независимо от того, улучшаете ли вы контекст искусственного интеллекта, обучаете наборам данных или интегрируете контент в приложения, 2markdown обеспечивает бесперебойную работу и эффективность.
-
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/2markdown?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
