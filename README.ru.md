@@ -60,6 +60,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -72,18 +84,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -141,15 +141,33 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### MachineTranslation.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
+### AI Math Solver Powered by Math GPT Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MachineTranslation.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
+
+#### Переводит, сравнивает и рекомендует лучшие переводы.
+
+
+
+
+[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MachineTranslation.com от Tomedes предлагает высококачественные переводы в реальном времени с анализом искусственного интеллекта и оценками за осознанный выбор.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +254,6 @@ Animate Image AI — это революционная функция, кото�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Face Shape Detector
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
-
-#### Детектор формы лица: определите свою форму лица
-
-
-[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Загрузите свои фотографии в наш детектор формы лица и получите всесторонний анализ на основе контуров лица. Наш сложный инструмент оценивает ключевые показатели, такие как линия подбородка, ширина лба и структура скул, и обеспечивает подробное процентное распределение различных форм лица. Определите уникальные пропорции своего лица с помощью нашего усовершенствованного анализатора формы лица.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

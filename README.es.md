@@ -72,12 +72,12 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,15 +135,33 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### MachineTranslation.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
+### AI Math Solver Powered by Math GPT Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MachineTranslation.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
+
+#### Traduce, compara y recomienda las mejores traducciones.
+
+
+
+
+[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MachineTranslation.com, de Tomedes, ofrece traducciones de alta calidad y en tiempo real con análisis y puntuaciones de IA para tomar decisiones informadas.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,22 +248,6 @@ Animate Image AI es una función revolucionaria que permite a los usuarios dar v
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Face Shape Detector
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-shape-detector.webp" alt="Face Shape Detector">
-
-#### Detector de forma facial: identifica la forma de tu rostro
-
-
-[Visit](https://thataicollection.com/redirect/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sube tus fotos a nuestro detector de formas faciales y recibe un análisis exhaustivo basado en los puntos de referencia faciales. Nuestra sofisticada herramienta evalúa métricas clave, como la línea de la mandíbula, el ancho de la frente y la estructura de los pómulos, y proporciona una distribución porcentual detallada de las diferentes formas de los rostros. Comprende las proporciones únicas de tu rostro con nuestro avanzado analizador de formas faciales.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/face-shape-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
