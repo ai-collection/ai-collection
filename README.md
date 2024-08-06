@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1714" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1723" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -58,11 +58,8 @@ Translations:
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
     </a>
-    <h4>BetterPic: transform casual photos into professional headshots</h4>
-    <p>Discover BetterPic: the AI-driven solution for impeccable corporate headshots. Simply upload 15 images, choose your desired style, and within 2 hours, receive hundreds of flawless headshots.
-
-
-Select and download your favorites from your results—they''re indistinguishable from studio shots, yet up to 20x more affordable than traditional photoshoots.</p>
+    <h4>BetterPic - Studio-quality 4K headshots, from $29 in under 60 minutes.</h4>
+    <p>Need studio-quality 4K headshots without the time, money, and hassle of a professional photoshoot? BetterPic's AI-powered headshot generator creates incredibly realistic images in under an hour, starting at just $29. Simply provide 6-12 casual photos/selfies and select your desired outfits and backgrounds. </p>
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Get Started with BetterPic</b></a>
     <br />
 </div>
@@ -147,6 +144,38 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic - Studio-quality 4K headshots, from $29 in under 60 minutes.
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Need studio-quality 4K headshots without the time, money, and hassle of a professional photoshoot? BetterPic's AI-powered headshot generator creates incredibly realistic images in under an hour, starting at just $29. Simply provide 6-12 casual photos/selfies and select your desired outfits and backgrounds. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ContentStudio AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
+
+#### Transform Your Ideas into Automated Videos with AI
+
+
+[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Content Studio AI is a groundbreaking platform that transforms the landscape of video content creation. Harnessing the power of advanced artificial intelligence, this innovative tool enables creators to produce high-quality, engaging videos without the need for extensive technical skills or on-camera appearances. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Math Solver Powered by Math GPT Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
 
@@ -214,22 +243,6 @@ AISong.ai revolutionizes music creation with cutting-edge AI technology. Our pla
 <br />
 
 
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### Transform Your Ideas into Automated Videos with AI
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Content Studio AI is a groundbreaking platform that transforms the landscape of video content creation. Harnessing the power of advanced artificial intelligence, this innovative tool enables creators to produce high-quality, engaging videos without the need for extensive technical skills or on-camera appearances. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Stellafai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
 
@@ -245,22 +258,6 @@ Stellafai is a strategy execution toolkit tailored for goal-driven teams, solvin
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Pixelverse AI & Animate image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
-
-#### Using artificial intelligence to create powerful video.
-
-
-[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Animate Image AI is a revolutionary feature that allows users to bring their static photos to life with just a few clicks. Leveraging advanced artificial intelligence and machine learning algorithms, our platform can add realistic motion to your images, making them more engaging and dynamic. Whether you want to create captivating social media posts or enhance your marketing materials.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -763,15 +760,12 @@ Unlock the potential of AI-powered image creation and editing with this free too
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
-#### BetterPic: transform casual photos into professional headshots
+#### BetterPic - Studio-quality 4K headshots, from $29 in under 60 minutes.
 
 
 [Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Discover BetterPic: the AI-driven solution for impeccable corporate headshots. Simply upload 15 images, choose your desired style, and within 2 hours, receive hundreds of flawless headshots.
-
-
-Select and download your favorites from your results—they''re indistinguishable from studio shots, yet up to 20x more affordable than traditional photoshoots.
+Need studio-quality 4K headshots without the time, money, and hassle of a professional photoshoot? BetterPic's AI-powered headshot generator creates incredibly realistic images in under an hour, starting at just $29. Simply provide 6-12 casual photos/selfies and select your desired outfits and backgrounds. 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

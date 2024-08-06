@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1714" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1723" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -60,24 +60,24 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -135,15 +135,51 @@ Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic: transforma fotos casuales en retratos profesionales
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Descubra BetterPic: la solución basada en inteligencia artificial para fotografías corporativas impecables. Simplemente cargue 15 imágenes, elija el estilo que desee y, en 2 horas, reciba cientos de fotografías impecables.
+
+
+Seleccione y descargue sus favoritos de sus resultados: no se pueden distinguir de las fotografías de estudio, pero son hasta 20 veces más asequibles que las sesiones de fotos tradicionales.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ContentStudio AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
+
+#### Transforma tus ideas en vídeos automatizados con la IA
+
+
+[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La IA de Content Studio es una plataforma innovadora que transforma el panorama de la creación de contenido de vídeo. Aprovechando el poder de la inteligencia artificial avanzada, esta innovadora herramienta permite a los creadores producir vídeos atractivos y de alta calidad sin necesidad de amplios conocimientos técnicos ni de aparecer ante la cámara. 
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Math Solver Powered by Math GPT Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
 
-#### null
+#### Solucionador de matemáticas con IA desarrollado por Math GPT gratis en línea
 
 
 [Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+🧮 MyMathSolver.ai: ¡Solucionador de matemáticas de IA gratuito en línea! 
+🔢 ¡Resuelve problemas matemáticos complejos sin esfuerzo con MyMathSolver.ai! Desarrollado por GPT-4o, nuestro solucionador de matemáticas con IA ofrece soluciones instantáneas y detalladas para varios problemas matemáticos. Seas estudiante, profesor o entusiasta de las matemáticas, nuestra plataforma está diseñada para mejorar tu comprensión y simplificar las matemáticas.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -201,22 +237,6 @@ AISong.ai revoluciona la creación musical con una tecnología de IA de última 
 <br />
 
 
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### null
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-null
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Stellafai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
 
@@ -232,22 +252,6 @@ Stellafai es un conjunto de herramientas de ejecución de estrategias diseñado 
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Pixelverse AI & Animate image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
-
-#### Usar la inteligencia artificial para crear vídeos potentes.
-
-
-[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Animate Image AI es una función revolucionaria que permite a los usuarios dar vida a sus fotos estáticas con solo unos pocos clics. Gracias a los algoritmos avanzados de inteligencia artificial y aprendizaje automático, nuestra plataforma puede añadir un movimiento realista a tus imágenes y hacerlas más atractivas y dinámicas. Ya sea que quieras crear publicaciones cautivadoras en las redes sociales o mejorar tu material de marketing.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
