@@ -67,14 +67,12 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
-    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
-
-ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -144,6 +142,24 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### ChatWithCloud
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
+
+#### ChatWithCloud is a CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.
+
+
+[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cost Analysis - Find out how much you are spending on AWS and what you can do to optimize your costs.
+Security Analysis - Find your resources, analyze your IAM policies, improve your security posture.
+Troubleshooting - Understand your infrastructure & its issues, find out what is wrong and how to fix it.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
@@ -239,25 +255,6 @@ AISong.ai revolutionizes music creation with cutting-edge AI technology. Our pla
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-song?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Stellafai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
-
-#### The strategy execution toolkit for goal-oriented teams
-
-
-[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Stellafai is a strategy execution toolkit tailored for goal-driven teams, solving issues of goal visibility, lack of expert guidance, and disconnection between daily tasks and strategic goals
-- AI Guidance: Armstrong, an AI assistant, offers contextual insights
-- Expert Coaching: Access to advice from top industry professionals
-- Objective Management: Tools for tracking and visualizing team goals
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

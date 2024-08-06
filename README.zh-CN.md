@@ -48,24 +48,9 @@
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
     </a>
-    <h4>BetterPic：将休闲照片转变为专业头像</h4>
-    <p>探索 BetterPic：人工智能驱动的解决方案，可提供完美的企业头像。只需上传 15 张图片，选择您想要的风格，2 小时内即可收到数百张完美头像。
-
-
-从您的结果中选择并下载您最喜欢的照片 - 它们与工作室照片没有什么区别，但比传统照片拍摄便宜多达 20 倍。</p>
+    <h4>BetterPic——工作室品质的 4K 头像，不到 60 分钟 29 美元起。</h4>
+    <p>需要工作室品质的 4K 头像，无需专业照片拍摄的时间、金钱和麻烦？BetterPic的人工智能头像生成器可以在不到一小时的时间内创建出令人难以置信的逼真图像，起价仅为29美元。只需提供 6-12 张休闲照片/自拍照，然后选择所需的服装和背景即可。 </p>
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>开始使用 BetterPic</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -78,6 +63,18 @@
     <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
     <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
     <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -135,18 +132,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### ChatWithCloud
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
+
+#### null
+
+
+[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
-#### BetterPic：将休闲照片转变为专业头像
+#### BetterPic——工作室品质的 4K 头像，不到 60 分钟 29 美元起。
 
 
 [Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-探索 BetterPic：人工智能驱动的解决方案，可提供完美的企业头像。只需上传 15 张图片，选择您想要的风格，2 小时内即可收到数百张完美头像。
-
-
-从您的结果中选择并下载您最喜欢的照片 - 它们与工作室照片没有什么区别，但比传统照片拍摄便宜多达 20 倍。
+需要工作室品质的 4K 头像，无需专业照片拍摄的时间、金钱和麻烦？BetterPic的人工智能头像生成器可以在不到一小时的时间内创建出令人难以置信的逼真图像，起价仅为29美元。只需提供 6-12 张休闲照片/自拍照，然后选择所需的服装和背景即可。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,25 +243,6 @@ AISong.ai 利用尖端的人工智能技术彻底改变了音乐创作。我们�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-song?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Stellafai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
-
-#### 面向目标团队的策略执行工具包
-
-
-[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Stellafai 是一款专为目标驱动型团队量身定制的策略执行工具包，可解决目标可见性、缺乏专家指导以及日常任务与战略目标脱节等问题
--人工智能指导：人工智能助手阿姆斯特朗提供情境见解
--专家指导：获得顶级行业专业人士的建议
--目标管理：用于跟踪和可视化团队目标的工具
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -754,15 +745,12 @@ Leap AI 的 AI 图像生成器工具可帮助您根据文本提示创建精美�
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
-#### BetterPic：将休闲照片转变为专业头像
+#### BetterPic——工作室品质的 4K 头像，不到 60 分钟 29 美元起。
 
 
 [Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-探索 BetterPic：人工智能驱动的解决方案，可提供完美的企业头像。只需上传 15 张图片，选择您想要的风格，2 小时内即可收到数百张完美头像。
-
-
-从您的结果中选择并下载您最喜欢的照片 - 它们与工作室照片没有什么区别，但比传统照片拍摄便宜多达 20 倍。
+需要工作室品质的 4K 头像，无需专业照片拍摄的时间、金钱和麻烦？BetterPic的人工智能头像生成器可以在不到一小时的时间内创建出令人难以置信的逼真图像，起价仅为29美元。只需提供 6-12 张休闲照片/自拍照，然后选择所需的服装和背景即可。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)

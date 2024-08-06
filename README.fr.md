@@ -48,11 +48,8 @@
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
     </a>
-    <h4>BetterPic : transformez des photos informelles en portraits professionnels</h4>
-    <p>Découvrez BetterPic : la solution basée sur l''IA pour des portraits d''entreprise impeccables. Téléchargez simplement 15 images, choisissez le style souhaité et, en 2 heures, recevez des centaines de portraits impeccables.
-
-
-Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils sont impossibles à distinguer des prises de vue en studio, mais jusqu''à 20 fois plus abordables que les séances photo traditionnelles.</p>
+    <h4>BetterPic : Des portraits en 4K de qualité studio, à partir de 29 dollars en moins de 60 minutes.</h4>
+    <p>Besoin de photos 4K de qualité studio sans le temps, l'argent et les tracas d'une séance photo professionnelle ? Le générateur de portraits alimenté par l'IA de BetterPic crée des images incroyablement réalistes en moins d'une heure, à partir de 29 dollars seulement. Fournis simplement 6 à 12 photos/selfies décontractés et sélectionne les tenues et les arrière-plans de ton choix. </p>
     <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Démarrer avec BetterPic</b></a>
     <br />
 </div>
@@ -60,24 +57,24 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -135,18 +132,31 @@ Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils so
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### ChatWithCloud
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
+
+#### null
+
+
+[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
-#### BetterPic : transformez des photos informelles en portraits professionnels
+#### BetterPic : Des portraits en 4K de qualité studio, à partir de 29 dollars en moins de 60 minutes.
 
 
 [Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Découvrez BetterPic : la solution basée sur l''IA pour des portraits d''entreprise impeccables. Téléchargez simplement 15 images, choisissez le style souhaité et, en 2 heures, recevez des centaines de portraits impeccables.
-
-
-Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils sont impossibles à distinguer des prises de vue en studio, mais jusqu''à 20 fois plus abordables que les séances photo traditionnelles.
+Besoin de photos 4K de qualité studio sans le temps, l'argent et les tracas d'une séance photo professionnelle ? Le générateur de portraits alimenté par l'IA de BetterPic crée des images incroyablement réalistes en moins d'une heure, à partir de 29 dollars seulement. Fournis simplement 6 à 12 photos/selfies décontractés et sélectionne les tenues et les arrière-plans de ton choix. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,25 +243,6 @@ AISong.ai révolutionne la création musicale grâce à une technologie d'IA de 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/ai-song?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Stellafai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
-
-#### La boîte à outils d'exécution de stratégies pour les équipes orientées vers les objectifs
-
-
-[Visit](https://thataicollection.com/redirect/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Stellafai est une boîte à outils d'exécution de stratégies conçue pour les équipes axées sur les objectifs, qui résout les problèmes liés à la visibilité des objectifs, au manque de conseils d'experts et à la déconnexion entre les tâches quotidiennes et les objectifs stratégiques
-- Conseils en matière d'IA : Armstrong, un assistant basé sur l'IA, propose des informations contextuelles
-- Coaching d'experts : accès aux conseils des meilleurs professionnels du secteur
-- Gestion des objectifs : outils pour suiv
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -754,15 +745,12 @@ Exploite le potentiel de la création et de l''édition d''images basées sur l'
 ### BetterPic
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
-#### BetterPic : transformez des photos informelles en portraits professionnels
+#### BetterPic : Des portraits en 4K de qualité studio, à partir de 29 dollars en moins de 60 minutes.
 
 
 [Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Découvrez BetterPic : la solution basée sur l''IA pour des portraits d''entreprise impeccables. Téléchargez simplement 15 images, choisissez le style souhaité et, en 2 heures, recevez des centaines de portraits impeccables.
-
-
-Sélectionnez et téléchargez vos favoris à partir de vos résultats : ils sont impossibles à distinguer des prises de vue en studio, mais jusqu''à 20 fois plus abordables que les séances photo traditionnelles.
+Besoin de photos 4K de qualité studio sans le temps, l'argent et les tracas d'une séance photo professionnelle ? Le générateur de portraits alimenté par l'IA de BetterPic crée des images incroyablement réalistes en moins d'une heure, à partir de 29 dollars seulement. Fournis simplement 6 à 12 photos/selfies décontractés et sélectionne les tenues et les arrière-plans de ton choix. 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
