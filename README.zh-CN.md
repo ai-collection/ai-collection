@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1714" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1723" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -72,12 +72,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,15 +135,51 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic：将休闲照片转变为专业头像
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索 BetterPic：人工智能驱动的解决方案，可提供完美的企业头像。只需上传 15 张图片，选择您想要的风格，2 小时内即可收到数百张完美头像。
+
+
+从您的结果中选择并下载您最喜欢的照片 - 它们与工作室照片没有什么区别，但比传统照片拍摄便宜多达 20 倍。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ContentStudio AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
+
+#### 利用 AI 将你的想法转化为自动化视频
+
+
+[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+内容工作室人工智能是一个开创性的平台，它改变了视频内容创作的格局。利用先进的人工智能的力量，这种创新工具使创作者能够制作高质量、引人入胜的视频，而无需大量的技术技能或在镜头前露面。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Math Solver Powered by Math GPT Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
 
-#### null
+#### 由 Math GPT 提供支持的 AI 数学求解器免费在线
 
 
 [Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-null
+🧮 MyMathSolver.ai：免费在线人工智能数学求解器！ 
+🔢 使用 MyMathSolver.ai 轻松解决复杂的数学问题！我们的 AI 数学求解器由 GPT-4o 提供支持，可为各种数学问题提供即时、详细的解决方案。无论您是学生、教育工作者还是数学爱好者，我们的平台都旨在增强您的理解并简化数学。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -201,22 +237,6 @@ AISong.ai 利用尖端的人工智能技术彻底改变了音乐创作。我们�
 <br />
 
 
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### null
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-null
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Stellafai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stellafai.webp" alt="Stellafai">
 
@@ -232,22 +252,6 @@ Stellafai 是一款专为目标驱动型团队量身定制的策略执行工具�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/stellafai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Pixelverse AI & Animate image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixelverse-ai-and-animate-image-ai.webp" alt="Pixelverse AI & Animate image AI">
-
-#### 使用人工智能创建强大的视频。
-
-
-[Visit](https://thataicollection.com/redirect/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Animate Image AI 是一项革命性的功能，使用户只需点击几下即可将静态照片变为现实。利用先进的人工智能和机器学习算法，我们的平台可以为您的图像添加逼真的动感，使其更具吸引力和动态感。无论您是想创建引人入胜的社交媒体帖子还是想增强营销材料。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/pixelverse-ai-and-animate-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
