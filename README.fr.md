@@ -57,24 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
     <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
     <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Giantess AI Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giantess AI Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+
+#### Trouve la fille de tes rêves dès maintenant ! Giantess AI Art propose une expérience fluide avec des résultats de qualité professionnelle.
+
+
+[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Giantess AI Art s'appuie sur une intelligence artificielle avancée pour t'aider à créer des œuvres d'art uniques et époustouflantes. Nos outils d'IA te permettent de transformer tes idées en œuvres visuellement captivantes sans effort. Que tu sois une artiste qui souhaite expérimenter de nouveaux styles ou que tu aimes créer des œuvres d'art pour le plaisir, Giantess AI Art propose une expérience fluide avec des résultats de qualité professionnelle.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,23 +245,6 @@ Content Studio AI est une plateforme révolutionnaire qui transforme le paysage 
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math Solver Powered by Math GPT Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
-
-#### AI Math Solver développé par Math GPT gratuitement en ligne
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🧮 MyMathSolver.ai : AI Math Solver gratuit en ligne ! 
-🔢 Résolvez des problèmes mathématiques complexes sans effort avec MyMathSolver.ai ! Propulsé par GPT-4o, notre solveur mathématique basé sur l'IA fournit des solutions instantanées et détaillées à divers problèmes mathématiques. Que tu sois étudiante, enseignante ou passionnée de mathématiques, notre plateforme est conçue pour améliorer ta compréhension et simplifier les mathématiques.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
