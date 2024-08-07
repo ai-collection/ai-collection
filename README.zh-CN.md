@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Vadoo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+### Rephrase Tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrase-tool.webp" alt="Rephrase Tool">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vadoo AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+
+#### 轻松创建 AI 生成的视频。使用 Vadoo AI 视频生成器，在几分钟内将您的文字提示转换为视频。使用主题，添加画外音、字幕，只需创建简短的 AI 视频即可。
+
+
+[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vadoo AI是一款多合一的人工智能视频伴侣，它使创作者能够为YouTube短片、Instagram Reels和TikTok等平台生成自动字幕并根据文字提示、脚本等创建短视频。只需输入您的提示即可轻松创建精彩的视频。使用 AI 将文字转换为视频
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -231,22 +245,6 @@ Tomedes旗下的MachineTranslation.com通过人工智能分析和评分提供实
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
-
-#### AI 音乐生成器 | 人工智能驱动的音乐制作套件
-
-
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用高级 AI 模型，直接根据文字描述生成高质量歌曲。毫不费力地将您的文字变成音乐。此外，它还提供了许多与AI音乐相关的功能，例如拆分音乐、混音、修复音乐等。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

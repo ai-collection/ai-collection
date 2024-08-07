@@ -57,30 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +134,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Vadoo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+### Rephrase Tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrase-tool.webp" alt="Rephrase Tool">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vadoo AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+
+#### Créez facilement des vidéos générées par l'IA. Avec le générateur de vidéos Vadoo AI, transformez tes instructions textuelles en vidéos en quelques minutes. Utilise des thèmes, ajoute des voix off, des sous-titres et crée simplement de courtes vidéos basée
+
+
+[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vadoo AI est le compagnon vidéo tout-en-un basé sur l'IA qui permet aux créateurs de générer des sous-titres automatiques et de créer de courtes vidéos à partir de textes, de scripts, etc., pour des plateformes telles que YouTube Shorts, Instagram Reels et TikTok. Il te suffit de saisir ton invite pour créer une vidéo époustouflante en toute simplicité. Transformer du texte en vidéo grâce à l'IA
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -235,22 +247,6 @@ MachineTranslation.com, de Tomedes, propose des traductions de haute qualité en
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
-
-#### Générateur de musique IA | Suite de production musicale basée sur l'IA
-
-
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Génère des chansons de haute qualité directement à partir de descriptions textuelles à l'aide de modèles d'IA avancés. Transforme tes paroles en musique sans effort. En outre, il fournit de nombreuses fonctions liées à l'IA liées à la musique, telles que le fractionnement de la musique, le mixage de la musique, la réparation de musique, etc.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

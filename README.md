@@ -67,32 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
-    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
-
-ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -150,6 +142,23 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Rephrase Tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrase-tool.webp" alt="Rephrase Tool">
+
+#### Free Online Paraphrasing Tool - No Sign-Up Required!
+
+
+[Visit](https://thataicollection.com/redirect/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Generate unique content instantly! Perfect for students, writers, and professionals looking to avoid plagiarism and enhance clarity. Supports English, Dutch, French, Spanish, German, Turkish, and Indonesian. No sign-up required. Start creating today!
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Vadoo AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
 
@@ -247,22 +256,6 @@ MachineTranslation.com, by Tomedes, offers real-time, high-quality translations 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
-
-#### AI Music Generator | AI Powered Music Production Suite
-
-
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Generate high-quality songs directly from text descriptions using advanced AI models. Turn your words into music effortlessly. In addition, it also provides many AI music-related functions, such as splitting music, mixing music, repairing music, etc.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
