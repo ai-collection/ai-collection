@@ -69,12 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Giantess AI Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giantess AI Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+
+#### 现在就去找你的梦中情人吧！Giantess AI Art 提供无缝体验和专业品质的结果。
+
+
+[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Giantess AI Art 利用先进的人工智能来帮助您创作精美而独特的艺术品。我们的人工智能工具使您能够毫不费力地将您的想法转化为视觉上引人入胜的作品。无论你是想要尝试新风格的艺术家，还是喜欢为乐趣创作艺术的人，Giantess AI Art 都能提供无缝体验和专业品质的结果。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,23 +243,6 @@ Vadoo AI是一款多合一的人工智能视频伴侣，它使创作者能够为
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math Solver Powered by Math GPT Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
-
-#### 由 Math GPT 提供支持的 AI 数学求解器免费在线
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🧮 MyMathSolver.ai：免费在线人工智能数学求解器！ 
-🔢 使用 MyMathSolver.ai 轻松解决复杂的数学问题！我们的 AI 数学求解器由 GPT-4o 提供支持，可为各种数学问题提供即时、详细的解决方案。无论您是学生、教育工作者还是数学爱好者，我们的平台都旨在增强您的理解并简化数学。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

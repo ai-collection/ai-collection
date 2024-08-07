@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -138,15 +138,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Giantess AI Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Giantess AI Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+
+#### Найди девушку своей мечты прямо сейчас! Giantess AI Art предлагает безупречный опыт и результаты профессионального качества.
+
+
+[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Giantess AI Art использует передовой искусственный интеллект, чтобы помочь вам создавать потрясающие и уникальные произведения искусства. Наши инструменты искусственного интеллекта позволят вам без труда превратить ваши идеи в визуально захватывающие произведения. Независимо от того, являетесь ли вы художником, желающим экспериментировать с новыми стилями, или тем, кто любит создавать произведения искусства в свое удовольствие, Giantess AI Art предлагает безупречный опыт и результаты профессионального качес
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,23 +249,6 @@ Content Studio AI — это революционная платформа, ко
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math Solver Powered by Math GPT Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
-
-#### Математический решатель с искусственным интеллектом на базе Math GPT бесплатно онлайн
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🧮 MyMathSolver.ai: бесплатный онлайн-инструмент для решения математических задач с искусственным интеллектом! 
-🔢 Легко решайте сложные математические задачи с помощью MyMathSolver.ai! Наш математический решатель с искусственным интеллектом на базе GPT-4o обеспечивает мгновенные и подробные решения различных математических задач. Независимо от того, являетесь ли вы учеником, преподавателем или любителем математики, наша платформа призвана улучшить ваше понимание и упростить математику.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
