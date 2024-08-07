@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Vadoo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+### Rephrase Tool
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrase-tool.webp" alt="Rephrase Tool">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vadoo AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
+
+#### С легкостью создавайте видеоролики, созданные искусственным интеллектом. С помощью генератора видео Vadoo AI превращайте текстовые подсказки в видео за считанные минуты. Используйте темы, добавляйте закадровый голос, субтитры и просто создавайте короткие в
+
+
+[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Vadoo AI — это универсальный видеокомпаньон с искусственным интеллектом, который позволяет авторам автоматически генерировать субтитры и создавать короткие видеоролики из текстовых подсказок, сценариев и многого другого для таких платформ, как YouTube Shorts, Instagram Reels и TikTok. Просто введите подсказку, чтобы без труда создать потрясающее видео. Преобразуйте текст в видео с помощью искусственного интеллекта
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +245,6 @@ MachineTranslation.com от Tomedes предлагает высококачес�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MakeBestMusic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-makebestmusic.webp" alt="MakeBestMusic">
-
-#### Генератор музыки с искусственным интеллектом | Пакет для создания музыки на базе искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Создавайте высококачественные песни прямо из текстовых описаний, используя передовые модели искусственного интеллекта. Легко превращайте свои слова в музыку. Кроме того, он также предоставляет множество функций, связанных с искусственным интеллектом, таких как разделение музыки, микширование музыки, восстановление музыки и т. д.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
