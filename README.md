@@ -67,24 +67,30 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
+    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -142,6 +148,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Flux AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
+
+#### Flux AI - Free Online Flux.1 AI Image Generation
+
+
+[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FLUX.1 AI is an amazing collection of Flux AI models hailing from the Black Forest Labs. Unleash your creativity with: FLUX.1 Pro, FLUX.1 Dev, and FLUX.1 Schnell.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Agentic Outreach
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentic-outreach.webp" alt="Agentic Outreach">
 
@@ -239,22 +261,6 @@ Troubleshooting - Understand your infrastructure & its issues, find out what is 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BetterPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
-
-#### BetterPic - Studio-quality 4K headshots, from $29 in under 60 minutes.
-
-
-[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Need studio-quality 4K headshots without the time, money, and hassle of a professional photoshoot? BetterPic's AI-powered headshot generator creates incredibly realistic images in under an hour, starting at just $29. Simply provide 6-12 casual photos/selfies and select your desired outfits and backgrounds. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
