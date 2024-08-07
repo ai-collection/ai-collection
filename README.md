@@ -79,12 +79,12 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -142,6 +142,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Giantess AI Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
+
+#### Get your dream girl Now! Giantess AI Art offers a seamless experience with professional-quality results.
+
+
+[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Giantess AI Art leverages advanced artificial intelligence to help you create stunning and unique artwork. Our AI tools enable you to transform your ideas into visually captivating pieces effortlessly. Whether you’re an artist looking to experiment with new styles or someone who enjoys creating art for fun, Giantess AI Art offers a seamless experience with professional-quality results.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Rephrase Tool
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrase-tool.webp" alt="Rephrase Tool">
 
@@ -238,24 +254,6 @@ Content Studio AI is a groundbreaking platform that transforms the landscape of 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MachineTranslation.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-machinetranslation-com.webp" alt="MachineTranslation.com">
-
-#### Translates, compares, and recommends the best translations.
-
-
-
-
-[Visit](https://thataicollection.com/redirect/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MachineTranslation.com, by Tomedes, offers real-time, high-quality translations with AI analyses and scores for informed choices.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/machinetranslation-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
