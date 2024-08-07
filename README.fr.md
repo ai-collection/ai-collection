@@ -57,26 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +132,33 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Random Animal Picker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+### Agentic Outreach
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentic-outreach.webp" alt="Agentic Outreach">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+
+#### 
+Random Animal Picker : des animaux dotés d'une IA, passionnés et éducateurs
+Découvre différents animaux en créant des sélections aléatoires pour les autocollants
+
+
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The Random Animal Picker est un outil basé sur l'IA conçu pour générer des animaux aléatoires à des fins diverses. Il s'adresse à un public varié, y compris des éducateurs, des passionnés de la faune, des propriétaires d'animaux de compagnie et tous ceux qui souhaitent en savoir plus sur les animaux. L'outil vise à fournir un moyen amusant et éducatif de découvrir de nouveaux animaux et de mieux comprendre le comportement des animaux.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +245,6 @@ Besoin de photos 4K de qualité studio sans le temps, l'argent et les tracas d'u
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### Transforme tes idées en vidéos automatisées grâce à l'IA
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Content Studio AI est une plateforme révolutionnaire qui transforme le paysage de la création de contenu vidéo. Tirant parti de la puissance de l'intelligence artificielle avancée, cet outil innovant permet aux créateurs de produire des vidéos captivantes de haute qualité sans avoir besoin de compétences techniques approfondies ni de passer devant la caméra. 
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

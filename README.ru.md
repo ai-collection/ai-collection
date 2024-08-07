@@ -57,30 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +132,33 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Random Animal Picker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+### Agentic Outreach
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentic-outreach.webp" alt="Agentic Outreach">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+
+#### 
+Random Animal Picker: животные с искусственным интеллектом, энтузиасты и педагоги
+Откройте для себя различных животных, создавая случайные подборки наклеек
+
+
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Random Animal Picker — это инструмент на базе искусственного интеллекта, предназначенный для генерации случайных животных для различных целей. Он предназначен для разнообразной аудитории, включая педагогов, любителей дикой природы, владельцев домашних животных и всех, кто хочет узнать больше о животных. Инструмент призван предоставить увлекательный и познавательный способ открыть для себя новых животных, получить представление о поведении животных.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,22 +245,6 @@ Vadoo AI — это универсальный видеокомпаньон с �
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### Превратите свои идеи в автоматизированные видеоролики с помощью искусственного интеллекта
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Content Studio AI — это революционная платформа, которая меняет мир создания видеоконтента. Используя возможности передового искусственного интеллекта, этот инновационный инструмент позволяет создателям создавать высококачественные и увлекательные видеоролики без необходимости использования обширных технических навыков или выступлений перед камерой. 
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

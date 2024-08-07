@@ -57,12 +57,18 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
+    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
     <br />
 </div>
 
@@ -132,15 +138,33 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Random Animal Picker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+### Agentic Outreach
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentic-outreach.webp" alt="Agentic Outreach">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+
+#### 
+随机动物采集器：带有 AI 的动物、爱好者和教育工作者
+通过生成贴纸的随机选择来探索各种动物
+
+
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+随机动物采集器是一款人工智能驱动的工具，旨在生成用于各种目的的随机动物。它迎合了不同的受众，包括教育工作者、野生动物爱好者、宠物主人以及任何有兴趣进一步了解动物的人。该工具旨在提供一种有趣且具有教育意义的方式，以发现新动物，深入了解动物行为。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,22 +251,6 @@ Vadoo AI是一款多合一的人工智能视频伴侣，它使创作者能够为
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### 利用 AI 将你的想法转化为自动化视频
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-内容工作室人工智能是一个开创性的平台，它改变了视频内容创作的格局。利用先进的人工智能的力量，这种创新工具使创作者能够制作高质量、引人入胜的视频，而无需大量的技术技能或在镜头前露面。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
