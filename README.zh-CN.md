@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1723" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1727" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -69,12 +69,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,33 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### ChatWithCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
+### Vadoo AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ChatWithCloud
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
+
+#### ChatWithCloud 是一款命令行界面，借助生成式人工智能，您可以在终端内使用人类语言与 AWS 云进行交互。
+
+
+[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+成本分析-了解您在 AWS 上的支出以及您可以采取哪些措施来优化成本。
+安全分析-查找您的资源，分析您的 IAM 策略，改善您的安全状况。
+故障排除-了解您的基础架构及其问题，找出问题所在以及如何修复问题。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,22 +247,6 @@ Tomedes旗下的MachineTranslation.com通过人工智能分析和评分提供实
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/makebestmusic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Song
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-song.webp" alt="AI Song">
-
-#### “用 AI 驱动的作曲释放你的音乐创造力”
-
-
-[Visit](https://thataicollection.com/redirect/ai-song?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AISong.ai 利用尖端的人工智能技术彻底改变了音乐创作。我们的平台使用户能够毫不费力地创作、定制和制作高质量的音乐。无论你是新手还是专业人士，都可以探索不同的音乐风格，根据自己的喜好调整作曲，将你的音乐创意变为现实。加入 AISong.ai，体验音乐创新的未来。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-song?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
