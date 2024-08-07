@@ -67,12 +67,12 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -142,6 +142,40 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Agentic Outreach
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentic-outreach.webp" alt="Agentic Outreach">
+
+#### AI-powered lead generation and personalized outreach platform revolutionizing sales and marketing efficiency.
+
+
+[Visit](https://thataicollection.com/redirect/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Revolutionize your sales and marketing with our AI-driven platform that discovers leads, conducts deep research, and crafts hyper-personalized outreach messages to boost your conversion rates.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/agentic-outreach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Random Animal Picker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-random-animal-picker.webp" alt="Random Animal Picker">
+
+#### 
+Random Animal Picker: Animals with AI,Enthusiasts & Educators
+Discover various animals by generating random selections for stickers
+
+
+[Visit](https://thataicollection.com/redirect/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The Random Animal Picker is an AI-powered tool designed to generate random animals for various purposes. It caters to a diverse audience, including educators, wildlife enthusiasts, pet owners, and anyone interested in learning more about animals. The tool aims to provide a fun and educational way to discover new animals, gain insights into animal behavior.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Giantess AI Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
 
@@ -221,39 +255,6 @@ Need studio-quality 4K headshots without the time, money, and hassle of a profes
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ContentStudio AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-contentstudio-ai.webp" alt="ContentStudio AI">
-
-#### Transform Your Ideas into Automated Videos with AI
-
-
-[Visit](https://thataicollection.com/redirect/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Content Studio AI is a groundbreaking platform that transforms the landscape of video content creation. Harnessing the power of advanced artificial intelligence, this innovative tool enables creators to produce high-quality, engaging videos without the need for extensive technical skills or on-camera appearances. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/contentstudio-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Math Solver Powered by Math GPT Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-math-solver-powered-by-math-gpt-free-online.webp" alt="AI Math Solver Powered by Math GPT Free Online">
-
-#### AI Math Solver Powered by Math GPT Free Online
-
-
-[Visit](https://thataicollection.com/redirect/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-🧮 MyMathSolver.ai: Free AI Math Solver Online! 
-🔢 Solve complex math problems effortlessly with MyMathSolver.ai! Powered by GPT-4o, our AI math solver provides instant, detailed solutions for various math problems. Whether you're a student, educator, or math enthusiast, our platform is designed to enhance your understanding and make math simpler.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ai-math-solver-powered-by-math-gpt-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
