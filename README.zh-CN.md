@@ -45,18 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>全天候自定义 AI 聊天机器人加上实时聊天升级</h4>
-    <p>Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自定义。使用您的知识库、自定义终端节点或聊天数据的模型创建聊天机器人。自定义聊天机器人界面并选择白色标签。其他功能包括标准或专业计划中的实时聊天升级。
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -75,12 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
-    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
+    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### a1.art
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-a1-art.webp" alt="a1.art">
+### Digest.fm
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### a1.art
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-a1-art.webp" alt="a1.art">
+
+#### A1 是一个 AI 应用程序平台，其使命是帮助所有人轻松构建 AI 艺术应用程序。
+
+
+[Visit](https://thataicollection.com/redirect/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+A1 是一个 AI 应用程序平台，每个人都可以轻松构建 AI 艺术应用程序。A1平台已经推出了2000多个应用程序，包括各种头像样式和AI肖像应用程序，如星际迷航、美少女战士，以及各种表情包和艺术字体。 
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +244,6 @@ FLUX.1 AI 是来自黑森林实验室的 Flux AI 模型的精彩集合。使用�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Giantess AI Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
-
-#### 现在就去找你的梦中情人吧！Giantess AI Art 提供无缝体验和专业品质的结果。
-
-
-[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Giantess AI Art 利用先进的人工智能来帮助您创作精美而独特的艺术品。我们的人工智能工具使您能够毫不费力地将您的想法转化为视觉上引人入胜的作品。无论你是想要尝试新风格的艺术家，还是喜欢为乐趣创作艺术的人，Giantess AI Art 都能提供无缝体验和专业品质的结果。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

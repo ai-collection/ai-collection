@@ -45,30 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
+    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
-    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -138,15 +132,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### a1.art
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-a1-art.webp" alt="a1.art">
+### Digest.fm
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### a1.art
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-a1-art.webp" alt="a1.art">
+
+#### A1 — это платформа приложений искусственного интеллекта, призванная помочь каждому легко создавать художественные приложения на основе искусственного интеллекта.
+
+
+[Visit](https://thataicollection.com/redirect/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+A1 — это платформа приложений искусственного интеллекта, на которой каждый может легко создавать художественные приложения на основе искусственного интеллекта. Платформа A1 уже выпустила более 2000 приложений, включая различные стили аватаров и приложения для создания портретов с искусственным интеллектом, такие как Star Trek, Sailor Moon, а также широкий спектр наборов смайликов и художественных шрифтов. 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/a1-art?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +244,6 @@ Random Animal Picker — это инструмент на базе искусс�
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/random-animal-picker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Giantess AI Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giantess-ai-generator.webp" alt="Giantess AI Generator">
-
-#### Найди девушку своей мечты прямо сейчас! Giantess AI Art предлагает безупречный опыт и результаты профессионального качества.
-
-
-[Visit](https://thataicollection.com/redirect/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Giantess AI Art использует передовой искусственный интеллект, чтобы помочь вам создавать потрясающие и уникальные произведения искусства. Наши инструменты искусственного интеллекта позволят вам без труда превратить ваши идеи в визуально захватывающие произведения. Независимо от того, являетесь ли вы художником, желающим экспериментировать с новыми стилями, или тем, кто любит создавать произведения искусства в свое удовольствие, Giantess AI Art предлагает безупречный опыт и результаты профессионального качес
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/giantess-ai-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
