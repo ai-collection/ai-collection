@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1727" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1732" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -45,18 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
-    </a>
-    <h4>BetterPic: fotos a la cabeza en 4K con calidad de estudio, desde 29 dólares en menos de 60 minutos.</h4>
-    <p>¿Necesitas fotos en 4K con calidad de estudio sin el tiempo, el dinero y la molestia de una sesión de fotos profesional? El generador de fotos a la cabeza con tecnología de IA de BetterPic crea imágenes increíblemente realistas en menos de una hora, a partir de solo 29 dólares. Simplemente proporciona de 6 a 12 fotos o selfies casuales y selecciona los atuendos y fondos que desees. </p>
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Comience con BetterPic</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
@@ -69,14 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <br />
+</div>
 
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -134,15 +132,31 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Flux AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
+### Vectorize
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Flux AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
+
+#### Flux AI: generación de imágenes de IA Flux.1 en línea gratuita
+
+
+[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FLUX.1 AI es una increíble colección de modelos de IA de Flux procedentes de los laboratorios de la Selva Negra. Da rienda suelta a tu creatividad con: FLUX.1 Pro, FLUX.1 Dev y FLUX.1 Schnell.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,24 +243,6 @@ La IA de Vadoo es el complemento de vídeo de IA todo en uno que permite a los c
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatWithCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
-
-#### ChatWithCloud es una CLI que te permite interactuar con la nube de AWS mediante el lenguaje humano dentro de tu terminal gracias a la IA generativa.
-
-
-[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Análisis de costes: descubre cuánto gastas en AWS y qué puedes hacer para optimizar tus costes.
-Análisis de seguridad: encuentra tus recursos, analiza tus políticas de IAM y mejora tu postura de seguridad.
-Solución de problemas: entiende tu infraestructura y sus problemas, descubre qué es lo que pasa y cómo solucionarlo.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

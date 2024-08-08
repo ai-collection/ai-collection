@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1727" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1732" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -55,30 +55,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>BetterPic - Studio-quality 4K headshots, from $29 in under 60 minutes.</h4>
-    <p>Need studio-quality 4K headshots without the time, money, and hassle of a professional photoshoot? BetterPic's AI-powered headshot generator creates incredibly realistic images in under an hour, starting at just $29. Simply provide 6-12 casual photos/selfies and select your desired outfits and backgrounds. </p>
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Get Started with BetterPic</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -91,6 +73,20 @@ Translations:
     <h4>The only production-ready AI-powered code generation</h4>
     <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -148,6 +144,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Vectorize
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
+
+#### Vectorize - Fast, Accurate, Production-Ready RAG Pipelines
+
+
+
+[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fast, Accurate, Production-Ready RAG Pipelines
+Turn your unstructured data into perfectly optimized vector search indexes, purpose-built for retrieval augmented generation.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Flux AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
 
@@ -243,24 +257,6 @@ Vadoo AI is the all-in-one AI video companion that empowers creators to generate
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatWithCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
-
-#### ChatWithCloud is a CLI allowing you to interact with AWS Cloud using human language inside your Terminal thanks to generative AI.
-
-
-[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cost Analysis - Find out how much you are spending on AWS and what you can do to optimize your costs.
-Security Analysis - Find your resources, analyze your IAM policies, improve your security posture.
-Troubleshooting - Understand your infrastructure & its issues, find out what is wrong and how to fix it.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

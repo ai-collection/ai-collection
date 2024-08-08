@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1727" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1732" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -45,12 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>BetterPic : Des portraits en 4K de qualité studio, à partir de 29 dollars en moins de 60 minutes.</h4>
-    <p>Besoin de photos 4K de qualité studio sans le temps, l'argent et les tracas d'une séance photo professionnelle ? Le générateur de portraits alimenté par l'IA de BetterPic crée des images incroyablement réalistes en moins d'une heure, à partir de 29 dollars seulement. Fournis simplement 6 à 12 photos/selfies décontractés et sélectionne les tenues et les arrière-plans de ton choix. </p>
-    <a href="https://thataicollection.com/redirect/betterpic" target="_blank"><b>Démarrer avec BetterPic</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -69,18 +81,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -138,15 +138,31 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Flux AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
+### Vectorize
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Flux AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
+
+#### Flux AI - Génération d'images Flux.1 AI en ligne gratuite
+
+
+[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+FLUX.1 AI est une incroyable collection de modèles Flux AI provenant des Black Forest Labs. Laisse libre cours à ta créativité avec : FLUX.1 Pro, FLUX.1 Dev et FLUX.1 Schnell.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,24 +249,6 @@ Vadoo AI est le compagnon vidéo tout-en-un basé sur l'IA qui permet aux créat
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatWithCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatwithcloud.webp" alt="ChatWithCloud">
-
-#### ChatWithCloud est une interface de ligne de commande qui te permet d'interagir avec AWS Cloud en utilisant le langage humain dans ton terminal grâce à l'IA générative.
-
-
-[Visit](https://thataicollection.com/redirect/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Analyse des coûts - Découvre combien tu dépenses pour AWS et ce que tu peux faire pour optimiser tes coûts.
-Analyse de la sécurité : trouve tes ressources, analyse tes politiques IAM, améliore ta sécurité.
-Résolution des problèmes : comprend ton infrastructure et ses problèmes, découvre ce qui ne va pas et comment y remédier.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/chatwithcloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
