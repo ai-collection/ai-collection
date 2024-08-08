@@ -45,36 +45,42 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -132,15 +138,33 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### Vectorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
+### X Detector
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-x-detector.webp" alt="X Detector">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/x-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/x-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vectorize
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
+
+#### Vectoriza: oleoductos RAG rápidos, precisos y listos para la producción
+
+
+
+[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Tuberías RAG rápidas, precisas y listas para la producción
+Convierte tus datos no estructurados en índices de búsqueda vectorial perfectamente optimizados, diseñados especialmente para recuperar la generación aumentada.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,22 +251,6 @@ Giantess AI Art aprovecha la inteligencia artificial avanzada para ayudarte a cr
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/rephrase-tool?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vadoo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vadoo-ai.webp" alt="Vadoo AI">
-
-#### Crea vídeos generados por IA con facilidad. Con el generador de vídeos con IA de Vadoo, convierte tus indicaciones de texto en vídeos en cuestión de minutos. Usa temas, añade voces en off, subtítulos y simplemente crea vídeos cortos de IA.
-
-
-[Visit](https://thataicollection.com/redirect/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-La IA de Vadoo es el complemento de vídeo de IA todo en uno que permite a los creadores generar subtítulos automáticos y crear vídeos cortos a partir de instrucciones de texto, guiones y más, para plataformas como YouTube Shorts, Instagram Reels y TikTok. Simplemente introduce tu mensaje para crear un vídeo impresionante sin esfuerzo. Convierte el texto en vídeo con la IA
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/vadoo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -742,22 +750,6 @@ Aproveche el potencial de la creación y edición de imágenes con tecnología d
 ---
 
 ## avatares
-### BetterPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
-
-#### BetterPic: fotos a la cabeza en 4K con calidad de estudio, desde 29 dólares en menos de 60 minutos.
-
-
-[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-¿Necesitas fotos en 4K con calidad de estudio sin el tiempo, el dinero y la molestia de una sesión de fotos profesional? El generador de fotos a la cabeza con tecnología de IA de BetterPic crea imágenes increíblemente realistas en menos de una hora, a partir de solo 29 dólares. Simplemente proporciona de 6 a 12 fotos o selfies casuales y selecciona los atuendos y fondos que desees. 
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Fulgent AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
@@ -818,6 +810,22 @@ Vana te permite crear un pequeño «tú» con el poder de tus datos y la IA. Clo
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vana?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BetterPic
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+
+#### BetterPic: fotos a la cabeza en 4K con calidad de estudio, desde 29 dólares en menos de 60 minutos.
+
+
+[Visit](https://thataicollection.com/redirect/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+¿Necesitas fotos en 4K con calidad de estudio sin el tiempo, el dinero y la molestia de una sesión de fotos profesional? El generador de fotos a la cabeza con tecnología de IA de BetterPic crea imágenes increíblemente realistas en menos de una hora, a partir de solo 29 dólares. Simplemente proporciona de 6 a 12 fotos o selfies casuales y selecciona los atuendos y fondos que desees. 
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/betterpic?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
