@@ -45,24 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -75,6 +63,20 @@
     <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
     <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,35 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### TikTok Voice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
+### Resume Ink
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TikTok Voice
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
+
+#### TikTok Voice - Synthèse vocale gratuite en ligne
+
+
+[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TikTok Voice est un générateur de synthèse vocale basé sur l'IA qui génère C3po, robot, Jessie, Lady, Siri, narrateur, filou, deep, Derek Voice et plus encore.
+
+- Le générateur de voix TikTok AI peut générer différents types de voix, qui sont souvent utilisées dans les vidéos TikTok.
+- C'est plus pratique pour le montage vidéo sur PC
+- Tu peux utiliser des voix introuvables sur l'application TikTok pour le moment
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -226,22 +248,6 @@ Transforme tes données non structurées en index de recherche vectorielle parfa
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Flux AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
-
-#### Flux AI - Génération d'images Flux.1 AI en ligne gratuite
-
-
-[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FLUX.1 AI est une incroyable collection de modèles Flux AI provenant des Black Forest Labs. Laisse libre cours à ta créativité avec : FLUX.1 Pro, FLUX.1 Dev et FLUX.1 Schnell.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

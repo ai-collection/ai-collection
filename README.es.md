@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
@@ -57,26 +69,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
-    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
-
-ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -134,15 +132,35 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### TikTok Voice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
+### Resume Ink
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TikTok Voice
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
+
+#### TikTok Voice: texto a voz gratuito en línea
+
+
+[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TikTok Voice es un generador de conversión de texto a voz de IA que genera voz de C3po, robot, jessie, lady, siri, narrador, embaucador, profunda, de Derek y más.
+
+- Generador de voz con IA de TikTok, puede generar varios tipos de voces, que se utilizan a menudo en los vídeos de TikTok.
+- Es más práctico para la edición de vídeo en el ordenador
+- Ahora puedes usar algunas voces que no se encuentran en la aplicación TikTok
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +247,6 @@ Convierte tus datos no estructurados en índices de búsqueda vectorial perfecta
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Flux AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-flux-ai.webp" alt="Flux AI">
-
-#### Flux AI: generación de imágenes de IA Flux.1 en línea gratuita
-
-
-[Visit](https://thataicollection.com/redirect/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-FLUX.1 AI es una increíble colección de modelos de IA de Flux procedentes de los laboratorios de la Selva Negra. Da rienda suelta a tu creatividad con: FLUX.1 Pro, FLUX.1 Dev y FLUX.1 Schnell.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/flux-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
