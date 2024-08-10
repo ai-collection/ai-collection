@@ -45,24 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
-    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -134,15 +140,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Resume Ink
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
+### Deep Nostalgia AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/deep-nostalgia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/deep-nostalgia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Resume Ink
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
+
+#### Adapte ton CV automatiquement à chaque poste pour lequel tu postules
+
+
+[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Resume.Ink est conçu pour rationaliser ton processus de candidature en adaptant automatiquement ton CV à des offres d'emploi spécifiques. Il suffit de télécharger ton CV avec les informations du poste, et la plateforme le personnalisera en fonction de la description du poste, augmentant ainsi tes chances d'obtenir des entretiens. Resume.Ink propose de personnaliser les CV gratuitement, uniquement pour le téléchargement final.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -230,24 +252,6 @@ X Detector est un outil de détection de contenu basé sur l'IA multilingue con�
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/x-detector?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Vectorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vectorize.webp" alt="Vectorize">
-
-#### Vectoriser : des pipelines RAG rapides, précis et prêts pour la production
-
-
-
-[Visit](https://thataicollection.com/redirect/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Canalisations RAG rapides, précises et prêtes pour la production
-Transforme tes données non structurées en index de recherche vectorielle parfaitement optimisés, spécialement conçus pour la récupération et la génération augmentée.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/vectorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
