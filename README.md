@@ -67,24 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -142,6 +142,24 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online.webp" alt="UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online">
+
+#### UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online
+
+
+[Visit](https://thataicollection.com/redirect/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ Introducing UndetectableGPT.ai: The Undetectable AI Text Humanizer Free Online!
+Transform AI-generated text into human-like content and bypass AI detection like GPTZero with ease. UndetectableGPT.ai ensures your AI text remains undetectable and authentically human.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### College Tools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
 
@@ -244,22 +262,6 @@ Politemail Pro aims to transform your emails from impolite to polished with our 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PicPicAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
-
-#### PicPicAI is an all-in-one AI Image Tools.
-
-
-[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PicPicAI: Photo Enhancer, Background Remover, Remove Objects, HairStyles Generator, Portrait To Sketch, Portrait To Art Painting, Festival Photo Maker, Neonpunk Generator, Dreamy Wedding Photo, Headshot Generator, Cartoonify Portrait or Pet Photos, Colorize Photos, Restore Old Photos, Photo Upscaler, Create Stunning AI Art, Compress Photos, Change Background Color
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
