@@ -57,6 +57,18 @@
 <br>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | Solution mobile de création et de vente d'autocollants basée sur l'IA #1</h4>
+    <p>StickerIt.AI est ta meilleure solution pour créer et vendre des autocollants alimentés par l'IA directement depuis ton appareil mobile. Transforme n'importe quel lieu en un atelier d'autocollants dynamique. Avec seulement deux tablettes et une imprimante, tu peux commencer à vendre des autocollants personnalisés en quelques minutes. Notre plateforme est conçue pour gérer ton activité d'autocollants IA à tout moment et en tout lieu.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Démarrer avec StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -65,18 +77,6 @@
 
 ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +134,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Humanizar texto de IA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
+### College Tools
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Humanizar texto de IA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
+
+#### Notre outil Humanize AI Text est un outil gratuit et fiable pour convertir du texte en texte IA humanisé en ligne.
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+t'aide à convertir du texte IA en texte humain pour éviter d'être détecté par l'IA. Écrivez en toute confiance dès maintenant et éliminez facilement la détection de l'IA !
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,28 +245,6 @@ PicPicai : retouche photo, suppression d'arrière-plan, suppression d'objets, g
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TranslateSRT.online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatesrt-online.webp" alt="TranslateSRT.online">
-
-#### TranslatesRT est un outil en ligne qui t'aide à traduire des fichiers de sous-titres (.SRT) à l'aide de l'IA.
-
-
-[Visit](https://thataicollection.com/redirect/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Traduction précise et cohérente pour les sous-titres : films, réseaux sociaux ou séries.
-
-Utilise la puissance de l'IA pour obtenir des traductions professionnelles en plusieurs langues pour les sous-titres .SRT.
-
-Traduit les fichiers .SRT en conservant le balisage et le minutage des sous-titres tels qu'ils sont dans le fichier d'origine.
-
-Sous-titrez-vous en anglais, en français, en espagnol ou dans d'autres langues populaires pour les contenus rares.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
