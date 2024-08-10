@@ -45,18 +45,6 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
-    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
@@ -69,12 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Единственная готовая к производству генерация кода на основе искусственного интеллекта</h4>
-    <p>Jovu: единственная платформа искусственного интеллекта, превращающая идеи в готовый к производству код за 4 минуты. Автоматизируйте разработку серверных приложений, обеспечивая согласованность, предсказуемость и соответствие самым высоким стандартам с помощью масштабируемого кода.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Начать работу с Jovu by Amplication</b></a>
+    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
+    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
+    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
+
+ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### Humanizar texto de IA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
+### College Tools
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Humanizar texto de IA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
+
+#### Наш Humanize AI Text — это бесплатный и надежный инструмент для преобразования текста в гуманизированный текст AI в Интернете.
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+помогает преобразовывать текст с искусственным интеллектом в текст, написанный человеком, чтобы избежать обнаружения искусственного интеллекта. Пишите уверенно и легко устраняйте обнаружение искусственного интеллекта!
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,28 +245,6 @@ PicPicai: средство улучшения фотографий, средст
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TranslateSRT.online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatesrt-online.webp" alt="TranslateSRT.online">
-
-#### TranslatesRT — это онлайн-инструмент, который помогает переводить файлы субтитров (.SRT) с помощью искусственного интеллекта.
-
-
-[Visit](https://thataicollection.com/redirect/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Точный и стильный перевод субтитров: фильмов, социальных сетей или сериалов.
-
-Используйте возможности искусственного интеллекта, чтобы профессионально переводить субтитры.SRT на несколько языков.
-
-Переводите файлы с расширением.SRT, сохраняя время разметки и субтитров так же, как и в исходном файле.
-
-Получайте субтитры на английском, французском, испанском или ряде других популярных языков для редкого контента.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
