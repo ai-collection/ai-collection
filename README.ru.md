@@ -45,24 +45,24 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
-    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения</h4>
-    <p>AiApply — это динамичный набор инструментов искусственного интеллекта, разработанный для расширения возможностей лиц, ищущих работу. Он упрощает процесс подачи заявления о приеме на работу, повышает качество резюме, готовит к собеседованиям и определяет оптимальные карьерные возможности. AiApply персонализирует стратегии поиска работы, обеспечивая пользователям возможность выделиться на конкурентных рынках. Это важный инструмент для всех, кто хочет ускорить свой карьерный рост с помощью искусственного интел</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Начать работу с AiApply</b></a>
+    <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
+    <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -132,15 +132,31 @@
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### MimicBrush AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mimicbrush-ai.webp" alt="MimicBrush AI">
+### Humanizar texto de IA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/mimicbrush-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MimicBrush AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mimicbrush-ai.webp" alt="MimicBrush AI">
+
+#### Редактирование изображений с помощью имитационного редактирования, MimicBrush AI
+
+
+[Visit](https://thataicollection.com/redirect/mimicbrush-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MimicBrush позволяет пользователям легко редактировать изображения, имитируя элементы эталонных изображений. Наша платформа предлагает мощные функции для точной и высококачественной модификации изображений.
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/mimicbrush-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -233,23 +249,6 @@ PicPicai: средство улучшения фотографий, средст
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### S10.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
-
-#### Медицинский писец с искусственным интеллектом для всех сотрудников и специальностей
-
-
-
-[Visit](https://thataicollection.com/redirect/s10-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Медицинский писец S10 с искусственным интеллектом — секретное оружие врача в борьбе с эмоциональным выгоранием документов. В этом инновационном инструменте используется усовершенствованное распознавание речи, позволяющее фиксировать взаимодействие с пациентами в режиме реального времени непосредственно в системе электронных медицинских карт (EHR) врача.
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/s10-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -55,30 +55,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -91,6 +67,30 @@ Translations:
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -148,6 +148,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Humanizar texto de IA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
+
+#### Our Humanize AI Text is a free and reliable tool for converting text to humanize ai text online.
+
+
+[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+helps you convert AI text to human text to avoid AI detection, write with confidence now and eliminate AI detection easily!
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MimicBrush AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mimicbrush-ai.webp" alt="MimicBrush AI">
 
@@ -249,23 +265,6 @@ Get subtitles in English, French, Spanish or a number of other popular languages
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### S10.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
-
-#### AI Medical Scribe for All EHRs & Specialties
-
-
-
-[Visit](https://thataicollection.com/redirect/s10-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-S10's ambient AI medical scribe is physician's secret weapon against documentation burnout. This innovative tool utilizes advanced speech recognition to capture patient interactions in real-time, directly within a physician's Electronic Health Record (EHR) system.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/s10-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
