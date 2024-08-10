@@ -45,24 +45,18 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
-    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
-    <br />
-</div>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
 
-<br>
 
-<div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
-    </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -77,6 +71,18 @@
 
 ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
     <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    </a>
+    <h4>Corporate Headshots AI : révolutionner les portraits d''entreprise grâce à l''IA</h4>
+    <p>Découvrez le futur de la photographie professionnelle sur www.CorporateHeadshots.ai. Notre plateforme pilotée par l''IA transforme tes selfies en portraits élégants, conformes aux normes de l''entreprise, rendant ainsi les images professionnelles accessibles et faciles à utiliser pour tous, où que ce soit.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Démarrer avec Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +140,31 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### PicPicAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
+### PolitemailPro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PicPicAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
+
+#### PicPicai est un outil d'imagerie basé sur l'IA tout-en-un.
+
+
+[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PicPicai : retouche photo, suppression d'arrière-plan, suppression d'objets, générateur de coiffures, portrait à croquis, peinture de portrait à art, créateur de photos de festival, générateur Neonpunk, photo de mariage de rêve, générateur de portraits ou de portraits animés, colorisation de photos, restauration d'anciennes photos, mise à niveau de photos, création de superbes œuvres d'art IA, compression de photos, modification de la couleur d'arrière-plan
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -238,22 +260,6 @@ TikTok Voice est un générateur de synthèse vocale basé sur l'IA qui génère
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MyCleverAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mycleverai.webp" alt="MyCleverAI">
-
-#### Créateur de sites Web basé sur l'IA : générez des designs de sites Web 
-
-
-[Visit](https://thataicollection.com/redirect/mycleverai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Générez des designs de sites Web (CSS/HTML) avec l'IA à partir d'instructions textuelles ou de dessins. Il peut s'agir d'une page complète ou simplement d'un élément. Exporte le code généré vers ton site web.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/mycleverai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
