@@ -59,24 +59,30 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
-    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -134,15 +140,49 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### PolitemailPro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
+### Edit in PPT
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-edit-in-ppt.webp" alt="Edit in PPT">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AmigoChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
+
+#### AmigoChat es un servicio de chat GPT de IA gratuito.
+
+
+[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AmigoChat es un innovador amigo impulsado por la IA, una plataforma de conversación avanzada diseñada para ofrecer respuestas rápidas y eficaces. AmigoChat ofrece a los usuarios más flexibilidad, diversas capacidades de conversación y un sentido del humor único que lo diferencia de otros chatbots de IA, como ChatGPT.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PolitemailPro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
+
+#### En Politemail Pro, entendemos la importancia de una comunicación empresarial eficaz.
+
+
+
+[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Politemail Pro tiene como objetivo transformar tus correos electrónicos de descorteses a pulidos con nuestra herramienta de inteligencia artificial. Traduce y mejora automáticamente tus mensajes a versiones profesionales y corteses. Ahorra tiempo y mejora la comunicación empresarial sin esfuerzo.
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -218,42 +258,6 @@ La IA de Deep Nostalgia es un modelo de acceso instantáneo que anima tus precia
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/deep-nostalgia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Resume Ink
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
-
-#### Adapta tu currículum automáticamente para cada puesto que solicites
-
-
-[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Resume.Ink está diseñado para agilizar el proceso de solicitud de empleo al adaptar automáticamente tu currículum para que coincida con las ofertas de trabajo específicas. Simplemente sube tu currículum junto con los detalles del puesto y la plataforma lo personalizará para que se ajuste a la descripción del puesto, lo que aumentará tus posibilidades de conseguir entrevistas. Resume.Ink ofrece personalización gratuita de currículums y solo se cobra por la descarga final.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TikTok Voice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
-
-#### TikTok Voice: texto a voz gratuito en línea
-
-
-[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TikTok Voice es un generador de conversión de texto a voz de IA que genera voz de C3po, robot, jessie, lady, siri, narrador, embaucador, profunda, de Derek y más.
-
-- Generador de voz con IA de TikTok, puede generar varios tipos de voces, que se utilizan a menudo en los vídeos de TikTok.
-- Es más práctico para la edición de vídeo en el ordenador
-- Ahora puedes usar algunas voces que no se encuentran en la aplicación TikTok
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

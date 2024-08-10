@@ -55,42 +55,36 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
+    <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
     <h4>The only production-ready AI-powered code generation</h4>
     <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
-    </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -148,6 +142,39 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Edit in PPT
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-edit-in-ppt.webp" alt="Edit in PPT">
+
+#### Convert any image into a fully editable PowerPoint slide
+
+
+
+[Visit](https://thataicollection.com/redirect/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Edit in PPT effortlessly converts any image into a fully editable PowerPoint slide, helping you create professional presentations with ease. Say goodbye to the tedious task of manually copying data from other sources and save valuable time.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AmigoChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
+
+#### AmigoChat is an AI GPT chat service for free.
+
+
+[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AmigoChat is an innovative AI-powered friend, an advanced conversational platform designed to provide quick and efficient answers. AmigoChat offers users more flexibility, diverse conversational capabilities, and a unique sense of humor that sets it apart from other AI chatbots like ChatGPT.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### PolitemailPro
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
 
@@ -234,42 +261,6 @@ Deep Nostalgia AI is a instant-access model that animates your cherished old pho
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/deep-nostalgia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Resume Ink
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
-
-#### Tailor you resume automatically for each job you apply for
-
-
-[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Resume.Ink is designed to streamline your job application process by automatically tailoring your resume to match specific job postings. Just upload your resume along with job details, and the platform customizes it to align with the job description, boosting your chances of getting interviews. Resume.Ink offers free resume tailoring, charging only for the final download.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TikTok Voice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
-
-#### TikTok Voice - Free Text to Speech Online
-
-
-[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TikTok voice is an AI text-to-speech generator that generates C3po,robot,jessie,lady,siri,narrator,trickster,deep,derek voice and more.
-
-- TikTok AI voice generator, can generate various types of voices, which are often used in TikTok videos.
-- It is more convenient for video editing in PC
-- You can use some voices that can't be found in TikTok APP now
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -57,20 +69,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -140,15 +138,49 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### PolitemailPro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
+### Edit in PPT
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-edit-in-ppt.webp" alt="Edit in PPT">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AmigoChat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
+
+#### AmigoChat est un service de chat GPT basé sur l'IA gratuit.
+
+
+[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AmigoChat est un ami innovant alimenté par l'IA, une plateforme conversationnelle avancée conçue pour fournir des réponses rapides et efficaces. AmigoChat offre aux utilisateurs une plus grande flexibilité, des capacités conversationnelles variées et un sens de l'humour unique qui le distingue des autres chatbots intelligents tels que ChatGPT.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PolitemailPro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
+
+#### À Politemail Pro, nous sommes conscients de l'importance d'une communication professionnelle efficace.
+
+
+
+[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Politemail Pro vise à transformer tes e-mails d'impolis en e-mails soignés grâce à notre outil d'intelligence artificielle. Traduisez et améliorez automatiquement tes messages en versions professionnelles et courtoises. Gagnez du temps et améliorez la communication professionnelle sans effort.
+
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -224,42 +256,6 @@ Deep Nostalgia AI est un modèle à accès instantané qui anime tes vieilles ph
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/deep-nostalgia-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Resume Ink
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-ink.webp" alt="Resume Ink">
-
-#### Adapte ton CV automatiquement à chaque poste pour lequel tu postules
-
-
-[Visit](https://thataicollection.com/redirect/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Resume.Ink est conçu pour rationaliser ton processus de candidature en adaptant automatiquement ton CV à des offres d'emploi spécifiques. Il suffit de télécharger ton CV avec les informations du poste, et la plateforme le personnalisera en fonction de la description du poste, augmentant ainsi tes chances d'obtenir des entretiens. Resume.Ink propose de personnaliser les CV gratuitement, uniquement pour le téléchargement final.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/resume-ink?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TikTok Voice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tiktok-voice.webp" alt="TikTok Voice">
-
-#### TikTok Voice - Synthèse vocale gratuite en ligne
-
-
-[Visit](https://thataicollection.com/redirect/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TikTok Voice est un générateur de synthèse vocale basé sur l'IA qui génère C3po, robot, Jessie, Lady, Siri, narrateur, filou, deep, Derek Voice et plus encore.
-
-- Le générateur de voix TikTok AI peut générer différents types de voix, qui sont souvent utilisées dans les vidéos TikTok.
-- C'est plus pratique pour le montage vidéo sur PC
-- Tu peux utiliser des voix introuvables sur l'application TikTok pour le moment
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
