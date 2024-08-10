@@ -75,12 +75,14 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,15 +140,31 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### PicPicAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
+### PolitemailPro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PicPicAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
+
+#### PicpicAI 是一款多合一的人工智能图像工具。
+
+
+[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PicpicAI: 照片增强器、背景去除器、移除对象、发型生成器、人像素描、人像到艺术绘画、节日照片制作器、霓虹朋克生成器、梦幻婚礼照片、头像生成器、卡通化人像或宠物照片、为照片着色、恢复旧照片、照片放大器、创建令人惊叹的 AI 艺术、压缩照片、更改背景颜色
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -242,22 +260,6 @@ Resume.Ink 旨在通过自动量身定制简历以匹配特定的招聘信息来
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/tiktok-voice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MyCleverAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mycleverai.webp" alt="MyCleverAI">
-
-#### AI 建站工具-生成网站设计 
-
-
-[Visit](https://thataicollection.com/redirect/mycleverai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 根据文本说明或图纸生成网站设计 (CSS/HTML)。它可以是整页，也可以只是一个元素。将生成的代码导出到您的网站。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/mycleverai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
