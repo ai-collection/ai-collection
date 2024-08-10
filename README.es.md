@@ -45,24 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -81,6 +69,18 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,15 +138,37 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### TranslateSRT.online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatesrt-online.webp" alt="TranslateSRT.online">
+### PicPicAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TranslateSRT.online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatesrt-online.webp" alt="TranslateSRT.online">
+
+#### TranslateSRT es una herramienta online que te ayuda a traducir archivos de subtítulos (.SRT) mediante la IA.
+
+
+[Visit](https://thataicollection.com/redirect/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Traducción precisa y coherente con el estilo de los subtítulos: películas, redes sociales o series.
+
+Usa la potencia de la IA para conseguir traducciones profesionales a varios idiomas para los subtítulos en .SRT.
+
+Traduce archivos.SRT manteniendo los tiempos de marcado y subtítulos tal como están en el archivo original.
+
+Consigue subtítulos en inglés, francés, español o en varios otros idiomas populares para obtener contenido poco común.
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/translatesrt-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,23 +258,6 @@ Genera diseños de sitios web (CSS/HTML) con IA a partir de instrucciones de tex
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/mycleverai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Digest.fm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
-
-#### Digest.fm: Crea podcasts con inteligencia artificial a partir de tu contenido y lánzalos en Spotify, YouTube y Apple Podcasts en cuestión de minutos.
-
-
-[Visit](https://thataicollection.com/redirect/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Digest.fm es una plataforma impulsada por la IA que transforma el contenido escrito en podcasts atractivos. Automatiza la selección de contenido y la generación de audio, lo que permite a los usuarios crear y publicar podcasts profesionales en las principales plataformas en cuestión de minutos. Mediante una IA avanzada, mantiene el tono original del contenido escrito, lo que permite reutilizar fácilmente los boletines y artículos sin los procesos de grabación tradicionales.
-
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
