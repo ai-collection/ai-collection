@@ -45,38 +45,42 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    </a>
+    <h4>Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных</h4>
+    <p>Chat Data — это платформа чат-ботов с искусственным интеллектом, предлагающая гибкую настройку бэкенда и интерфейса. Создавайте чат-ботов, используя свою базу знаний, настраиваемые конечные точки или модели Chat Data. Настройте интерфейс чат-бота и выберите белую маркировку. Дополнительные функции включают эскалацию онлайн-чата в стандартных или профессиональных тарифных планах.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Начать работу с Chat Data</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    </a>
+    <h4>Создайте идеальное резюме с небольшой помощью искусственного интеллекта</h4>
+    <p>Вам не нужно быть профессиональным составителем резюме, чтобы быстро и легко составить резюме, точно отражающее ваш опыт работы. Настраиваемый конструктор резюме Huntr с искусственным интеллектом поможет вам составить хорошо написанное резюме, удобное для использования ATS, и поможет вам пройти больше собеседований.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Начать работу с Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Искусственный интеллект Corporate Headshots: революция в корпоративных портретах с помощью искусственного интеллекта</h4>
     <p>Откройте для себя будущее профессиональной фотографии с www.CorporateHeadshots.ai. Наша платформа на базе искусственного интеллекта превращает ваши селфи в элегантные снимки головы, соответствующие корпоративным стандартам, делая профессиональные снимки доступными и удобными для всех и везде.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Начать работу с Corporate Headshots AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
-    </a>
-    <h4>StickerIt.AI | #1 Мобильное решение для дизайна и продажи стикеров на базе искусственного интеллекта</h4>
-    <p>StickerIt.AI — это ваше лучшее решение для создания и продажи стикеров на базе искусственного интеллекта прямо с вашего мобильного устройства. Превратите любое место в яркую мастерскую по стикерам. Имея всего два планшета и принтер, вы можете начать продавать наклейки, изготовленные на заказ, за считанные минуты. Наша платформа предназначена для ведения бизнеса по производству наклеек с искусственным интеллектом в любое время и в любом месте.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Начать работу с StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
-    </a>
-    <h4>Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.</h4>
-    <p>ApplyPass — это инструмент для поиска работы на базе искусственного интеллекта, который позволяет проводить больше собеседований. ApplyPass ежемесячно подает 200-400 индивидуальных заявлений о приеме на работу от вашего имени. Этот инструмент предлагает первые 100 заявок на работу бесплатно.
-
-ApplyPass.com провел тысячи интервью для инженеров, средний процент ответов на которые на 40% выше, чем в среднем по отрасли.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Начать работу с ApplyPass</b></a>
     <br />
 </div>
 
@@ -134,15 +138,36 @@ ApplyPass.com провел тысячи интервью для инженеро
 - 🕸 [Веб-дизайн](#веб-дизайн)
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
-### College Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
+### UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online.webp" alt="UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/ru/application/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### College Tools
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
+
+#### Решение домашних заданий от College Tools — мгновенная помощь экспертам в выполнении домашних заданий
+
+
+
+[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Homework Solver, который интегрируется с любым веб-сайтом или системой управления обучением.
+
+Нажмите, расслабьтесь и преуспевайте: ваше решение для викторины без стресса
+
+College Tools, идеальный помощник по сдаче экзаменов, интегрированный в LMS. В нашем программном обеспечении используются передовые алгоритмы искусственного интеллекта, позволяющие с помощью искусственного интеллекта принимать точные решения для тестирования и выполнения домашних заданий, что дает вам больше времени на изучение материала 
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -229,22 +254,6 @@ Politemail Pro стремится превратить ваши электрон
 
 
 [More Information and Pricing](https://thataicollection.com/ru/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PicPicAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
-
-#### PicPicAI — это универсальный инструмент для обработки изображений с искусственным интеллектом.
-
-
-[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PicPicai: средство улучшения фотографий, средство для удаления фона, удаление объектов, генератор причесок, портрет в эскиз, от портрета к художественной живописи, фестивальный фоторедактор, генератор неонпанка, сказочная свадебная фотография, генератор снимков головы, карикатура портретов или фотографий домашних животных, раскрашивание фотографий, восстановление старых фотографий, масштабирование фотографий, создание потрясающих изображений с искусственным интеллектом, сжатие фотографий, изменение цвета фо
-
-
-[More Information and Pricing](https://thataicollection.com/ru/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

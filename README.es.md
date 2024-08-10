@@ -45,36 +45,38 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
-    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
+    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -132,15 +134,38 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### College Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
+### UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online.webp" alt="UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### College Tools
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-joaquin.webp" alt="College Tools">
+
+#### Homework Solver de College Tools: ayuda instantánea y experta con los deberes
+
+
+
+[Visit](https://thataicollection.com/redirect/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+El solucionador de deberes que se integra con cualquier sitio web o sistema de gestión del aprendizaje.
+
+Haz clic, relájate y sobresale: tu solución de cuestionario sin estrés
+
+College Tools, el mejor asistente de exámenes integrado en LMS. Nuestro software utiliza algoritmos de IA avanzados para ofrecer soluciones precisas de cuestionarios y deberes con IA, lo que te da más tiempo para concentrarte en entender el material y lograr tus objetivos académicos.
+
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -227,22 +252,6 @@ Politemail Pro tiene como objetivo transformar tus correos electrónicos de desc
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PicPicAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picpicai.webp" alt="PicPicAI">
-
-#### PicPicAI es una herramienta de imagen de IA todo en uno.
-
-
-[Visit](https://thataicollection.com/redirect/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PicPicAI: mejorador de fotos, eliminador de fondos, eliminación de objetos, generador de peinados, retrato para dibujar, pintura de retrato para arte, creador de fotos de festivales, generador de neonpunk, foto de boda de ensueño, generador de fotos a la cabeza, caricaturiza fotos de retratos o mascotas, colorea fotos, restaura fotos antiguas, mejora fotos, crea impresionantes arte de IA, comprime fotos, cambia el color de fondo
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/picpicai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
