@@ -55,36 +55,38 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    </a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    </a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
     <h4>AIApply: AI tools for Jobseekers to craft the perfect application</h4>
     <p>AIApply is a dynamic suite of AI tools designed to empower jobseekers. It streamlines the job application process, enhances resume quality, preps for interviews, and identifies optimal career opportunities. AIApply personalizes job search strategies, ensuring users stand out in competitive markets. It''s an essential tool for anyone looking to accelerate their career path with the power of AI.</p>
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Get Started with AiApply</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
-    </a>
-    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
-    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -142,6 +144,26 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### styly
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
+
+#### Unleash AI-powered design brilliance for instant makeovers.
+
+
+[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+- Styly.io is an innovative interior and exterior design app that leverages the power of AI technology to transform the design process.
+- The app empowers users to create stunning, personalized designs in a fraction of the time compared to traditional methods.
+- Styly.io caters to a wide range of users, from homeowners and interior designers to architects and construction professionals.
+
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-undetecablegpt-ai-bypass-ai-detection-with-ai-humanizer-free-online.webp" alt="UndetecableGPT.ai: Bypass AI Detection with AI Humanizer Free Online">
 
@@ -244,24 +266,6 @@ AmigoChat is an innovative AI-powered friend, an advanced conversational platfor
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PolitemailPro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-politemailpro.webp" alt="PolitemailPro">
-
-#### At Politemail Pro, we understand the importance of effective business communication.
-
-
-
-[Visit](https://thataicollection.com/redirect/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Politemail Pro aims to transform your emails from impolite to polished with our AI tool. Automatically translate and enhance your messages to professional, courteous versions. Save time and improve business communication effortlessly.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/politemailpro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
