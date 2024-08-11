@@ -45,12 +45,14 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
-    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
+    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
+    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
+
+ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
     <br />
 </div>
 
@@ -69,18 +71,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
-    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -138,6 +134,22 @@
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### VirtualReception.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-virtualreception-ai.webp" alt="VirtualReception.AI">
+
+#### Ton répondeur automatique. Ne manquez jamais un appel.
+
+
+[Visit](https://thataicollection.com/redirect/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+VirtualReception.AI est un service de réceptionniste virtuelle ultramoderne conçu pour révolutionner ton processus de prise de rendez-vous et améliorer la satisfaction de tes clients. Idéale pour les propriétaires de petites entreprises, les prestataires de soins de santé et les professionnels des services, notre réceptionniste pilotée par l'IA veille à ce que tes besoins en matière de planification soient traités avec une précision et une efficacité inégalées.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Faceless Videos AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mark-doppler.webp" alt="Faceless Videos AI">
 
@@ -233,22 +245,6 @@ Suivez les mots clés en rapport avec tes offres commerciales. Filtrer par votes
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/keymentions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIDreamMachine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
-
-#### AI Dream Machine | Créez de superbes vidéos générées par l'IA
-
-
-[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Dream Machine est un générateur vidéo gratuit alimenté par l'IA qui donne vie à tes photos grâce à des animations et des restaurations époustouflantes. Commence à créer des vidéos basées sur l'IA sans effort dès aujourd'hui !
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
