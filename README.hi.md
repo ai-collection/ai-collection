@@ -23,7 +23,7 @@
     <h4>दर्जा</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1744" />
+    <img alt="जनरेटिव एआई अनुप्रयोगों की संख्या" src="https://img.shields.io/static/v1?message=जनरेटिव एआई अनुप्रयोगों की संख्या&color=informational&style=flat-square&label=1747" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="श्रेणियों की संख्या" src="https://img.shields.io/static/v1?message=श्रेणियों की संख्या&color=informational&style=flat-square&label=43" />
@@ -45,6 +45,18 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
+    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
@@ -59,24 +71,12 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
-    </a>
-    <h4>पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot</h4>
-    <p>WordFixerBot का पैराफ़्रेसिंग टूल किसी भी टेक्स्ट, वाक्य, लेख, पैराग्राफ, पेपर या दस्तावेज़ों को तुरंत और सटीक तरीके से फिर से लिखने में तुम्हारी मदद करने के लिए एकदम सही टूल है। अभी शुरू करो और अपने लेखन को सबसे अलग बनाओ!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>के साथ आरंभ करें Wordfixerbot</b></a>
+    <h4>AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें</h4>
+    <p>तुम्हेंं जल्दी और आसानी से ऐसा रिज्यूम बनाने के लिए, जो तुम्हारे काम के अनुभव को सटीक रूप से दर्शाता हो, एक पेशेवर रेज़्यूमे लेखक होने की ज़रूरत नहीं है। हंटर का कस्टमाइज़ किया जा सकने वाला AI रिज्यूमे बिल्डर तुम्हेंं और इंटरव्यू देने में मदद करने के लिए एक अच्छी तरह से लिखा हुआ, एटीएस-अनुकूल रिज्यूमे तैयार करने में मदद करेगा।</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>के साथ आरंभ करें Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -134,15 +134,35 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### styly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
+### Swapper AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### styly
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
+
+#### तुरंत मेकओवर करने के लिए AI-संचालित डिज़ाइन ब्रिलियंस शुरू करें।
+
+
+[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+- Styly.io एक नवोन्मेषी इंटीरियर और एक्सटीरियर डिज़ाइन ऐप है, जो डिज़ाइन प्रोसेस को बदलने के लिए AI तकनीक की ताकत का लाभ उठाता है।
+- ऐप यूज़र को पारंपरिक तरीकों की तुलना में कुछ ही समय में शानदार, वैयक्तिकृत डिज़ाइन बनाने की सुविधा देता है।
+- Styly.io, घर के मालिकों और इंटीरियर डिज़ाइनर से लेकर आर्किटेक्ट और कंस्ट्रक्शन प्रोफ़ेशनल तक, यूज़र की एक विस्तृत श्रृंखला को पूरा करता है।
+
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -236,22 +256,6 @@ AI का पता लगाने से बचने के लिए AI ट�
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AmigoChat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
-
-#### AmigoChat एक मुफ़्त AI GPT चैट सेवा है।
-
-
-[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AmigoChat एआई-संचालित एक नवोन्मेषी दोस्त है, जो एडवांस संवादात्मक प्लेटफ़ॉर्म है, जिसे तेज़ और कुशल उत्तर देने के लिए डिज़ाइन किया गया है। AmigoChat यूज़र को ज़्यादा फ़्लेक्सिबिलिटी, विविध बातचीत क्षमताएं और अनोखा सेंस ऑफ़ ह्यूमर प्रदान करता है, जो इसे ChatGPT जैसे अन्य AI चैटबॉट्स से अलग करता है।
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

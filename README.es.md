@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1744" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1747" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -57,24 +57,24 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
     <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
     <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
     <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    </a>
+    <h4>La única generación de código basada en IA lista para producción</h4>
+    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -132,15 +132,35 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
-### styly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
+### Swapper AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### styly
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
+
+#### Da rienda suelta a la brillantez del diseño impulsada por la IA para cambios de imagen instantáneos.
+
+
+[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+- Styly.io es una innovadora aplicación de diseño de interiores y exteriores que aprovecha el poder de la tecnología de inteligencia artificial para transformar el proceso de diseño.
+- La aplicación permite a los usuarios crear diseños impresionantes y personalizados en una fracción del tiempo en comparación con los métodos tradicionales.
+- Styly.io está dirigido a una amplia gama de usuarios, desde propietarios y diseñadores de interiores hasta arquitectos y profesionales de la construcción.
+
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -234,22 +254,6 @@ Editar en PPT convierte sin esfuerzo cualquier imagen en una diapositiva de Powe
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AmigoChat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amigochat.webp" alt="AmigoChat">
-
-#### AmigoChat es un servicio de chat GPT de IA gratuito.
-
-
-[Visit](https://thataicollection.com/redirect/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AmigoChat es un innovador amigo impulsado por la IA, una plataforma de conversación avanzada diseñada para ofrecer respuestas rápidas y eficaces. AmigoChat ofrece a los usuarios más flexibilidad, diversas capacidades de conversación y un sentido del humor único que lo diferencia de otros chatbots de IA, como ChatGPT.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/amigochat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
