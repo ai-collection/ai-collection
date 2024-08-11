@@ -55,12 +55,12 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
-    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -142,6 +142,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### RunComfy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-runcomfy.webp" alt="RunComfy">
+
+#### RunComfy: Top ComfyUI Platform - Fast & Easy, No Setup
+
+
+[Visit](https://thataicollection.com/redirect/runcomfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+RunComfy offers a cloud-based environment for setting up and managing ComfyUI. It includes features like Video-to-Video, Image-to-Video, and Text-to-Video animation, utilizing tools such as AnimateDiff, ControlNet, and IP-Adapter, etc. The platform automates the setup and configuration of workflows, providing a user-friendly interface that requires no coding. 
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/runcomfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Headshot Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshot-generator.webp" alt="AI Headshot Generator">
 
@@ -238,26 +254,6 @@ Swapper is a SaaS tool that leverages AI technology to provide virtual try-ons, 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### styly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-styly.webp" alt="styly">
-
-#### Unleash AI-powered design brilliance for instant makeovers.
-
-
-[Visit](https://thataicollection.com/redirect/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-
-- Styly.io is an innovative interior and exterior design app that leverages the power of AI technology to transform the design process.
-- The app empowers users to create stunning, personalized designs in a fraction of the time compared to traditional methods.
-- Styly.io caters to a wide range of users, from homeowners and interior designers to architects and construction professionals.
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/styly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
