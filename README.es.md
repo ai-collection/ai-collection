@@ -45,42 +45,38 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Inteligencia artificial de fotos corporativas: revolucionando los retratos corporativos con la IA</h4>
+    <p>Vive el futuro de la fotografía profesional con www.CorporateHeadshots.ai. Nuestra plataforma basada en la IA transforma tus selfies en fotos elegantes y estándar corporativas, lo que hace que las imágenes profesionales sean accesibles y fáciles para todos, en todas partes.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Comience con Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
-    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>La única generación de código basada en IA lista para producción</h4>
-    <p>Jovu: la única plataforma de IA que convierte las ideas en código listo para producción en 4 minutos. Automatiza el desarrollo de tus aplicaciones de backend, garantizando la coherencia, la previsibilidad y el cumplimiento de los más altos estándares con un código diseñado para escalar.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Comience con Jovu by Amplication</b></a>
+    <h4>Consigue tu trabajo ideal con nuestra IA de solicitudes de empleo. ¡Solicita automáticamente cientos de trabajos de ingeniería cada semana! Únete a ApplyPass para conseguir 100 aplicaciones gratuitas.</h4>
+    <p>ApplyPass es una herramienta de búsqueda de empleo basada en la inteligencia artificial que te permite conseguir más entrevistas de trabajo. ApplyPass presenta entre 200 y 400 solicitudes de empleo personalizadas en tu nombre cada mes. Esta herramienta ofrece las 100 primeras solicitudes de empleo de forma gratuita.
+
+ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de respuesta media un 40% superior a la media del sector.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Comience con ApplyPass</b></a>
     <br />
 </div>
 
@@ -138,6 +134,22 @@
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### MemFree
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memfree.webp" alt="MemFree">
+
+#### MemFree: motor de búsqueda híbrido con IA: obtén al instante respuestas precisas de Internet, marcadores, notas y documentos
+
+
+[Visit](https://thataicollection.com/redirect/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MemFree es una herramienta de búsqueda híbrida de IA que ofrece respuestas precisas mediante la integración de datos de Internet, marcadores, notas y documentos. Al utilizar el GPT-3.5, MemFree permite buscar índices de forma eficaz, lo que permite a los usuarios encontrar rápidamente la información relevante en varias fuentes.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### BestFaceSwap.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bestfaceswap-ai.webp" alt="BestFaceSwap.AI">
 
@@ -233,22 +245,6 @@ El objetivo de TaroTeller es ofrecer una lectura de tarot gratuita con nuestra h
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Genspark.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
-
-#### Genspark es un motor de agentes de IA en el que agentes de IA especializados investigan y generan páginas personalizadas llamadas Sparkpages. 
-
-
-[Visit](https://thataicollection.com/redirect/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Un motor de agentes de IA en el que agentes de IA especializados investigan y generan páginas personalizadas llamadas Sparkpages. Sin sesgos ni contenido impulsado por el SEO, Sparkpages sintetiza información fiable, ofreciendo resultados más valiosos y ahorrando tiempo a los usuarios
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
