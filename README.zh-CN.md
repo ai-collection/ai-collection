@@ -45,38 +45,36 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
-    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
-
-ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
+    <h4>在 AI 的帮助下制作完美的简历</h4>
+    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
+    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
+    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
+    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -134,6 +132,22 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### BestFaceSwap.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bestfaceswap-ai.webp" alt="BestFaceSwap.AI">
+
+#### BestFaceSwap.AI-在线提供视频和照片的专业Face Swap AI网站
+
+
+[Visit](https://thataicollection.com/redirect/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 BestFaceSwap.AI 上享受逼真、自然和高清的人脸交换结果，它使用最新的面部交换技术。现在就试试吧！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### RunComfy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-runcomfy.webp" alt="RunComfy">
 
@@ -229,23 +243,6 @@ TaroTeller旨在通过我们的人工智能工具提供免费的塔罗牌阅读�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Swapper AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
-
-#### Swapper AI-最高品质的电子商务助手
-
-
-
-[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Swapper 是一款 SaaS 工具，它利用人工智能技术为企业提供虚拟试用、人工智能模型/产品视频生成、模型图像生成和产品图像生成。它可以帮助商家优化产品展示，增强客户购物体验并降低成本。只需几个简单的步骤和最低的成本，您就可以生成高质量的电子商务模型图像。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

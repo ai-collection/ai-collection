@@ -55,18 +55,6 @@ Translations:
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
     <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
@@ -79,12 +67,24 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>Craft the perfect resume, with a little help from AI</h4>
+    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
@@ -142,6 +142,22 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### BestFaceSwap.AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bestfaceswap-ai.webp" alt="BestFaceSwap.AI">
+
+#### BestFaceSwap.AI - Professional Face Swap AI Website Online for Videos and Photos
+
+
+[Visit](https://thataicollection.com/redirect/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Enjoy realistic, nature and HD face swaps results on BestFaceSwap.AI's, which uses the newest face swap technology. Try it Now!
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### RunComfy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-runcomfy.webp" alt="RunComfy">
 
@@ -237,23 +253,6 @@ An AI Agent engine where specialized AI agents perform research and generate cus
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Swapper AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
-
-#### Swapper AI - The Highest Quality E-commerce Assistant
-
-
-
-[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Swapper is a SaaS tool that leverages AI technology to provide virtual try-ons, Ai model/product Video Generate, model image generation, and product image generation for businesses. It helps merchants optimize product displays, enhance customer shopping experiences, and reduce costs. With just a few simple steps and minimal cost, you can generate high-quality e-commerce model images.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
