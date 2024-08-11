@@ -45,12 +45,14 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>एकमात्र प्रॉडक्शन-तैयार AI-संचालित कोड जनरेशन</h4>
-    <p>जोवू: एकमात्र AI प्लेटफ़ॉर्म, जो 4 मिनट में आइडिया को प्रोडक्शन-रेडी कोड में बदल देता है। अपने बैकएंड अनुप्रयोगों के डेवलपमेंट को स्वचालित करें, ताकि बड़े पैमाने पर बनाए गए कोड के साथ निरंतरता, पूर्वानुमान और उच्चतम मानकों का पालन किया जा सके।</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>के साथ आरंभ करें Jovu by Amplication</b></a>
+    <h4>हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।</h4>
+    <p>ApplyPass एक AI-संचालित जॉब सर्च टूल है, जिससे तुम्हेंं नौकरी के लिए ज़्यादा इंटरव्यू मिलते हैं। ApplyPass तुम्हारी ओर से हर महीने 200-400 अनुकूलित नौकरी के लिए आवेदन सबमिट करता है। यह टूल नौकरी के पहले 100 आवेदन मुफ़्त में देता है।
+
+ApplyPass.com ने इंजीनियरों के लिए हज़ारों इंटरव्यू तैयार किए हैं, जिनका औसत रिस्पांस रेट इंडस्ट्री के औसत से 40% ज्यादा है।</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>के साथ आरंभ करें ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,18 +134,34 @@
 - 🕸 [वेब डिजाइन](#वेब-डिजाइन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
-### Jaime Wang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="Jaime Wang">
+### AIDreamMachine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
 
 
-[More Information and Pricing](https://thataicollection.com/hi/application/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/hi/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TaroTeller
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+
+#### टैरोटेलर- एक वेबसाइट जो टैरो कार्ड रीडिंग के लिए AI तकनीक का इस्तेमाल करती है
+
+
+[Visit](https://thataicollection.com/redirect/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+टैरोटेलर का लक्ष्य हमारे AI टूल की मदद से टैरो रीडिंग मुफ़्त में उपलब्ध कराना है। चाहे तुम्हेंं मार्गदर्शन चाहिए, जवाब चाहिए, या बस भविष्य के बारे में उत्सुक हो, हमारे AI-संचालित टैरो कार्ड सटीक और गहन जानकारी देते हैं। अनजान चीज़ के बारे में पता लगाएँ और ए जर्नी ऑफ़ द सोल की शुरुआत करें, जो अभी से शुरू हो रहा है
+
+
+[More Information and Pricing](https://thataicollection.com/hi/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -238,22 +256,6 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/hi/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar texto de IA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
-
-#### हमारा ह्यूमनाइज़ एआई टेक्स्ट टेक्स्ट को मानवीय बनाने के लिए टेक्स्ट को ऑनलाइन परिवर्तित करने का एक मुफ़्त और विश्वसनीय टूल है।
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI का पता लगाने से बचने के लिए AI टेक्स्ट को ह्यूमन टेक्स्ट में बदलने में तुम्हारी मदद करता है, अब आत्मविश्वास के साथ लिखता है और AI डिटेक्शन को आसानी से खत्म करता है!
-
-
-[More Information and Pricing](https://thataicollection.com/hi/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

@@ -45,26 +45,30 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Rédigez le CV parfait avec l''aide de l''IA</h4>
-    <p>Tu n''as pas besoin d''être une rédactrice de CV professionnelle pour créer rapidement et facilement un CV qui reflète fidèlement ton expérience professionnelle. Le générateur de CV IA personnalisable de Hunter t''aidera à rédiger un CV bien rédigé et adapté aux ATS afin de décrocher plus d''entretiens.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Démarrer avec Huntr AI Resume Builder</b></a>
+    <h4>Chatbot IA personnalisé 24 heures sur 24, 7 jours sur 7, et escalade du chat en direct</h4>
+    <p>Chat Data est une plateforme de chatbot basée sur l'IA qui permet de personnaliser de manière flexible le backend et le frontend. Créez des chatbots à l'aide de ta base de connaissances, de points de terminaison personnalisés ou des modèles de Chat Data. Personnalise l'interface du chatbot et opte pour la marque blanche. Les fonctionnalités supplémentaires incluent l'escalade du chat en direct dans les forfaits standard ou professionnels.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Démarrer avec Chat Data</b></a>
     <br />
 </div>
 
@@ -134,18 +138,34 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Jaime Wang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="Jaime Wang">
+### AIDreamMachine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
 
 
-[More Information and Pricing](https://thataicollection.com/fr/application/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/fr/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TaroTeller
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+
+#### Taroteller-un site qui utilise la technologie de l'IA pour lire les cartes de tarot
+
+
+[Visit](https://thataicollection.com/redirect/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TaroTeller a pour objectif de proposer des lectures de tarots gratuites grâce à notre outil d'intelligence artificielle. Que tu cherches des conseils, des réponses ou que tu sois simplement curieuse de l'avenir, nos cartes de tarot alimentées par l'IA fournissent des informations précises et approfondies. Explorez l'inconnu et entreprenez un voyage de l'âme dès maintenant
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -240,22 +260,6 @@ College Tools, l'assistant d'examen intégré au LMS par excellence. Notre logic
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar texto de IA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
-
-#### Notre outil Humanize AI Text est un outil gratuit et fiable pour convertir du texte en texte IA humanisé en ligne.
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-t'aide à convertir du texte IA en texte humain pour éviter d'être détecté par l'IA. Écrivez en toute confiance dès maintenant et éliminez facilement la détection de l'IA !
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

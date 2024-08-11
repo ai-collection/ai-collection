@@ -45,6 +45,30 @@
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    </a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    </a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
@@ -57,30 +81,6 @@
 
 </p>
     <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>开始使用 Chat Data</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>在 AI 的帮助下制作完美的简历</h4>
-    <p>您无需成为专业的简历撰写者即可快速轻松地创建准确反映您的工作经历的简历。Huntr可自定义的人工智能简历生成器将帮助您制作一份写得很好、适合ATS的简历，以帮助您获得更多面试。</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>开始使用 Huntr AI Resume Builder</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
-    </a>
-    <h4>唯一一款支持量产的 AI 驱动的代码生成</h4>
-    <p>Jovu：唯一一个在 4 分钟内将想法转化为生产就绪代码的人工智能平台。使用可扩展的代码实现后端应用程序开发自动化，确保一致性、可预测性并遵守最高标准。</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>开始使用 Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -138,18 +138,34 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Jaime Wang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="Jaime Wang">
+### AIDreamMachine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jaime-wang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TaroTeller
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+
+#### Taroteller-一个利用人工智能技术读取塔罗牌的网站
+
+
+[Visit](https://thataicollection.com/redirect/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TaroTeller旨在通过我们的人工智能工具提供免费的塔罗牌阅读。无论您是寻求指导、答案，还是只是对未来感到好奇，我们的人工智能塔罗牌都能提供准确而深刻的见解。探索未知世界，踏上灵魂之旅，立即开始
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -244,22 +260,6 @@ College Tools，集成 LMS 的终极考试助手。我们的软件利用先进�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/college-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Humanizar texto de IA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizar-texto-de-ia.webp" alt="Humanizar texto de IA">
-
-#### 我们的 Humanize AI Text 是一款免费可靠的工具，用于在线将文本转换为人性化人工智能文本。
-
-
-[Visit](https://thataicollection.com/redirect/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-帮助您将 AI 文本转换为人工文本，以避免 AI 检测，立即放心书写并轻松消除 AI 检测！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/humanizar-texto-de-ia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
