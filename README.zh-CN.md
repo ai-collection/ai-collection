@@ -57,24 +57,26 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>释义工具-最佳免费在线解释-Wordfixerbot</h4>
-    <p>WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句子、文章、段落、论文或文档的完美工具。立即开始，让你的写作脱颖而出！</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>开始使用 Wordfixerbot</b></a>
+    <h4>StickerIt.AI | #1 移动、人工智能驱动的贴纸设计和销售解决方案</h4>
+    <p>StickerIt.AI 是直接从移动设备创建和销售人工智能贴纸的首选解决方案。将任何地点变成充满活力的贴纸工作室。只需两台平板电脑和一台打印机，您就可以开始销售几分钟内制作的定制贴纸。我们的平台旨在随时随地经营您的AI贴纸业务。</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>开始使用 StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
-    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
+    <h4>借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。</h4>
+    <p>ApplyPass是一款由人工智能驱动的求职工具，可以让你获得更多的求职面试。ApplyPass每月代表你提交200-400份量身定制的求职申请。该工具免费提供前100份求职申请。
+
+ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行业平均水平高40％。</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>开始使用 ApplyPass</b></a>
     <br />
 </div>
 
@@ -132,15 +134,32 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
-### Swapper AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
+### Genspark.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Swapper AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
+
+#### Swapper AI-最高品质的电子商务助手
+
+
+
+[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Swapper 是一款 SaaS 工具，它利用人工智能技术为企业提供虚拟试用、人工智能模型/产品视频生成、模型图像生成和产品图像生成。它可以帮助商家优化产品展示，增强客户购物体验并降低成本。只需几个简单的步骤和最低的成本，您就可以生成高质量的电子商务模型图像。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -237,23 +256,6 @@ MimicBrush，使用户能够通过模仿参考图像中的元素来轻松编辑�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/mimicbrush-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Edit in PPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-edit-in-ppt.webp" alt="Edit in PPT">
-
-#### 将任何图像转换为完全可编辑的 PowerPoint 幻灯片
-
-
-
-[Visit](https://thataicollection.com/redirect/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 PPT 中编辑可以轻松地将任何图像转换为完全可编辑的 PowerPoint 幻灯片，帮助您轻松创建专业演示文稿。告别手动从其他来源复制数据的繁琐任务，节省宝贵的时间。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

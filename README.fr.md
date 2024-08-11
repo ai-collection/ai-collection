@@ -45,12 +45,12 @@
 </div>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
-    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
-    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
+    <h4>La seule génération de code basée sur l'IA prête pour la production</h4>
+    <p>Jovu : la seule plateforme d'IA qui transforme les idées en code prêt à être produit en 4 minutes. Automatisez le développement de tes applications dorsales, en garantissant la cohérence, la prévisibilité et le respect des normes les plus strictes grâce à un code conçu pour évoluer.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Démarrer avec Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -134,15 +134,32 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
-### Swapper AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
+### Genspark.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
 
 #### null
 
 
-[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 null
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Swapper AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swapper-ai.webp" alt="Swapper AI">
+
+#### Swapper AI : L'assistant de commerce électronique de la plus haute qualité
+
+
+
+[Visit](https://thataicollection.com/redirect/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Swapper est un outil SaaS qui exploite la technologie de l'IA pour proposer des essais virtuels, générer des vidéos de modèles/produits IA, générer des images de modèles et des images de produits pour les entreprises. Cela aide les commerçants à optimiser la présentation de leurs produits, à améliorer l'expérience d'achat des clients et à réduire les coûts. En quelques étapes simples et à moindre coût, tu peux générer des images de modèles de commerce électronique de haute qualité.
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/swapper-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -239,23 +256,6 @@ MimicBrush, qui permet aux utilisateurs de modifier des images sans effort en im
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/mimicbrush-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Edit in PPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-edit-in-ppt.webp" alt="Edit in PPT">
-
-#### Convertit n'importe quelle image en une diapositive PowerPoint entièrement modifiable
-
-
-
-[Visit](https://thataicollection.com/redirect/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Modifier au format PPT convertit facilement n'importe quelle image en une diapositive PowerPoint entièrement modifiable, ce qui t'aide à créer des présentations professionnelles en toute simplicité. Dis adieu à la tâche fastidieuse qui consiste à copier manuellement des données provenant d'autres sources et gagne un temps précieux.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/edit-in-ppt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
