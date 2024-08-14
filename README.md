@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1748" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1783" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -55,6 +55,18 @@ Translations:
 </div>
 
 <div align="center">
+    <a href="https://thataicollection.com/redirect/pitchbob-io" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io" border="0"/>
+    </a>
+    <h4>AI pitch deck generator & Startup Co-pilot</h4>
+    <p>PitchBob.io is a digital assistant powered by AI designed to help wantrepreneurs become entrepreneurs. It not only assists with pitching but also aids with daily tasks such as validating ideas and creating P&L, as well as networking. Via just 1 dialogue.</p>
+    <a href="https://thataicollection.com/redirect/pitchbob-io" target="_blank"><b>Get Started with PitchBob io</b></a>
+    <br />
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
         <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
@@ -67,24 +79,12 @@ Translations:
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
     </a>
-    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
-    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
-    <br />
-</div>
-
-<br>
-
-<div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
-    </a>
-    <h4>Craft the perfect resume, with a little help from AI</h4>
-    <p>You don’t need to be a professional resume writer to quickly and easily create a resume that accurately reflects your work experience. Huntr’s customizable AI Resume Builder will help you craft a well-written, ATS-friendly resume to help you land more interviews.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Get Started with Huntr AI Resume Builder</b></a>
+    <h4>Corporate Headshots AI: Revolutionizing Corporate Portraits with AI</h4>
+    <p>Experience the future of professional photography with www.corporateHeadshots.ai. Our AI-driven platform transforms your selfies into elegant, corporate-standard headshots, making professional imagery accessible and effortless for everyone, everywhere.</p>
+    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>Get Started with Corporate Headshots AI</b></a>
     <br />
 </div>
 
@@ -142,6 +142,23 @@ Translations:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Brev.ai: AI Music Generator Free Online
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brev-ai-ai-music-generator-free-online.webp" alt="Brev.ai: AI Music Generator Free Online">
+
+#### Transform your ideas into professional music instantly with the advanced AI music generator free online .
+
+
+[Visit](https://thataicollection.com/redirect/brev-ai-ai-music-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+🌟 Brev.ai: Revolutionize Your Music Creation
+🎶 Say goodbye to long hours of composing music!  With our AI music generator, you can produce high-quality, unique tracks in seconds. Whether it's for your videos, social media, or personal projects, Brev.ai has got you covered. Simply input your text description and let our sophisticated algorithms craft the perfect music for you.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/brev-ai-ai-music-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VirtualReception.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-virtualreception-ai.webp" alt="VirtualReception.AI">
 
@@ -234,25 +251,6 @@ AI Headshot Generator uses advanced AI algorithms to generate high-quality, prof
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### KeyMentions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
-
-#### Convert Reddit Traffic Into Customers...
-
-
-[Visit](https://thataicollection.com/redirect/keymentions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Stop wasting time on manual searches. KeyMentions tracks your brand and keywords and notifies you at the exact moment a relevant discussion is taking place.
-
-How it works:
-Track keywords relevant to your business offerings. Filter by upvotes/comments in the last X hours to make sure it's live traffic. Get notified through e-mail or in the dashboard. 
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/keymentions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
