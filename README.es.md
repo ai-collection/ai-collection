@@ -57,12 +57,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
-    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
+    <h4>AIApply: herramientas de inteligencia artificial para que los solicitantes de empleo creen la aplicación perfecta</h4>
+    <p>AIApply es un conjunto dinámico de herramientas de IA diseñado para ayudar a los solicitantes de empleo. Agiliza el proceso de solicitud de empleo, mejora la calidad del currículum, prepara para las entrevistas e identifica las oportunidades profesionales óptimas. AIApply personaliza las estrategias de búsqueda de empleo y garantiza que los usuarios destaquen en los mercados competitivos. Es una herramienta esencial para cualquiera que quiera acelerar su trayectoria profesional con el poder de la IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Comience con AiApply</b></a>
     <br />
 </div>
 
@@ -134,6 +134,22 @@ ApplyPass.com ha generado miles de entrevistas para ingenieros, con una tasa de 
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### Mahnke Gedye
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mahnke-gedye.webp" alt="Mahnke Gedye">
+
+#### MyMap.AI Resumen de PDF: ahorra horas resumiendo archivos PDF extensos en mapas mentales, PPT o esquemas con la IA.
+
+
+[Visit](https://thataicollection.com/redirect/mahnke-gedye?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyMap AI PDF Summarizer: tu solución inteligente para condensar documentos extensos en resúmenes concisos y legibles. Analiza y extrae rápidamente los puntos clave de cualquier PDF gracias a la IA, lo que te ahorra tiempo y esfuerzo. Ideal para estudiantes, profesionales y cualquier persona que quiera obtener la información esencial de un vistazo. Pruébalo ahora gratis y optimiza tu experiencia de lectura.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/mahnke-gedye?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Brev.ai: AI Music Generator Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brev-ai-ai-music-generator-free-online.webp" alt="Brev.ai: AI Music Generator Free Online">
 
@@ -227,22 +243,6 @@ RunComfy ofrece un entorno basado en la nube para configurar y gestionar ComfyUI
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/runcomfy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Headshot Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-headshot-generator.webp" alt="AI Headshot Generator">
-
-#### Crea fotos profesionales a la cabeza sin esfuerzo.
-
-
-[Visit](https://thataicollection.com/redirect/ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-El generador de disparos en la cabeza con IA utiliza algoritmos de IA avanzados para generar fotografías profesionales y de alta calidad a partir de fotos subidas por los usuarios. Está diseñado para ayudar a las personas y las empresas a crear imágenes pulidas para uso profesional.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/ai-headshot-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4338,6 +4338,22 @@ Busca fácilmente en todas las listas de reproducción o canales de YouTube una 
 ---
 
 ## Diapositivas y presentaciones
+### PitchBob io
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
+
+#### Generador de plataforma de lanzamiento con IA y copiloto de puesta en marcha
+
+
+[Visit](https://thataicollection.com/redirect/pitchbob-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+PitchBob.io es un asistente digital impulsado por la IA diseñado para ayudar a los emprendedores a convertirse en emprendedores. No solo ayuda a lanzar, sino también a las tareas diarias, como validar ideas y crear pérdidas y ganancias, así como a establecer contactos. Con solo un diálogo.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/pitchbob-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Presentation API
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-presentation-api.webp" alt="Presentation API">
 
@@ -4435,22 +4451,6 @@ En función de tus respuestas, nuestra IA creará un esquema de presentación pe
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Tome
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tome.webp" alt="Tome">
-
-#### Ha llegado la narración generativa.
-
-
-[Visit](https://thataicollection.com/redirect/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Desbloquee su mejor trabajo con el formato de narración impulsado por IA de Tome.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/tome?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
