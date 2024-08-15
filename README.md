@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1783" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1802" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -68,12 +68,14 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -143,6 +145,22 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Levi Russel
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="Levi Russel">
+
+#### MyMap.AI Book Summarizer - Digest the essence of the book by bullet points or mind maps using AI.
+
+
+[Visit](https://thataicollection.com/redirect/levi-russel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyMap AI Book Summarizer transforms long book into concise summaries. This free tool ensures accurate extraction of key points, making it ideal for students, professionals, and researchers. Its user-friendly interface supports multiple formats, providing quick and reliable insights with minimal effort, backed by cutting-edge AI.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/levi-russel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### PitchBob io
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
 
@@ -237,22 +255,6 @@ MemFree is a hybrid AI search tool that delivers accurate answers by integrating
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BestFaceSwap.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bestfaceswap-ai.webp" alt="BestFaceSwap.AI">
-
-#### BestFaceSwap.AI - Professional Face Swap AI Website Online for Videos and Photos
-
-
-[Visit](https://thataicollection.com/redirect/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Enjoy realistic, nature and HD face swaps results on BestFaceSwap.AI's, which uses the newest face swap technology. Try it Now!
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/bestfaceswap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
