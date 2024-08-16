@@ -70,12 +70,12 @@ Adhérez au plan PRO pour 59,9$ au lieu de 79,9$ en utilisant ce code : THEAICL
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
-    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
+    <h4>AIApply : outils d''IA permettant aux demandeurs d''emploi de créer la candidature parfaite</h4>
+    <p>AIApply est une suite dynamique d''outils d''IA conçus pour donner plus de moyens aux demandeurs d''emploi. Il rationalise le processus de candidature, améliore la qualité des CV, prépare les entretiens et identifie les meilleures opportunités de carrière. AIApply personnalise les stratégies de recherche d''emploi afin de permettre aux utilisateurs de se démarquer sur les marchés concurrentiels. C''est un outil essentiel pour tous ceux qui souhaitent accélérer leur carrière grâce à la puissance de l''IA.</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>Démarrer avec AiApply</b></a>
     <br />
 </div>
 
@@ -133,6 +133,26 @@ Adhérez au plan PRO pour 59,9$ au lieu de 79,9$ en utilisant ce code : THEAICL
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### TimeSkip
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-timeskip.webp" alt="TimeSkip">
+
+#### TimeSkip est l'extension Chrome idéale pour générer des chapitres optimisés pour le référencement.
+
+
+[Visit](https://thataicollection.com/redirect/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Le meilleur outil de référencement YouTube conçu pour générer facilement des chapitres optimisés pour le référencement. 
+
+✨ PRINCIPALES CARACTÉRISTIQUES :
+- GÉNÉRATION DE CHAPITRES LA PLUS RAPIDE : génère des chapitres pour les vidéos YouTube directement dans le lecteur en 5 secondes en moyenne pour une vidéo d'une heure, afin d'optimiser ton flux de travail.
+- TITRES OPTIMISÉS POUR LE RÉFÉRENCEMENT : créez des titres de chapitre à l'aide de mots clés à longue queue pour améliorer la visibilité de ta vidéo 
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SmoothAI.chat
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
 
@@ -234,22 +254,6 @@ Résumé PDF MyMap AI : ta solution intelligente pour condenser de longs docume
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/brev-ai-ai-music-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VirtualReception.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-virtualreception-ai.webp" alt="VirtualReception.AI">
-
-#### Ton répondeur automatique. Ne manquez jamais un appel.
-
-
-[Visit](https://thataicollection.com/redirect/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-VirtualReception.AI est un service de réceptionniste virtuelle ultramoderne conçu pour révolutionner ton processus de prise de rendez-vous et améliorer la satisfaction de tes clients. Idéale pour les propriétaires de petites entreprises, les prestataires de soins de santé et les professionnels des services, notre réceptionniste pilotée par l'IA veille à ce que tes besoins en matière de planification soient traités avec une précision et une efficacité inégalées.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

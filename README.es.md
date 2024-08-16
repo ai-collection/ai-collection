@@ -58,24 +58,30 @@ Consigue el plan PRO por 59,9$ en lugar de 79,9$ con este código: THEAICLCTN</p
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
     </a>
-    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
-    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
-    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
+    <h4>Chatbot de IA personalizado las 24 horas del día, los 7 días de la semana, más escalación</h4>
+    <p>Chat Data es una plataforma de chatbots de IA que ofrece una personalización flexible de backend y frontend. Crea chatbots con tu base de conocimientos, puntos finales personalizados o los modelos de Chat Data. Personaliza la interfaz del chatbot y opta por la etiqueta blanca. Las funciones adicionales incluyen la escalación del chat en vivo en los planes estándar o profesionales.
+
+
+
+
+
+</p>
+    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Comience con Chat Data</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Crea el currículum perfecto, con un poco de ayuda de la IA</h4>
+    <p>No necesitas ser un redactor de currículums profesional para crear rápida y fácilmente un currículum que refleje con precisión tu experiencia laboral. El creador de currículums personalizable con IA de Huntr te ayudará a crear un currículum bien escrito y apto para ATS que te ayude a conseguir más entrevistas.</p>
+    <a href="https://thataicollection.com/redirect/huntr-ai-resume-builder" target="_blank"><b>Comience con Huntr AI Resume Builder</b></a>
     <br />
 </div>
 
@@ -133,6 +139,26 @@ Consigue el plan PRO por 59,9$ en lugar de 79,9$ con este código: THEAICLCTN</p
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### TimeSkip
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-timeskip.webp" alt="TimeSkip">
+
+#### TimeSkip es la extensión de Chrome definitiva para generar capítulos optimizados para el SEO.
+
+
+[Visit](https://thataicollection.com/redirect/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+La mejor herramienta de SEO de YouTube diseñada para generar capítulos optimizados para el SEO sin esfuerzo. 
+
+✨ CARACTERÍSTICAS PRINCIPALES:
+- GENERACIÓN DE CAPÍTULOS MÁS RÁPIDA: genera capítulos para vídeos de YouTube directamente en el reproductor en 5 segundos de media para un vídeo de 1 hora, optimizando tu flujo de trabajo.
+- TÍTULOS OPTIMIZADOS PARA SEO: crea títulos de capítulos con palabras clave largas para aumentar la visibilidad de tu vídeo y las clasificaciones de búsqueda.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SmoothAI.chat
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
 
@@ -234,22 +260,6 @@ MyMap AI PDF Summarizer: tu solución inteligente para condensar documentos exte
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/brev-ai-ai-music-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VirtualReception.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-virtualreception-ai.webp" alt="VirtualReception.AI">
-
-#### Tu servicio de contestador de IA. No te pierdas ni una llamada.
-
-
-[Visit](https://thataicollection.com/redirect/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-VirtualReception.AI es un servicio de recepcionista virtual de última generación diseñado para revolucionar el proceso de programación de citas y aumentar la satisfacción de los clientes. Perfecta para propietarios de pequeñas empresas, proveedores de atención médica y profesionales de servicios, nuestra recepcionista basada en la IA se asegura de que tus necesidades de programación se gestionan con una precisión y una eficacia inigualables.
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
