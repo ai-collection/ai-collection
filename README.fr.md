@@ -23,7 +23,7 @@
     <h4>Statut</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1803" />
+    <img alt="Nombre d'applications d'IA générative" src="https://img.shields.io/static/v1?message=Nombre d'applications d'IA générative&color=informational&style=flat-square&label=1806" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Nombre de catégories" src="https://img.shields.io/static/v1?message=Nombre de catégories&color=informational&style=flat-square&label=43" />
@@ -70,14 +70,12 @@ Adhérez au plan PRO pour 59,9$ au lieu de 79,9$ en utilisant ce code : THEAICL
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>Décroche le poste idéal grâce à notre IA pour les candidatures. Postulez automatiquement à des centaines de postes d''ingénieur chaque semaine ! Abonne ApplyPass pour bénéficier de 100 candidatures gratuites.</h4>
-    <p>ApplyPass est un outil de recherche d''emploi basé sur l''IA qui te permet d''obtenir plus d''entretiens d''embauche. ApplyPass soumet 200 à 400 candidatures personnalisées en ton nom chaque mois. Cet outil propose les 100 premières demandes d''emploi gratuitement.
-
-ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec un taux de réponse moyen supérieur de 40 % à la moyenne du secteur.</p>
-    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Démarrer avec ApplyPass</b></a>
+    <h4>Outil de paraphrase - Meilleur paraphraser gratuit en ligne - Wordfixerbot</h4>
+    <p>L''outil de paraphrase de WordFixerBot est l''outil idéal pour t''aider à reformuler rapidement et précisément tous les textes, phrases, articles, paragraphes, articles ou documents. Commence dès maintenant et fais en sorte que ton écriture se démarque !</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Démarrer avec Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -135,6 +133,45 @@ ApplyPass.com a généré des milliers d''entretiens pour des ingénieurs, avec 
 - 🕸 [Création de sites web](#création-de-sites-web)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### SmoothAI.chat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
+
+#### Utilise différents modèles d'IA d'OpenAI et d'Anthropic à l'aide de leurs clés API
+
+
+[Visit](https://thataicollection.com/redirect/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Smoothai.chat te permettra d'interagir avec différents modèles d'IA d'OpenAI (ChatGPT) et d'Anthropic (Claude) à l'aide de leurs clés API.
+
+Toutes les données sont stockées sur ton espace de stockage local et ne sont jamais envoyées à nos serveurs (c'est juste une page HTML). 
+
+C'est totalement gratuit et il n'y a aucune publicité. 
+
+Tu peux également acheter le code source de ce site et l'utiliser dans ton propre projet.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rolemantic AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rolemantic-ai.webp" alt="Rolemantic AI">
+
+#### Rolemantic AI : Crée ta petite amie IA
+
+
+
+[Visit](https://thataicollection.com/redirect/rolemantic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rolemantic.ai est une plateforme de chat basée sur l'IA qui permet de créer des interactions NSFW épicées avec des copines virtuelles issues d'anime, de jeux vidéo, de RPG, etc. Il est doté d'un générateur d'images hentai et d'une voix de personnage, ce qui permet aux utilisateurs de donner vie à leurs créations avec des voix, des personnalités et des émotions uniques.
+
+
+[More Information and Pricing](https://thataicollection.com/fr/application/rolemantic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MyMap Book Summerizer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
 
@@ -213,38 +250,6 @@ VirtualReception.AI est un service de réceptionniste virtuelle ultramoderne con
 
 
 [More Information and Pricing](https://thataicollection.com/fr/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Faceless Videos AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mark-doppler.webp" alt="Faceless Videos AI">
-
-#### Crée des vidéos virales et anonymes basées sur l'IA pour TikTok et Youtube
-
-
-[Visit](https://thataicollection.com/redirect/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Créez des vidéos anonymes basées sur l'IA pour TikTok et YouTube en quelques secondes. Les vidéos contiennent des voix off et des images IA. Tu dois juste ajouter le script ou le texte d'invite.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MemFree
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memfree.webp" alt="MemFree">
-
-#### MemFree — Moteur de recherche hybride basé sur l'IA : obtenez instantanément des réponses précises sur Internet, dans les favoris, les notes et les documents
-
-
-[Visit](https://thataicollection.com/redirect/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MemFree est un outil de recherche hybride basé sur l'IA qui fournit des réponses précises en intégrant des données provenant d'Internet, des signets, des notes et des documents. Grâce à GPT-3.5, MemFree permet une recherche efficace dans les index, permettant aux utilisateurs de trouver rapidement des informations pertinentes auprès de différentes sources.
-
-
-[More Information and Pricing](https://thataicollection.com/fr/application/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 

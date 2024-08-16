@@ -23,7 +23,7 @@
     <h4>地位</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1803" />
+    <img alt="生成人工智能应用的数量" src="https://img.shields.io/static/v1?message=生成人工智能应用的数量&color=informational&style=flat-square&label=1806" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="类别数" src="https://img.shields.io/static/v1?message=类别数&color=informational&style=flat-square&label=43" />
@@ -70,12 +70,12 @@
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-corporate-headshots-ai.webp" alt="Corporate Headshots AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply" border="0"/>
     </a>
-    <h4>企业头像 AI：用 AI 彻底改变企业画像</h4>
-    <p>通过 www.corporateHeadshots.ai 体验专业摄影的未来。我们的人工智能驱动平台可将您的自拍照转换为优雅的企业标准头像，让所有人随时随地都能轻松访问专业图像。</p>
-    <a href="https://thataicollection.com/redirect/corporate-headshots-ai" target="_blank"><b>开始使用 Corporate Headshots AI</b></a>
+    <h4>AIApply：供求职者制作完美应用程序的人工智能工具</h4>
+    <p>AIApply是一套动态的人工智能工具，旨在增强求职者的能力。它简化了求职流程，提高了简历质量，为面试做准备，并确定了最佳的职业机会。AIApply 个性化求职策略，确保用户在竞争激烈的市场中脱颖而出。对于任何希望借助人工智能的力量加快职业道路的人来说，它都是一个必不可少的工具。</p>
+    <a href="https://thataicollection.com/redirect/aiapply" target="_blank"><b>开始使用 AiApply</b></a>
     <br />
 </div>
 
@@ -133,6 +133,28 @@
 - 🕸 [网页设计](#网页设计)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### SmoothAI.chat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
+
+#### 让我们使用 OpenAI 和 Anthropic 的 API 密钥使用不同的 AI 模型
+
+
+[Visit](https://thataicollection.com/redirect/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Smoothai.Chat 将允许你使用来自 OpenAI (ChatGPT) 和 Anthropic (Claude) 的 API 密钥与不同的人工智能模型进行交互。
+
+所有数据都存储在您的本地存储器上，永远不会发送到我们的服务器（这只是一个 HTML 页面）。 
+
+它是完全免费的，没有广告。 
+
+你也可以购买这个网站的源代码并在你自己的项目中使用它。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Rolemantic AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rolemantic-ai.webp" alt="Rolemantic AI">
 
@@ -228,22 +250,6 @@ VirtualReception.AI 是一项最先进的虚拟接待员服务，旨在彻底改
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Faceless Videos AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mark-doppler.webp" alt="Faceless Videos AI">
-
-#### 为 TikTok 和 Youtube 制作病毒式、不露面的 AI 视频
-
-
-[Visit](https://thataicollection.com/redirect/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在几秒钟内为抖音和YouTube创建人工智能匿名视频。这些视频有人工智能画外音和人工智能图像。你只需要添加脚本或提示文本。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
