@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1810" />
+    <img alt="Número de aplicaciones de IA generativa" src="https://img.shields.io/static/v1?message=Número de aplicaciones de IA generativa&color=informational&style=flat-square&label=1812" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Número de categorías" src="https://img.shields.io/static/v1?message=Número de categorías&color=informational&style=flat-square&label=43" />
@@ -70,12 +70,12 @@ Consigue el plan PRO por 59,9$ en lugar de 79,9$ con este código: THEAICLCTN</p
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>StickerIt.AI | Solución #1 móvil de diseño y venta de pegatinas basada en IA</h4>
-    <p>StickerIt.AI es tu mejor solución para crear y vender pegatinas con IA directamente desde tu dispositivo móvil. Transforma cualquier lugar en un vibrante taller de pegatinas. Con solo dos tabletas y una impresora, puedes empezar a vender pegatinas personalizadas hechas en cuestión de minutos. Nuestra plataforma está diseñada para gestionar tu negocio de pegatinas de IA en cualquier momento y lugar.</p>
-    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Comience con StickerIt.AI</b></a>
+    <h4>Herramienta de paráfrasis - El mejor paráfrasis gratuito en línea - Wordfixerbot</h4>
+    <p>La herramienta de paráfrasis de WordFixerBot es la herramienta perfecta para ayudarte a reformular de forma rápida y precisa cualquier texto, frase, artículo, párrafo, artículo o documento. ¡Empieza ahora y haz que tu escritura destaque!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Comience con Wordfixerbot</b></a>
     <br />
 </div>
 
@@ -133,6 +133,22 @@ Consigue el plan PRO por 59,9$ en lugar de 79,9$ con este código: THEAICLCTN</p
 - 🕸 [Diseño web](#diseño-web)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### Anime Generator AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-generator.webp" alt="Anime Generator AI">
+
+#### Generador de anime con IA: crea arte de anime con IA | AnimeGenAI.com Gratis
+
+
+[Visit](https://thataicollection.com/redirect/anime-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Crea fácilmente personajes de anime únicos con la tecnología de IA más avanzada. Incluye generadores de anime para chicas, chicos, escenas y otros.
+
+
+[More Information and Pricing](https://thataicollection.com/es/application/anime-generator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Serpwe
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-serpwe.webp" alt="Serpwe">
 
@@ -236,23 +252,6 @@ El resumen de libros con IA de MyMap transforma un libro largo en resúmenes con
 
 
 [More Information and Pricing](https://thataicollection.com/es/application/mymap-book-summerizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PitchBob io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
-
-#### Generador de plataforma de lanzamiento con IA y copiloto de puesta en marcha
-
-
-[Visit](https://thataicollection.com/redirect/pitchbob-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-PitchBob.io es un asistente digital impulsado por la IA diseñado para ayudar a los emprendedores a convertirse en emprendedores. No solo ayuda a lanzar, sino también a las tareas diarias, como validar ideas y crear pérdidas y ganancias, así como a establecer contactos. Con solo un diálogo.
-Consigue el plan PRO por 59,9$ en lugar de 79,9$ con este código: THEAICLCTN
-
-
-[More Information and Pricing](https://thataicollection.com/es/application/pitchbob-io?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
