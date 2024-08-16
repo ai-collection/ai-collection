@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1803" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=1806" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -68,30 +68,24 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
+    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
+    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data" border="0"/>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
     </a>
-    <h4>24/7 Custom AI chatbot Plus Live Chat Escalation</h4>
-    <p>Chat Data is an AI chatbot platform offering flexible backend and frontend customization. Create chatbots using your knowledge base, custom endpoints, or Chat Data's models. Customize the chatbot interface and opt for white labeling. Additional features include Live Chat escalation in standard or professional plans.
-
-
-
-
-
-</p>
-    <a href="https://thataicollection.com/redirect/chat-data" target="_blank"><b>Get Started with Chat Data</b></a>
+    <h4>The only production-ready AI-powered code generation</h4>
+    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
+    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
     <br />
 </div>
 
@@ -149,6 +143,45 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### SmoothAI.chat
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
+
+#### Let's you use different AI models from OpenAI &amp; Anthropic using their API keys
+
+
+[Visit](https://thataicollection.com/redirect/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SmoothAI.chat will let you interact with different AI models from OpenAI (ChatGPT) and Anthropic (Claude) using their API keys.
+
+All data is stored on your local storage and never sent to our servers (It's just a HTML page). 
+
+It's completely free and there are no ads. 
+
+You can also buy the source code of this site and use it in your own project.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/smoothai-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rolemantic AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rolemantic-ai.webp" alt="Rolemantic AI">
+
+#### Rolemantic AI - Create Your AI Girlfriend
+
+
+
+[Visit](https://thataicollection.com/redirect/rolemantic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rolemantic.ai is an AI chat platform for creating spicy NSFW interactions with virtual girlfriends from anime, games, RPGs, and more. It features a hentai image generator and character voice, letting users bring their creations to life with unique voices, personalities, and emotions.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/rolemantic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MyMap Book Summerizer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
 
@@ -227,38 +260,6 @@ VirtualReception.AI is a state-of-the-art virtual receptionist service designed 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Faceless Videos AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mark-doppler.webp" alt="Faceless Videos AI">
-
-#### Create viral, faceless AI videos for TikTok and Youtube
-
-
-[Visit](https://thataicollection.com/redirect/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Create AI faceless videos for TikTok & YouTube in seconds. The videos have AI voiceovers and AI images. You just have to add the script or prompt text.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/faceless-videos-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MemFree
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memfree.webp" alt="MemFree">
-
-#### MemFree – Hybrid AI Search Engine: Instantly Get Accurate Answers from the Internet, Bookmarks, Notes, and Docs
-
-
-[Visit](https://thataicollection.com/redirect/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MemFree is a hybrid AI search tool that delivers accurate answers by integrating data from the internet, bookmarks, notes, and documents. Utilizing GPT-3.5, MemFree enables efficient index searching, allowing users to quickly find relevant information from various sources.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/memfree?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
