@@ -68,24 +68,26 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot" border="0"/>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI" border="0"/>
     </a>
-    <h4>Paraphrasing Tool - Best Free Online Paraphraser - Wordfixerbot</h4>
-    <p>WordfixerBot''s Paraphrasing Tool is the perfect tool to help you quickly and accurately rephrase any texts, sentences, articles, paragraphs, papers, or documents. Get started now and make your writing stand out!</p>
-    <a href="https://thataicollection.com/redirect/wordfixerbot" target="_blank"><b>Get Started with Wordfixerbot</b></a>
+    <h4>StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution</h4>
+    <p>​StickerIt.AI is your premier solution for creating and selling AI-powered stickers directly from your mobile device. Transform any location into a vibrant sticker workshop. With just two tablets and a printer, you can start selling custom stickers made in minutes. Our platform is designed to run your AI sticker business anytime, anywhere.</p>
+    <a href="https://thataicollection.com/redirect/stickerit-ai" target="_blank"><b>Get Started with StickerIt.AI</b></a>
     <br />
 </div>
 
 <br>
 
 <div align="center">
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank" style="outline:none;border:none;">
-        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication" border="0"/>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank" style="outline:none;border:none;">
+        <img width="400" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass" border="0"/>
     </a>
-    <h4>The only production-ready AI-powered code generation</h4>
-    <p>Jovu: the only AI platform turning ideas into production-ready code in 4 mins. Automate your backend applications development, ensuring consistency, predictability, and adherence to the highest standards with code that’s built to scale.</p>
-    <a href="https://thataicollection.com/redirect/jovu-by-amplication" target="_blank"><b>Get Started with Jovu by Amplication</b></a>
+    <h4>Land your ideal job with our job application AI. Automatically apply to hundreds of engineering jobs every week! Join ApplyPass to get 100 free applications.</h4>
+    <p>ApplyPass is an AI-powered job search tool that gets you more job interviews. ApplyPass submits 200-400 tailored job applications on your behalf every month. This tool offers the first 100 job applications for free.
+
+ApplyPass.com has generated thousands of interviews for engineers, with an average response rate that''s 40% higher than the industry average.</p>
+    <a href="https://thataicollection.com/redirect/applypass" target="_blank"><b>Get Started with ApplyPass</b></a>
     <br />
 </div>
 
@@ -143,6 +145,26 @@ Get the PRO plan for $59.9 instead of $79.9 by using this code: THEAICLCTN</p>
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### TimeSkip
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-timeskip.webp" alt="TimeSkip">
+
+#### TimeSkip is the ultimate Chrome extension for generating SEO-optimized chapters.
+
+
+[Visit](https://thataicollection.com/redirect/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+The best YouTube SEO tool designed to generate SEO-optimized chapters effortlessly. 
+
+✨ KEY FEATURES:
+- FASTEST CHAPTER GENERATION: Generate chapters for YouTube videos directly within the player in 5 seconds on average for a 1-hour video, optimizing your workflow.
+- SEO-OPTIMIZED TITLES: Craft chapter titles with long-tail keywords to boost your video’s visibility and search rankings.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/timeskip?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SmoothAI.chat
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smoothai-chat.webp" alt="SmoothAI.chat">
 
@@ -244,22 +266,6 @@ MyMap AI PDF Summarizer: your smart solution for condensing lengthy documents in
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/brev-ai-ai-music-generator-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VirtualReception.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-virtualreception-ai.webp" alt="VirtualReception.AI">
-
-#### Your AI Answering Service. Never Miss a Call.
-
-
-[Visit](https://thataicollection.com/redirect/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-VirtualReception.AI is a state-of-the-art virtual receptionist service designed to revolutionize your appointment scheduling process and elevate customer satisfaction. Perfect for small business owners, healthcare providers, and service-based professionals, our AI-driven receptionist ensures that your scheduling needs are handled with unmatched precision and efficiency.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/virtualreception-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
