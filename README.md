@@ -61,7 +61,7 @@ Translations:
     <h4>Grow Organic Traffic with AI Generated Blog Posts</h4>
     <p>Blogodile generates your AI blog fully on auto-pilot. Just describe your niche and let Blogodile suggest blog post topics that fit your target audience. Then let it generate blog posts with images. You can even integrate it directly into your nextjs project with our npm package.
 
-The Premium version allows you to make them non-AI detectable so Google things they were written by real humans.</p>
+The Premium version allows you to make them non-AI-detectable so Google things they were written by real humans.</p>
     <a href="https://thataicollection.com/redirect/blogodile-🐊-ai-blogs" target="_blank"><b>Get Started with Blogodile 🐊 AI Blogs</b></a>
     <br />
 </div>
@@ -1106,7 +1106,7 @@ CodiumAI analyzes your code and generates meaningful tests to catch bugs before 
 
 [Visit](https://thataicollection.com/redirect/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Create documentaion structures, Generate code explanations and Enhance document visibility with Swimm AI
+Create documentation structures, Generate code explanations and Enhance document visibility with Swimm AI
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/swimm-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1132,7 +1132,7 @@ Create documentaion structures, Generate code explanations and Enhance document 
 
 Blogodile generates your AI blog fully on auto-pilot. Just describe your niche and let Blogodile suggest blog post topics that fit your target audience. Then let it generate blog posts with images. You can even integrate it directly into your nextjs project with our npm package.
 
-The Premium version allows you to make them non-AI detectable so Google things they were written by real humans.
+The Premium version allows you to make them non-AI-detectable so Google things they were written by real humans.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/blogodile-🐊-ai-blogs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1338,7 +1338,7 @@ Example of some tools: Privacy Policy Generator, Screenshots, Detect Fonts, Chat
 
 
 ### Forewrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-forewrite.webp" alt="Forewrite">
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-Forewrite.webp" alt="Forewrite">
 
 #### Forewrite: Top AI Writer, Content Generator & Assistant
 
@@ -1354,8 +1354,8 @@ Create and Optimize all types of Content, Images, Code, AI Voiceover, Speech to 
 <br />
 
 
-### Creative QR codes using AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
+### Creative QR Codes Using AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR Codes Using AI">
 
 #### Turn your link into artistic QR using AI, and increase conversion
 
@@ -1547,7 +1547,7 @@ Embolden uses AI to help you write everything from emails to product description
 
 [Visit](https://thataicollection.com/redirect/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-Gizzmo is a powerful WordPress plugin that simplifies the process of creating Amazon affiliate articles. With just a few clicks, you can generate fully optimised content, including product reviews, roundups, and gift guides. It''s a game-changer for affiliate marketers!
+Gizzmo is a powerful WordPress plugin that simplifies the process of creating Amazon affiliate articles. With just a few clicks, you can generate fully optimized content, including product reviews, roundups, and gift guides. It''s a game-changer for affiliate marketers!
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/gizzmo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1579,7 +1579,7 @@ Get your own AI Shopping Assistant live within 1 minute. Transform your store wi
 
 [Visit](https://thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-With DoMyShoot, you can instantly upgrade your eCommerce business with professional-looking product photos. Easily use the app''s innovative features to create custom content for your brand - no experience required! Guide yourself through a photoshoot using just your smartphone and let our AI technology handle the rest of the process, turning everyday products into photo realistic images that are sure to take marketing strategies up a notch.
+With DoMyShoot, you can instantly upgrade your eCommerce business with professional-looking product photos. Easily use the app''s innovative features to create custom content for your brand - no experience required! Guide yourself through a photoshoot using just your smartphone and let our AI technology handle the rest of the process, turning everyday products into photo-realistic images that are sure to take marketing strategies up a notch.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -1898,7 +1898,7 @@ Visualize your product designs before going to production. Create realistic-look
 
 [Visit](https://thataicollection.com/redirect/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-FashionAdvisor is an AI based on GPT3 which will answer all your fashion related questions instantly for free
+FashionAdvisor is an AI based on GPT3 which will answers all your fashion related questions instantly for free
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/fashionadvisorai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -2047,20 +2047,20 @@ Ask deep questions and get answers from William Shakespeare, Friedrich Nietzsche
 <br />
 
 
-### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+### DreamGen: AI role-playing and story-writing
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and story-writing">
 
-#### DreamGen: AI role-playing and strory-writing
+#### DreamGen: AI role-playing and story-writing
 
 
-[Visit](https://thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/dreamgen:-ai-role-playing-and-story-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 AI role-playing and story-writing where the only limit is your imagination, nor arbitrary filters.
 
 Jump right into one of our scenarios, or create your own. Talk with characters, explore fantasy realms, and more. No rules, no restrictions.
 
 
-[More Information and Pricing](https://thataicollection.com/en/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/en/application/dreamgen:-ai-role-playing-and-story-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3402,7 +3402,7 @@ Transform your business with Sintra AI Helpers. Experience the next era of work 
 ### guidde
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
 
-#### Magically Create Stunning Training Meterial, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI.
+#### Magically Create Stunning Training Material, Feature Notes, SOPs, Onboarding Guides, How-to Guides, FAQs With AI.
 
 
 [Visit](https://thataicollection.com/redirect/guidde?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3653,7 +3653,7 @@ All-in-one AI photo enhancer to enhance photo quality by automatically denoising
 
 Vidnoz AI Headshot Generator is an online AI headshot generator, a revolutionary tool that
 transforms your selfies into high-quality headshots without expensive photo shoots. Simply
-upload a few daily photos and let Vidnoz''s AI algorithms work their magic, seamlessly blending
+upload a few daily photos and let Vidnoz's AI algorithms work their magic, seamlessly blending
 your face onto a variety of professional backdrops and clothing options. 
 
 
@@ -3705,7 +3705,7 @@ SplashAI is like an assistant, It helps you get ideas super fast with search fun
 ### NSFW JS
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
 
-#### NSFW Js - Client-side indecent content checking.
+#### NSFW Js - Client-side inappropriate content checking.
 
 
 [Visit](https://thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
@@ -3828,7 +3828,7 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 <br />
 
 
-### ChatPlaygroun AI
+### ChatPlayground AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatplaygroun-ai.webp" alt="ChatPlaygroun AI">
 
 #### Achieve Better AI Answers 73% of the Time with Multiple Chatbots
@@ -3893,8 +3893,8 @@ MyMap AI PDF Summarizer: your smart solution for condensing lengthy documents in
 <br />
 
 
-### MyMap Book Summerizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
+### MyMap Book Summarizer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summarizer">
 
 #### MyMap.AI Book Summarizer - Digest the essence of the book by bullet points or mind maps using AI.
 
