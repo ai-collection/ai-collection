@@ -5500,6 +5500,8 @@ BizPlanner AI is an AI business plan generator that simplifies the creation of d
 
 <img align="left" width="240" src="https://res.cloudinary.com/dfhtr1rwo/image/upload/v1753090331/keploy-logo-full_xw3957.png" alt="Rytr">
 
+#### Keploy AI - The best AI powered Testing platform
+
 [Visit](https://keploy.io)
 
 Vertical AI Agent, built specifically for testing. Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and VSCode, covering what matters. It also offers AI-powered API testing, automatically generating test cases based on your API schemas.
