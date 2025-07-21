@@ -147,6 +147,7 @@ Video & Image Generation to the World
 - 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
+-    [Testing] (#testing)
 ## Latest Additions to AI Collection
 ### Everneed AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
@@ -5493,6 +5494,19 @@ BizPlanner AI is an AI business plan generator that simplifies the creation of d
 
 
 [See All ✍️ Writing Assistant Applications on AI Collection](https://thataicollection.com/en/categories/writing-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+### Testing
+### Keploy
+
+<img align="left" width="240" src="https://res.cloudinary.com/dfhtr1rwo/image/upload/v1753090331/keploy-logo-full_xw3957.png" alt="Rytr">
+
+[Visit](https://keploy.io)
+
+Vertical AI Agent, built specifically for testing. Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and VSCode, covering what matters. It also offers AI-powered API testing, automatically generating test cases based on your API schemas.
+
+[More Information and Pricing] (https://keploy.io/pricing)
+
+
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
