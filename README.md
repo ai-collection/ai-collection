@@ -162,6 +162,7 @@ The first all-in-one AI platform to easily build fully functioning apps - withou
 - 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
+-    [Testing] (#testing)
 ## Latest Additions to AI Collection
 ### VoiSpark
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voispark.webp" alt="VoiSpark">
@@ -5511,6 +5512,21 @@ AI Paraphrasing Tool by Leap AI is your go-to solution for effortlessly rephrasi
 
 
 [See All ✍️ Writing Assistant Applications on AI Collection](https://thataicollection.com/en/categories/writing-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+### Testing
+### Keploy
+
+<img align="left" width="240" src="https://res.cloudinary.com/dfhtr1rwo/image/upload/v1753090331/keploy-logo-full_xw3957.png" alt="Rytr">
+
+#### Keploy AI - The best AI powered Testing platform
+
+[Visit](https://keploy.io)
+
+Vertical AI Agent, built specifically for testing. Keploy provides an AI-powered Unit Testing Agent that generates stable, useful unit tests directly in your GitHub PRs and VSCode, covering what matters. It also offers AI-powered API testing, automatically generating test cases based on your API schemas.
+
+[More Information and Pricing] (https://keploy.io/pricing)
+
+
 
 <!--lint ignore double-link-->
 **[⬆ Back to Index](#index)**
