@@ -1391,6 +1391,15 @@ Experience seamless engagement with our artistic QR codes – a captivating fusi
 
 <br />
 
+### AI Flow Chat
+<img align="left" width="240" src="https://github.com/user-attachments/assets/01cf7fbd-24b6-40b2-b173-201c3b705484" alt="AI Flow Chat"/>
+
+#### Automated custom AI Content
+Automate repetitive AI tasks by allowing users to build, chain, and reuse AI workflows through a no-code visual editor. Ideal for marketers, writers, analysts, and creators seeking scalable AI automation without technical complexity.
+
+[More Information and Pricing](https://thataicollection.com/en/application/ai-flow-chat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+<br />
+
 
 [See All 🧰 Creators Toolkit Applications on AI Collection](https://thataicollection.com/en/categories/creators-toolkit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
