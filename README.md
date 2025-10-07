@@ -5194,6 +5194,21 @@ Create AI-generated videos quickly using simple text. Amazing Multi-Language sup
 
 <br />
 
+### Sora 2 Video Generator
+<img align="left" width="240" src="SCREENSHOT_PENDING" alt="Sora 2 Video Generator">
+
+#### Turn Text or Images Into Realistic AI Videos With OpenAI Sora 2
+
+
+[Visit](https://thataicollection.com/redirect/sora-2-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sora 2 lets you turn text or images into realistic short videos with OpenAI's Sora 2 model. Features include text-to-video generation, image-to-video conversion, watermark removal, and invite code management. Perfect for creative applications and social media content creation.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/sora-2-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
 
 ### Klap App
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-klap-app.webp" alt="Klap App">
@@ -5509,4 +5524,8 @@ Smodin provides all-in-one writing essentials. Writing and homework assistance p
 **[⬆ Back to Index](#index)**
 
 ---
+
+
+
+
 
