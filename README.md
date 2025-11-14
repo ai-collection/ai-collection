@@ -158,6 +158,10 @@ This extension automatically fetches the matching Grokipedia entry and displays 
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+
+### Data Formats / Serialization
+- [TOON PHP Lite](https://github.com/manojrammurthy/toon-php-lite) – Lightweight PHP encoder/decoder for TOON, a human-readable and LLM-friendly structured data format designed to reduce JSON parsing errors in AI pipelines.
+
 ### Elysiatools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elysiatools.webp" alt="Elysiatools">
 
