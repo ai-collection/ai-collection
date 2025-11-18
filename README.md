@@ -3384,6 +3384,21 @@ Transform your business with Sintra AI Helpers. Experience the next era of work 
 
 <br />
 
+### AI Browser
+<img align="left" width="240" src="https://www.aibrowser.surf/assets/og.jpg" alt="AI Browser">
+
+#### AI Browser - Prompt based browser automation platform
+
+[Visit](https://aibrowser.surf)
+
+Automate web with prompts
+AI Browser lets people automate web browser with just prompts to get a task done.
+
+[More Information and Pricing](https://aibrowser.surf/pricing)
+
+<br />
+
+
 
 [See All 🧞‍♂️ Organization & Automation Applications on AI Collection](https://thataicollection.com/en/categories/organization-and-automation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
