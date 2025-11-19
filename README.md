@@ -152,55 +152,9 @@ This extension automatically fetches the matching Grokipedia entry and displays 
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
-### codeflying
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codeflying.webp" alt="codeflying">
 
-#### CodeFlying – Vibe Coding App Builder | Create Full-Stack Apps by Chatting with AI
-
-
-[Visit](https://thataicollection.com/redirect/codeflying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Join the era of vibe coding — where you just tell the AI your idea and get a complete app. CodeFlying enables full-stack app creation via chat in minutes
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/codeflying?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### XImagine.io：Free Grok Imagine Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ximagine-io：free-grok-imagine-video-generator.webp" alt="XImagine.io：Free Grok Imagine Video Generator">
-
-#### Generate viral videos and images for free with the Grok Imagine video generator — including the dynamic Spicy Mode for added creativity.
-
-
-[Visit](https://thataicollection.com/redirect/ximagine-io：free-grok-imagine-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-XImagine.io is a free Grok Imagine video generator that transforms text or images into dynamic, high-impact motion clips. Powered by Grok Imagine v0.9, it ensures smooth transitions, consistent character identity, synchronized sound, and artistic visuals. With modes like Normal, Fun, and Spicy, creators can easily produce cinematic videos, surreal experiments, or viral content.
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/ximagine-io：free-grok-imagine-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Seedance 2
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seedance-2.webp" alt="Seedance 2">
-
-#### Create stunning AI videos with Seedance 2.0. Transform images and text into cinematic videos with advanced motion synthesis and professional quality.
-
-
-[Visit](https://thataicollection.com/redirect/seedance-2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Experience groundbreaking AI video generation technology that delivers 1080p cinematic quality with advanced motion synthesis, multi-shot storytelling, lightning-fast generation, and unparalleled realism.
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/en/application/seedance-2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
+### Data Formats / Serialization
+- [TOON PHP Lite](https://github.com/manojrammurthy/toon-php-lite) – Lightweight PHP encoder/decoder for TOON, a human-readable and LLM-friendly structured data format designed to reduce JSON parsing errors in AI pipelines.
 
 ### Elysiatools
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elysiatools.webp" alt="Elysiatools">
