@@ -4628,6 +4628,20 @@ Speech enhancement makes voice recordings sound as if they were recorded in a pr
 <br />
 
 
+### ClawdTalk
+<img align="left" width="240" src="https://clawdtalk.com/assets/logo.svg" alt="ClawdTalk">
+
+#### ClawdTalk - Voice AI tool that adds phone calling to AI agents, powered by Telnyx
+
+[Visit](https://clawdtalk.com)
+
+Voice AI tool that adds phone calling capability to AI agents. Powered by Telnyx for telephony, enables call your AI agent from any phone with deep tool integration for calendar, Jira, web search, and more.
+
+[More Information and Pricing](https://github.com/team-telnyx/clawdtalk-client)
+
+<br />
+
+
 [See All 📢 Speech Applications on AI Collection](https://thataicollection.com/en/categories/speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
