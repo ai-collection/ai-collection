@@ -5190,6 +5190,21 @@ BeatViz AI: The ultimate, all-in-one AI music and video generator. Turn your ide
 
 <br />
 
+### Sora 2 Video Generator
+<img align="left" width="240" src="SCREENSHOT_PENDING" alt="Sora 2 Video Generator">
+
+#### Turn Text or Images Into Realistic AI Videos With OpenAI Sora 2
+
+
+[Visit](https://thataicollection.com/redirect/sora-2-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sora 2 lets you turn text or images into realistic short videos with OpenAI's Sora 2 model. Features include text-to-video generation, image-to-video conversion, watermark removal, and invite code management. Perfect for creative applications and social media content creation.
+
+
+[More Information and Pricing](https://thataicollection.com/en/application/sora-2-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
 
 ### SellerPic AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
@@ -5496,4 +5511,8 @@ AI Paraphrasing Tool by Leap AI is your go-to solution for effortlessly rephrasi
 **[⬆ Back to Index](#index)**
 
 ---
+
+
+
+
 
