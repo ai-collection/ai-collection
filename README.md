@@ -1059,6 +1059,22 @@ Dynamiq is a platform built for engineers and data scientists to build, deploy, 
 <br />
 
 
+### Opik
+<img align="left" width="240" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Opik">
+
+#### Open-source LLM observability, tracing, and evaluation platform
+
+
+[Visit](https://www.comet.com/site/products/opik/)
+
+Opik helps teams trace agent workflows, evaluate LLM outputs, and monitor production behavior with open-source and self-hosted options.
+
+
+[More Information and Pricing](https://github.com/comet-ml/opik)
+
+<br />
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
