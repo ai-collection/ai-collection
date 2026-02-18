@@ -764,6 +764,21 @@ One of the remarkable features of InkAi is its body mapping technology, allowing
 <br />
 
 
+### Gempix2.AI
+<img align="left" width="240" src="https://gempix2.site/logo.png" alt="Gempix2.AI">
+
+#### Gempix2 (Nano Banana 2) | Free AI Image Generation and Editing Platform
+
+[Visit](https://gempix2.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Gempix2 is powered by the second-generation Nano Banana model, offering free AI image generation and editing. Create professional images with text-to-image generation, apply AI-powered style transformations, and generate videos from text or images. Completely free with no registration required - democratizing access to cutting-edge AI generation technology.
+
+[More Information and Pricing](https://gempix2.site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+
 [See All 🌄 Art & Image Generator Applications on AI Collection](https://thataicollection.com/en/categories/art-and-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
