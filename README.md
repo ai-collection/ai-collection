@@ -1132,6 +1132,20 @@ Dynamiq is a platform built for engineers and data scientists to build, deploy, 
 
 <br />
 
+### CodeFlash.AI
+
+<img align="left" width="240" src="https://camo.githubusercontent.com/65bcb14ee5e49b7406ddd454eedcafefe3fcba74b14b1fb67f53ee320a2de911/68747470733a2f2f692e706f7374696d672e63632f476d5052433532742f436f6465666c6173682d62616e6e65722e706e67" alt="CodeFlash.AI">
+
+#### Ship Blazing-Fast Python Code — Every Time
+
+[Visit](https://www.codeflash.ai/)
+
+CodeFlash.AI automatically optimizes Python code for **peak performance with verified correctness**. It integrates into GitHub pull requests, catches bottlenecks, and provides merge-ready optimized code — helping teams ship faster, reduce cloud costs, and avoid manual tuning.
+
+[More Information and Pricing](https://www.codeflash.ai/#pricing)
+
+<br /> 
+
 
 [See All 💻 Code & Database Assistant Applications on AI Collection](https://thataicollection.com/en/categories/code-and-database-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
