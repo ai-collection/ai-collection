@@ -4737,6 +4737,19 @@ generar un nombre comercial corto y de marca utilizando inteligencia artificial.
 
 <br />
 
+### HumanText.pro
+<img align="left" width="240" src="https://humantext.pro/og-image.png" alt="HumanText.pro">
+
+#### HumanText.pro — Humanizador y Detector de Texto IA
+
+[Visit](https://humantext.pro/es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transforma texto generado por IA en escritura natural y humana. Verifica contenido con detección IA multimodelo. Compatible con más de 50 idiomas. Gratis: 250 palabras sin registro.
+
+[More Information and Pricing](https://humantext.pro/es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
 
 [See All 📝 Texto Applications on AI Collection](https://thataicollection.com/es/categories/text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
