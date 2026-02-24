@@ -4737,6 +4737,18 @@ générer un nom commercial court et personnalisable à l''aide de l''intelligen
 
 <br />
 
+### HumanText.pro
+<img align="left" width="240" src="https://humantext.pro/og-image.png" alt="HumanText.pro">
+
+#### HumanText.pro — Humaniseur et Détecteur de Texte IA
+
+[Visit](https://humantext.pro/fr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transformez le texte généré par l'IA en écriture naturelle et humaine. Vérifiez le contenu avec la détection IA multi-modèle. Plus de 50 langues prises en charge. Gratuit : 250 mots sans inscription.
+
+[More Information and Pricing](https://humantext.pro/fr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 [See All 📝 Texte Applications on AI Collection](https://thataicollection.com/fr/categories/text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 

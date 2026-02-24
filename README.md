@@ -4652,6 +4652,18 @@ Jot automagically generates infinite ad copy variations for you using AI. Stream
 
 <br />
 
+### HumanText.pro
+<img align="left" width="240" src="https://humantext.pro/og-image.png" alt="HumanText.pro">
+
+#### HumanText.pro - AI Text Humanizer & Detector
+
+[Visit](https://humantext.pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Transform AI-generated text into natural, human-sounding writing. Check content with multi-model AI detection. Supports 50+ languages. Free: 250 words without signup.
+
+[More Information and Pricing](https://humantext.pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
 
 ### Namewizard
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">

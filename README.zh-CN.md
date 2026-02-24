@@ -4738,6 +4738,19 @@ Jot 使用 AI 自动为您生成无限的广告文案变体。使用人工智能
 
 <br />
 
+### HumanText.pro
+<img align="left" width="240" src="https://humantext.pro/og-image.png" alt="HumanText.pro">
+
+#### HumanText.pro — AI文本人性化工具和检测器
+
+[Visit](https://humantext.pro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将AI生成的文本转化为自然流畅的人类写作。通过多模型AI检测验证内容。支持50+种语言。免费：250字，无需注册。
+
+[More Information and Pricing](https://humantext.pro/zh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
 
 [See All 📝 文本 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/text?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
