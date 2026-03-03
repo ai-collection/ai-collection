@@ -3884,6 +3884,23 @@ Elicit uses machine learning to help you with your research: find papers, extrac
 <br />
 
 
+
+### CiteMe
+<img align="left" width="240" src="https://citeme.app/og-image.png" alt="CiteMe">
+
+#### AI-Powered Academic Citation Generator
+
+
+[Visit](https://citeme.app)
+
+AI-powered academic citation generator that searches 11+ databases (OpenAlex, PubMed, Semantic Scholar, CrossRef) and formats references in 40+ citation styles (APA, ABNT, MLA, Chicago, Vancouver). Available as web app, Chrome extension, Google Docs add-on, and Word add-in. Free tier includes 20 citations/month.
+
+
+[More Information and Pricing](https://citeme.app)
+
+<br />
+
+
 [See All 🎓 Research Assistant Applications on AI Collection](https://thataicollection.com/en/categories/research-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
