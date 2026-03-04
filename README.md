@@ -2385,6 +2385,22 @@ Personalised gift ideas for every occasion!
 ---
 
 ## Healthcare
+### DNA Claude Analysis
+<img align="left" width="240" src="https://github.com/shmlkv/dna-claude-analysis/raw/main/webpage/screenshot.png" alt="DNA Claude Analysis">
+
+#### AI-Powered Personal Genome Analysis Toolkit
+
+
+[Visit](https://github.com/shmlkv/dna-claude-analysis)
+
+DNA Claude Analysis is an AI-powered personal genome analysis toolkit that analyzes raw DNA data across 17 categories including health risks, ancestry, nutrition, pharmacogenomics, and longevity. Generates a terminal-style HTML dashboard with detailed genetic insights and risk assessments.
+
+
+[More Information and Pricing](https://github.com/shmlkv/dna-claude-analysis)
+
+<br />
+
+
 ### Dreamore
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamore.webp" alt="Dreamore">
 
