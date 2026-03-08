@@ -999,6 +999,22 @@ DreamPal is a chatbot blending AI chat with immersive roleplay. Users can intera
 <br />
 
 
+### OpenClaw Easy
+<img align="left" width="240" src="https://openclaw-easy.com/og-image.png" alt="OpenClaw Easy">
+
+#### Free Desktop App to Connect AI/LLMs to WhatsApp, Telegram, Slack & Discord
+
+
+[Visit](https://openclaw-easy.com)
+
+OpenClaw Easy is a free desktop app that connects AI models like ChatGPT, Claude, and Ollama to your messaging platforms — WhatsApp, Telegram, Slack, and Discord. Run it on your own computer with a simple one-click setup. Built on top of the open-source OpenClaw project.
+
+
+[More Information and Pricing](https://openclaw-easy.com)
+
+<br />
+
+
 [See All 🤖💬 Chat Bot Applications on AI Collection](https://thataicollection.com/en/categories/chat-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
