@@ -282,7 +282,8 @@ MoneyCoach is a personal finance app that helps you manage your money, budget, a
 
 ### StockGPT
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
-
+### [ByteCalculators](https://bytecalculators.com/deepseek-ai-token-cost-calculator)
+- **AI Economics Simulator for DeepSeek & GPT-5.2.** Ad-free finance tool for developers and infra teams to calculate real-world token costs, factoring in the "Retry Tax", context caching, and batch pricing.
 #### AI-Powered Search Engine
 
 
