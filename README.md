@@ -3360,6 +3360,21 @@ Albus an AI platform that leverages the power of ChatGPT to assist HR employees 
 
 <br />
 
+### AI Browser
+<img align="left" width="240" src="https://www.aibrowser.surf/assets/og.jpg" alt="AI Browser">
+
+#### AI Browser - Prompt based browser automation platform
+
+[Visit](https://aibrowser.surf)
+
+Automate web with prompts
+AI Browser lets people automate web browser with just prompts to get a task done.
+
+[More Information and Pricing](https://aibrowser.surf/pricing)
+
+<br />
+
+
 
 ### Sintra
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
