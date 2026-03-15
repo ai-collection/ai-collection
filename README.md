@@ -258,6 +258,16 @@ Seedance 2.0 Model by ByteDance Seedance 2.0 Pro delivers 1080p cinematic qualit
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/seedance-2-0-ai-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+### PopcornAI
+<img align="left" width="240" src="https://popcornai.art/logo.png" alt="PopcornAI">
+
+#### PopcornAI — AI Video and Image Generator for Product Marketing
+
+[Visit](https://popcornai.art/)
+
+PopcornAI helps creators, ecommerce sellers, and growth teams turn prompts and product images into short branded videos, launch visuals, and campaign-ready creative assets.
+
+[More Information and Pricing](https://popcornai.art/)
 
 <br />
 
