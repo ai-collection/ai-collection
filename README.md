@@ -3377,6 +3377,22 @@ Transform your business with Sintra AI Helpers. Experience the next era of work 
 <br />
 
 
+### Fazm
+<img align="left" width="240" src="https://fazm.ai/og-image.png" alt="Fazm">
+
+#### The Fastest AI Computer Agent for macOS
+
+
+[Visit](https://fazm.ai)
+
+Fazm is an open-source AI desktop agent for macOS that takes voice commands and controls your entire computer - clicking, typing, navigating, writing code, managing documents. Uses direct DOM control at native speed instead of slow screenshot loops. Builds a personal knowledge graph from everything you do. Local-first, free, and open source.
+
+
+[More Information and Pricing](https://fazm.ai)
+
+<br />
+
+
 [See All 🧞‍♂️ Organization & Automation Applications on AI Collection](https://thataicollection.com/en/categories/organization-and-automation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
