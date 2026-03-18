@@ -1127,6 +1127,22 @@ JustCopy.ai lets anyone go from idea to live website in minutes. Copy any existi
 <br />
 
 
+### AI Developer Toolkit
+<img align="left" width="240" src="https://money-monkey-26.github.io/ai-dev-toolkit/og-image.png" alt="AI Developer Toolkit">
+
+#### 32+ Production-Tested AI Prompts for Code Review, Debugging, Testing & Architecture
+
+
+[Visit](https://money-monkey-26.github.io/ai-dev-toolkit/)
+
+AI Developer Toolkit is a collection of 32+ battle-tested prompts and templates for Claude Code and AI-assisted development. Covers code review, security audit, debugging, testing, architecture design, and more. Includes an open-source MCP server (prompt-toolkit-mcp) for seamless IDE integration.
+
+
+[More Information and Pricing](https://money-monkey-26.github.io/ai-dev-toolkit/)
+
+<br />
+
+
 [See All 💻 Code & Database Assistant Applications on AI Collection](https://thataicollection.com/en/categories/code-and-database-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
