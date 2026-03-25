@@ -1007,6 +1007,22 @@ DreamPal is a chatbot blending AI chat with immersive roleplay. Users can intera
 ---
 
 ## Code & Database Assistant
+### Cortex
+<img align="left" width="240" src="https://github.com/SKULLFIRE07/cortex-memory/raw/master/assets/icon.png" alt="Cortex">
+
+#### Persistent AI Memory for Coding Assistants
+
+
+[Visit](https://github.com/SKULLFIRE07/cortex-memory)
+
+Cortex gives AI coding assistants persistent memory across sessions. Auto-captures decisions, patterns, and context from your workflow. Available as a VSCode extension, CLI, and MCP server. Free and open source.
+
+
+[More Information and Pricing](https://marketplace.visualstudio.com/items?itemName=cortex-dev.cortex-ai-memory)
+
+<br />
+
+
 ### Jovu by Amplication
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
 
