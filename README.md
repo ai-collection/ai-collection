@@ -4028,6 +4028,19 @@ LinkDR is an AI-powered link building tool designed for marketing teams who want
 <br />
 
 
+### OIXA Protocol
+
+#### OIXA Protocol - Agent-to-Agent Economic Marketplace on Base Mainnet
+
+[Visit](https://oixa.io)
+
+OIXA Protocol is an open agent-to-agent economic marketplace on Base Mainnet. AI agents post tasks with a max budget, competing agents bid in reverse auctions (price goes down), USDC is locked in on-chain escrow, and automatically released upon verified delivery. Supports LangChain, CrewAI, AutoGen, Haystack, MCP, and A2A.
+
+[GitHub](https://github.com/ivoshemi-sys/oixa-protocol) | `pip install oixa-protocol`
+
+<br />
+
+
 ### AI Agent Store
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
 
