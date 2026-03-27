@@ -1247,6 +1247,22 @@ Content Raptor is a powerful content management and SEO optimization tool that e
 <br />
 
 
+### GEOScore
+<img align="left" width="240" src="https://geoscoreai.com/og-image.png" alt="GEOScore">
+
+#### AI-Powered Scanner for AI Search Engine Visibility
+
+
+[Visit](https://geoscoreai.com)
+
+GEOScore is an AI-powered scanner that checks how your website performs in AI search engines like ChatGPT, Perplexity, and Gemini. It provides a free scan with 11 technical checks specifically designed to measure and improve your AI search visibility, helping you optimize for the new era of generative engine optimization (GEO).
+
+
+[More Information and Pricing](https://geoscoreai.com)
+
+<br />
+
+
 [See All 📠 Content Generation & Seo Applications on AI Collection](https://thataicollection.com/en/categories/content-generation-and-seo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
