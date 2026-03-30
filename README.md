@@ -1128,6 +1128,22 @@ JustCopy.ai lets anyone go from idea to live website in minutes. Copy any existi
 <br />
 
 
+### CodeCosts
+<img align="left" width="240" src="https://codecosts.pages.dev/og-image.png" alt="CodeCosts">
+
+#### Side-by-Side Pricing Comparison for AI Coding Tools
+
+
+[Visit](https://codecosts.pages.dev)
+
+Compare pricing across AI coding tools including GitHub Copilot, Cursor, Windsurf, Claude Code, and Gemini Code Assist. Features a free public API for programmatic access to up-to-date plan and pricing data.
+
+
+[More Information and Pricing](https://codecosts.pages.dev)
+
+<br />
+
+
 [See All 💻 Code & Database Assistant Applications on AI Collection](https://thataicollection.com/en/categories/code-and-database-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
