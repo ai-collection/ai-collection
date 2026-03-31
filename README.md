@@ -4137,6 +4137,17 @@ SocLeads is software that scrapes unlimited emails from Instagram, Google Maps, 
 
 ## Search Engines
 ### OpenArt Photo Booth
+### AIfolio.cz
+
+#### Czech AI Tools Directory — Find the Best AI Tools in Czech Language
+
+[Visit](https://aifolio.cz)
+
+AIfolio.cz is the first comprehensive Czech-language AI tools directory. Browse 60+ curated AI tools organized into 10 categories (Writing, Images, Code, Video, Audio, Analytics, Productivity, Chatbots, Marketing, Education) with detailed reviews, pricing in CZK, and workflow templates for Czech users.
+
+
+<br />
+
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-openart-photo-booth.webp" alt="OpenArt Photo Booth">
 
 #### Discover and Generate AI Art - Openart
