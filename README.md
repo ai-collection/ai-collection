@@ -2249,6 +2249,23 @@ Unleash the power of AI in your game design and development. Get bespoke game as
 <br />
 
 
+### Awesome Game Dev AI
+<img align="left" width="240" src="https://opengraph.githubassets.com/1/SeeleAI/awesome-game-dev-ai" alt="Awesome Game Dev AI">
+
+#### Curated list of AI tools for the full game development pipeline
+
+
+[Visit](https://github.com/SeeleAI/awesome-game-dev-ai)
+
+A pipeline-organized curated list covering agent frameworks, 3D asset generation, rigging, motion & animation, scene & world generation, concept art, game promotion, and BGM & sound effects.
+
+
+[More Information](https://github.com/SeeleAI/awesome-game-dev-ai)
+
+<br />
+
+
+
 [See All 🎮 Gaming Applications on AI Collection](https://thataicollection.com/en/categories/gaming?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
