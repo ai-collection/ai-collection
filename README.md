@@ -438,6 +438,7 @@ Plask offers AI motion capture from video, transforming your videos into stunnin
 <br />
 
 
+- [Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. MIT licensed.
 ### TextureLab
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texturelab.webp" alt="TextureLab">
 
