@@ -3598,6 +3598,7 @@ SplashAI is like an assistant, It helps you get ideas super fast with search fun
 
 
 ### All in One Accessibility
+- [Alt Audit](https://altaudit.com) — AI-powered WordPress plugin and SaaS for bulk alt text generation and WCAG image accessibility compliance. Uses Google Gemini. Free tier available.
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
 
 #### AI-powered quick website accessibility compliance solution!
