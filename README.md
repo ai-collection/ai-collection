@@ -1059,6 +1059,22 @@ Whether you''re a seasoned developer or a fresh graduate, Interview Solver provi
 <br />
 
 
+### OpenClaw (即答侠)
+<img align="left" width="240" src="https://interviewasssistant.com/static/images/og-image.png" alt="OpenClaw">
+
+#### Real-time AI Interview Copilot with 700ms Response Time
+
+
+[Visit](https://interviewasssistant.com)
+
+OpenClaw (即答侠) is an AI-powered interview copilot that provides real-time answer suggestions during live interviews. It uses streaming ASR + LLM pipeline to achieve sub-1-second response time. Features include an invisible floating window (undetectable by screen sharing), STAR-format answer frameworks, and support for video interview platforms like Zoom, Teams, and Google Meet. Flat monthly pricing with unlimited usage.
+
+
+[More Information and Pricing](https://interviewasssistant.com)
+
+<br />
+
+
 ### Text2SQL
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
