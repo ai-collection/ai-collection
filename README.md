@@ -3513,6 +3513,22 @@ your face onto a variety of professional backdrops and clothing options.
 ---
 
 ## Plugins & Extensions
+### RemoteOpenClaw
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot_placeholder.webp" alt="RemoteOpenClaw">
+
+#### Open Marketplace for AI Skills and Personas
+
+
+[Visit](https://remoteopenclaw.com)
+
+RemoteOpenClaw is an open marketplace for discovering, sharing, and distributing AI skills and personas built on OpenClaw. It enables developers and AI enthusiasts to discover community-built AI agent skills and personas, share and distribute their own AI skills, and buy and sell premium AI capabilities.
+
+
+[More Information and Pricing](https://remoteopenclaw.com)
+
+<br />
+
+
 ### AIduh
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
