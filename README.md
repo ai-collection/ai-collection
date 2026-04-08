@@ -5248,6 +5248,22 @@ SellerPic is an AI SaaS platform purpose-built for e-commerce sellers, seamlessl
 <br />
 
 
+### Seedance AI
+<img align="left" width="240" src="https://seedancegen.com/og-image.png" alt="Seedance AI">
+
+#### Multi-Model AI Video Generator - Text-to-Video & Image-to-Video
+
+
+[Visit](https://seedancegen.com)
+
+Seedance AI is a multi-model AI video generation platform supporting text-to-video and image-to-video with models including Seedance 2.0, Google Veo 3.1, Grok Imagine, and Wan 2.1. Features include first/last frame control, native audio synthesis, camera control, and up to 1080p output. Free tier available with 200 credits.
+
+
+[More Information and Pricing](https://seedancegen.com/pricing)
+
+<br />
+
+
 [See All 🎬 Video Generation & Editing Applications on AI Collection](https://thataicollection.com/en/categories/video-generation-and-editing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
