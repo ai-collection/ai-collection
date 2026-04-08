@@ -1,4 +1,5 @@
 # <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+- [Alt Audit](https://wordpress.org/plugins/alt-audit/) — AI-powered WordPress plugin and SaaS for bulk alt text generation and WCAG image accessibility compliance. Uses Google Gemini. Free tier at altaudit.com.
 
 
 <div align="center">
