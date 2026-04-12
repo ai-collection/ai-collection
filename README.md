@@ -5459,6 +5459,22 @@ Never face writer''s block again — from blogs to emails to ad copies, auto-gen
 
 <br />
 
+### C Dance AI
+<img align="left" width="240" src="https://cdance.ai/preview.png" alt="C Dance AI">
+
+#### C Dance AI – Seedance 2.0-Powered Cinematic AI Video Generator
+
+[Visit](https://cdance.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+C Dance AI is an AI video generator that helps you create high-quality cinematic videos, in just a few minutes, at a fraction of traditional production cost!
+
+Generate stunning video content, effortlessly
+Never face complex editing workflows again – from social media reels to product demos to educational tutorials, auto-generate cinematic, audio-synced, and high-quality videos in just a few minutes.
+
+[More Information and Pricing](https://cdance.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
 
 ### Smodin
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
