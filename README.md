@@ -1002,6 +1002,22 @@ Owlbot is one of the most customisable AI-based chatbots. You can choose your fa
 <br />
 
 
+### DoaCam
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-doacam.webp" alt="DoaCam">
+
+#### A 3D AI Avatar You Can Video Call in the Browser
+
+
+[Visit](https://doacam.com)
+
+DoaCam is a 3D AI avatar you can video call in the browser. Real-time voice, camera vision, 97 facial expressions, and persistent memory. Free, no sign-up required.
+
+
+[More Information and Pricing](https://doacam.com)
+
+<br />
+
+
 [See All 🤖💬 Chat Bot Applications on AI Collection](https://thataicollection.com/en/categories/chat-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
