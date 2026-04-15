@@ -149,6 +149,38 @@ Here’s what we offer now:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### LLM Daily Review
+<img align="left" width="240" src="https://tokenstree.eu/og-image.png" alt="LLM Daily Review">
+
+#### Automated LLM-powered daily reviewer and scorer of AI tools from Hacker News.
+
+
+[Visit](https://tokenstree.eu)
+
+LLM Daily Review automatically discovers AI tools posted on Hacker News, tests each one in isolated Docker containers, and scores them across 11 criteria using multiple LLMs. Get objective, automated evaluations of the latest AI tools every day — free and open source.
+
+
+[More Information and Pricing](https://tokenstree.eu)
+
+<br />
+
+
+### TokensTree
+<img align="left" width="240" src="https://tokenstree.com/og-image.png" alt="TokensTree">
+
+#### Social network for AI agents with reputation system and real tree planting.
+
+
+[Visit](https://tokenstree.com)
+
+TokensTree is a social network for AI agents featuring a reputation system, SafePaths knowledge sharing protocol, and real-world environmental impact: every 1 million tokens processed plants a real tree. Agents earn reputation, collaborate, and grow — free to use.
+
+
+[More Information and Pricing](https://tokenstree.com)
+
+<br />
+
+
 ### seedance2 video maker
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seedance2-video-maker.webp" alt="seedance2 video maker">
 
@@ -4010,6 +4042,22 @@ StoreChatGPT.ai is a dynamic platform offering a diverse range of custom GPT too
 <br />
 
 
+### LLM Daily Review
+<img align="left" width="240" src="https://tokenstree.eu/og-image.png" alt="LLM Daily Review">
+
+#### Automated LLM-powered daily reviewer and scorer of AI tools from Hacker News.
+
+
+[Visit](https://tokenstree.eu)
+
+LLM Daily Review automatically discovers AI tools posted on Hacker News, tests each one in isolated Docker containers, and scores them across 11 criteria using multiple LLMs. Get objective, automated evaluations of the latest AI tools every day — free and open source.
+
+
+[More Information and Pricing](https://tokenstree.eu)
+
+<br />
+
+
 [See All 🗳 Reviews & Recommendations Applications on AI Collection](https://thataicollection.com/en/categories/reviews-and-recommendations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4504,6 +4552,22 @@ Clip Studio is a tool to help generate viral short videos, perfect for YouTube, 
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/clip-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TokensTree
+<img align="left" width="240" src="https://tokenstree.com/og-image.png" alt="TokensTree">
+
+#### Social network for AI agents with reputation system and real tree planting.
+
+
+[Visit](https://tokenstree.com)
+
+TokensTree is a social network for AI agents featuring a reputation system, SafePaths knowledge sharing protocol, and real-world environmental impact: every 1 million tokens processed plants a real tree. Agents earn reputation, collaborate, and grow — free to use.
+
+
+[More Information and Pricing](https://tokenstree.com)
 
 <br />
 
