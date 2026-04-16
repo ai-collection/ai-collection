@@ -149,6 +149,38 @@ Here’s what we offer now:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Not Human Search
+<img align="left" width="240" src="https://nothumansearch.ai/og-image.png" alt="Not Human Search">
+
+#### AI Tool Discovery Engine — Search 8,600+ AI Tools & MCP Servers with Agentic Readiness Scoring
+
+
+[Visit](https://nothumansearch.ai)
+
+Not Human Search indexes over 8,600 AI tools and MCP servers, scoring each for agentic readiness across documentation, API availability, and MCP support. Free REST API and MCP server for programmatic access. Discover, compare, and integrate AI tools built for developers and AI agents.
+
+
+[More Information and Pricing](https://nothumansearch.ai)
+
+<br />
+
+
+### AI Dev Jobs
+<img align="left" width="240" src="https://aidevboard.com/og-image.png" alt="AI Dev Jobs">
+
+#### AI & ML Job Board — 5,500+ Jobs from 280+ Companies, Updated Daily
+
+
+[Visit](https://aidevboard.com)
+
+AI Dev Jobs aggregates AI and machine learning job listings from 280+ companies including OpenAI, Anthropic, Google DeepMind, and more. Filter by role, location, salary, and experience level. Free REST API and MCP server for programmatic job search. Updated daily with fresh listings.
+
+
+[More Information and Pricing](https://aidevboard.com)
+
+<br />
+
+
 ### audjust.ai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
 
@@ -2631,6 +2663,22 @@ Have AI explore up to 10 outputs simultaneously and select the best one based on
 <br />
 
 
+### AI Dev Jobs
+<img align="left" width="240" src="https://aidevboard.com/og-image.png" alt="AI Dev Jobs">
+
+#### AI & ML Job Board — 5,500+ Jobs from 280+ Companies, Updated Daily
+
+
+[Visit](https://aidevboard.com)
+
+AI Dev Jobs aggregates AI and machine learning job listings from 280+ companies including OpenAI, Anthropic, Google DeepMind, and more. Filter by role, location, salary, and experience level. Free REST API and MCP server for programmatic job search. Updated daily with fresh listings.
+
+
+[More Information and Pricing](https://aidevboard.com)
+
+<br />
+
+
 [See All 👩‍💼 Human Resources & Resume Applications on AI Collection](https://thataicollection.com/en/categories/human-resources-and-resume?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4251,6 +4299,22 @@ Generate longer and more detailed responses with greater accuracy.
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/you?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Not Human Search
+<img align="left" width="240" src="https://nothumansearch.ai/og-image.png" alt="Not Human Search">
+
+#### AI Tool Discovery Engine — Search 8,600+ AI Tools & MCP Servers with Agentic Readiness Scoring
+
+
+[Visit](https://nothumansearch.ai)
+
+Not Human Search indexes over 8,600 AI tools and MCP servers, scoring each for agentic readiness across documentation, API availability, and MCP support. Free REST API and MCP server for programmatic access. Discover, compare, and integrate AI tools built for developers and AI agents.
+
+
+[More Information and Pricing](https://nothumansearch.ai)
 
 <br />
 
