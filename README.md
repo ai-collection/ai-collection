@@ -1128,6 +1128,21 @@ The first all-in-one AI platform to easily build fully functioning apps - withou
 <br />
 
 
+### Autohand Code CLI
+
+#### Self-evolving autonomous coding agent for the terminal
+
+
+[Visit](https://github.com/autohandai/code-cli)
+
+Autohand Code CLI is a self-evolving autonomous coding agent that runs in your terminal. It uses the ReAct pattern to reason about and modify entire codebases through natural language. Features 40+ built-in tools, multi-LLM support (OpenRouter, Anthropic, OpenAI, Ollama, local models), modular skill system, semantic code search, and VS Code/Zed integration. Apache 2.0 licensed.
+
+
+[More Information and Pricing](https://www.autohand.ai/code/)
+
+<br />
+
+
 [See All 💻 Code & Database Assistant Applications on AI Collection](https://thataicollection.com/en/categories/code-and-database-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
