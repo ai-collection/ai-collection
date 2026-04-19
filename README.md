@@ -507,6 +507,22 @@ Stop losing hours to modeling tools. Generate stunning 3D art with nothing more 
 <br />
 
 
+### SimplexGen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simplexgen.webp" alt="SimplexGen">
+
+#### SimplexGen - AI-Powered 3D Model Generation
+
+
+[Visit](https://simplexgen.com)
+
+SimplexGen uses AI to generate 3D models from text descriptions and images. Create production-ready 3D assets for games, AR/VR, and product visualization with advanced AI generation technology.
+
+
+[More Information and Pricing](https://simplexgen.com)
+
+<br />
+
+
 [See All 🎲 Animation & 3D Modeling Applications on AI Collection](https://thataicollection.com/en/categories/animation-and-3d-modeling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -759,6 +775,22 @@ One of the remarkable features of InkAi is its body mapping technology, allowing
 <br />
 
 
+### AI Art Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-art-generator.webp" alt="AI Art Generator">
+
+#### AI Art Generator - Create Stunning AI-Generated Artwork
+
+
+[Visit](https://ebank.nz)
+
+AI Art Generator lets you create stunning artwork using artificial intelligence. Transform your ideas into beautiful images with state-of-the-art AI models. Generate unique digital art, illustrations, and creative visuals in seconds.
+
+
+[More Information and Pricing](https://ebank.nz)
+
+<br />
+
+
 [See All 🌄 Art & Image Generator Applications on AI Collection](https://thataicollection.com/en/categories/art-and-image-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -997,6 +1029,22 @@ Owlbot is one of the most customisable AI-based chatbots. You can choose your fa
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/owlbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Netwrck
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-netwrck.webp" alt="Netwrck">
+
+#### Netwrck - AI Chat with Characters, Rooms, and Social Features
+
+
+[Visit](https://netwrck.com)
+
+Netwrck is an AI-powered chat platform where users can talk to AI characters, join chat rooms, and engage in social AI interactions. Features include character creation, multiplayer chat rooms, and a variety of AI personalities to chat with.
+
+
+[More Information and Pricing](https://netwrck.com)
 
 <br />
 
@@ -4630,6 +4678,38 @@ With SmallTalk, learners can self-assess their English proficiency level, prepar
 <br />
 
 
+### DictatorFlow
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dictatorflow.webp" alt="DictatorFlow">
+
+#### DictatorFlow - Local Voice Typing with AI Speech Recognition
+
+
+[Visit](https://dictatorflow.com)
+
+DictatorFlow is a desktop voice typing application that uses local AI speech recognition to convert your voice to text. It runs entirely on your device for privacy, supports global hotkeys for quick dictation, and works across all applications with high accuracy.
+
+
+[More Information and Pricing](https://dictatorflow.com)
+
+<br />
+
+
+### Ring.nz
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ring-nz.webp" alt="Ring.nz">
+
+#### Ring.nz - AI Phone Calling and Voice Agent Platform
+
+
+[Visit](https://ring.nz)
+
+Ring.nz is an AI-powered phone calling platform that enables automated voice conversations. Build AI voice agents for customer support, outbound calls, and appointment scheduling with natural-sounding AI voices and intelligent conversation handling.
+
+
+[More Information and Pricing](https://ring.nz)
+
+<br />
+
+
 [See All 📢 Speech Applications on AI Collection](https://thataicollection.com/en/categories/speech?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4746,6 +4826,22 @@ Create forms for all purposes in seconds.Without knowing how to code
 
 
 [More Information and Pricing](https://thataicollection.com/en/application/tally-forms?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Text-Generator.io
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text-generator-io.webp" alt="Text-Generator.io">
+
+#### Unified Text, Vision, and Speech API for Developers
+
+
+[Visit](https://text-generator.io)
+
+Text-Generator.io provides a unified API for text generation, vision, and speech processing. It offers state-of-the-art AI models through a simple API, enabling developers to integrate powerful text generation, image understanding, and speech capabilities into their applications.
+
+
+[More Information and Pricing](https://text-generator.io)
 
 <br />
 
