@@ -1127,6 +1127,22 @@ Dynamiq is a platform built for engineers and data scientists to build, deploy, 
 <br />
 
 
+
+
+### Onepilot
+
+#### Mobile terminal + AI agent IDE for iOS
+
+
+[Visit](https://onepilotapp.com)
+
+Onepilot is an iOS app that SSHes into remote servers so you can run Claude Code, Codex, and other CLI coding tools from your phone. It's a full mobile terminal with a dev IDE layer — GitHub, localhost forwarding, file editing — plus one-click AI agent deployment via OpenClaw.
+
+
+[More Information and Pricing](https://onepilotapp.com)
+
+<br />
+
 [See All 💻 Code & Database Assistant Applications on AI Collection](https://thataicollection.com/en/categories/code-and-database-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
