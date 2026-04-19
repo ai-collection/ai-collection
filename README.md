@@ -105,6 +105,9 @@ Here’s what we offer now:
 <p>If your AI application deserves a spot on this hand-picked list, please talk to me: <a href="mailto: pavel@ai-collection.org">Email Pavel</a></p>
 
 ## Index
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - 🕒 [Latest Additions to AI Collection](#latest-additions-to-ai-collection)
 - 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
