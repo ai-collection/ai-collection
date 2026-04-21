@@ -5496,3 +5496,5 @@ AI-Writer is the most accurate content generation platform, using state-of-the-a
 
 ---
 
+
+- [MealIdeas.ai](https://mealideas.ai/) - AI meal decision assistant. [App Store](https://apps.apple.com/us/app/mealideas-ai/id6760163980)
