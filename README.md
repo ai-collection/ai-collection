@@ -5367,6 +5367,20 @@ Kopage AI Website Builder is a white-label platform, where you can create a webs
 <br />
 
 
+### AI Marcus
+<img align="left" width="240" src="https://aimarcus.eu/logo-social.png" alt="AI Marcus">
+
+#### AI Marcus - AI Website Builder That Generates a Professional Site in 60 Seconds
+
+
+[Visit](https://aimarcus.eu/)
+
+Generate a complete professional website in 60 seconds from a single prompt. Built for Europe with 35 languages and 100+ niche templates (restaurants, salons, plumbers, dentists, lawyers, e-commerce). Includes free hosting, built-in SEO, and a free domain. No design or coding skills required.
+
+
+<br />
+
+
 [See All 🕸 Web Design Applications on AI Collection](https://thataicollection.com/en/categories/web-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
