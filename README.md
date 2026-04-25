@@ -148,6 +148,7 @@ Here’s what we offer now:
 - 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
+| [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes management console with AI assistant for infrastructure queries, cluster operations, and GitOps automation across clouds and edge. | :white_check_mark: |
 ## Latest Additions to AI Collection
 ### gpt image 2
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-image-2.webp" alt="gpt image 2">
