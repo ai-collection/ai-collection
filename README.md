@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=4258" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?message=Number of Generative AI Applications&color=informational&style=flat-square&label=4259" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?message=Number of Categories&color=informational&style=flat-square&label=43" />
@@ -149,6 +149,22 @@ Here’s what we offer now:
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### lean-ctx
+<img align="left" width="240" src="https://opengraph.githubassets.com/7a465fb8ac39516b45cd7414d4cc20f9d5b2271524c1056689036dffec4675af/yvgude/lean-ctx" alt="lean-ctx">
+
+#### Open-source context runtime for AI coding agents — cut token costs 60-99% with MCP, caching, and AST-aware compression
+
+
+[Visit](https://leanctx.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Open-source context runtime for AI coding agents. Reduces token costs by 60-99% through an MCP server with session caching, AST-aware compression, and shell output patterns. Licensed under Apache-2.0.
+
+
+[More Information and Pricing](https://github.com/yvgude/lean-ctx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Deroom AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deroom-ai.webp" alt="Deroom AI">
 
@@ -1014,6 +1030,22 @@ Save your team or customers hours of searching and reading, with instant answers
 ---
 
 ## Code & Database Assistant
+### lean-ctx
+<img align="left" width="240" src="https://opengraph.githubassets.com/7a465fb8ac39516b45cd7414d4cc20f9d5b2271524c1056689036dffec4675af/yvgude/lean-ctx" alt="lean-ctx">
+
+#### Open-source context runtime for AI coding agents — cut token costs 60-99% with MCP, caching, and AST-aware compression
+
+
+[Visit](https://leanctx.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Open-source context runtime for AI coding agents. Reduces token costs by 60-99% through an MCP server with session caching, AST-aware compression, and shell output patterns. Licensed under Apache-2.0.
+
+
+[More Information and Pricing](https://github.com/yvgude/lean-ctx?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Jovu by Amplication
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jovu-by-amplication.webp" alt="Jovu by Amplication">
 
