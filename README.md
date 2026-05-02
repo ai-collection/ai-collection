@@ -150,6 +150,7 @@ Here’s what we offer now:
 - 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
+| [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes management console with AI assistant for infrastructure queries, cluster operations, and GitOps automation across clouds and edge. | :white_check_mark: |
 ## Latest Additions to AI Collection
 ### ChatGPT Plus 充值|中国|PlusGO
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatgpt-plus-充值|中国|plusgo.webp" alt="ChatGPT Plus 充值|中国|PlusGO">
