@@ -106,6 +106,7 @@ Here’s what we offer now:
 
 ## Index
 - 🕒 [Latest Additions to AI Collection](#latest-additions-to-ai-collection)
+- [x711](https://x711.io) — Universal pay-per-use API for AI agents | Web search, price feeds, hive memory, MCP server | Free tier 10 calls/day | x402 USDC payments
 - 📈 [Accounting & Finance](#accounting--finance)
 - 🎲 [Animation & 3D Modeling](#animation--3d-modeling)
 - 🏯 [Architecture & Interior Design](#architecture--interior-design)
