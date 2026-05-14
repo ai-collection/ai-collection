@@ -150,6 +150,7 @@ ApplyPass.com has generated thousands of interviews for engineers, with an avera
 - 🎬 [Video Generation & Editing](#video-generation--editing)
 - 🕸 [Web Design](#web-design)
 - ✍️ [Writing Assistant](#writing-assistant)
+| [KubeStellar Console](https://github.com/kubestellar/console) | Multi-cluster Kubernetes management console with AI assistant for infrastructure queries, cluster operations, and GitOps automation across clouds and edge. | :white_check_mark: |
 ## Latest Additions to AI Collection
 ### Gemini Omni
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gemini-omni.webp" alt="Gemini Omni">
