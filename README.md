@@ -2130,6 +2130,22 @@ Fun chat with your favorite characters
 <br />
 
 
+### AI Soul Meter
+<img align="left" width="240" src="https://aisoulmeter.com/favicon.ico" alt="AI Soul Meter">
+
+#### AI-Powered Personality Analysis — Like MBTI, But for the AI Age
+
+
+[Visit](https://aisoulmeter.com)
+
+AI Soul Meter analyzes your conversation style and compares it to famous AI models like GPT-4, Claude, Gemini, and DeepSeek. Standardized 60-question MBTI assessments with cyberpunk visualizations reveal distinct personality profiles. Free, no signup required.
+
+
+[More Information](https://github.com/zhenyueD/ai-soul-meter)
+
+<br />
+
+
 [See All 🤪 Fun Applications on AI Collection](https://thataicollection.com/en/categories/fun?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
