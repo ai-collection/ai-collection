@@ -3261,6 +3261,19 @@ An audio tool for people with stories to tell
 [See All 🎼 Music & Audio Generation Applications on AI Collection](https://thataicollection.com/en/categories/music-and-audio-generation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
+
+### Voice to Instrument
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Voice to Instrument">
+
+#### voicetoinstrument.com - Convert voice to instrument tracks using AI
+
+
+[Visit](https://voicetoinstrument.com)
+
+Convert your voice into instrument tracks using AI. Perfect for musicians, content creators, and producers looking to experiment with voice-to-instrument conversion.
+
+<br />
+
 **[⬆ Back to Index](#index)**
 
 ---
