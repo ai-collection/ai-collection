@@ -2747,6 +2747,21 @@ Webbotify provides AI chatbot trained specifically on your website, which helps 
 <br />
 
 
+
+### Atendente24h
+
+#### AI-powered WhatsApp chatbot for Brazilian SMBs
+
+
+[Visit](https://atendente24h.com)
+
+Atendente24h is an AI-powered WhatsApp chatbot that automates customer service, scheduling, and sales for Brazilian small and medium businesses. Powered by Claude (Anthropic), it handles multi-turn conversations 24/7, with intelligent handoff to human agents when needed. Setup takes 5 minutes, starting at R$197/month.
+
+
+[More Information and Pricing](https://atendente24h.com/planos)
+
+<br />
+
 [See All 👨‍💻 Customer Support Applications on AI Collection](https://thataicollection.com/en/categories/customer-support?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
