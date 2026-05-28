@@ -1466,6 +1466,18 @@ AI shopping assistant and image search engine for home decor. Type like you spea
 <br />
 
 
+### LandscapioAI
+
+#### LandscapioAI — AI landscape design ideas
+
+
+[Visit](https://www.landscapioai.com/)
+
+LandscapioAI helps homeowners and outdoor designers generate landscape design ideas and visual concepts for yards, gardens, patios, and other exterior spaces.
+
+<br />
+
+
 [See All 🏯 Architecture & Interior Design Applications on AI Collection](https://thataicollection.com/en/categories/architecture-and-interior-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
