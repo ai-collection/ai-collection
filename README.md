@@ -2769,6 +2769,7 @@ Build a data-led organisation with the power of AI.
 #### Summereyes: AI-Powered Summaries in Your Browser
 
 
+- [humanbrowser](https://humanbrowser.cloud) - Pay-as-you-go browser automation with residential proxies, CAPTCHA solving, and AI tasks; no subscription and unused balance never expires.
 [Visit](https://thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 Summereyes - Summarize any text on the internet in one click. Get to the point. Fast. Turbocharge your productivity with an integrated, automated tool that let''s you process far more information, far more quickly. From articles, to emails, cut through the BS, and find what matters.
