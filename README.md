@@ -10499,3 +10499,4 @@ Discover Rytr, your free AI writing assistant. Craft high-quality content faster
 
 ---
 
+- [Token Diet](https://ranker.co.za/token-diet) - Free open-source prompt token counter and optimizer to cut LLM and AI API costs. Entirely client-side.
