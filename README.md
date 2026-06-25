@@ -10,6 +10,8 @@
 
 <div align="center">
     <br />
+- [Token Diet](https://ranker.co.za/token-diet) - Free open-source prompt token counter. Count LLM tokens, optimize prompts, cut AI API costs. Client-side, no login.
+
     <i>THE GENERATIVE AI LANDSCAPE</i>
     <br />
     <br />
