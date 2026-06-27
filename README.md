@@ -567,6 +567,7 @@ AI Content Detector and ChatGPT Detector, simple way with High Accuracy. AI Chec
 [More Information and Pricing](https://thataicollection.com/en/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+- [Toolquix - AI Tools](https://toolquix.com/categories/ai-tools) - A curated directory of free AI tools, ChatGPT resources, and artificial intelligence software.
 
 
 ### AI Content Detector by Leap AI
