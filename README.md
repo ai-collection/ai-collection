@@ -142,6 +142,7 @@ Translations:
 - 👩‍⚕️ [Healthcare](#healthcare)
 - 📚 [Homework & Essay Helper](#homework--essay-helper)
 - 🖼️ [Image Editing](#image-editing)
+- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 - 🔬 [Image Upscaler](#image-upscaler)
 - 🔁 [Image to Image Variation](#image-to-image-variation)
 - 🎬 [Image to Video Animation](#image-to-video-animation)
