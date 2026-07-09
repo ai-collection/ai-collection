@@ -177,7 +177,6 @@ Translations:
 - 📝🔉 [Text To Speech](#text-to-speech)
 - 🖌️ [Text to Image](#text-to-image)
 - 🎞️ [Text to Video](#text-to-video)
-- [Text2Vid](https://text2vid.org) - AI video generator that turns text or images into high-quality videos in seconds. Ideal for social clips, ads, and cr...
 - 📲 [TikTok & Shorts Creator](#tiktok--shorts-creator)
 - 🇺🇳 [Translation & Transcript](#translation--transcript)
 - 🏖 [Vacation & Trip Planner](#vacation--trip-planner)
@@ -10184,6 +10183,7 @@ Get legally binding signatures with Unlimited documents, templates, forms, and t
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
 
 #### Sintra - Your next employee hires, on AI
+- [AIWriter](https://aiwriter.fun) - AI writing assistant for articles, stories, emails, and content rewriting. Generate high-quality drafts instantly wit...
 
 
 [Visit](https://thataicollection.com/redirect/sintra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
