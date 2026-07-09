@@ -10183,6 +10183,7 @@ Get legally binding signatures with Unlimited documents, templates, forms, and t
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
 
 #### Sintra - Your next employee hires, on AI
+- [AIWriter](https://aiwriter.fun) - AI writing assistant for articles, stories, emails, and content rewriting. Generate high-quality drafts instantly wit...
 
 
 [Visit](https://thataicollection.com/redirect/sintra?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
