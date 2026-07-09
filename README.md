@@ -142,7 +142,6 @@ Translations:
 - 👩‍⚕️ [Healthcare](#healthcare)
 - 📚 [Homework & Essay Helper](#homework--essay-helper)
 - 🖼️ [Image Editing](#image-editing)
-- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 - 🔬 [Image Upscaler](#image-upscaler)
 - 🔁 [Image to Image Variation](#image-to-image-variation)
 - 🎬 [Image to Video Animation](#image-to-video-animation)
@@ -178,6 +177,7 @@ Translations:
 - 📝🔉 [Text To Speech](#text-to-speech)
 - 🖌️ [Text to Image](#text-to-image)
 - 🎞️ [Text to Video](#text-to-video)
+- [Text2Vid](https://text2vid.org) - AI video generator that turns text or images into high-quality videos in seconds. Ideal for social clips, ads, and cr...
 - 📲 [TikTok & Shorts Creator](#tiktok--shorts-creator)
 - 🇺🇳 [Translation & Transcript](#translation--transcript)
 - 🏖 [Vacation & Trip Planner](#vacation--trip-planner)
