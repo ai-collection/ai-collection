@@ -42,7 +42,7 @@
     <a href="https://www.thataicollection.com/en/blog?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection">Blog</a>
 </div>
 
---- 
+---
 > 您可以复制粘贴网站链接到此工具以查看中文网站 - [link](https://translate.google.com/?sl=en&tl=zh-CN&op=websites)
 
 ---
@@ -759,7 +759,8 @@
 | [Deft](https://www.thataicollection.com/redirect/deft?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。. | 在 10 秒或更短的时间内重新设计房屋。然后，您可以使用我们的搜索引擎在照片中查找产品。   它非常准确，并且有大量样式可供选择。非常适合作为灵感、室内设计、舞台照片等。. | :white_check_mark: |
 | [Dimensions](https://www.thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Dimensions - 使用 AI 快速创建视觉概念. | 想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。. | :white_check_mark: |
 | [Getfloorplan](https://www.thataicollection.com/redirect/getfloorplan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 使用 AI 创建 2d 和 3d 平面图. | 我们的客户使用 2D、3D 楼层平面图和虚拟游览报告称来电增加了多达 30%. | :grey_question: |
-| [HomeStage](https://www.thataicollection.com/redirect/homestage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一键即时虚拟装修。. | HomeSage允许您上传照片，我们的人工智能将在几秒钟内添加家具。   我们的技术可以在几秒钟内创建针对各种室内设计风格量身定制的全新家具布置，从而改变任何房屋，无论是带家具还是无家具。   我们让房地产经纪人和摄影师能够以传统寄宿家庭服务的一小部分虚拟展示房产。. | :white_check_mark: |
+| [HomeStage](https://www.thataicollection.com/redirect/homestage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 一键即时虚拟装修。. | HomeSage允许您上传照片，我们的人工智能将在几秒钟内添加家具。   我们的技术可以在几秒钟内创建针对各种室内设计风格量身定制的全新家具布置，从而改变任何房屋，无论是带家具还是无家具。
+  我们让房地产经纪人和摄影师能够以传统寄宿家庭服务的一小部分虚拟展示房产。. | :white_check_mark: |
 | [Image Computer](https://www.thataicollection.com/redirect/image-computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 生成您的下一个室内设计/镶嵌/时装系列/概念艺术. | 使用我们强大的 AI 技术生成您能想到的任何类型的图像。在几秒钟内。. | :x: |
 | [Interior AI](https://www.thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序. | 使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。. | :grey_question: |
 | [Interior AI Designs](https://www.thataicollection.com/redirect/interior-ai-designs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | 室内人工智能设计-使用人工智能为每个人生成梦想房间。. | 拍张房间的照片，看看房间在不同主题下的样子。今天就改造你的房间。 通过我们精选的特色主题，探索设计可能性的世界。每个主题都经过精心设计，旨在改变您的空间。. | :white_check_mark: |
