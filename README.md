@@ -427,6 +427,7 @@ Limitless Worlds: Generate endless scenarios and characters for unlimited explor
 
 ## AI Art & Illustration
 ### StickerIt.AI
+- [ZSky AI](https://zsky.ai) - Free, unlimited AI image and HD video generator with synced audio in a single render. Ad-supported free tier; paid plans from $19/month.
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stickerit-ai.webp" alt="StickerIt.AI">
 
 #### StickerIt.AI | #1 Mobile, AI-Powered Sticker Design and Sales Solution
@@ -10383,4 +10384,3 @@ Compare Smodin pricing plans and choose the right AI writing and plagiarism chec
 **[⬆ Back to Index](#index)**
 
 ---
-
