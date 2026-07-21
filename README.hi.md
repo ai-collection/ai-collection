@@ -199,6 +199,22 @@
 <br />
 
 
+### Whisper Web
+<img align="left" width="240" src="https://whisperweb.dev/og-image.png" alt="Whisper Web">
+
+#### ब्राउज़र में मुफ्त और निजी AI ऑडियो ट्रांसक्रिप्शन | Whisper Web
+
+
+[Visit](https://whisperweb.dev/)
+
+Whisper Web OpenAI Whisper द्वारा संचालित एक मुफ्त और गोपनीयता-अनुकूल AI ऑडियो ट्रांसक्रिप्शन टूल है जो WebGPU और WebAssembly के माध्यम से आपके ब्राउज़र में स्थानीय रूप से चलता है। 100% गोपनीयता और ऑफ़लाइन समर्थन के साथ।
+
+
+[More Information and Pricing](https://whisperweb.dev/)
+
+<br />
+
+
 ### AI Art Create
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-art-create.webp" alt="AI Art Create">
 

@@ -23,7 +23,7 @@
     <h4>Status</h4>
 
 <a href="https://github.com/ai-collection/ai-collection">
-    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?label=Number%20of%20Generative%20AI%20Applications&message=3420&color=informational&style=flat-square" />
+    <img alt="Number of Generative AI Applications" src="https://img.shields.io/static/v1?label=Number%20of%20Generative%20AI%20Applications&message=3421&color=informational&style=flat-square" />
 </a> &nbsp;&nbsp;
 <a href="https://github.com/ai-collection/ai-collection">
     <img alt="Number of Categories" src="https://img.shields.io/static/v1?label=Number%20of%20Categories&message=84&color=informational&style=flat-square" />
@@ -191,6 +191,22 @@ Translations:
 - ⚙️ [Workflow & Automation](#workflow--automation)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Whisper Web
+<img align="left" width="240" src="https://whisperweb.dev/og-image.png" alt="Whisper Web">
+
+#### Free, Privacy-First In-Browser AI Audio Transcription | Whisper Web
+
+
+[Visit](https://whisperweb.dev/)
+
+Whisper Web is a free, privacy-first AI audio transcription tool powered by OpenAI Whisper running locally in your browser via WebGPU & WebAssembly. Transcribe speech to text with 100% client-side privacy, zero server uploads, multi-language support, and full offline functionality.
+
+
+[More Information and Pricing](https://whisperweb.dev/)
+
+<br />
+
+
 ### AI Art Create
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-art-create.webp" alt="AI Art Create">
 

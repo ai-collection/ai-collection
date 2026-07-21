@@ -199,6 +199,22 @@ Generador de imágenes y vídeos de IA multimodelo que ejecuta Seedance, Kling, 
 <br />
 
 
+### Whisper Web
+<img align="left" width="240" src="https://whisperweb.dev/og-image.png" alt="Whisper Web">
+
+#### Transcripción de audio con IA gratuita y privada en el navegador | Whisper Web
+
+
+[Visit](https://whisperweb.dev/)
+
+Whisper Web es una herramienta gratuita y enfocada en la privacidad para la transcripción de voz a texto impulsada por OpenAI Whisper. Funciona localmente en su navegador a través de WebGPU y WebAssembly sin subir datos a servidores, con soporte multilingüe y 100% fuera de línea.
+
+
+[More Information and Pricing](https://whisperweb.dev/)
+
+<br />
+
+
 ### ATS Resume Checker
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ats-resume-checker.webp" alt="ATS Resume Checker">
 

@@ -199,6 +199,22 @@ Génère et édite des images, des avatars, des logos et des collages à partir 
 <br />
 
 
+### Whisper Web
+<img align="left" width="240" src="https://whisperweb.dev/og-image.png" alt="Whisper Web">
+
+#### Transcription audio IA gratuite et respectueuse de la vie privée dans le navigateur | Whisper Web
+
+
+[Visit](https://whisperweb.dev/)
+
+Whisper Web est un outil gratuit de transcription audio vers texte alimenté par OpenAI Whisper. Il fonctionne localement dans votre navigateur via WebGPU et WebAssembly sans aucun téléchargement sur un serveur, avec prise en charge multilingue et fonctionnement 100% hors ligne.
+
+
+[More Information and Pricing](https://whisperweb.dev/)
+
+<br />
+
+
 ### AI Art Create
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-art-create.webp" alt="AI Art Create">
 
