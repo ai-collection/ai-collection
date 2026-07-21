@@ -199,6 +199,22 @@
 <br />
 
 
+### Whisper Web
+<img align="left" width="240" src="https://whisperweb.dev/og-image.png" alt="Whisper Web">
+
+#### Бесплатная транскрипция аудио с помощью ИИ прямо в браузере | Whisper Web
+
+
+[Visit](https://whisperweb.dev/)
+
+Whisper Web — это бесплатный и приватный инструмент для преобразования речи в текст на базе OpenAI Whisper. Работает локально в браузере через WebGPU и WebAssembly без загрузки аудио на серверы, с поддержкой нескольких языков и полной автономной работой.
+
+
+[More Information and Pricing](https://whisperweb.dev/)
+
+<br />
+
+
 ### AI Art Create
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-art-create.webp" alt="AI Art Create">
 
