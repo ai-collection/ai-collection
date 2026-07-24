@@ -10384,3 +10384,8 @@ Compare Smodin pricing plans and choose the right AI writing and plagiarism chec
 
 ---
 
+
+
+## Community Additions
+
+- [CinéVague — Auteur Cinema Designer](https://github.com/zfryrgnci/CineVague-Film-Project-Designer) - A multi-agent arthouse filmmaking desktop application simulating a virtual studio.
