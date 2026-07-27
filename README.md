@@ -9781,6 +9781,11 @@ Voicv offers advanced AI-powered voice cloning, text-to-speech (TTS), and speech
 
 ---
 
+### CharaVox
+#### AI Voice Generation Platform with Character Voices, Voice Cloning & Multilingual TTS | CharaVox
+
+CharaVox — a SaaS AI voice generation platform featuring character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by the open-source VoxCPM model.
+
 ## Watermark Remover
 ### Ai Watermark Remover
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-watermark-remover.webp" alt="Ai Watermark Remover">
