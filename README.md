@@ -9489,6 +9489,7 @@ Klap turns long videos, podcasts and webinars into ready-to-post TikToks, Reels 
 ### TheFluxTrain
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
 
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) Open-source autonomous AI penetration testing application that orchestrates offensive tools through an MCP server and runs on local or cloud LLMs.
 #### Agentic AI Production Studio for Consistent Characters, Workflows & Video
 
 
