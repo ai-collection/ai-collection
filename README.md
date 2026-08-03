@@ -1,4 +1,5 @@
 # <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+- [ReviewPilot](https://lijustin655.github.io/review-pilot/) - Free AI review analysis for e-commerce sellers. Paste product reviews, get top complaint reasons, sentiment breakdown, and improvement actions in 30 seconds.
 
 
 <div align="center">
