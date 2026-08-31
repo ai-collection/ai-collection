@@ -31,9 +31,9 @@
 
 <br /><br />
 
-<a href="https://github.com/ai-collection/ai-collection/stargazers"><img alt="GitHub stars" src="https://img.shields.io/static/v1?label=stars&message=9137&color=blue&style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
+<a href="https://github.com/ai-collection/ai-collection/stargazers"><img alt="GitHub stars" src="https://img.shields.io/static/v1?label=stars&message=9136&color=blue&style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
 <a href="https://github.com/ai-collection/ai-collection/network/members"><img alt="GitHub forks" src="https://img.shields.io/static/v1?label=forks&message=1016&color=blue&style=flat-square&logo=github&logoColor=white" /></a> &nbsp;
-<a href="https://github.com/ai-collection/ai-collection/commits/main"><img alt="Last commit" src="https://img.shields.io/static/v1?label=last%20commit&message=2026-08-29&color=informational&style=flat-square" /></a> &nbsp;
+<a href="https://github.com/ai-collection/ai-collection/commits/main"><img alt="Last commit" src="https://img.shields.io/static/v1?label=last%20commit&message=2026-08-30&color=informational&style=flat-square" /></a> &nbsp;
 <a href="https://github.com/ai-collection/ai-collection/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&style=flat-square" /></a> &nbsp;
 <a href="https://thataicollection.com"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fthataicollection.com&style=flat-square" /></a>
 
@@ -312,6 +312,22 @@ AI 代理商店是企业寻找有效的 AI 代理的地方，开发人员可以�
 <br />
 
 
+### Genspark.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
+
+#### Genspark是一个人工智能代理引擎，专门的人工智能代理可以在其中进行研究并生成名为Sparkpages的自定义页面。 
+
+
+[Visit](https://thataicollection.com/redirect/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一个 AI 代理引擎，专门的 AI 代理可以在其中进行研究并生成名为 Sparkpages 的自定义页面。Sparkpages没有偏见和SEO驱动的内容，可以综合可靠的信息，提供更有价值的结果并节省用户的时间
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AICamp
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
@@ -330,18 +346,37 @@ AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型�
 <br />
 
 
-### Opencord AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
+### BrainSoup
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
-#### AI 代理生成的社交媒体内容
-
-
-[Visit](https://thataicollection.com/redirect/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们正在构建Al Agents协作平台，我们设想人工智能代理可以相互协作，以帮助内容创作者更快、更轻松地创建有用/病毒式的内容。同时探索来自全球建筑商的所有令人兴奋、有趣和有用的 GPT，供个人和专业人士使用。我们推出了 3 个 AI 代理，如果你有兴趣查看它们，请随时访问我们的网站！
+#### 在电脑上组建一支为你工作的 AI 团队
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BrainSoup 是一个多代理和多 LLM 原生客户端，使用户能够创建一支个性化的人工智能代理团队，他们可以学习、记住、应对事件、使用工具、利用本地和外部资源，并共同协作以自主解决任务。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ImmersimAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
+
+#### 在任何世界中与任何人一起玩身临其境的叙事驱动型角色扮演游戏。
+
+
+[Visit](https://thataicollection.com/redirect/immersimai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Immersim AI 是一个沉浸式叙事驱动的角色扮演平台，用于创建无限的互动宇宙、故事、场景和角色。 
+特点：
+人工智能驱动的创作：将您的想法无缝转化为身临其境的互动体验。
+无限世界：生成无尽的场景和角色，进行无限探索。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/immersimai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -366,53 +401,18 @@ NexusGPT 使任何人都可以在不触摸任何代码的情况下构建、微�
 <br />
 
 
-### ImmersimAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
+### Opencord AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
 
-#### 在任何世界中与任何人一起玩身临其境的叙事驱动型角色扮演游戏。
-
-
-[Visit](https://thataicollection.com/redirect/immersimai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Immersim AI 是一个沉浸式叙事驱动的角色扮演平台，用于创建无限的互动宇宙、故事、场景和角色。 
-特点：
-人工智能驱动的创作：将您的想法无缝转化为身临其境的互动体验。
-无限世界：生成无尽的场景和角色，进行无限探索。
+#### AI 代理生成的社交媒体内容
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/immersimai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Genspark.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
-
-#### Genspark是一个人工智能代理引擎，专门的人工智能代理可以在其中进行研究并生成名为Sparkpages的自定义页面。 
+我们正在构建Al Agents协作平台，我们设想人工智能代理可以相互协作，以帮助内容创作者更快、更轻松地创建有用/病毒式的内容。同时探索来自全球建筑商的所有令人兴奋、有趣和有用的 GPT，供个人和专业人士使用。我们推出了 3 个 AI 代理，如果你有兴趣查看它们，请随时访问我们的网站！
 
 
-[Visit](https://thataicollection.com/redirect/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一个 AI 代理引擎，专门的 AI 代理可以在其中进行研究并生成名为 Sparkpages 的自定义页面。Sparkpages没有偏见和SEO驱动的内容，可以综合可靠的信息，提供更有价值的结果并节省用户的时间
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/genspark-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BrainSoup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
-
-#### 在电脑上组建一支为你工作的 AI 团队
-
-
-[Visit](https://thataicollection.com/redirect/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BrainSoup 是一个多代理和多 LLM 原生客户端，使用户能够创建一支个性化的人工智能代理团队，他们可以学习、记住、应对事件、使用工具、利用本地和外部资源，并共同协作以自主解决任务。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/brainsoup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/opencord-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -495,6 +495,22 @@ Picture to Drawing 是一个先进的人工智能平台，可在几秒钟内将�
 <br />
 
 
+### AnimeGenius
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
+
+#### 最佳的人工智能动画生成器，可为来自世界各地的人们创建令人惊叹的AI图像。
+
+
+[Visit](https://thataicollection.com/redirect/animegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AnimeGenius是一款免费增值的人工智能动画生成器，它使全球用户能够轻松创建令人惊叹的人工智能图像。它具有用户友好的界面以及各种可定制的模型和Lora，可满足初学者和有经验的艺术家的需求。该平台促进社区互动，允许用户分享创作并从彼此那里汲取灵感。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/animegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Ink AI - Tattoo Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
 
@@ -510,22 +526,6 @@ Inkai的显著特点之一是其人体映射技术，使用户可以直观地预
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ink-ai-tattoo-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AnimeGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
-
-#### 最佳的人工智能动画生成器，可为来自世界各地的人们创建令人惊叹的AI图像。
-
-
-[Visit](https://thataicollection.com/redirect/animegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AnimeGenius是一款免费增值的人工智能动画生成器，它使全球用户能够轻松创建令人惊叹的人工智能图像。它具有用户友好的界面以及各种可定制的模型和Lora，可满足初学者和有经验的艺术家的需求。该平台促进社区互动，允许用户分享创作并从彼此那里汲取灵感。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/animegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -554,52 +554,18 @@ Republiclabs.ai 是一个人工智能平台，允许用户使用文本和最新�
 ---
 
 ## AI 探测器和人性化器
-### WriteHuman
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+### GPT-Zero
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
 
-#### WriteHuman：检测不到的人工智能和人工智能人性化器
-
-
-
-[Visit](https://thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-WriteHuman：将人工智能文本人性化为无法检测的人工智能。使用世界上最好的 AI 探测移除器和 AI Humanizer 绕过人工智能检测。可与 GPTZero、Turnitin、Originality AI 等配合使用。
+#### GPT Zero-适用于 ChatGPT、GPT-4 等的免费 AI 内容检测器
 
 
+[Visit](https://thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
-
-#### 使用我们的免费 AI 内容检测器来分析文本，看看它是否由 AI 生成。AI Checker 工具，永久免费。
+免费的人工智能内容检测器提供了一种简单而准确的方法来检测来自 ChatGPT、GPT-4、GPT-3、GPT-2、LLama 和其他人工智能服务的人工智能生成的内容。
 
 
-[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Leap AI 的 AI 内容检测器是您轻松检测 AI 生成内容的首选工具。手动识别 AI 生成的文本可能既繁琐又耗时，但我们的工具简化了这项任务。利用最新的 LLM 模型，它可以轻松准确地分析和识别人工智能生成的内容。最重要的是，它是免费的，每个人都可以永久使用。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### HumanizeAI.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
-
-#### 使用 Humanize AI 将 AI 生成的文本转换为类人写作
-
-
-[Visit](https://thataicollection.com/redirect/humanizeai-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自然、更具吸引力，且无法被 AI 探测器察觉。它非常适合为博客、学术论文或SEO创建真实内容，同时节省时间并提高可读性。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/humanizeai-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -621,22 +587,6 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 <br />
 
 
-### GPT-Zero
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
-
-#### GPT Zero-适用于 ChatGPT、GPT-4 等的免费 AI 内容检测器
-
-
-[Visit](https://thataicollection.com/redirect/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费的人工智能内容检测器提供了一种简单而准确的方法来检测来自 ChatGPT、GPT-4、GPT-3、GPT-2、LLama 和其他人工智能服务的人工智能生成的内容。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/gpt-zero?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### ZeroGPT
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
 
@@ -649,6 +599,40 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/zerogpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Content Detector by Leap AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+
+#### 使用我们的免费 AI 内容检测器来分析文本，看看它是否由 AI 生成。AI Checker 工具，永久免费。
+
+
+[Visit](https://thataicollection.com/redirect/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Leap AI 的 AI 内容检测器是您轻松检测 AI 生成内容的首选工具。手动识别 AI 生成的文本可能既繁琐又耗时，但我们的工具简化了这项任务。利用最新的 LLM 模型，它可以轻松准确地分析和识别人工智能生成的内容。最重要的是，它是免费的，每个人都可以永久使用。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-content-detector-by-leap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### WriteHuman
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+
+#### WriteHuman：检测不到的人工智能和人工智能人性化器
+
+
+
+[Visit](https://thataicollection.com/redirect/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WriteHuman：将人工智能文本人性化为无法检测的人工智能。使用世界上最好的 AI 探测移除器和 AI Humanizer 绕过人工智能检测。可与 GPTZero、Turnitin、Originality AI 等配合使用。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/writehuman?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -671,6 +655,22 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/tweet-detective?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### HumanizeAI.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
+
+#### 使用 Humanize AI 将 AI 生成的文本转换为类人写作
+
+
+[Visit](https://thataicollection.com/redirect/humanizeai-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自然、更具吸引力，且无法被 AI 探测器察觉。它非常适合为博客、学术论文或SEO创建真实内容，同时节省时间并提高可读性。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/humanizeai-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -716,23 +716,6 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 <br />
 
 
-### Aiva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Aiva">
-
-#### AIVA - 人工智能创作情感配乐
-
-
-[Visit](https://thataicollection.com/redirect/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创意人士的创意助手
-无论您是独立游戏开发者、音乐新手，还是经验丰富的专业作曲家，AIVA 都会在您的创作过程中为您提供帮助。利用人工智能生成音乐的力量，比以往更快地为您的项目创建引人注目的主题。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Emergent Drums
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
@@ -745,23 +728,6 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/emergent-drums?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### audjust.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
-
-#### Audjust AI-音频编辑器和 AI 音乐生成器：缩短歌曲、延长音频、查找循环或从文本创建音乐
-
-
-
-[Visit](https://thataicollection.com/redirect/audjust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Audjust AI 可帮助您编辑现有音频文件并根据文本或歌词创建音乐。我们的音频编辑器可以缩短歌曲，延长音频，并找到完美的循环。智能技术保持自然结局。没有尴尬的剪辑或淡出。我们的 AI 音乐生成器可在几秒钟内将您的想法变成专业曲目。创作者和音乐家免费。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/audjust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -800,6 +766,40 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 <br />
 
 
+### Aiva
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Aiva">
+
+#### AIVA - 人工智能创作情感配乐
+
+
+[Visit](https://thataicollection.com/redirect/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+创意人士的创意助手
+无论您是独立游戏开发者、音乐新手，还是经验丰富的专业作曲家，AIVA 都会在您的创作过程中为您提供帮助。利用人工智能生成音乐的力量，比以往更快地为您的项目创建引人注目的主题。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### audjust.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
+
+#### Audjust AI-音频编辑器和 AI 音乐生成器：缩短歌曲、延长音频、查找循环或从文本创建音乐
+
+
+
+[Visit](https://thataicollection.com/redirect/audjust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Audjust AI 可帮助您编辑现有音频文件并根据文本或歌词创建音乐。我们的音频编辑器可以缩短歌曲，延长音频，并找到完美的循环。智能技术保持自然结局。没有尴尬的剪辑或淡出。我们的 AI 音乐生成器可在几秒钟内将您的想法变成专业曲目。创作者和音乐家免费。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/audjust-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🎼 AI 歌曲和音乐生成器 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/ai-song-and-music-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -808,70 +808,6 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 ---
 
 ## AI 塔罗牌与占卜
-### Tarot Card Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
-
-#### 塔罗牌艺术:个性化塔罗牌图像生成器
-
-
-[Visit](https://thataicollection.com/redirect/tarot-card-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们独特的人工智能算法将古代塔罗牌智慧与现代艺术无缝融合，为您生成独一无二的塔罗牌图像。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/tarot-card-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SINE AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
-
-#### 用 Sine AI 探索自我：占星术、塔罗牌及其他
-
-
-[Visit](https://thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的旅程。发现长处和短处，并获得每日肯定。深入研究您的出生图以获得深入的见解，并通过塔罗牌阅读寻求指导。使用 Sine AI 拥抱你的潜能和内在智慧。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### TaroTeller
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
-
-#### Taroteller-一个利用人工智能技术读取塔罗牌的网站
-
-
-[Visit](https://thataicollection.com/redirect/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TaroTeller旨在通过我们的人工智能工具提供免费的塔罗牌阅读。无论您是寻求指导、答案，还是只是对未来感到好奇，我们的人工智能塔罗牌都能提供准确而深刻的见解。探索未知世界，踏上灵魂之旅，立即开始
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Quin-AI Tarot Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
-
-#### 随便问奎因吧您的个人 AI 塔罗牌阅读器。✨
-
-
-[Visit](https://thataicollection.com/redirect/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我探索和清晰度。Quin受过专业人类塔罗牌读者的智慧训练，提供个性化的见解，以消除困惑并找到方向。Quin 创造了一种流畅、身临其境的体验，这是一种自我发现的个性化仪式。忘记公式化的解释 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Yes or No Tarot
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
 
@@ -904,6 +840,54 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 <br />
 
 
+### Quin-AI Tarot Reader
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
+
+#### 随便问奎因吧您的个人 AI 塔罗牌阅读器。✨
+
+
+[Visit](https://thataicollection.com/redirect/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我探索和清晰度。Quin受过专业人类塔罗牌读者的智慧训练，提供个性化的见解，以消除困惑并找到方向。Quin 创造了一种流畅、身临其境的体验，这是一种自我发现的个性化仪式。忘记公式化的解释 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/quin-ai-tarot-reader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### TaroTeller
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+
+#### Taroteller-一个利用人工智能技术读取塔罗牌的网站
+
+
+[Visit](https://thataicollection.com/redirect/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TaroTeller旨在通过我们的人工智能工具提供免费的塔罗牌阅读。无论您是寻求指导、答案，还是只是对未来感到好奇，我们的人工智能塔罗牌都能提供准确而深刻的见解。探索未知世界，踏上灵魂之旅，立即开始
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/taroteller?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SINE AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+
+#### 用 Sine AI 探索自我：占星术、塔罗牌及其他
+
+
+[Visit](https://thataicollection.com/redirect/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的旅程。发现长处和短处，并获得每日肯定。深入研究您的出生图以获得深入的见解，并通过塔罗牌阅读寻求指导。使用 Sine AI 拥抱你的潜能和内在智慧。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sine-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Lenormand
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
 
@@ -920,6 +904,22 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 <br />
 
 
+### Tarot Card Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
+
+#### 塔罗牌艺术:个性化塔罗牌图像生成器
+
+
+[Visit](https://thataicollection.com/redirect/tarot-card-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们独特的人工智能算法将古代塔罗牌智慧与现代艺术无缝融合，为您生成独一无二的塔罗牌图像。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/tarot-card-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🔮 AI 塔罗牌与占卜 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/ai-tarot-and-divination?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -928,52 +928,20 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 ---
 
 ## 会计与金融
-### Eilla
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eilla.webp" alt="Eilla">
+### BeeBee AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
-#### Eilla-支持并购、风险投资和私募股权交易工作流程的人工智能平台。
-
-
-[Visit](https://thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-镜像最高素质的行业专业人士，以自动执行平凡的任务并支持复杂的决策。立即抢先体验 Eilla。
+#### BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Jinnee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
-
-#### Jinnee – 您的金融科技虚拟助手
+我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
+（1）全面解读财报和电话会议。 
+(2) 对公司广泛的数字足迹的深入分析。 
 
 
-[Visit](https://thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Jinnee 可以解决的问题：能力有限 - 支持部门无法处理每个请求，等待时间长 - 客户位于不同时区，重复查询 - 可以自动化以节省时间，浪费时间 - 创造有毒的工作环境
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Mrgn
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mrgn.webp" alt="Mrgn">
-
-#### MRGN-智能小型企业预算和计划软件
-
-
-
-[Visit](https://thataicollection.com/redirect/mrgn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-如果您正在寻找财务建模、分析和预测软件，那么您来对地方了。探索我们的智能小型企业预算和规划解决方案。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/mrgn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -994,20 +962,18 @@ StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011
 <br />
 
 
-### BeeBee AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
+### Eilla
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eilla.webp" alt="Eilla">
 
-#### BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。
-
-
-[Visit](https://thataicollection.com/redirect/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们为2000多家公司提供支持（包括道琼斯30指数、标准普尔500指数、纳斯达克100指数，按交易量和活动排序）。利用 GPT 基础并将其与专门的 NLP 迷你模型相结合。我们主要提供两项核心服务：
-（1）全面解读财报和电话会议。 
-(2) 对公司广泛的数字足迹的深入分析。 
+#### Eilla-支持并购、风险投资和私募股权交易工作流程的人工智能平台。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/beebee-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+镜像最高素质的行业专业人士，以自动执行平凡的任务并支持复杂的决策。立即抢先体验 Eilla。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/eilla?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1046,6 +1012,40 @@ MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算�
 <br />
 
 
+### Jinnee
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
+
+#### Jinnee – 您的金融科技虚拟助手
+
+
+[Visit](https://thataicollection.com/redirect/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Jinnee 可以解决的问题：能力有限 - 支持部门无法处理每个请求，等待时间长 - 客户位于不同时区，重复查询 - 可以自动化以节省时间，浪费时间 - 创造有毒的工作环境
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/jinnee?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Mrgn
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mrgn.webp" alt="Mrgn">
+
+#### MRGN-智能小型企业预算和计划软件
+
+
+
+[Visit](https://thataicollection.com/redirect/mrgn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+如果您正在寻找财务建模、分析和预测软件，那么您来对地方了。探索我们的智能小型企业预算和规划解决方案。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/mrgn?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 📈 会计与金融 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/accounting-and-finance?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -1070,18 +1070,18 @@ RMIQ将您连接到顶级零售媒体网络上的优质广告空间，例如沃�
 <br />
 
 
-### Jot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jot.webp" alt="Jot">
+### ThumbnailCreator.com
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
 
-#### Jot - 人工智能广告文案
-
-
-[Visit](https://thataicollection.com/redirect/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Jot 使用 AI 自动为您生成无限的广告文案变体。使用人工智能简化团队的文案写作流程。由 OpenAI GPT-3 提供支持。
+#### ThumbnailCreator.com-AI YouTube 缩略图创建者
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/thumbnailcreator-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 创建精美的 YouTube 缩略图。由人工智能驱动的终极工具，用于创建引人注目的YouTube缩略图。通过专业设计在几秒钟内提高点击率。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/thumbnailcreator-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1103,22 +1103,6 @@ Creatify是一种先进的人工智能解决方案，彻底改变了广告创作
 <br />
 
 
-### ThumbnailCreator.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
-
-#### ThumbnailCreator.com-AI YouTube 缩略图创建者
-
-
-[Visit](https://thataicollection.com/redirect/thumbnailcreator-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 创建精美的 YouTube 缩略图。由人工智能驱动的终极工具，用于创建引人注目的YouTube缩略图。通过专业设计在几秒钟内提高点击率。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/thumbnailcreator-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Persuva
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-persuva.webp" alt="Persuva">
 
@@ -1131,6 +1115,23 @@ Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/persuva?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Post Parrot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+
+#### Post Parrot-一款适用于 Reddit 的免费营销工具
+
+
+[Visit](https://thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1157,19 +1158,18 @@ Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜
 <br />
 
 
-### Post Parrot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+### Jot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jot.webp" alt="Jot">
 
-#### Post Parrot-一款适用于 Reddit 的免费营销工具
-
-
-[Visit](https://thataicollection.com/redirect/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-想生成能提高参与度的 reddit 帖子标题？查看我们的免费数字营销工具，为有针对性的subreddits增强您的帖子标题。
+#### Jot - 人工智能广告文案
 
 
+[Visit](https://thataicollection.com/redirect/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/post-parrot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Jot 使用 AI 自动为您生成无限的广告文案变体。使用人工智能简化团队的文案写作流程。由 OpenAI GPT-3 提供支持。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/jot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1194,38 +1194,6 @@ Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/wan2-7-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Rainforest QA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
-
-#### 为想要快速交付的 SaaS 团队提供无忧的测试自动化
-
-
-[Visit](https://thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rainforest QA 是面向 SaaS 公司的 AI 驱动的测试自动化平台。凭借其直观的基于 Web 的界面，任何人都可以使用简单、通俗易懂的英语提示快速创建自动、自更新的测试。Rainforest 包含创建端到端测试、大规模并行运行测试以及获得详细结果所需的一切。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### NeuralTrust
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
-
-#### NeuralTrust | 人工智能和代理安全平台
-
-
-[Visit](https://thataicollection.com/redirect/neuraltrust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 原生企业级网络安全解决方案，保护您的 AI 代理和应用程序免受攻击、幻觉和数据泄露
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/neuraltrust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1278,6 +1246,38 @@ AI 代理的身份认证。加密信任评分、公共注册机构、欧盟 AI �
 <br />
 
 
+### NeuralTrust
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
+
+#### NeuralTrust | 人工智能和代理安全平台
+
+
+[Visit](https://thataicollection.com/redirect/neuraltrust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 原生企业级网络安全解决方案，保护您的 AI 代理和应用程序免受攻击、幻觉和数据泄露
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/neuraltrust?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rainforest QA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+
+#### 为想要快速交付的 SaaS 团队提供无忧的测试自动化
+
+
+[Visit](https://thataicollection.com/redirect/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rainforest QA 是面向 SaaS 公司的 AI 驱动的测试自动化平台。凭借其直观的基于 Web 的界面，任何人都可以使用简单、通俗易懂的英语提示快速创建自动、自更新的测试。Rainforest 包含创建端到端测试、大规模并行运行测试以及获得详细结果所需的一切。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rainforest-qa?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### TestSprite
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-testsprite.webp" alt="TestSprite">
 
@@ -1302,21 +1302,19 @@ TestSprite 是一个完全自主的 AI 测试代理，可处理整个测试过�
 ---
 
 ## 动画和 3D 建模
-### Make3D
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+### Neuralframes
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
-#### Make3D-让你的图像变成 3D
-            
+#### 神经框架-探索视觉世界的合成器。
 
 
-[Visit](https://thataicollection.com/redirect/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-无需离开设备即可将图像转换为 3D。
-                                                                        
+Neural Frames-AI 动画生成器，可通过逐帧图像自动化快速制作迷幻视频。非常适合音乐视频、数字艺术或 AI 动画。
 
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1337,23 +1335,6 @@ TRIPO 是 VAST 于 2023 年底推出的生成式基础模型。TRIPO 在发电�
 <br />
 
 
-### Neuralframes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
-
-#### 神经框架-探索视觉世界的合成器。
-
-
-[Visit](https://thataicollection.com/redirect/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Neural Frames-AI 动画生成器，可通过逐帧图像自动化快速制作迷幻视频。非常适合音乐视频、数字艺术或 AI 动画。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/neuralframes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Meshy AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
 
@@ -1366,6 +1347,57 @@ null
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/meshy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Kaedim
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
+
+#### 在几分钟内神奇地生成自定义 3D 模型
+
+
+[Visit](https://thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+不要再为建模工具浪费时间了。仅需一张图像即可生成令人惊叹的 3D 艺术作品。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Make3D
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+
+#### Make3D-让你的图像变成 3D
+            
+
+
+[Visit](https://thataicollection.com/redirect/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+无需离开设备即可将图像转换为 3D。
+                                                                        
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/make3d?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Blimey
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blimey.webp" alt="Blimey">
+
+#### Blimey-在几分钟内从想象到图像
+
+
+[Visit](https://thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法变为现实。完全控制构图、颜色和风格。设置虚拟 3D 场景，以便在使用 AI 生成图像时完全控制构图和颜色
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1388,38 +1420,6 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 <br />
 
 
-### Blimey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blimey.webp" alt="Blimey">
-
-#### Blimey-在几分钟内从想象到图像
-
-
-[Visit](https://thataicollection.com/redirect/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法变为现实。完全控制构图、颜色和风格。设置虚拟 3D 场景，以便在使用 AI 生成图像时完全控制构图和颜色
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/blimey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Kaedim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
-
-#### 在几分钟内神奇地生成自定义 3D 模型
-
-
-[Visit](https://thataicollection.com/redirect/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-不要再为建模工具浪费时间了。仅需一张图像即可生成令人惊叹的 3D 艺术作品。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/kaedim?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🎲 动画和 3D 建模 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/animation-and-3d-modeling?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -1428,71 +1428,6 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ---
 
 ## 建筑与室内设计
-### AI Room Planner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
-
-#### 人工智能室内设计
-
-
-[Visit](https://thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为您的房间获取数百种室内设计理念 - 免费且无限制。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Oda Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
-
-#### Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。
-
-
-
-[Visit](https://thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。  
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Dimensions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
-
-#### Dimensions - 使用 AI 快速创建视觉概念
-
-
-[Visit](https://thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Interior AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
-
-#### Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序
-
-
-[Visit](https://thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Deft
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deft_.webp" alt="Deft">
 
@@ -1543,6 +1478,71 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 <br />
 
 
+### Interior AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+
+#### Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序
+
+
+[Visit](https://thataicollection.com/redirect/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用人工智能获取室内设计创意，为具有不同室内风格的房地产清单进行虚拟室内设计。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/interior-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Oda Studio
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
+
+#### Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。
+
+
+
+[Visit](https://thataicollection.com/redirect/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+选择你的风格和颜色，使用 AI 在几秒钟内自定义你的家-开始设计你的家或使用样板吧。  
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/oda-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Room Planner
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
+
+#### 人工智能室内设计
+
+
+[Visit](https://thataicollection.com/redirect/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的房间获取数百种室内设计理念 - 免费且无限制。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-room-planner?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Dimensions
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
+
+#### Dimensions - 使用 AI 快速创建视觉概念
+
+
+[Visit](https://thataicollection.com/redirect/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+想象一下能够轻松创建漂亮的室内设计——这就是 Dimensions 所提供的。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dimensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🏯 建筑与室内设计 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/architecture-and-interior-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -1551,6 +1551,23 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 ---
 
 ## 音频增强器和人声去除
+### Adobe Mic Check
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
+
+#### Adobe Mic Check-免费检查你的麦克风
+
+
+[Visit](https://thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+获取有关如何改进麦克风设置的建议。好吧，请确保你听起来已经准备好播客了。
+增强语音-消除录音中的噪音和回声。麦克风检查-录制前修复麦克风问题。Studio-在浏览器中录制、编辑和增强
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Krisp
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-krisp.webp" alt="Krisp">
 
@@ -1599,18 +1616,19 @@ Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充
 <br />
 
 
-### Adobe Speech Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
+### Audio Enhancer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
 
-#### 免费增强录音
-
-
-[Visit](https://thataicollection.com/redirect/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-语音增强功能使录音听起来就像在专业录音室中录制的一样
+#### 音频增强器-适用于音乐家、播客、访谈等的 AI 音频增强器。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[Visit](https://thataicollection.com/redirect/audio-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 驱动的音频增强器增强音频并提高音频质量。上传并移除所有背景噪音。使用我们先进的 AI 声音增强器工具，告别烦人的背景噪音！开始在所有音频或视频中享受水晶般清晰的音质。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/audio-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1631,36 +1649,18 @@ Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充
 <br />
 
 
-### Adobe Mic Check
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
+### Adobe Speech Enhancer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
-#### Adobe Mic Check-免费检查你的麦克风
-
-
-[Visit](https://thataicollection.com/redirect/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-获取有关如何改进麦克风设置的建议。好吧，请确保你听起来已经准备好播客了。
-增强语音-消除录音中的噪音和回声。麦克风检查-录制前修复麦克风问题。Studio-在浏览器中录制、编辑和增强
+#### 免费增强录音
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-mic-check?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Audio Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
-
-#### 音频增强器-适用于音乐家、播客、访谈等的 AI 音频增强器。
+语音增强功能使录音听起来就像在专业录音室中录制的一样
 
 
-
-[Visit](https://thataicollection.com/redirect/audio-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 驱动的音频增强器增强音频并提高音频质量。上传并移除所有背景噪音。使用我们先进的 AI 声音增强器工具，告别烦人的背景噪音！开始在所有音频或视频中享受水晶般清晰的音质。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/audio-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-speech-enhancer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1707,34 +1707,20 @@ Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充
 <br />
 
 
-### Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+### aiselfi.es
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
 
-#### 创建你自己的逼真的 AI 头像
-
-
-[Visit](https://thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。
+#### 快速轻松地创建 AI 生成的个人资料照片。使用我们的工具，在几分钟内创建免费的个性化AI头像。试试看 → aiselfi.es
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/aiselfi-es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
+Aiselfi.es是一个创新平台，可将您的日常自拍照转换为专业品质的照片，非常适合企业简介、LinkedIn、个人品牌等。 
 
-
-### Avtrs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
-
-#### 快乐用户创建的头像
+用户上传自拍照，我们的高级人工智能对其进行了增强，可以创建精美的专业图像，提升您的在线形象。 
 
 
-[Visit](https://thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-怎么运行的？ 1. 上传一些您（或其他人）不同角度的自拍照。 2. 稍等 - 在我们根据您的照片建造您的工作室时喝杯咖啡。 3. 提示 - 发挥你的想象力来制作完美的提示！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiselfi-es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1755,20 +1741,34 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 <br />
 
 
-### aiselfi.es
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
+### Avtrs
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
-#### 快速轻松地创建 AI 生成的个人资料照片。使用我们的工具，在几分钟内创建免费的个性化AI头像。试试看 → aiselfi.es
-
-
-[Visit](https://thataicollection.com/redirect/aiselfi-es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Aiselfi.es是一个创新平台，可将您的日常自拍照转换为专业品质的照片，非常适合企业简介、LinkedIn、个人品牌等。 
-
-用户上传自拍照，我们的高级人工智能对其进行了增强，可以创建精美的专业图像，提升您的在线形象。 
+#### 快乐用户创建的头像
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiselfi-es?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+怎么运行的？ 1. 上传一些您（或其他人）不同角度的自拍照。 2. 稍等 - 在我们根据您的照片建造您的工作室时喝杯咖啡。 3. 提示 - 发挥你的想象力来制作完美的提示！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/avtrs?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Photo AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+
+#### 创建你自己的逼真的 AI 头像
+
+
+[Visit](https://thataicollection.com/redirect/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 生成逼真的人物图像。基于开启 AI 头像潮流的原始 Avatar AI™ 生成 120 多种不同风格的头像。只需 46 秒。查看更多不同姿势、地点和风格的照片包。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/photo-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1797,34 +1797,18 @@ Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆
 ---
 
 ## 背景去除器
-### img-cut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-img-cut.webp" alt="img-cut">
+### Pixian
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixian.webp" alt="Pixian">
 
-#### 终极 AI 背景去除解决方案 准确、安全且免费
-
-
-[Visit](https://thataicollection.com/redirect/img-cut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的照片，您的设备 - 停止将您的私人照片发送到互联网上的随机位置。掌控一切，在浏览器中本地运行最先进的人工智能并完成工作。
+#### 去除图片背景, 免费高清, 无需注册 - 皮线.AI
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/img-cut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Green Screen AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
-
-#### 使用 AI 更改任何图像的背景。
+删除图像背景，免费高清，无需注册
 
 
-[Visit](https://thataicollection.com/redirect/green-screen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换为生成式 AI 艺术。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/green-screen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1847,18 +1831,34 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 <br />
 
 
-### Zoomscape
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
+### Green Screen AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
 
-#### Zoomscape.ai
-
-
-[Visit](https://thataicollection.com/redirect/zoomscape?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 创建令人惊叹的 Zoom 背景
+#### 使用 AI 更改任何图像的背景。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/zoomscape?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/green-screen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换为生成式 AI 艺术。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/green-screen-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### img-cut
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-img-cut.webp" alt="img-cut">
+
+#### 终极 AI 背景去除解决方案 准确、安全且免费
+
+
+[Visit](https://thataicollection.com/redirect/img-cut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您的照片，您的设备 - 停止将您的私人照片发送到互联网上的随机位置。掌控一切，在浏览器中本地运行最先进的人工智能并完成工作。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/img-cut?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1895,18 +1895,18 @@ Stillgram 是一个 A.I.傻瓜相机应用程序，可以神奇地从您的城�
 <br />
 
 
-### Pixian
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixian.webp" alt="Pixian">
+### Zoomscape
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
 
-#### 去除图片背景, 免费高清, 无需注册 - 皮线.AI
-
-
-[Visit](https://thataicollection.com/redirect/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-删除图像背景，免费高清，无需注册
+#### Zoomscape.ai
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/pixian?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/zoomscape?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 创建令人惊叹的 Zoom 背景
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/zoomscape?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1919,34 +1919,18 @@ Stillgram 是一个 A.I.傻瓜相机应用程序，可以神奇地从您的城�
 ---
 
 ## 书籍和小说作家
-### Perchance AI Story
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
+### Fable Fiesta
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
 
-#### Perchance AI Story 是一个支持多种语言并且可以继续撰写故事的网站
-
-
-[Visit](https://thataicollection.com/redirect/perchance-ai-story?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Perchance AI Story 是一个创新平台，旨在帮助用户在先进的人工智能的帮助下创建和扩展故事。无论你是专业作家、业余爱好者，还是想象力生动的人，Perchance AI Story 都能提供独特的体验，让故事无缝展开。
+#### Fable Fiesta，你的创意人工智能合著者
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/perchance-ai-story?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/fable-fiesta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Sudowrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
-
-#### 使用我们神奇的写作 AI 打破作家的瓶颈，发挥更多创意
+Fable Fiesta是一款创意写作助手，可以帮助你设计角色、建造世界、概述小说、为小说写故事和章节，它可以帮助你更快地写小说。
 
 
-[Visit](https://thataicollection.com/redirect/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-根据《纽约客》、《纽约时报》、《边缘》等，使用最佳 AI 写作工具更快地编写您的小说或剧本。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fable-fiesta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -1963,22 +1947,6 @@ Storywizard 使用 AI 帮助您为孩子们创作具有生动形象和优美情�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/storywizard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI-story-Generator site
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
-
-#### 这个工具可以帮助你创作精彩的故事
-
-
-[Visit](https://thataicollection.com/redirect/ai-story-generator-site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩的故事。您只需要输入简单的提示即可快速生成精彩的故事。该网站上还有其他各种工具可供免费使用。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-story-generator-site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2000,22 +1968,6 @@ AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩�
 <br />
 
 
-### Fable Fiesta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
-
-#### Fable Fiesta，你的创意人工智能合著者
-
-
-[Visit](https://thataicollection.com/redirect/fable-fiesta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fable Fiesta是一款创意写作助手，可以帮助你设计角色、建造世界、概述小说、为小说写故事和章节，它可以帮助你更快地写小说。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fable-fiesta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### StoryBee
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
@@ -2032,6 +1984,54 @@ StoryBee 是一个人工智能驱动的平台，旨在为孩子们创作引人�
 <br />
 
 
+### Sudowrite
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
+
+#### 使用我们神奇的写作 AI 打破作家的瓶颈，发挥更多创意
+
+
+[Visit](https://thataicollection.com/redirect/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+根据《纽约客》、《纽约时报》、《边缘》等，使用最佳 AI 写作工具更快地编写您的小说或剧本。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sudowrite?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Perchance AI Story
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
+
+#### Perchance AI Story 是一个支持多种语言并且可以继续撰写故事的网站
+
+
+[Visit](https://thataicollection.com/redirect/perchance-ai-story?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Perchance AI Story 是一个创新平台，旨在帮助用户在先进的人工智能的帮助下创建和扩展故事。无论你是专业作家、业余爱好者，还是想象力生动的人，Perchance AI Story 都能提供独特的体验，让故事无缝展开。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/perchance-ai-story?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI-story-Generator site
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
+
+#### 这个工具可以帮助你创作精彩的故事
+
+
+[Visit](https://thataicollection.com/redirect/ai-story-generator-site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩的故事。您只需要输入简单的提示即可快速生成精彩的故事。该网站上还有其他各种工具可供免费使用。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-story-generator-site?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 📖 书籍和小说作家 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/book-and-novel-writer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -2040,6 +2040,28 @@ StoryBee 是一个人工智能驱动的平台，旨在为孩子们创作引人�
 ---
 
 ## CRM 和客户数据
+### WAPlus - WhatsApp CRM
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
+
+#### WhatsApp CRM、CRM 集成、联系人管理、工作效率、安排消息、自动回复、人工智能聊天机器人、人工智能翻译器
+Waplus CRM：提升您的 WhatsApp 工作效率
+
+
+[Visit](https://thataicollection.com/redirect/waplus-whatsapp-crm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+安排消息、自动回复、CRM 集成、人工智能聊天机器人、人工智能翻译器
+Waplus 是一款多合一的 WhatsApp CRM，可增强您的 What
+-使用自定义标签和个人资料整理联系人
+-将 WhatsApp 与所需的 CRM 集成
+-您的智能客户服务和实时翻译器通过日程消息、自动回复和快速回复提高工作效率。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/waplus-whatsapp-crm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Oliv AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
 
@@ -2052,6 +2074,38 @@ Oliv 是一款人工智能驱动的销售助理，可增强您的潜在客户和
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/oliv-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Skydis
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-skydis.webp" alt="Skydis">
+
+#### Skydis-最简单的网站人工智能聊天机器人生成器。它可以帮助企业吸引访客，捕获潜在客户，并提供全天候客户支持。
+
+
+[Visit](https://thataicollection.com/redirect/skydis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Skydis是一个强大的人工智能聊天机器人平台，旨在帮助企业轻松吸引网站访问者并捕获有价值的潜在客户。它具有简单的拖放界面，任何人都可以创建自定义的聊天机器人，而无需编码。该平台全天候运行，根据您的业务数据提供智能、准确的响应。Skydis还与Zapier和Make等工具无缝集成。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/skydis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Ctrl
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrl.webp" alt="Ctrl">
+
+#### 适用于复杂 CRM 工作流程的现代 UI
+
+
+[Visit](https://thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过自动化 CRM 更新、生成量身定制的后续行动并促进交易执行，简化您的销售工作流程和任务
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2095,22 +2149,6 @@ forms.app 是一个用户友好的平台，可让您轻松创建表单和调查�
 <br />
 
 
-### Ctrl
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrl.webp" alt="Ctrl">
-
-#### 适用于复杂 CRM 工作流程的现代 UI
-
-
-[Visit](https://thataicollection.com/redirect/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过自动化 CRM 更新、生成量身定制的后续行动并促进交易执行，简化您的销售工作流程和任务
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ctrl?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Foundy.com
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
 
@@ -2123,44 +2161,6 @@ Foundy.com是第一个专门从事长期退出计划和成功执行并购交易�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/foundy-com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### WAPlus - WhatsApp CRM
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
-
-#### WhatsApp CRM、CRM 集成、联系人管理、工作效率、安排消息、自动回复、人工智能聊天机器人、人工智能翻译器
-Waplus CRM：提升您的 WhatsApp 工作效率
-
-
-[Visit](https://thataicollection.com/redirect/waplus-whatsapp-crm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-安排消息、自动回复、CRM 集成、人工智能聊天机器人、人工智能翻译器
-Waplus 是一款多合一的 WhatsApp CRM，可增强您的 What
--使用自定义标签和个人资料整理联系人
--将 WhatsApp 与所需的 CRM 集成
--您的智能客户服务和实时翻译器通过日程消息、自动回复和快速回复提高工作效率。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/waplus-whatsapp-crm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Skydis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-skydis.webp" alt="Skydis">
-
-#### Skydis-最简单的网站人工智能聊天机器人生成器。它可以帮助企业吸引访客，捕获潜在客户，并提供全天候客户支持。
-
-
-[Visit](https://thataicollection.com/redirect/skydis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Skydis是一个强大的人工智能聊天机器人平台，旨在帮助企业轻松吸引网站访问者并捕获有价值的潜在客户。它具有简单的拖放界面，任何人都可以创建自定义的聊天机器人，而无需编码。该平台全天候运行，根据您的业务数据提供智能、准确的响应。Skydis还与Zapier和Make等工具无缝集成。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/skydis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2206,22 +2206,6 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 <br />
 
 
-### My AskAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
-
-#### 创建 AI 助手的速度比煮咖啡的速度更快
-
-
-[Visit](https://thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Chatbase
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
@@ -2235,6 +2219,22 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/chatbase?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### My AskAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+
+#### 创建 AI 助手的速度比煮咖啡的速度更快
+
+
+[Visit](https://thataicollection.com/redirect/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的团队或客户节省数小时的搜索和阅读时间，并提供即时答案。添加您的文档、网站或内容并创建自己的 AI 助手，只需不到 2 分钟。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/my-ask-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2295,36 +2295,18 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 ---
 
 ## 编程助手
-### Interview Solver
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+### Dynamiq
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
 
-#### 使用我们的 AI Copilot 在实时编程面试中脱颖而出
-
-
-[Visit](https://thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Interview Solver 是一款 AI Copilot，可帮助您通过实时编程和系统设计面试。
-
-无论你是经验丰富的开发者还是应届毕业生，Interview Solver 都能为您提供展示技能和给面试官留下深刻印象所需的帮助和资源。
+#### GenAI 应用程序的操作平台
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/dynamiq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### JustCopy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
-
-#### justcopy.ai-无需任何设置即可在 2 分钟内复制、自定义和部署的 AI 代理
+Dynamiq 是一个专为工程师和数据科学家构建的平台，用于为企业想要解决的任何用例构建、部署、测试、监控和微调大型语言模型。 
 
 
-[Visit](https://thataicollection.com/redirect/justcopy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-JustCopy.ai 可以让任何人在几分钟内从创意转变为在线网站。在 10 秒内复制任何现有站点，或使用 AI 生成一个新的站点，自动设计、编码和部署，无需设置，无需工程。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/justcopy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dynamiq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2377,18 +2359,20 @@ ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI
 <br />
 
 
-### Dynamiq
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
+### Interview Solver
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
 
-#### GenAI 应用程序的操作平台
-
-
-[Visit](https://thataicollection.com/redirect/dynamiq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dynamiq 是一个专为工程师和数据科学家构建的平台，用于为企业想要解决的任何用例构建、部署、测试、监控和微调大型语言模型。 
+#### 使用我们的 AI Copilot 在实时编程面试中脱颖而出
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dynamiq?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Interview Solver 是一款 AI Copilot，可帮助您通过实时编程和系统设计面试。
+
+无论你是经验丰富的开发者还是应届毕业生，Interview Solver 都能为您提供展示技能和给面试官留下深刻印象所需的帮助和资源。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/interview-solver?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2405,6 +2389,22 @@ CodeWP 是一个 WordPress 代码生成器，它使用 AI 和适用于 WordPress
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/codewp?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### JustCopy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
+
+#### justcopy.ai-无需任何设置即可在 2 分钟内复制、自定义和部署的 AI 代理
+
+
+[Visit](https://thataicollection.com/redirect/justcopy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+JustCopy.ai 可以让任何人在几分钟内从创意转变为在线网站。在 10 秒内复制任何现有站点，或使用 AI 生成一个新的站点，自动设计、编码和部署，无需设置，无需工程。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/justcopy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2433,22 +2433,6 @@ Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内�
 <br />
 
 
-### CarbonCopy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-carboncopy.webp" alt="CarbonCopy">
-
-#### CarbonCopy AI 写作工具和内容生成器
-
-
-[Visit](https://thataicollection.com/redirect/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-选择我们的 50 个模板之一并制作引人注目的副本以用于各种目的，包括描述、广告、文章、电子邮件等...提供一些 CarbonCopy 将用于创建您的副本的信息。只需几秒钟，我们的人工智能软件就会为您的营销带来显着的效果。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### The Humanize Ai Pro
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
 
@@ -2465,6 +2449,23 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 <br />
 
 
+### StoryChief
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+
+#### 利用数据驱动的见解和人工智能制定成功的内容策略。 
+
+
+[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+StoryChief使您能够制定有效的内容策略，以提高参与度并实现内容营销目标。借助 StoryChief，您可以分析、规划、协作和发布多个渠道的内容，确保您的信息在正确的时间传达给正确的受众。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Content Raptor
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-karolina.webp" alt="Content Raptor">
 
@@ -2477,22 +2478,6 @@ Content Raptor是一款强大的内容管理和SEO优化工具，可提高网站
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/content-raptor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### XXAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xxai.webp" alt="XXAI">
-
-#### XXAI — 适用于 GPT-4o 和 Claude 3.5 的高级人工智能副驾驶
-
-
-[Visit](https://thataicollection.com/redirect/xxai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-无论您在哪里工作，都可以获得摘要、答案、精彩写作、翻译、草稿和 AI 搜索。在 GPT-4o 和 Claude 3.5 之间无缝切换以获取专业内容，每天为您节省数小时。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/xxai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2515,19 +2500,34 @@ Everneed AI是面向企业家和营销人员的多合一平台，可以帮助您
 <br />
 
 
-### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+### XXAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xxai.webp" alt="XXAI">
 
-#### 利用数据驱动的见解和人工智能制定成功的内容策略。 
-
-
-[Visit](https://thataicollection.com/redirect/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-StoryChief使您能够制定有效的内容策略，以提高参与度并实现内容营销目标。借助 StoryChief，您可以分析、规划、协作和发布多个渠道的内容，确保您的信息在正确的时间传达给正确的受众。
+#### XXAI — 适用于 GPT-4o 和 Claude 3.5 的高级人工智能副驾驶
 
 
+[Visit](https://thataicollection.com/redirect/xxai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/storychief?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+无论您在哪里工作，都可以获得摘要、答案、精彩写作、翻译、草稿和 AI 搜索。在 GPT-4o 和 Claude 3.5 之间无缝切换以获取专业内容，每天为您节省数小时。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/xxai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### CarbonCopy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-carboncopy.webp" alt="CarbonCopy">
+
+#### CarbonCopy AI 写作工具和内容生成器
+
+
+[Visit](https://thataicollection.com/redirect/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+选择我们的 50 个模板之一并制作引人注目的副本以用于各种目的，包括描述、广告、文章、电子邮件等...提供一些 CarbonCopy 将用于创建您的副本的信息。只需几秒钟，我们的人工智能软件就会为您的营销带来显着的效果。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/carboncopy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2540,38 +2540,6 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 ---
 
 ## 求职信生成器
-### Your Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
-
-#### AI Cover Letter Builder - 上传您的简历以开始
-
-
-[Visit](https://thataicollection.com/redirect/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的 AI 求职信生成器申请您梦寐以求的工作。添加您的简历和职位描述以在几秒钟内生成求职信。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
-
-#### 在几秒钟内为每个空缺职位量身定制求职信
-
-
-[Visit](https://thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Writemeacoverletter
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
 
@@ -2604,18 +2572,18 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 <br />
 
 
-### Cover Letter AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
+### PowerDreamer AI Cover Letter Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
-#### 求职信人工智能
-
-
-[Visit](https://thataicollection.com/redirect/cover-letter-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-制作完美求职信的终极工具
+#### 在几秒钟内为每个空缺职位量身定制求职信
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/cover-letter-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让 AI 同时探索多达 10 个输出，并根据您选择的标准选择最佳输出。这不仅仅是数量：而是要给你带来尽可能好的结果。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/powerdreamer-ai-cover-letter-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2635,6 +2603,38 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-rental-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Cover Letter AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
+
+#### 求职信人工智能
+
+
+[Visit](https://thataicollection.com/redirect/cover-letter-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+制作完美求职信的终极工具
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/cover-letter-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Your Cover Letter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
+
+#### AI Cover Letter Builder - 上传您的简历以开始
+
+
+[Visit](https://thataicollection.com/redirect/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的 AI 求职信生成器申请您梦寐以求的工作。添加您的简历和职位描述以在几秒钟内生成求职信。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/your-cover-letter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2685,58 +2685,6 @@ Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自
 <br />
 
 
-### FastBots.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
-
-#### FastBots.ai：通往智能自动化的门户
-
-
-[Visit](https://thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Rosie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rosie.webp" alt="Rosie">
-
-#### Rosie是为中小型企业提供的人工智能电话接听服务。
-
-
-[Visit](https://thataicollection.com/redirect/rosie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Rosie是一项基于人工智能的电话接听服务，专为中小型企业设计。
-
-使用Rosie，您可以确保潜在客户的每一个电话都得到答复，同时还可以为现有客户提供出色的支持。
-
-Rosie 非常适合家庭服务提供商、本地企业或任何依赖电话线索的公司。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rosie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MotionShot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
-
-#### 为您的产品和客户创建有吸引力的演练指南
-
-
-[Visit](https://thataicollection.com/redirect/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客户提供的产品指南、为新入职人员或员工提供教程指南、为销售演示创建产品演示等。因此，您可以获得满意的客户并减少流失，快速与员工或新入职者分享知识，提高销售转化率。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Webbotify
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webbotify.webp" alt="Webbotify">
 
@@ -2766,6 +2714,58 @@ Webbotify 提供专门在您的网站上训练的 AI 聊天机器人，可帮助
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/sitespeakai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### FastBots.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+
+#### FastBots.ai：通往智能自动化的门户
+
+
+[Visit](https://thataicollection.com/redirect/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的人工智能聊天机器人实现客户服务自动化，让您的团队可以自由地专注于他们最擅长的事情。使用 FastBots.ai 提高效率并增强客户互动。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fastbots-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### MotionShot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
+
+#### 为您的产品和客户创建有吸引力的演练指南
+
+
+[Visit](https://thataicollection.com/redirect/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客户提供的产品指南、为新入职人员或员工提供教程指南、为销售演示创建产品演示等。因此，您可以获得满意的客户并减少流失，快速与员工或新入职者分享知识，提高销售转化率。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/motionshot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rosie
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rosie.webp" alt="Rosie">
+
+#### Rosie是为中小型企业提供的人工智能电话接听服务。
+
+
+[Visit](https://thataicollection.com/redirect/rosie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Rosie是一项基于人工智能的电话接听服务，专为中小型企业设计。
+
+使用Rosie，您可以确保潜在客户的每一个电话都得到答复，同时还可以为现有客户提供出色的支持。
+
+Rosie 非常适合家庭服务提供商、本地企业或任何依赖电话线索的公司。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rosie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2812,23 +2812,34 @@ Chaindesk 是一个完整的支持生态系统，可帮助您减少花在支持�
 <br />
 
 
-### Genius Sheets
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+### SummerEyes
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
 
-#### Genius Sheets-来自未来的商业智能
-人工智能驱动的数据分析
-
-
-[Visit](https://thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最重要的问题。
-对话式 AI-与 Genius Sheets 交谈，就像在和同事说话一样
-企业安全-专为企业安全标准而构建-确保您的数据安全。
-易于使用-不需要 SQL 或 Python
-原生界面-在我们的 WebApp、Slack 或 Teams 中连接到你的数据
+#### Summereyes：浏览器中的 AI 驱动摘要
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借助集成的自动化工具，您可以更快地处理更多信息，从而提高工作效率。从文章到电子邮件，仔细阅读 BS，找出重要内容。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Decile
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-decile.webp" alt="Decile">
+
+#### 通过询问获取您需要的数据。
+
+
+[Visit](https://thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 AI 的力量建立一个数据主导的组织。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2851,34 +2862,39 @@ NewsDeck利用OneSub的智能新闻阅读器AI的强大功能，使您可以实�
 <br />
 
 
-### Decile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-decile.webp" alt="Decile">
+### Genius Sheets
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
-#### 通过询问获取您需要的数据。
-
-
-[Visit](https://thataicollection.com/redirect/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 AI 的力量建立一个数据主导的组织。
+#### Genius Sheets-来自未来的商业智能
+人工智能驱动的数据分析
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/decile?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最重要的问题。
+对话式 AI-与 Genius Sheets 交谈，就像在和同事说话一样
+企业安全-专为企业安全标准而构建-确保您的数据安全。
+易于使用-不需要 SQL 或 Python
+原生界面-在我们的 WebApp、Slack 或 Teams 中连接到你的数据
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/genius-sheets?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### SummerEyes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+### AutoPredict
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
-#### Summereyes：浏览器中的 AI 驱动摘要
-
-
-[Visit](https://thataicollection.com/redirect/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借助集成的自动化工具，您可以更快地处理更多信息，从而提高工作效率。从文章到电子邮件，仔细阅读 BS，找出重要内容。
+#### 自动预测-预测您的汽车能持续多久
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/summereyes?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用程序。通过分析超过1亿个数据点，AutoPredict可以准确估计汽车的寿命。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -2900,22 +2916,6 @@ Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借
 <br />
 
 
-### AutoPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
-
-#### 自动预测-预测您的汽车能持续多久
-
-
-[Visit](https://thataicollection.com/redirect/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用程序。通过分析超过1亿个数据点，AutoPredict可以准确估计汽车的寿命。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/autopredict?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 📊 数据分析 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/data-analysis?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -2924,54 +2924,6 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 ---
 
 ## 数据库和 SQL 助手
-### Code Language Converter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
-
-#### 代码语言转换器 - 使用 AI 将代码转换为其他语言
-
-
-[Visit](https://thataicollection.com/redirect/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-粘贴您的代码片段，AI 会将其转换为所选语言！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Scale
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scale.webp" alt="Scale">
-
-#### Scale Ai：利用您的数据为生成式 AI 提供动力
-
-
-[Visit](https://thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增强现实/虚拟现实、机器人等人工智能应用提供高质量的训练数据。用最好的数据制作最佳模型。Scale Data Engine 利用您的企业数据，借助 Scale Generation AI 平台，安全地释放人工智能的价值。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DataLang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-datalang.webp" alt="DataLang">
-
-#### 使用数据库和 SQL 创建自定义 ChatGPT
-
-
-[Visit](https://thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-连接您的数据源，设置一些数据视图（例如 SQL 脚本），配置 GPT 助手，创建自定义 ChatGPT，并与您的用户、员工或客户共享！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### ai2sql
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
 
@@ -3005,6 +2957,22 @@ TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建�
 <br />
 
 
+### QueryGenie
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
+
+#### 更快地编写数据库查询！
+
+
+[Visit](https://thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 从纯英文描述生成数据库查询。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI SQL BOT
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
 
@@ -3022,18 +2990,50 @@ TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建�
 <br />
 
 
-### QueryGenie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
+### Code Language Converter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
 
-#### 更快地编写数据库查询！
-
-
-[Visit](https://thataicollection.com/redirect/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 从纯英文描述生成数据库查询。
+#### 代码语言转换器 - 使用 AI 将代码转换为其他语言
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/querygenie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+粘贴您的代码片段，AI 会将其转换为所选语言！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/code-language-converter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### DataLang
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+
+#### 使用数据库和 SQL 创建自定义 ChatGPT
+
+
+[Visit](https://thataicollection.com/redirect/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+连接您的数据源，设置一些数据视图（例如 SQL 脚本），配置 GPT 助手，创建自定义 ChatGPT，并与您的用户、员工或客户共享！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/datalang?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Scale
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scale.webp" alt="Scale">
+
+#### Scale Ai：利用您的数据为生成式 AI 提供动力
+
+
+[Visit](https://thataicollection.com/redirect/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增强现实/虚拟现实、机器人等人工智能应用提供高质量的训练数据。用最好的数据制作最佳模型。Scale Data Engine 利用您的企业数据，借助 Scale Generation AI 平台，安全地释放人工智能的价值。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/scale?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3046,22 +3046,6 @@ TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建�
 ---
 
 ## 约会资料和接送热线
-### LoveGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
-
-#### 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！
-
-
-[Visit](https://thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来帮助吸引更好的匹配对象。它结合了机器学习算法、来自成功约会资料的数据，以及基于对约会教练和专家的采访的人类见解。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### OneDateIdea
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
 
@@ -3126,22 +3110,6 @@ TinderProfile.ai 使用 AI 分析用户的自拍和照片并生成高质量图�
 <br />
 
 
-### Roast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roast.webp" alt="Roast">
-
-#### 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器
-
-
-[Visit](https://thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序上的匹配度提高 10 倍。在 AI 的支持下，它提供了数据驱动的约会见解和专家建议，以提高他们匹配的数量和质量
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### WingmanX
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
 
@@ -3158,6 +3126,38 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 <br />
 
 
+### Roast
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roast.webp" alt="Roast">
+
+#### 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器
+
+
+[Visit](https://thataicollection.com/redirect/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序上的匹配度提高 10 倍。在 AI 的支持下，它提供了数据驱动的约会见解和专家建议，以提高他们匹配的数量和质量
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/roast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### LoveGenius
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
+
+#### 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！
+
+
+[Visit](https://thataicollection.com/redirect/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来帮助吸引更好的匹配对象。它结合了机器学习算法、来自成功约会资料的数据，以及基于对约会教练和专家的采访的人类见解。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lovegenius?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 💘 约会资料和接送热线 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/dating-profile-and-pickup-line?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -3166,54 +3166,6 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 ---
 
 ## 电子商务
-### Embolden
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-embolden.webp" alt="Embolden">
-
-#### 使用 AI 为您的电子商务写作提供支持。
-
-
-[Visit](https://thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CopyMonkey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
-
-#### 您的 AI 驱动的亚马逊列表优化专家
-
-
-[Visit](https://thataicollection.com/redirect/copymonkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有重要的关键词放在您的亚马逊列表中，让您在首页上自然排名
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/copymonkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DoMyShoot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
-
-#### DoMyShoot - 简化产品摄影
-
-
-[Visit](https://thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-仅使用您的智能手机引导自己完成照片拍摄，让我们的 AI 技术处理剩余的过程，将日常产品变成照片般逼真的图像，这些图像一定会让营销策略更上一层楼。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Prems Ai
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
 
@@ -3228,38 +3180,6 @@ CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/prems-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### unbounce
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbounce.webp" alt="unbounce">
-
-#### 助您发展业务的智能营销工具
-
-
-[Visit](https://thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Wizishop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
-
-#### 通过 SEO 驱动的电子商务发展您的业务
-
-
-[Visit](https://thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成功触手可及。人工智能为您的电子商务业务服务！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3280,6 +3200,86 @@ WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成
 <br />
 
 
+### DoMyShoot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
+
+#### DoMyShoot - 简化产品摄影
+
+
+[Visit](https://thataicollection.com/redirect/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+仅使用您的智能手机引导自己完成照片拍摄，让我们的 AI 技术处理剩余的过程，将日常产品变成照片般逼真的图像，这些图像一定会让营销策略更上一层楼。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/domyshoot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### unbounce
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbounce.webp" alt="unbounce">
+
+#### 助您发展业务的智能营销工具
+
+
+[Visit](https://thataicollection.com/redirect/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+将更多的访问者变成客户。 Unbounce 是人工智能驱动的登陆页面构建器，具有智能功能，可让您在短短几分钟内创建美观、高效的营销活动。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/unbounce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### CopyMonkey
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
+
+#### 您的 AI 驱动的亚马逊列表优化专家
+
+
+[Visit](https://thataicollection.com/redirect/copymonkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有重要的关键词放在您的亚马逊列表中，让您在首页上自然排名
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/copymonkey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Wizishop
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
+
+#### 通过 SEO 驱动的电子商务发展您的业务
+
+
+[Visit](https://thataicollection.com/redirect/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成功触手可及。人工智能为您的电子商务业务服务！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/wizishop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Embolden
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-embolden.webp" alt="Embolden">
+
+#### 使用 AI 为您的电子商务写作提供支持。
+
+
+[Visit](https://thataicollection.com/redirect/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品描述的所有内容。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/embolden?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🛒 电子商务 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/ecommerce?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -3288,102 +3288,6 @@ WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成
 ---
 
 ## 电子邮件助理
-### EmailTriager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
-
-#### EmailTriager · 电子邮件自动驾驶。
-
-
-[Visit](https://thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 EmailTriager，我们构建的产品可以代表您工作。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Remail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-remail.webp" alt="Remail">
-
-#### 写邮件快 10 倍
-
-
-[Visit](https://thataicollection.com/redirect/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内起草高质量的电子邮件回复。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Rapidreply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
-
-#### 快速回复-AI邮件助手
-
-
-[Visit](https://thataicollection.com/redirect/rapidreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-每天写邮件节省 30 分钟
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rapidreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Ellie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ellie.webp" alt="Ellie">
-
-#### Ellie - 你的 AI 邮件助理
-
-
-[Visit](https://thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Ellie 从您的写作风格中学习，并像您写的一样精心回复
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Intellimail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-intellimail.webp" alt="Intellimail">
-
-#### 您的个人电子邮件助理
-
-
-[Visit](https://thataicollection.com/redirect/intellimail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因此您永远不必再写一封。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/intellimail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DraftLab
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
-
-#### DraftLab AI：使用 AI 更快地编写更好的电子邮件
-
-
-[Visit](https://thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-打击作家的障碍并实现收件箱为零。 DraftLab 是一款由 AI 驱动的 Gmail 副驾驶，可为您生成高质量的电子邮件回复。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### airepli
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airepli.webp" alt="airepli">
 
@@ -3405,6 +3309,102 @@ IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因
 <br />
 
 
+### Remail
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-remail.webp" alt="Remail">
+
+#### 写邮件快 10 倍
+
+
+[Visit](https://thataicollection.com/redirect/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内起草高质量的电子邮件回复。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/remail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Intellimail
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-intellimail.webp" alt="Intellimail">
+
+#### 您的个人电子邮件助理
+
+
+[Visit](https://thataicollection.com/redirect/intellimail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因此您永远不必再写一封。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/intellimail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### EmailTriager
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
+
+#### EmailTriager · 电子邮件自动驾驶。
+
+
+[Visit](https://thataicollection.com/redirect/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 EmailTriager，我们构建的产品可以代表您工作。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/emailtriager?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### DraftLab
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
+
+#### DraftLab AI：使用 AI 更快地编写更好的电子邮件
+
+
+[Visit](https://thataicollection.com/redirect/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+打击作家的障碍并实现收件箱为零。 DraftLab 是一款由 AI 驱动的 Gmail 副驾驶，可为您生成高质量的电子邮件回复。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/draftlab?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Ellie
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ellie.webp" alt="Ellie">
+
+#### Ellie - 你的 AI 邮件助理
+
+
+[Visit](https://thataicollection.com/redirect/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Ellie 从您的写作风格中学习，并像您写的一样精心回复
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ellie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rapidreply
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
+
+#### 快速回复-AI邮件助手
+
+
+[Visit](https://thataicollection.com/redirect/rapidreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+每天写邮件节省 30 分钟
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rapidreply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 📧 电子邮件助理 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/email-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -3413,18 +3413,34 @@ IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因
 ---
 
 ## 电子邮件营销
-### Quicklines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
+### Warmy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-warmy.webp" alt="Warmy">
 
-#### Quicklines 终身访问 - 仅 59 美元
-
-
-[Visit](https://thataicollection.com/redirect/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社交抓取和自然语言一线写作平台帮助您扩大冷电子邮件活动。
+#### Warmy：电子邮件热身带来的电子邮件送达率革命
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/warmy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+最先进的电子邮件送达率工具，采用人工智能驱动的算法，可确保您的电子邮件渠道可靠。立即探索 Warmy！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/warmy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SalesStream.ai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
+
+#### 世界上最简单的面向小企业主的电子邮件和短信活动生成器
+
+
+[Visit](https://thataicollection.com/redirect/salesstream-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工智能工具之一，旨在帮助小企业主在没有任何营销专业知识的情况下吸引更多客户。Reach 可以帮助您直接通过电子表格或 CRM 创建超级个性化的电子邮件活动。没有上传，没有模板，没有麻烦。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/salesstream-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3447,18 +3463,18 @@ Mailsplash 是你的 AI 电子邮件营销商。从文案写作到无缝设计�
 <br />
 
 
-### SalesStream.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
+### Smartwriter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
-#### 世界上最简单的面向小企业主的电子邮件和短信活动生成器
-
-
-[Visit](https://thataicollection.com/redirect/salesstream-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工智能工具之一，旨在帮助小企业主在没有任何营销专业知识的情况下吸引更多客户。Reach 可以帮助您直接通过电子表格或 CRM 创建超级个性化的电子邮件活动。没有上传，没有模板，没有麻烦。
+#### 使用 AI 生成 1000 封个性化电子邮件，让您在几分钟内获得 8 倍以上的回复
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/salesstream-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+再也不要浪费时间研究或撰写“个性化”电子邮件。自动化您的整个外展流程。比人类快 40 倍，便宜 6 倍。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3479,38 +3495,6 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 <br />
 
 
-### Smartwriter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
-
-#### 使用 AI 生成 1000 封个性化电子邮件，让您在几分钟内获得 8 倍以上的回复
-
-
-[Visit](https://thataicollection.com/redirect/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-再也不要浪费时间研究或撰写“个性化”电子邮件。自动化您的整个外展流程。比人类快 40 倍，便宜 6 倍。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/smartwriter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Warmy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-warmy.webp" alt="Warmy">
-
-#### Warmy：电子邮件热身带来的电子邮件送达率革命
-
-
-[Visit](https://thataicollection.com/redirect/warmy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-最先进的电子邮件送达率工具，采用人工智能驱动的算法，可确保您的电子邮件渠道可靠。立即探索 Warmy！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/warmy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### GetResponse
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getresponse.webp" alt="GetResponse">
 
@@ -3523,6 +3507,22 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/getresponse?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Quicklines
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
+
+#### Quicklines 终身访问 - 仅 59 美元
+
+
+[Visit](https://thataicollection.com/redirect/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社交抓取和自然语言一线写作平台帮助您扩大冷电子邮件活动。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/quicklines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3547,72 +3547,6 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/memegenai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Philosophy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
-
-#### 问哲学家
-
-
-[Visit](https://thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-提出深刻的问题并从威廉·莎士比亚、弗里德里希·尼采、勒内·笛卡尔、苏格拉底、孔子、Al-Kindi、佛陀那里得到答案
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
-
-#### DreamGen：人工智能角色扮演和故事写作
-
-
-[Visit](https://thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能角色扮演和故事写作，唯一的限制是你的想象力，也不是任意的过滤器。
-
-直接进入我们的场景之一，或者创建自己的场景。与角色交谈，探索幻想领域等等。没有规则，没有限制。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Creative QR codes using AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
-
-#### 使用人工智能将您的链接转换为艺术二维码，并提高转化率
-
-
-[Visit](https://thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用我们的艺术二维码体验无缝互动——设计与功能的迷人融合。以视觉效果惊艳的方式即时传达信息或品牌标识，给您的用户留下持久的印象。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Langame card game
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
-
-#### AI 生成的对话纸牌游戏，可与您的朋友和家人一起玩
-
-
-[Visit](https://thataicollection.com/redirect/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建您的个性化纸牌并与您的朋友一起玩。通过滑动 💅 选择哪些卡片应该属于您自己的套牌。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3655,6 +3589,72 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 <br />
 
 
+### DreamGen: AI role-playing and strory-writing
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+
+#### DreamGen：人工智能角色扮演和故事写作
+
+
+[Visit](https://thataicollection.com/redirect/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+人工智能角色扮演和故事写作，唯一的限制是你的想象力，也不是任意的过滤器。
+
+直接进入我们的场景之一，或者创建自己的场景。与角色交谈，探索幻想领域等等。没有规则，没有限制。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dreamgen:-ai-role-playing-and-strory-writing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Creative QR codes using AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
+
+#### 使用人工智能将您的链接转换为艺术二维码，并提高转化率
+
+
+[Visit](https://thataicollection.com/redirect/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用我们的艺术二维码体验无缝互动——设计与功能的迷人融合。以视觉效果惊艳的方式即时传达信息或品牌标识，给您的用户留下持久的印象。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/creative-qr-codes-using-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Philosophy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
+
+#### 问哲学家
+
+
+[Visit](https://thataicollection.com/redirect/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+提出深刻的问题并从威廉·莎士比亚、弗里德里希·尼采、勒内·笛卡尔、苏格拉底、孔子、Al-Kindi、佛陀那里得到答案
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/philosophy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Langame card game
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
+
+#### AI 生成的对话纸牌游戏，可与您的朋友和家人一起玩
+
+
+[Visit](https://thataicollection.com/redirect/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+创建您的个性化纸牌并与您的朋友一起玩。通过滑动 💅 选择哪些卡片应该属于您自己的套牌。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/langame-card-game?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🎲 娱乐与新奇 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/entertainment-and-novelty?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -3663,18 +3663,66 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 ---
 
 ## 面部和美容评级
-### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+### VideoWeb AI Face Rating
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
-#### AI 人脸分析仪-美容分数计算器
-
-
-[Visit](https://thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。
+#### 免费在线多合一 AI 视频和图像工具-VideoWeb AI
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/videoweb-ai-face-rating?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我漂亮吗？免费AI人脸评级，用于美容和吸引力评分测试！上传照片，我们的人工智能会立即分析您的面部特征。发现你的吸引力分数——既有趣又快速！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/videoweb-ai-face-rating?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### How Attractive am I
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
+
+#### 我有多吸引人——人工智能美容分数测试 [2026 年更新]
+
+
+[Visit](https://thataicollection.com/redirect/how-attractive-am-i?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+免费在线测试您的照片以获得美容分数.想知道我有多漂亮？立即使用我们的高级面部分析工具了解情况。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/how-attractive-am-i?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Face Analysis Attractiveness
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
+
+#### 面部分析吸引力：通过技术理解美
+
+
+[Visit](https://thataicollection.com/redirect/face-analysis-attractiveness?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+探索人脸分析和吸引力评估的最新进展。了解技术如何评估面部特征、对称性和比例以确定吸引力。借助心理学和人工智能对美容标准的见解，增强您的知识。非常适合研究人员、营销人员和任何对面部吸引力背后的科学感兴趣的人。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/face-analysis-attractiveness?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Glowup AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
+
+#### 使用 Glowup AI 来看看你有多漂亮。我们的工具可作为您的个性化人工智能美容指南。 
+
+
+[Visit](https://thataicollection.com/redirect/glowup-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您将能够发现自己的美丽原型并依靠自己的自然之美。我们将分享个性化贴士，并提供详细建议，帮助您获得应有的信心和自尊心！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/glowup-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3699,54 +3747,6 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 <br />
 
 
-### How Attractive am I
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
-
-#### 我有多吸引人——人工智能美容分数测试 [2026 年更新]
-
-
-[Visit](https://thataicollection.com/redirect/how-attractive-am-i?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-免费在线测试您的照片以获得美容分数.想知道我有多漂亮？立即使用我们的高级面部分析工具了解情况。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/how-attractive-am-i?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### VideoWeb AI Face Rating
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
-
-#### 免费在线多合一 AI 视频和图像工具-VideoWeb AI
-
-
-[Visit](https://thataicollection.com/redirect/videoweb-ai-face-rating?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我漂亮吗？免费AI人脸评级，用于美容和吸引力评分测试！上传照片，我们的人工智能会立即分析您的面部特征。发现你的吸引力分数——既有趣又快速！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/videoweb-ai-face-rating?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Face Analysis Attractiveness
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
-
-#### 面部分析吸引力：通过技术理解美
-
-
-[Visit](https://thataicollection.com/redirect/face-analysis-attractiveness?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-探索人脸分析和吸引力评估的最新进展。了解技术如何评估面部特征、对称性和比例以确定吸引力。借助心理学和人工智能对美容标准的见解，增强您的知识。非常适合研究人员、营销人员和任何对面部吸引力背后的科学感兴趣的人。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/face-analysis-attractiveness?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### FaceRate.ai: Face Attractiveness Test and Analysis Tool
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
 
@@ -3763,18 +3763,18 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 <br />
 
 
-### Glowup AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
+### AI Face Analyzer-Beauty Score Calculator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
-#### 使用 Glowup AI 来看看你有多漂亮。我们的工具可作为您的个性化人工智能美容指南。 
-
-
-[Visit](https://thataicollection.com/redirect/glowup-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您将能够发现自己的美丽原型并依靠自己的自然之美。我们将分享个性化贴士，并提供详细建议，帮助您获得应有的信心和自尊心！
+#### AI 人脸分析仪-美容分数计算器
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/glowup-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+美容分数计算器是一款人工智能面部分析器，可根据您上传的脸部照片提供客观的面部美容分数。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-face-analyzer-beauty-score-calculator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3787,6 +3787,38 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 ---
 
 ## 时尚
+### Outfit Changer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+
+#### 服装更换器 AI | 为任何人装备 AI | 虚拟试穿 | 你的虚拟衣柜在等着你 | 人工智能换衣机 | outfitchanger.com
+
+
+[Visit](https://thataicollection.com/redirect/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 Outfit Changer，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。| 服装更换器 AI | 为任何人配备 AI | 虚拟试穿 | 您的虚拟衣柜在等着您 | 人工智能换衣机： 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Visualhound
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
+
+#### VisualHound - 使用 AI 为您的时装设计创意制作原型
+
+
+[Visit](https://thataicollection.com/redirect/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在投入生产之前可视化您的产品设计。创建逼真的产品图像来满足您的情绪板并促进您的设计过程。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SwagAI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
@@ -3801,22 +3833,6 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/swagai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Outfit Anyone AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
-
-#### 为任何人搭配 AI-适合各种风格的轻松虚拟试穿
-
-
-[Visit](https://thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 Outfit Anyone AI，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3839,34 +3855,18 @@ SwaGai-人工智能在T恤上生成了图像。
 <br />
 
 
-### Visualhound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
+### HuHu AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
 
-#### VisualHound - 使用 AI 为您的时装设计创意制作原型
-
-
-[Visit](https://thataicollection.com/redirect/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在投入生产之前可视化您的产品设计。创建逼真的产品图像来满足您的情绪板并促进您的设计过程。
+#### HuHu AI-从服装照片到令人惊艳的时装模特
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/visualhound?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/huhu-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Outfit Changer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
-
-#### 服装更换器 AI | 为任何人装备 AI | 虚拟试穿 | 你的虚拟衣柜在等着你 | 人工智能换衣机 | outfitchanger.com
+我们致力于构建最先进的人工智能虚拟试穿技术，以帮助服装卖家在时尚照片拍摄上节省大笔费用。将服装图像转换为不同尺寸和姿势的模特照片，同时捕捉每条缝合、接缝和图案。
 
 
-[Visit](https://thataicollection.com/redirect/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Outfit Changer，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。| 服装更换器 AI | 为任何人配备 AI | 虚拟试穿 | 您的虚拟衣柜在等着您 | 人工智能换衣机： 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/outfit-changer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/huhu-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3887,18 +3887,18 @@ FashionAdvisor 是一个基于 GPT3 的人工智能，它会立即免费回答�
 <br />
 
 
-### HuHu AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
+### Outfit Anyone AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
-#### HuHu AI-从服装照片到令人惊艳的时装模特
-
-
-[Visit](https://thataicollection.com/redirect/huhu-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们致力于构建最先进的人工智能虚拟试穿技术，以帮助服装卖家在时尚照片拍摄上节省大笔费用。将服装图像转换为不同尺寸和姿势的模特照片，同时捕捉每条缝合、接缝和图案。
+#### 为任何人搭配 AI-适合各种风格的轻松虚拟试穿
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/huhu-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 Outfit Anyone AI，探索时尚新时代，只需点击一下即可试穿任何服装。我们的平台利用最先进的人工智能技术改变您的服装选择体验。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/outfit-anyone-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -3911,22 +3911,6 @@ FashionAdvisor 是一个基于 GPT3 的人工智能，它会立即免费回答�
 ---
 
 ## 赌博
-### Chess AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
-
-#### Betafish - AlphaZero 和 Stockfish 的合并。
-
-
-[Visit](https://thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编写，基于 Negamax 算法。它击败了 Lichess 上的 Stockfish Level 6，我估计它的 Elo 大约为 1800-2000，具体取决于提供的思考时间。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### hidden door
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
@@ -3939,38 +3923,6 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/hidden-door?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Assetsai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
-
-#### 为您的游戏提供 AI 驱动、独特且精心策划的资产
-
-
-[Visit](https://thataicollection.com/redirect/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在您的游戏设计和开发中释放 AI 的力量。获取多种风格的定制游戏资产，以激发并帮助您打造下一款游戏！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### charisma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-charisma.webp" alt="charisma">
-
-#### 为实时数字人类提供动力
-
-
-[Visit](https://thataicollection.com/redirect/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-对于游戏 • 元宇宙 • 虚拟现实 • 教育 • 电视和电影 • 出版及其他领域！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4007,6 +3959,38 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 <br />
 
 
+### charisma
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-charisma.webp" alt="charisma">
+
+#### 为实时数字人类提供动力
+
+
+[Visit](https://thataicollection.com/redirect/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+对于游戏 • 元宇宙 • 虚拟现实 • 教育 • 电视和电影 • 出版及其他领域！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/charisma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Chess AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
+
+#### Betafish - AlphaZero 和 Stockfish 的合并。
+
+
+[Visit](https://thataicollection.com/redirect/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编写，基于 Negamax 算法。它击败了 Lichess 上的 Stockfish Level 6，我估计它的 Elo 大约为 1800-2000，具体取决于提供的思考时间。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chess-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### latitude
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-latitude.webp" alt="latitude">
 
@@ -4023,6 +4007,22 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 <br />
 
 
+### Assetsai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
+
+#### 为您的游戏提供 AI 驱动、独特且精心策划的资产
+
+
+[Visit](https://thataicollection.com/redirect/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在您的游戏设计和开发中释放 AI 的力量。获取多种风格的定制游戏资产，以激发并帮助您打造下一款游戏！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/assetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🎮 赌博 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/gaming?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4031,6 +4031,38 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 ---
 
 ## 礼物创意和推荐
+### Outdone V2
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
+
+#### 在几分钟或更短的时间内找到完美的礼物
+
+
+[Visit](https://thataicollection.com/redirect/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+旨在消除压力。礼品购物。以真实的消费者数据和我们全面的审查流程为后盾，Outdone 将数百个世界上最好的品牌带到购物者的指尖，通过一种快速、易于使用的工具来寻找精美的礼物。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Text2present
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2present.webp" alt="Text2present">
+
+#### text2present.com - 来自忙碌人士的创意礼物。
+
+
+[Visit](https://thataicollection.com/redirect/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+允许您使用人工智能为您的朋友、家人和熟人创建创意定制礼物，而无需占用您宝贵的时间。只需输入您想送礼的文字说明，剩下的交给我们的人工智能
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### ColorBliss
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
 
@@ -4073,54 +4105,6 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 <br />
 
 
-### Text2present
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2present.webp" alt="Text2present">
-
-#### text2present.com - 来自忙碌人士的创意礼物。
-
-
-[Visit](https://thataicollection.com/redirect/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-允许您使用人工智能为您的朋友、家人和熟人创建创意定制礼物，而无需占用您宝贵的时间。只需输入您想送礼的文字说明，剩下的交给我们的人工智能
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/text2present?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lovelines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
-
-#### Lovelines.xyz - 用 AI 制作的定制纪念品分享你的爱
-
-
-[Visit](https://thataicollection.com/redirect/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用针对社交媒体优化的 AI 为亲人创建定制纪念品。人工智能生成的诗歌、故事、信件和歌词。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Outdone V2
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
-
-#### 在几分钟或更短的时间内找到完美的礼物
-
-
-[Visit](https://thataicollection.com/redirect/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-旨在消除压力。礼品购物。以真实的消费者数据和我们全面的审查流程为后盾，Outdone 将数百个世界上最好的品牌带到购物者的指尖，通过一种快速、易于使用的工具来寻找精美的礼物。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/outdone-v2?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Giftastic AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
@@ -4149,6 +4133,22 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/gifts-genie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Lovelines
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
+
+#### Lovelines.xyz - 用 AI 制作的定制纪念品分享你的爱
+
+
+[Visit](https://thataicollection.com/redirect/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用针对社交媒体优化的 AI 为亲人创建定制纪念品。人工智能生成的诗歌、故事、信件和歌词。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lovelines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4193,22 +4193,6 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 <br />
 
 
-### The Multiverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
-
-#### 把你的自拍变成专业头像
-
-
-[Visit](https://thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Executive Headshots
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
 
@@ -4221,6 +4205,22 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/executive-headshots?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ImageArt
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imageart.webp" alt="ImageArt">
+
+#### ImageArt-想象一下 AI 头像生成器
+
+
+[Visit](https://thataicollection.com/redirect/imageart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 ImagineArt AI 头像生成器在眨眼之间生成高质量的头像。以你能想象的任何风格生成头像。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/imageart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4242,18 +4242,18 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 <br />
 
 
-### ImageArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imageart.webp" alt="ImageArt">
+### The Multiverse AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
-#### ImageArt-想象一下 AI 头像生成器
-
-
-[Visit](https://thataicollection.com/redirect/imageart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 ImagineArt AI 头像生成器在眨眼之间生成高质量的头像。以你能想象的任何风格生成头像。
+#### 把你的自拍变成专业头像
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/imageart?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+市场上精度最高的专业头像生成器。量身定制的构图以获得最佳的第一印象。非常适合专业人士和团队。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/the-multiverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4282,20 +4282,36 @@ Fulgent AI 使用最新技术来确保生成的图像与实际照片非常相似
 ---
 
 ## 卫生保健
-### Medidex Connect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+### Well Me Right
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
 
-#### Medidex Connect 全天候在线药剂师聊天服务
-
-
-[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Medidex Connect-一款用于询问健康和药物问题的人工智能聊天机器人，与现实生活中的持牌药剂师相结合，可查看人工智能生成的答案，并在需要时提供更多个性化信息。 
-
-使用Mededex Connect，您可以立即在线提交一般健康和药物问题，然后发送给药剂师。 
+#### AI 健康指导：预订世界领先的健康专家，通过视频通话获得建议
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[Visit](https://thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 配对：与经过审查的饮食、营养、补品、美容、健身、正念等领域的专家会面，获得 1:1 的虚拟健康指导和支持
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Ubie AI Symptom Checker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
+
+#### 通过 AI 检查症状和查找原因
+
+
+[Visit](https://thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过 AI 检查症状和查找原因 - 通过 AI 免费回答有关您的症状的测验，以找出可能的原因、类型、严重程度和治疗方法。由医生研发
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4316,22 +4332,6 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 <br />
 
 
-### Calisthenics Workout Plan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
-
-#### 根据您的健身水平和目标量身定制人工智能驱动的个性化锻炼。
-
-
-[Visit](https://thataicollection.com/redirect/calisthenics-workout-plan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-抛开常规锻炼计划，释放你的健身潜能！我们的免费套餐提供了一系列有效的体重训练，而我们的高级套餐则通过我们的动态、人工智能驱动的算法为您提供支持。根据您的目标、经验水平、目标领域等在几秒钟内创建自定义计划]
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/calisthenics-workout-plan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Kallo
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kallo.webp" alt="Kallo">
 
@@ -4344,22 +4344,6 @@ Kallo 是一款多 LLM GenAI 工具，用户不仅可以在同一个聊天中尝
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/kallo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Ubie AI Symptom Checker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
-
-#### 通过 AI 检查症状和查找原因
-
-
-[Visit](https://thataicollection.com/redirect/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过 AI 检查症状和查找原因 - 通过 AI 免费回答有关您的症状的测验，以找出可能的原因、类型、严重程度和治疗方法。由医生研发
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ubie-ai-symptom-checker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4381,20 +4365,36 @@ S10 的环境人工智能医学抄写员是医生防止文件烧毁的秘密武�
 <br />
 
 
-### Well Me Right
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+### Medidex Connect
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
 
-#### AI 健康指导：预订世界领先的健康专家，通过视频通话获得建议
-
-
-
-[Visit](https://thataicollection.com/redirect/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 配对：与经过审查的饮食、营养、补品、美容、健身、正念等领域的专家会面，获得 1:1 的虚拟健康指导和支持
+#### Medidex Connect 全天候在线药剂师聊天服务
 
 
+[Visit](https://thataicollection.com/redirect/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/well-me-right?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+Medidex Connect-一款用于询问健康和药物问题的人工智能聊天机器人，与现实生活中的持牌药剂师相结合，可查看人工智能生成的答案，并在需要时提供更多个性化信息。 
+
+使用Mededex Connect，您可以立即在线提交一般健康和药物问题，然后发送给药剂师。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/medidex-connect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Calisthenics Workout Plan
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
+
+#### 根据您的健身水平和目标量身定制人工智能驱动的个性化锻炼。
+
+
+[Visit](https://thataicollection.com/redirect/calisthenics-workout-plan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+抛开常规锻炼计划，释放你的健身潜能！我们的免费套餐提供了一系列有效的体重训练，而我们的高级套餐则通过我们的动态、人工智能驱动的算法为您提供支持。根据您的目标、经验水平、目标领域等在几秒钟内创建自定义计划]
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/calisthenics-workout-plan?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4419,6 +4419,72 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/sopcreator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Myess
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myess.webp" alt="Myess">
+
+#### myEssai - 人工智能驱动的论文导师
+
+
+[Visit](https://thataicollection.com/redirect/myess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过我们的 AI 导师提供的即时、高度详细的反馈，为您的写作增光添彩。真实的、可操作的反馈——不仅仅是另一个 Grammarly。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/myess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Teacherbot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
+
+#### Teacherbot-每位老师都应得的工具
+
+
+[Visit](https://thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们开发了教师可以使用的最强大的工具。您可以为所有级别创建任务和活动以及主题计划、远期计划、教学计划等等。你只受你的想象力的限制。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Solvely
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-solvely.webp" alt="Solvely">
+
+#### Solvely AI 通过为数学、科学、文科和经济学等科目提供分步说明来帮助学生解决家庭作业问题，使学习变得更容易、更高效。
+
+
+[Visit](https://thataicollection.com/redirect/solvely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Solvely AI 是一款学习助手，可帮助学生解决各种科目的家庭作业问题。用户可以通过照片或文字输入问题，人工智能提供分步解决方案。Solvely 全天候提供个性化学习，界面友好，适合所有年龄段。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/solvely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AIQuizGen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
+
+#### AI 测验和问题生成器：在几分钟内创建多样的高质量测验。我们的 AI 测验生成器可确保一致、个性化和无错误的评估，从而提升您的结果。
+
+
+
+[Visit](https://thataicollection.com/redirect/aiquizgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI 测验生成器为您的测验创作赋能
+了解我们的 AI 测验生成器如何简化和增强您的测验创建过程。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiquizgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4462,72 +4528,6 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 <br />
 
 
-### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
-
-#### Teacherbot-每位老师都应得的工具
-
-
-[Visit](https://thataicollection.com/redirect/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们开发了教师可以使用的最强大的工具。您可以为所有级别创建任务和活动以及主题计划、远期计划、教学计划等等。你只受你的想象力的限制。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/teacherbot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Myess
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myess.webp" alt="Myess">
-
-#### myEssai - 人工智能驱动的论文导师
-
-
-[Visit](https://thataicollection.com/redirect/myess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过我们的 AI 导师提供的即时、高度详细的反馈，为您的写作增光添彩。真实的、可操作的反馈——不仅仅是另一个 Grammarly。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/myess?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Solvely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-solvely.webp" alt="Solvely">
-
-#### Solvely AI 通过为数学、科学、文科和经济学等科目提供分步说明来帮助学生解决家庭作业问题，使学习变得更容易、更高效。
-
-
-[Visit](https://thataicollection.com/redirect/solvely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Solvely AI 是一款学习助手，可帮助学生解决各种科目的家庭作业问题。用户可以通过照片或文字输入问题，人工智能提供分步解决方案。Solvely 全天候提供个性化学习，界面友好，适合所有年龄段。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/solvely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIQuizGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
-
-#### AI 测验和问题生成器：在几分钟内创建多样的高质量测验。我们的 AI 测验生成器可确保一致、个性化和无错误的评估，从而提升您的结果。
-
-
-
-[Visit](https://thataicollection.com/redirect/aiquizgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI 测验生成器为您的测验创作赋能
-了解我们的 AI 测验生成器如何简化和增强您的测验创建过程。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiquizgen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 📚 家庭作业和作文助手 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/homework-and-essay-helper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4548,74 +4548,6 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/pictools-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Stabledojo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
-
-#### 首家人工智能照相馆
-
-
-[Visit](https://thataicollection.com/redirect/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 StableDojo，您可以为自己生成头像或为您最喜欢的产品生成照片。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ProductScope AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
-
-#### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
-
-
-[Visit](https://thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。
-此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fotor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor.webp" alt="Fotor">
-
-#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
-
-
-[Visit](https://thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Unrealme
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
-
-#### Unreal Me - 获取 AI 生成的你的图像
-
-
-[Visit](https://thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4656,6 +4588,74 @@ AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-photos-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fotor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+
+#### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
+
+
+[Visit](https://thataicollection.com/redirect/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在线照片编辑器提供您轻松增强和编辑照片所需的一切。免费在线体验简单的照片编辑！。使用Fotor AI照片编辑器可以轻松进行复杂的照片编辑。AI 照片增强器、AI 背景去除器、AI 对象移除器等。
+
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fotor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Stabledojo
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
+
+#### 首家人工智能照相馆
+
+
+[Visit](https://thataicollection.com/redirect/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 StableDojo，您可以为自己生成头像或为您最喜欢的产品生成照片。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/stabledojo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Unrealme
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+
+#### Unreal Me - 获取 AI 生成的你的图像
+
+
+[Visit](https://thataicollection.com/redirect/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+获得令人惊叹的自己照片的步骤： 1. 付款。 2. 上传 - 阅读推荐并在有时间时上传您的照片（您的链接通过电子邮件发送）。 3. 等待 4. 分享。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/unrealme?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ProductScope AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+
+#### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
+
+
+[Visit](https://thataicollection.com/redirect/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生成数百张生活方式图片，而无需支付普通照片拍摄所需的费用。
+此外，基于人工智能的清单优化器可在几分钟内高效地制作引人注目的产品清单，并注入从您的评论中得出的高影响力的关键字和见解，这一切都归功于我们的高级语言模型。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/productscope-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4701,38 +4701,6 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 <br />
 
 
-### BigJpg
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
-
-#### Bigjpg-使用深度卷积神经网络的人工智能超分辨率无损图像放大/放大工具
-
-
-[Visit](https://thataicollection.com/redirect/bigjpg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超分辨率，而不会造成质量损失。还支持照片。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/bigjpg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Imgupscaler
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
-
-#### 智能 PNG / JPG 图像升级器
-
-
-[Visit](https://thataicollection.com/redirect/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用最新的 AI 技术提升和增强您的形象
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### AVC AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
 
@@ -4745,6 +4713,22 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/avc-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BigJpg
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
+
+#### Bigjpg-使用深度卷积神经网络的人工智能超分辨率无损图像放大/放大工具
+
+
+[Visit](https://thataicollection.com/redirect/bigjpg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超分辨率，而不会造成质量损失。还支持照片。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/bigjpg?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4781,6 +4765,22 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 <br />
 
 
+### Imgupscaler
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
+
+#### 智能 PNG / JPG 图像升级器
+
+
+[Visit](https://thataicollection.com/redirect/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用最新的 AI 技术提升和增强您的形象
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/imgupscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🔬 图像升频器 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/image-upscaler?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -4789,50 +4789,50 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 ---
 
 ## 图像到图像的变化
-### Simpedit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simpedit.webp" alt="Simpedit">
+### Raphael AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
 
-#### Simpedit 是一款功能强大的图像转换工具，使用户只需点击一下即可轻松地将时尚风格应用到他们的图像上。
-
-
-[Visit](https://thataicollection.com/redirect/simpedit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们精心策划了一个丰富的效果库，只需点击 Simpedit，即可将你的图像变成美丽而独特的东西。
+#### Raphael AI-免费无限量人工智能图像生成器
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/simpedit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/raphael-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Image to Image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
-
-#### 图像到图像的人工智能
+Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模型包括用于制作高保真图像的 Nano Banana 2/Pro、Qwen-Image、Seedream 5.0。
 
 
-[Visit](https://thataicollection.com/redirect/image-to-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Image to Image AI Generator是一款免费的在线照片编辑器，提供强大的功能，允许您使用文本提示编辑、重塑和重新设置图像样式。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/image-to-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/raphael-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Image to Image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
+### SDXL TURBO ONLINE
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
 
-#### Image to Image AI-AI 在线图像生成器和编辑器
-
-
-[Visit](https://thataicollection.com/redirect/image-to-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-上传图片，描述变化，然后使用 AI 对其进行转换。从欢迎积分开始，然后在需要更多控制权时升级以获得更清晰的结果。
+#### 在几秒钟内生成高质量的图像。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/image-to-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SDXL Turbo 基于一种名为对抗扩散蒸馏法 (ADD) 的新型蒸馏技术，该技术可以快速生成高质量的图像。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Anime Filter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+
+#### 照片到动画转换器：在线AI动画过滤器
+
+
+[Visit](https://thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过由 Stable Diffusion 精选的六个独特模型，只需点击一下即可将你的照片变成动漫风格。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4857,50 +4857,50 @@ Image to Image AI Generator是一款免费的在线照片编辑器，提供强�
 <br />
 
 
-### AI Anime Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+### Image to Image AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
 
-#### 照片到动画转换器：在线AI动画过滤器
-
-
-[Visit](https://thataicollection.com/redirect/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过由 Stable Diffusion 精选的六个独特模型，只需点击一下即可将你的照片变成动漫风格。
+#### 图像到图像的人工智能
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-anime-filter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/image-to-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
-
-#### 在几秒钟内生成高质量的图像。
+Image to Image AI Generator是一款免费的在线照片编辑器，提供强大的功能，允许您使用文本提示编辑、重塑和重新设置图像样式。
 
 
-[Visit](https://thataicollection.com/redirect/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SDXL Turbo 基于一种名为对抗扩散蒸馏法 (ADD) 的新型蒸馏技术，该技术可以快速生成高质量的图像。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sdxl-turbo-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/image-to-image-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Raphael AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
+### Simpedit
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simpedit.webp" alt="Simpedit">
 
-#### Raphael AI-免费无限量人工智能图像生成器
-
-
-[Visit](https://thataicollection.com/redirect/raphael-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模型包括用于制作高保真图像的 Nano Banana 2/Pro、Qwen-Image、Seedream 5.0。
+#### Simpedit 是一款功能强大的图像转换工具，使用户只需点击一下即可轻松地将时尚风格应用到他们的图像上。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/raphael-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/simpedit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们精心策划了一个丰富的效果库，只需点击 Simpedit，即可将你的图像变成美丽而独特的东西。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/simpedit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Image to Image
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
+
+#### Image to Image AI-AI 在线图像生成器和编辑器
+
+
+[Visit](https://thataicollection.com/redirect/image-to-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+上传图片，描述变化，然后使用 AI 对其进行转换。从欢迎积分开始，然后在需要更多控制权时升级以获得更清晰的结果。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/image-to-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4913,34 +4913,18 @@ Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模�
 ---
 
 ## 图像到视频动画
-### Deep Nostalgia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
+### Kadapt
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kadapt.webp" alt="Kadapt">
 
-#### 将您的全家福转换为动画视频
-
-
-[Visit](https://thataicollection.com/redirect/deep-nostalgia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 AI 照片动画，将您的全家福转换为迷人的动画视频，为您的珍贵回忆注入活力。
+#### 列出照片，垂直发声——房地产经纪人的 AI 卷轴经纪人。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/deep-nostalgia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/kadapt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Ebsynth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
-
-#### Ebsynth-通过在单帧上绘画来转换视频
+Kadapt 是一款面向房地产经纪人和经纪人的 AI 卷轴经纪人。上传大约六张房源照片，它会规划拍摄顺序，为剧本撰写和配音，添加字幕，并为Instagram、TikTok和YouTube短片呈现垂直片段。在计划生效之前，您需要先批准计划——通常不到十分钟。字幕在设计上是为了确保公平的空间安全而编写的。
 
 
-[Visit](https://thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-让你的画活起来。您绘制一帧，然后 eBSynth 将其传播到素材的其余部分。ebSynth 旨在让所有人更容易接触艺术和动画。它加快了速度，但无法控制。你用它创作的仍然是你的原创作品
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/kadapt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -4962,18 +4946,34 @@ Deep Nostalgia AI 是一种即时访问模型，可以为你珍贵的旧照片�
 <br />
 
 
-### Kadapt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kadapt.webp" alt="Kadapt">
+### Ebsynth
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
 
-#### 列出照片，垂直发声——房地产经纪人的 AI 卷轴经纪人。
-
-
-[Visit](https://thataicollection.com/redirect/kadapt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Kadapt 是一款面向房地产经纪人和经纪人的 AI 卷轴经纪人。上传大约六张房源照片，它会规划拍摄顺序，为剧本撰写和配音，添加字幕，并为Instagram、TikTok和YouTube短片呈现垂直片段。在计划生效之前，您需要先批准计划——通常不到十分钟。字幕在设计上是为了确保公平的空间安全而编写的。
+#### Ebsynth-通过在单帧上绘画来转换视频
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/kadapt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+让你的画活起来。您绘制一帧，然后 eBSynth 将其传播到素材的其余部分。ebSynth 旨在让所有人更容易接触艺术和动画。它加快了速度，但无法控制。你用它创作的仍然是你的原创作品
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ebsynth?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Deep Nostalgia
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
+
+#### 将您的全家福转换为动画视频
+
+
+[Visit](https://thataicollection.com/redirect/deep-nostalgia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 AI 照片动画，将您的全家福转换为迷人的动画视频，为您的珍贵回忆注入活力。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/deep-nostalgia?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5034,22 +5034,6 @@ Interviews Chat 提供最先进的人工智能工具，可帮助你在求职面�
 <br />
 
 
-### STAR Method Coach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
-
-#### STAR Method Coach 教你如何与 AI STAR 方法面试教练一起掌握行为访谈。
-
-
-[Visit](https://thataicollection.com/redirect/star-method-coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Star Method Coach是一个基于人工智能的模拟面试平台，旨在帮助用户练习对面试问题的回答。它通过鼓励用户根据STAR（情况、任务、行动、结果）方法来组织答案来提供帮助。该平台可以根据提供的职位描述或简历/简历生成面试问题，从而实现个性化练习。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/star-method-coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Careerflow AI Mock Interview
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
@@ -5082,6 +5066,23 @@ Star Method Coach是一个基于人工智能的模拟面试平台，旨在帮助
 <br />
 
 
+### Parakeet AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
+
+#### Parakeet AI 为面试提供实时的、由人工智能驱动的帮助，提供即时回复和特定行业的指导。
+
+
+
+[Visit](https://thataicollection.com/redirect/parakeet-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Parakeet AI 通过提供针对特定行业和职位量身定制的实时 AI 生成的回复，帮助求职者在面试中脱颖而出。它与Zoom和Teams等流行的视频通话平台无缝集成，同时保持不可察觉的状态。该工具还通过加密通信确保隐私，并在会话结束后自动删除笔录。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/parakeet-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MIND-Interview AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
 
@@ -5099,19 +5100,18 @@ Mind-Interview 是一个人工智能驱动的面试指导平台，旨在帮助�
 <br />
 
 
-### Parakeet AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
+### STAR Method Coach
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
 
-#### Parakeet AI 为面试提供实时的、由人工智能驱动的帮助，提供即时回复和特定行业的指导。
-
-
-
-[Visit](https://thataicollection.com/redirect/parakeet-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Parakeet AI 通过提供针对特定行业和职位量身定制的实时 AI 生成的回复，帮助求职者在面试中脱颖而出。它与Zoom和Teams等流行的视频通话平台无缝集成，同时保持不可察觉的状态。该工具还通过加密通信确保隐私，并在会话结束后自动删除笔录。
+#### STAR Method Coach 教你如何与 AI STAR 方法面试教练一起掌握行为访谈。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/parakeet-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/star-method-coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Star Method Coach是一个基于人工智能的模拟面试平台，旨在帮助用户练习对面试问题的回答。它通过鼓励用户根据STAR（情况、任务、行动、结果）方法来组织答案来提供帮助。该平台可以根据提供的职位描述或简历/简历生成面试问题，从而实现个性化练习。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/star-method-coach?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5140,70 +5140,6 @@ AI 面试答案生成器是一种工具，旨在通过提供实时答案指导�
 ---
 
 ## 语言学习
-### Lorro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lorro.webp" alt="Lorro">
-
-#### 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈
-
-
-[Visit](https://thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用由 AI 和 GPT-3 提供支持的高度个性化、令人兴奋的副本，让您的冷冰冰的电子邮件变得更加温暖
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Langotalk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langotalk.webp" alt="Langotalk">
-
-#### Langotalk：使用人工智能学习语言的速度提高 6 倍
-
-
-[Visit](https://thataicollection.com/redirect/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过与人工智能聊天更快地掌握一门语言——在几周而不是几年内进行自信的对话。使用基于个性化人工智能聊天的工具改变您的语言学习体验。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ELSA SPEECH ANALYZER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
-
-#### 一次提高您的英语水平。
-
-
-[Visit](https://thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆听您的演讲并为您提供即时反馈。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Lingostar
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
-
-#### Lingostar - 与人工智能的真实对话
-
-
-[Visit](https://thataicollection.com/redirect/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈的人工智能。通过免费的 REAL 口语对话达到流利程度。没有更多的导师 - 与 Lingostar A.I. 聊天提高你的发音、词汇量和理解力
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### TutorAI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
@@ -5220,18 +5156,18 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 <br />
 
 
-### DET Practice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-det-practice.webp" alt="DET Practice">
+### Lorro
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lorro.webp" alt="Lorro">
 
-#### DET 练习-Ace the Duolingo 英语考试
-
-
-[Visit](https://thataicollection.com/redirect/det-practice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-DET Practice（https://www.detpractice.com/）是一个由人工智能驱动的平台，旨在帮助学生为Duolingo英语考试（DET）做好准备并在中脱颖而出。以下是该网站的主要功能，重点是其人工智能功能：
+#### 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/det-practice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用由 AI 和 GPT-3 提供支持的高度个性化、令人兴奋的副本，让您的冷冰冰的电子邮件变得更加温暖
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lorro?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5252,6 +5188,70 @@ DET Practice（https://www.detpractice.com/）是一个由人工智能驱动的�
 <br />
 
 
+### Langotalk
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langotalk.webp" alt="Langotalk">
+
+#### Langotalk：使用人工智能学习语言的速度提高 6 倍
+
+
+[Visit](https://thataicollection.com/redirect/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过与人工智能聊天更快地掌握一门语言——在几周而不是几年内进行自信的对话。使用基于个性化人工智能聊天的工具改变您的语言学习体验。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/langotalk?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Lingostar
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
+
+#### Lingostar - 与人工智能的真实对话
+
+
+[Visit](https://thataicollection.com/redirect/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈的人工智能。通过免费的 REAL 口语对话达到流利程度。没有更多的导师 - 与 Lingostar A.I. 聊天提高你的发音、词汇量和理解力
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lingostar?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### DET Practice
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-det-practice.webp" alt="DET Practice">
+
+#### DET 练习-Ace the Duolingo 英语考试
+
+
+[Visit](https://thataicollection.com/redirect/det-practice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+DET Practice（https://www.detpractice.com/）是一个由人工智能驱动的平台，旨在帮助学生为Duolingo英语考试（DET）做好准备并在中脱颖而出。以下是该网站的主要功能，重点是其人工智能功能：
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/det-practice?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### ELSA SPEECH ANALYZER
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
+
+#### 一次提高您的英语水平。
+
+
+[Visit](https://thataicollection.com/redirect/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆听您的演讲并为您提供即时反馈。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/elsa-speech-analyzer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🗣️ 语言学习 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/language-learning?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -5260,18 +5260,18 @@ DET Practice（https://www.detpractice.com/）是一个由人工智能驱动的�
 ---
 
 ## 合法的
-### ScoreDetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
+### Compliance Quarter
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
-#### 保护内容的未来。信任区块链保护。
-
-
-[Visit](https://thataicollection.com/redirect/scoredetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建可验证的证书，阻止欺诈行为，并确保您的内容归您所有。使用 ScoreDetect 体验诚信，这是你在数字空间中的盾牌。
+#### 专家合规体系和资源-合规季度
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/scoredetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+能源、金融服务和其他受监管行业的监管合规管理体系和专业知识。我们提供专家系统和服务，以减轻您的监管负担。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5292,18 +5292,18 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 <br />
 
 
-### Paralegal AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
+### ScoreDetect
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
 
-#### 律师助理人工智能
-
-
-[Visit](https://thataicollection.com/redirect/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能驱动的法律研究和总结。
+#### 保护内容的未来。信任区块链保护。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/scoredetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+创建可验证的证书，阻止欺诈行为，并确保您的内容归您所有。使用 ScoreDetect 体验诚信，这是你在数字空间中的盾牌。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/scoredetect?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5324,6 +5324,22 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 <br />
 
 
+### Paralegal AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
+
+#### 律师助理人工智能
+
+
+[Visit](https://thataicollection.com/redirect/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+人工智能驱动的法律研究和总结。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/paralegal-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### CFRexplorer
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
 
@@ -5336,22 +5352,6 @@ CFR Explorer是一款利用最新人工智能技术的应用程序，可让飞�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/cfrexplorer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Compliance Quarter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
-
-#### 专家合规体系和资源-合规季度
-
-
-[Visit](https://thataicollection.com/redirect/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-能源、金融服务和其他受监管行业的监管合规管理体系和专业知识。我们提供专家系统和服务，以减轻您的监管负担。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/compliance-quarter?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5380,6 +5380,26 @@ CFR Explorer是一款利用最新人工智能技术的应用程序，可让飞�
 ---
 
 ## 徽标生成器
+### MagiMaker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
+
+#### 为独立创意人士提供简单、快速且经济实惠的人工智能设计解决方案，包括书籍封面、播客封面、徽标等。
+
+
+[Visit](https://thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MagiMaker 为书籍/播客封面、徽标等提供定制设计解决方案。
+
+我们的用户友好平台通过简单的问答流程创建高质量的结果 - 无需学习曲线！
+
+我们力求快捷，在 24 小时内提供您的创意概念、中途提示和精选的最佳图像，以及任何必要的调整，例如文本或元素删除。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Text To Book Cover
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
@@ -5413,6 +5433,41 @@ CFR Explorer是一款利用最新人工智能技术的应用程序，可让飞�
 <br />
 
 
+### Looka
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
+
+#### Looka-企业家徽标设计和品牌标识 
+
+
+
+[Visit](https://thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Logo Rank
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
+
+#### Brandmark 徽标制作器-最先进的人工智能徽标设计工具
+
+
+[Visit](https://thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的企业创建独一无二的专业徽标
+用名片设计、社交媒体图片、应用程序图标、信头等来启动你的品牌
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Logo Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
 
@@ -5441,61 +5496,6 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/zarla-logo-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Logo Rank
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
-
-#### Brandmark 徽标制作器-最先进的人工智能徽标设计工具
-
-
-[Visit](https://thataicollection.com/redirect/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为您的企业创建独一无二的专业徽标
-用名片设计、社交媒体图片、应用程序图标、信头等来启动你的品牌
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/logo-rank?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Looka
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
-
-#### Looka-企业家徽标设计和品牌标识 
-
-
-
-[Visit](https://thataicollection.com/redirect/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-利用人工智能的力量设计徽标、制作网站并创建您喜爱的品牌标识。100% 免费使用。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/looka?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MagiMaker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
-
-#### 为独立创意人士提供简单、快速且经济实惠的人工智能设计解决方案，包括书籍封面、播客封面、徽标等。
-
-
-[Visit](https://thataicollection.com/redirect/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MagiMaker 为书籍/播客封面、徽标等提供定制设计解决方案。
-
-我们的用户友好平台通过简单的问答流程创建高质量的结果 - 无需学习曲线！
-
-我们力求快捷，在 24 小时内提供您的创意概念、中途提示和精选的最佳图像，以及任何必要的调整，例如文本或元素删除。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/magimaker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5597,42 +5597,6 @@ Scan My Kitchen 可以将你的冰箱变成美味的饭菜。使用 AI 根据您
 ---
 
 ## 会议助理
-### Supernormal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
-
-#### Supernormal-写会议记录的人工智能
-
-
-[Visit](https://thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-减少写作、完善和共享笔记的时间，将更多的时间花在只有你能做的工作上。把铅笔放下。
-Supernormal 可以满足你的需求。
-Supernormal 在会议期间记笔记，并使用安全的 AI 针对所有不同的用例自动对其进行格式化。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fireflies
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
-
-#### Fireflies.Ai-自动化你的
-会议记录-记笔记和会话情报
-
-
-[Visit](https://thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fireflies.ai 可帮助您的团队录制、转录、搜索和分析语音对话。自动录制和转录会议，使用 AI 驱动的搜索查找任何内容，与同事协作，使用对话智能分析会议
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Graphic AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
@@ -5645,6 +5609,22 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/graphic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Jamie
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jamie.webp" alt="Jamie">
+
+#### Jamie-会议摘要的人工智能助理
+
+
+[Visit](https://thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会议摘要。现在就试试吧，说服自己相信神奇的体验。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5666,34 +5646,20 @@ Fathom 记录、转录、突出显示和总结您的会议，以便您可以专�
 <br />
 
 
-### Avoma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avoma.webp" alt="Avoma">
+### Supernormal
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
-#### 加快团队的工作效率和公司的收入增长
-
-
-[Visit](https://thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-领先的 AI 会议助手和收入情报解决方案。全部集中在一个地方，而不是到处都是。AI Meeting Assistant-获取笔录和 AI 笔记，专注于对话。会议协作-与跨职能团队合作以实现更好的协调。对话与收入情报-学习关键见解，以进行数据驱动的决策和指导。
+#### Supernormal-写会议记录的人工智能
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Jamie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jamie.webp" alt="Jamie">
-
-#### Jamie-会议摘要的人工智能助理
+减少写作、完善和共享笔记的时间，将更多的时间花在只有你能做的工作上。把铅笔放下。
+Supernormal 可以满足你的需求。
+Supernormal 在会议期间记笔记，并使用安全的 AI 针对所有不同的用例自动对其进行格式化。
 
 
-[Visit](https://thataicollection.com/redirect/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会议摘要。现在就试试吧，说服自己相信神奇的体验。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jamie?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/supernormal?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5721,6 +5687,40 @@ jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会�
 <br />
 
 
+### Avoma
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avoma.webp" alt="Avoma">
+
+#### 加快团队的工作效率和公司的收入增长
+
+
+[Visit](https://thataicollection.com/redirect/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+领先的 AI 会议助手和收入情报解决方案。全部集中在一个地方，而不是到处都是。AI Meeting Assistant-获取笔录和 AI 笔记，专注于对话。会议协作-与跨职能团队合作以实现更好的协调。对话与收入情报-学习关键见解，以进行数据驱动的决策和指导。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/avoma?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fireflies
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
+
+#### Fireflies.Ai-自动化你的
+会议记录-记笔记和会话情报
+
+
+[Visit](https://thataicollection.com/redirect/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fireflies.ai 可帮助您的团队录制、转录、搜索和分析语音对话。自动录制和转录会议，使用 AI 驱动的搜索查找任何内容，与同事协作，使用对话智能分析会议
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fireflies?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 👨‍💻 会议助理 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/meeting-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -5729,6 +5729,22 @@ jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会�
 ---
 
 ## 移动应用程序生成器
+### SinglebaseCloud
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+
+#### 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。
+
+
+[Visit](https://thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台，可快速构建移动和网络应用程序。我们提供以下组件供您构建应用程序：矢量数据库、用于灵活数据模型的关系文档数据库、用于用户注册和登录应用程序的身份验证、人工智能相似度搜索、文档和图像存储。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SubPage
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-subpage.webp" alt="SubPage">
 
@@ -5741,23 +5757,6 @@ SubPage 可帮助您创建登录页面、构建 MVP 并快速增加受众群体�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/subpage?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Fuselio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fuselio.webp" alt="Fuselio">
-
-#### Fuselio是面向初创企业和中小企业的快速MVP开发平台，可在短短6周内开发自定义移动和Web应用程序。 
-
-
-
-[Visit](https://thataicollection.com/redirect/fuselio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Fuselio是一家创新的开发机构，旨在加快为初创企业和中小型企业（SME）开发最低可行产品（MVP）。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fuselio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5778,36 +5777,18 @@ Fuselio是一家创新的开发机构，旨在加快为初创企业和中小型�
 <br />
 
 
-### SinglebaseCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+### Quickie Dev
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
 
-#### 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。
-
-
-[Visit](https://thataicollection.com/redirect/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台，可快速构建移动和网络应用程序。我们提供以下组件供您构建应用程序：矢量数据库、用于灵活数据模型的关系文档数据库、用于用户注册和登录应用程序的身份验证、人工智能相似度搜索、文档和图像存储。 
+#### Quickie.dev-在几分钟内将文本发送到 Web 应用程序
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/singlebasecloud?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/quickie-dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Keringit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keringit.webp" alt="Keringit">
-
-#### 使用 AI 构建、测试和发布链上产品
+使用 Quickie.dev 将你的想法转化为功能性的 Web 应用程序。根据文本提示在几分钟内创建 Web 应用程序，无需编码。
 
 
-[Visit](https://thataicollection.com/redirect/keringit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Keringit 是一款基于人工智能的产品构建器，任何人都可以从头开始或从现有开源代码创建和启动 Web3 应用程序，而无需编写一行代码。
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/keringit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/quickie-dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5830,18 +5811,37 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 <br />
 
 
-### Quickie Dev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
+### Keringit
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keringit.webp" alt="Keringit">
 
-#### Quickie.dev-在几分钟内将文本发送到 Web 应用程序
-
-
-[Visit](https://thataicollection.com/redirect/quickie-dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Quickie.dev 将你的想法转化为功能性的 Web 应用程序。根据文本提示在几分钟内创建 Web 应用程序，无需编码。
+#### 使用 AI 构建、测试和发布链上产品
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/quickie-dev?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/keringit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Keringit 是一款基于人工智能的产品构建器，任何人都可以从头开始或从现有开源代码创建和启动 Web3 应用程序，而无需编写一行代码。
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/keringit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Fuselio
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fuselio.webp" alt="Fuselio">
+
+#### Fuselio是面向初创企业和中小企业的快速MVP开发平台，可在短短6周内开发自定义移动和Web应用程序。 
+
+
+
+[Visit](https://thataicollection.com/redirect/fuselio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Fuselio是一家创新的开发机构，旨在加快为初创企业和中小型企业（SME）开发最低可行产品（MVP）。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fuselio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5854,68 +5854,18 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 ---
 
 ## 名称、口号和命名生成器
-### Podcast Name Generator by Podcast Rocket
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+### Travel Blog Name Ideas Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
-#### 在 AI 的支持下，免费为您的播客找到完美的名字。
-
-
-[Visit](https://thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为您的播客创建一个引人入胜且令人难忘的名字需要将创造力、策略和对目标受众的理解相结合。
-
-使用我们的工具，您可以编写简短的描述并一次输出数百种组合。然后选择你最喜欢的那个。
+#### 旅游博客名称创意生成器：找到完美的旅游博客名称！
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### namefinder AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
-
-#### 人工智能驱动的业务和域名生成器
+使用 TravelFeed 的博客名称创意生成器解锁完美的旅行博客名称！输入一个关键字（也许是您自己的名字），然后我们的人工智能就会用大量时髦的建议让您眼花缭乱。喜欢一个名字吗？快速检查其 .com 域和 TravelFeed 用户名可用性。用一个和你一样富有冒险精神的名字开始你的博客之旅吧！
 
 
-[Visit](https://thataicollection.com/redirect/namefinder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 Namefinder，我们的目标是通过为他们的企业提出域名来节省人们的时间。我们通过根据他们的网站需要提出名称来做到这一点，在此之前我们检查域注册以仅提供可用的域名以供选择。全部由 Chat Gpt 提供支持。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/namefinder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Smarty Names
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
-
-#### AI 机器人免费创意域名搜索
-
-
-[Visit](https://thataicollection.com/redirect/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 SmartyNames.com 可以轻松找到仍然可用的创意和独特域名 - 告诉我们您的工作，我们的机器人会找到适合您的域名。一键生成公司名称。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Namelix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namelix.webp" alt="Namelix">
-
-#### 企业名称生成器 - 免费的人工智能命名工具 - Namelix
-
-
-[Visit](https://thataicollection.com/redirect/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用人工智能生成一个简短的品牌企业名称。获取名称创意 Namelix 使用最先进的语言模型生成简短、朗朗上口的名称
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5936,22 +5886,6 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 <br />
 
 
-### Travel Blog Name Ideas Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
-
-#### 旅游博客名称创意生成器：找到完美的旅游博客名称！
-
-
-[Visit](https://thataicollection.com/redirect/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 TravelFeed 的博客名称创意生成器解锁完美的旅行博客名称！输入一个关键字（也许是您自己的名字），然后我们的人工智能就会用大量时髦的建议让您眼花缭乱。喜欢一个名字吗？快速检查其 .com 域和 TravelFeed 用户名可用性。用一个和你一样富有冒险精神的名字开始你的博客之旅吧！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/travel-blog-name-ideas-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### NameSnack
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
 
@@ -5964,6 +5898,72 @@ NamesNack 将尖端的人工智能与先进的命名技术相结合，可帮助�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/namesnack?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Podcast Name Generator by Podcast Rocket
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+
+#### 在 AI 的支持下，免费为您的播客找到完美的名字。
+
+
+[Visit](https://thataicollection.com/redirect/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为您的播客创建一个引人入胜且令人难忘的名字需要将创造力、策略和对目标受众的理解相结合。
+
+使用我们的工具，您可以编写简短的描述并一次输出数百种组合。然后选择你最喜欢的那个。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/podcast-name-generator-by-podcast-rocket?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Smarty Names
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
+
+#### AI 机器人免费创意域名搜索
+
+
+[Visit](https://thataicollection.com/redirect/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 SmartyNames.com 可以轻松找到仍然可用的创意和独特域名 - 告诉我们您的工作，我们的机器人会找到适合您的域名。一键生成公司名称。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/smarty-names?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### namefinder AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
+
+#### 人工智能驱动的业务和域名生成器
+
+
+[Visit](https://thataicollection.com/redirect/namefinder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 Namefinder，我们的目标是通过为他们的企业提出域名来节省人们的时间。我们通过根据他们的网站需要提出名称来做到这一点，在此之前我们检查域注册以仅提供可用的域名以供选择。全部由 Chat Gpt 提供支持。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/namefinder-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Namelix
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namelix.webp" alt="Namelix">
+
+#### 企业名称生成器 - 免费的人工智能命名工具 - Namelix
+
+
+[Visit](https://thataicollection.com/redirect/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用人工智能生成一个简短的品牌企业名称。获取名称创意 Namelix 使用最先进的语言模型生成简短、朗朗上口的名称
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/namelix?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -5992,22 +5992,6 @@ Fabric 是一个人工智能驱动的工作空间，可将您的数字内容跨�
 <br />
 
 
-### Thegist
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thegist.webp" alt="Thegist">
-
-#### Thegist AI 总结了 Slack 话题和频道——了解要点
-
-
-[Visit](https://thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Beloga
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beloga.webp" alt="Beloga">
 
@@ -6024,6 +6008,22 @@ Beloga 是一个人工智能驱动的知识中心，它改变了您获取、理�
 <br />
 
 
+### Thegist
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thegist.webp" alt="Thegist">
+
+#### Thegist AI 总结了 Slack 话题和频道——了解要点
+
+
+[Visit](https://thataicollection.com/redirect/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 AI 提供支持。智能统一收件箱、AI 洞察、个性化摘要、工作项目状态等等。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/thegist?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### MyMap AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
 
@@ -6036,24 +6036,6 @@ MyMap AI PDF 摘要生成器：您的智能解决方案，可将冗长的文档�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Whisper Memos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
-
-#### Whisper Memos-录制语音备忘录，
-以电子邮件的形式接收。
-
-
-[Visit](https://thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。
-感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6091,6 +6073,24 @@ Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。�
 <br />
 
 
+### Whisper Memos
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+
+#### Whisper Memos-录制语音备忘录，
+以电子邮件的形式接收。
+
+
+[Visit](https://thataicollection.com/redirect/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件发送给你。
+感谢 GPT-4，我们将你的备忘录转换为报纸风格的文章，而不是一言不发的文字。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/whisper-memos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🧠 记笔记和第二大脑 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/note-taking-and-second-brain?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -6099,25 +6099,6 @@ Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。�
 ---
 
 ## 其他
-### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
-
-#### 用于快速构建 AI 应用程序的 Svelte 5 样板
-
-
-[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SvelteLaunch 是一款 Svelte 5 Boilerplate，可快速开始构建新的 SaaS 和 AI 应用程序。
-
-
-SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在帮助您快速交付高质量的 SaaS 和 AI 应用程序。有了终身支持和访问Discord社区的机会，您在开发之旅中永远不会孤单。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Clipdrop
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
@@ -6130,24 +6111,6 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/clipdrop?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Damn Good Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
-
-#### 哦，这些该死的好工具
-易于使用、有趣的工具——免费（且开源）。
-
-
-[Visit](https://thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-发现有用的好工具，将提高您的生产力。
-一些工具的示例：隐私政策生成器、屏幕截图、检测字体、与任何 PDF 聊天、总结任何 URL 等等。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6170,6 +6133,22 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 <br />
 
 
+### Coursebox
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+
+#### AI 课程创建器和学习管理系统
+
+
+[Visit](https://thataicollection.com/redirect/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试试最好的人工智能课程生成器 Coursebox，立即免费使用人工智能构建在线课程。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Tally Forms
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
@@ -6186,18 +6165,39 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 <br />
 
 
-### Coursebox
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+### SvelteLaunch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
 
-#### AI 课程创建器和学习管理系统
-
-
-[Visit](https://thataicollection.com/redirect/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试试最好的人工智能课程生成器 Coursebox，立即免费使用人工智能构建在线课程。
+#### 用于快速构建 AI 应用程序的 Svelte 5 样板
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/coursebox?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SvelteLaunch 是一款 Svelte 5 Boilerplate，可快速开始构建新的 SaaS 和 AI 应用程序。
+
+
+SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在帮助您快速交付高质量的 SaaS 和 AI 应用程序。有了终身支持和访问Discord社区的机会，您在开发之旅中永远不会孤单。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sveltelaunch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Damn Good Tools
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
+
+#### 哦，这些该死的好工具
+易于使用、有趣的工具——免费（且开源）。
+
+
+[Visit](https://thataicollection.com/redirect/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+发现有用的好工具，将提高您的生产力。
+一些工具的示例：隐私政策生成器、屏幕截图、检测字体、与任何 PDF 聊天、总结任何 URL 等等。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/damn-good-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6243,18 +6243,19 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 <br />
 
 
-### SlideSpeak
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
+### PDF Summarizer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
 
-#### SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF
-
-
-[Visit](https://thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。
+#### PDF 摘要器-在几秒钟内汇总任何 PDF
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+别再浪费时间阅读数千页了。PDF 摘要器可以在几秒钟内汇总长文档、书籍、合同等。只需上传 PDF 即可获得详细、高质量的摘要、大纲或学习指南。 
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6271,6 +6272,38 @@ Filechat 是使用人工智能探索文档的完美工具。只需上传您的 P
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/filechat?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SlideSpeak
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
+
+#### SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF
+
+
+[Visit](https://thataicollection.com/redirect/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提出问题等等。只需上传您的文件，您就可以使用聊天来询问任何问题。我们的 AI 速度非常快，您无需连接任何 OpenAI API 密钥。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/slidespeak?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Bard PDF
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
+
+#### 由人工智能驱动的终极工具，用于汇总和分析 PDF 文档
+
+
+[Visit](https://thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+BARD PDF 重新定义了您使用 PDF 的方式。只需输入 PDF 的网址，让 BARD PDF 的先进技术解密其内容。生成全面的摘要，在 PDF 的文本中寻找问题的答案，并与文档本身进行互动讨论。BARD PDF 可优化您的时间，提高您的工作效率！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6292,39 +6325,6 @@ SwifDoo PDF是一个年轻的团队，成立于2017年，在过去的几年中�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/swifdoo-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Bard PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
-
-#### 由人工智能驱动的终极工具，用于汇总和分析 PDF 文档
-
-
-[Visit](https://thataicollection.com/redirect/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-BARD PDF 重新定义了您使用 PDF 的方式。只需输入 PDF 的网址，让 BARD PDF 的先进技术解密其内容。生成全面的摘要，在 PDF 的文本中寻找问题的答案，并与文档本身进行互动讨论。BARD PDF 可优化您的时间，提高您的工作效率！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/bard-pdf?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### PDF Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pdf-summarizer.webp" alt="PDF Summarizer">
-
-#### PDF 摘要器-在几秒钟内汇总任何 PDF
-
-
-[Visit](https://thataicollection.com/redirect/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-别再浪费时间阅读数千页了。PDF 摘要器可以在几秒钟内汇总长文档、书籍、合同等。只需上传 PDF 即可获得详细、高质量的摘要、大纲或学习指南。 
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/pdf-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6372,38 +6372,6 @@ PDF GPT 是一款可以提高工作效率的游戏规则改变工具。
 <br />
 
 
-### Kinestex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
-
-#### Kinestex-随时随地使用您的私人人工智能教练进行锻炼
-
-
-[Visit](https://thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-体验 AI 的力量，增强您的锻炼效果。KinestEx 会跟踪您的运动并提供实时反馈，以确保您从健身计划中获得最大收益。Kinestex 可根据您的特定需求量身定制锻炼方案。无论您是想减肥、锻炼肌肉还是改善整体健康状况，KinestEx 都能满足您的需求。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Daydrm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-daydrm.webp" alt="Daydrm">
-
-#### Daydrm.Ai-用于创意、策略和制作的人工智能工具
-
-
-[Visit](https://thataicollection.com/redirect/daydrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用于创意、策略和制作的 AI 工具。为机构、品牌和工作室按需提供概念。按需为机构、品牌和工作室提供创意作品。法学硕士接受过人工撰写的创意广告活动等方面的培训。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/daydrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### HelloScribe
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
 
@@ -6419,22 +6387,6 @@ HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/helloscribe?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### RTutor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
-
-#### 用数十种人类语言与您的数据聊天。
-
-
-[Visit](https://thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6458,6 +6410,38 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 <br />
 
 
+### Daydrm
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-daydrm.webp" alt="Daydrm">
+
+#### Daydrm.Ai-用于创意、策略和制作的人工智能工具
+
+
+[Visit](https://thataicollection.com/redirect/daydrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用于创意、策略和制作的 AI 工具。为机构、品牌和工作室按需提供概念。按需为机构、品牌和工作室提供创意作品。法学硕士接受过人工撰写的创意广告活动等方面的培训。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/daydrm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Kinestex
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
+
+#### Kinestex-随时随地使用您的私人人工智能教练进行锻炼
+
+
+[Visit](https://thataicollection.com/redirect/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+体验 AI 的力量，增强您的锻炼效果。KinestEx 会跟踪您的运动并提供实时反馈，以确保您从健身计划中获得最大收益。Kinestex 可根据您的特定需求量身定制锻炼方案。无论您是想减肥、锻炼肌肉还是改善整体健康状况，KinestEx 都能满足您的需求。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/kinestex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Ultimate Skill Extractor by Further
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
@@ -6474,6 +6458,22 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 <br />
 
 
+### RTutor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
+
+#### 用数十种人类语言与您的数据聊天。
+
+
+[Visit](https://thataicollection.com/redirect/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然后执行。您可以请求您的分析，就像询问真人一样。上传数据文件（CSV、TSV/制表符分隔的文本文件和 Excel），然后用简单的英语对其进行分析。您的结果可以在几分钟内下载为 HTML 报告！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rtutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🌱 个人成长与健康 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/personal-growth-and-wellness?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -6482,6 +6482,22 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 ---
 
 ## 照片修复
+### Imgak - 照片AI修复工具
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+
+#### Imgak-使用 AI 为所有人恢复旧照片
+
+
+[Visit](https://thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编辑工具。它提供旧照片的修复、着色和无损放大等功能，满足用户对照片修饰的各种需求。无论您是普通用户还是专业照片修图师，都可以通过imgak轻松修复和改善旧照片。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Photorestoration
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
 
@@ -6514,34 +6530,18 @@ VanceAI 照片恢复器可帮助 100% 自动恢复旧照片。搭载AI照片修�
 <br />
 
 
-### Colorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorize.webp" alt="Colorize">
+### Palette
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palette.webp" alt="Palette">
 
-#### 利用深度学习的力量为照片着色
-
-
-[Visit](https://thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。
+#### 调色板 - 给照片上色
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Free Restore Photos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
-
-#### null
+一种新的 AI 着色器。为旧黑白照片中的任何内容着色 ð¸，为您的作品设计风格 ð¨，或为现代图像赋予全新的外观 ð¶。就像 instagram 一样简单
 
 
-[Visit](https://thataicollection.com/redirect/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-null
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6562,34 +6562,34 @@ null
 <br />
 
 
-### Palette
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palette.webp" alt="Palette">
+### Free Restore Photos
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
 
-#### 调色板 - 给照片上色
-
-
-[Visit](https://thataicollection.com/redirect/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一种新的 AI 着色器。为旧黑白照片中的任何内容着色 ð¸，为您的作品设计风格 ð¨，或为现代图像赋予全新的外观 ð¶。就像 instagram 一样简单
+#### null
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/palette?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+null
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/free-restore-photos?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+### Colorize
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorize.webp" alt="Colorize">
 
-#### Imgak-使用 AI 为所有人恢复旧照片
-
-
-[Visit](https://thataicollection.com/redirect/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编辑工具。它提供旧照片的修复、着色和无损放大等功能，满足用户对照片修饰的各种需求。无论您是普通用户还是专业照片修图师，都可以通过imgak轻松修复和改善旧照片。
+#### 利用深度学习的力量为照片着色
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/imgak---照片ai修复工具?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在线为照片着色 Colorize.cc - 是一种为黑白照片和视频着色的人工智能服务。只需点击几下，您就可以感受到机器学习技术的魔力。在几分钟内为数百张家庭照片着色。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/colorize?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6622,6 +6622,22 @@ imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编�
 <br />
 
 
+### AIduh
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
+
+#### HostAway 的 AI-Responder - AI Duh
+
+
+[Visit](https://thataicollection.com/redirect/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Chrome 扩展程序，通过 AI 支持的响应将您的写作时间缩短 98%。由 Hosts 为 Hosts 建造。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Texti
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texti.webp" alt="Texti">
 
@@ -6634,6 +6650,39 @@ Texti将与您合作，提升您的内容质量！
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/texti?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### NSFW JS
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
+
+#### NSFW Js-客户端不雅内容检查。
+
+
+[Visit](https://thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一个简单的 JavaScript 库，可帮助您快速识别不合时宜的图像；全部在客户的浏览器中完成。NSFWJS 并不完美，但它非常准确... 而且它一直在变得越来越准确。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Autoname
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autoname.webp" alt="Autoname">
+
+#### 一键重命名所有图层。感谢人工智能。开源
+
+
+[Visit](https://thataicollection.com/redirect/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一键重命名 Figma 框架，仅此而已。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6656,22 +6705,6 @@ Texti将与您合作，提升您的内容质量！
 <br />
 
 
-### AIduh
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
-
-#### HostAway 的 AI-Responder - AI Duh
-
-
-[Visit](https://thataicollection.com/redirect/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Chrome 扩展程序，通过 AI 支持的响应将您的写作时间缩短 98%。由 Hosts 为 Hosts 建造。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aiduh?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### SplashAI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
@@ -6688,39 +6721,6 @@ SplasHai就像一个助手，它可以帮助你通过搜索功能超快地获得
 <br />
 
 
-### Autoname
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autoname.webp" alt="Autoname">
-
-#### 一键重命名所有图层。感谢人工智能。开源
-
-
-[Visit](https://thataicollection.com/redirect/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一键重命名 Figma 框架，仅此而已。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/autoname?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### NSFW JS
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
-
-#### NSFW Js-客户端不雅内容检查。
-
-
-[Visit](https://thataicollection.com/redirect/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一个简单的 JavaScript 库，可帮助您快速识别不合时宜的图像；全部在客户的浏览器中完成。NSFWJS 并不完美，但它非常准确... 而且它一直在变得越来越准确。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/nsfw-js?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🔌 插件和扩展 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/plugins-and-extensions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -6729,22 +6729,6 @@ SplasHai就像一个助手，它可以帮助你通过搜索功能超快地获得
 ---
 
 ## 播客工具
-### AIdeaFlow Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
-
-#### 将 PDF 或任何文本转换为引人入胜的两人对话播客或单人讲座。
-
-
-[Visit](https://thataicollection.com/redirect/aideaflow-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-轻松将 PDF 或任何文本转换为引人入胜的两人对话播客！只需上传您的内容，我们的高级人工智能就会生成为您的受众量身定制的动态、听起来自然的对话。有各种 AI 主机可供选择，支持 31 种语言和 120 多种独特的语气和表达方式。无论你是为全球受众还是小众群体创作内容
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aideaflow-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Digest.fm
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
@@ -6758,6 +6742,22 @@ Digest.fm是一个由人工智能驱动的平台，可将书面内容转换为�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/digest-fm?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Adobe Podcast
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
+
+#### Adobe Podcast - 人工智能音频录制和编辑，一切尽在网络
+
+
+[Visit](https://thataicollection.com/redirect/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+为有故事的人提供的音频工具
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6784,6 +6784,22 @@ Recast Studio 会自动将您的播客剧集转换为简短的视频片段，并
 <br />
 
 
+### AIdeaFlow Podcast
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
+
+#### 将 PDF 或任何文本转换为引人入胜的两人对话播客或单人讲座。
+
+
+[Visit](https://thataicollection.com/redirect/aideaflow-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+轻松将 PDF 或任何文本转换为引人入胜的两人对话播客！只需上传您的内容，我们的高级人工智能就会生成为您的受众量身定制的动态、听起来自然的对话。有各种 AI 主机可供选择，支持 31 种语言和 120 多种独特的语气和表达方式。无论你是为全球受众还是小众群体创作内容
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aideaflow-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Podzay
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podzay.webp" alt="Podzay">
 
@@ -6800,6 +6816,22 @@ Podzay简化了为您的播客寻找合适合作伙伴的过程。
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/podzay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AIPodNav
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
+
+#### 高效的播客工具包括笔录、摘要、思维导图和精彩集锦，为播客信息管理提供了全面的解决方案。
+
+
+[Visit](https://thataicollection.com/redirect/aipodnav?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并增强从中学习。它利用人工智能来转录播客剧集，突出关键时刻，总结内容，并为视觉学习提供思维导图。这样可以更轻松地记笔记和记住您最喜欢的播客中的重要观点。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aipodnav?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6827,38 +6859,6 @@ AipodNav：使用 AI 实现终极播客体验
 <br />
 
 
-### Adobe Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
-
-#### Adobe Podcast - 人工智能音频录制和编辑，一切尽在网络
-
-
-[Visit](https://thataicollection.com/redirect/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-为有故事的人提供的音频工具
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/adobe-podcast?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIPodNav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
-
-#### 高效的播客工具包括笔录、摘要、思维导图和精彩集锦，为播客信息管理提供了全面的解决方案。
-
-
-[Visit](https://thataicollection.com/redirect/aipodnav?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并增强从中学习。它利用人工智能来转录播客剧集，突出关键时刻，总结内容，并为视觉学习提供思维导图。这样可以更轻松地记笔记和记住您最喜欢的播客中的重要观点。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aipodnav?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🎙️ 播客工具 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/podcast-tools?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -6867,54 +6867,6 @@ AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并�
 ---
 
 ## 即时库与工程
-### PromptExplained
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
-
-#### 该网站通过自定义 AI 提示的见解、技术和技巧帮助用户掌握提示工程的技巧
-
-
-[Visit](https://thataicollection.com/redirect/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助简单易懂的 ChatGPT、Dall-e、Stable Diffusion 和 MidJourney 的即时定制指南，提升您的 AI 体验，增强对话、引人注目的视觉效果和跨应用程序的无限创造力
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Deploy Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
-
-#### 创建和共享可重复提示
-
-
-[Visit](https://thataicollection.com/redirect/deploy-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-测试您的即时想法，然后记录、分享和迭代响应。无需代码即可作为 API 或作为 ChatGPT 插件等部署到您的应用程序。这是让提示驱动的应用程序投入生产的最快方式。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/deploy-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Promptomania
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptomania.webp" alt="Promptomania">
-
-#### PromptoMania 提示生成器——带有在线提示生成器的 AI 艺术社区
-
-
-[Visit](https://thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你今天想成为 CF Spark、Midjourney 或 Stable Diffusion 大师吗？人性化的提示生成器将为您提供帮助。你也可以尝试使用其他扩散模型，例如 DALL-E 2、Disco Diffusion、WOMBO Dream 或任何扩散模型。如果是，请在社交媒体上分享经验。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Promptogy
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
@@ -6927,6 +6879,25 @@ Promptogy 是一款免费工具，可以轻松生成人工智能艺术作品。�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/promptogy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Drawing Prompt
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+
+#### 适用于每位艺术家的 AI 增强提示生成器
+
+
+[Visit](https://thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提供：
+1。提示扩展：将简单的单词转换为详细、有创意的提示。
+2。随机提示探索：为那些寻求惊喜和探索乐趣的人生成随机提示，当你不确定要创作什么时，这是完美的选择。
+3.图像创作：使用 SDXL 模型将提示变成令人惊叹的视觉艺术。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6951,21 +6922,50 @@ Promptogy 是一款免费工具，可以轻松生成人工智能艺术作品。�
 <br />
 
 
-### Drawing Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+### Deploy Prompt
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
 
-#### 适用于每位艺术家的 AI 增强提示生成器
-
-
-[Visit](https://thataicollection.com/redirect/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提供：
-1。提示扩展：将简单的单词转换为详细、有创意的提示。
-2。随机提示探索：为那些寻求惊喜和探索乐趣的人生成随机提示，当你不确定要创作什么时，这是完美的选择。
-3.图像创作：使用 SDXL 模型将提示变成令人惊叹的视觉艺术。
+#### 创建和共享可重复提示
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/drawing-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/deploy-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+测试您的即时想法，然后记录、分享和迭代响应。无需代码即可作为 API 或作为 ChatGPT 插件等部署到您的应用程序。这是让提示驱动的应用程序投入生产的最快方式。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/deploy-prompt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### PromptExplained
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
+
+#### 该网站通过自定义 AI 提示的见解、技术和技巧帮助用户掌握提示工程的技巧
+
+
+[Visit](https://thataicollection.com/redirect/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助简单易懂的 ChatGPT、Dall-e、Stable Diffusion 和 MidJourney 的即时定制指南，提升您的 AI 体验，增强对话、引人注目的视觉效果和跨应用程序的无限创造力
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/promptexplained?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Promptomania
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptomania.webp" alt="Promptomania">
+
+#### PromptoMania 提示生成器——带有在线提示生成器的 AI 艺术社区
+
+
+[Visit](https://thataicollection.com/redirect/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+你今天想成为 CF Spark、Midjourney 或 Stable Diffusion 大师吗？人性化的提示生成器将为您提供帮助。你也可以尝试使用其他扩散模型，例如 DALL-E 2、Disco Diffusion、WOMBO Dream 或任何扩散模型。如果是，请在社交媒体上分享经验。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/promptomania?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -6994,66 +6994,18 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 ---
 
 ## 招聘和 ATS
-### Hirex AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
+### springworks
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-springworks.webp" alt="springworks">
 
-#### hirex.ai
-
-
-[Visit](https://thataicollection.com/redirect/hirex-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-欢迎来到 hirex.ai，这是一个无代码 AI 平台，用于构建基于语音的机器人，这些机器人可以大规模进行面试并为其评分。获取完整的评估工具套件，如编码面试、MCQ 测试、编程马拉松、视频面试和 WhatsApp 聊天机器人，所有这些都在一个仪表板下
+#### 面向成长型企业的人力资源软件解决方案
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/hirex-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/springworks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### JD Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
-
-#### 认识团队 - HireQuotient
+Springworks 构建人力资源软件解决方案，以解决招聘、背景验证和员工参与区块链和人工智能方面的挑战
 
 
-[Visit](https://thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### rankode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rankode.webp" alt="rankode">
-
-#### 人力资源人工智能 - Rankode
-
-
-[Visit](https://thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Hire Hoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
-
-#### Hire Hoc - 人工智能驱动的招聘工具
-
-
-[Visit](https://thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 AI 辅助招聘的力量改变您的组织。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/springworks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7098,18 +7050,66 @@ moaiJobs是找人工智能领域工作的 #1 求职板。
 <br />
 
 
-### springworks
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-springworks.webp" alt="springworks">
+### Hirex AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
 
-#### 面向成长型企业的人力资源软件解决方案
-
-
-[Visit](https://thataicollection.com/redirect/springworks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Springworks 构建人力资源软件解决方案，以解决招聘、背景验证和员工参与区块链和人工智能方面的挑战
+#### hirex.ai
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/springworks?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/hirex-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+欢迎来到 hirex.ai，这是一个无代码 AI 平台，用于构建基于语音的机器人，这些机器人可以大规模进行面试并为其评分。获取完整的评估工具套件，如编码面试、MCQ 测试、编程马拉松、视频面试和 WhatsApp 聊天机器人，所有这些都在一个仪表板下
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/hirex-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Hire Hoc
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
+
+#### Hire Hoc - 人工智能驱动的招聘工具
+
+
+[Visit](https://thataicollection.com/redirect/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 AI 辅助招聘的力量改变您的组织。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/hire-hoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### rankode
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rankode.webp" alt="rankode">
+
+#### 人力资源人工智能 - Rankode
+
+
+[Visit](https://thataicollection.com/redirect/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+招聘人员，您需要了解的有关应聘者编程技能的所有信息都在他们的 GitHub 中。使用 Rankode 自动评估它们，以避免代价高昂的招聘错误并大幅提高您的保留率。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rankode?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### JD Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
+
+#### 认识团队 - HireQuotient
+
+
+[Visit](https://thataicollection.com/redirect/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库中前 10% 的人才。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/jd-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7122,18 +7122,18 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 ---
 
 ## 研究助理
-### Elicit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elicit.webp" alt="Elicit">
+### Afforai
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-afforai.webp" alt="Afforai">
 
-#### 引出：人工智能研究助理
-
-
-[Visit](https://thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。
+#### 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7150,55 +7150,6 @@ MyMap AI 图书摘要生成器将长书转换为简洁的摘要。这个免费�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-book-summerizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### MyMap.AI Research Paper Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
-
-#### MyMap.AI 研究论文摘要器-将 4 小时的研究浓缩成 4 分钟的阅读内容，人工智能总结了清晰简洁的见解。
-
-
-[Visit](https://thataicollection.com/redirect/mymap-ai-research-paper-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-MyMap.AI 研究论文摘要器是一款免费工具，旨在简化学术论文的消化过程。它利用最先进的人工智能，将复杂的研究准确地提炼成清晰简洁的摘要。该工具非常适合学生、学者和专业人士，可提高效率，节省时间，同时确保对关键发现和见解的透彻理解。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-ai-research-paper-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Scispace
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scispace.webp" alt="Scispace">
-
-#### Scispace by Typeset-发现、创建、发布和推广您的研究论文
-
-
-[Visit](https://thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 ScisSpace 与 PDF 聊天，更快地进行文献综述。查阅 2 亿多篇论文或上传您自己的 PDF，突出显示文本或提问，并提取解释和摘要。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Afforai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-afforai.webp" alt="Afforai">
-
-#### 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具
-
-
-[Visit](https://thataicollection.com/redirect/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来自多个来源的信息，以进行值得信赖的研究。立即与您的文档聊天，提取与您的目标相关的关键发现！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/afforai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7223,6 +7174,38 @@ Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来�
 <br />
 
 
+### MyMap.AI Research Paper Summarizer
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
+
+#### MyMap.AI 研究论文摘要器-将 4 小时的研究浓缩成 4 分钟的阅读内容，人工智能总结了清晰简洁的见解。
+
+
+[Visit](https://thataicollection.com/redirect/mymap-ai-research-paper-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+MyMap.AI 研究论文摘要器是一款免费工具，旨在简化学术论文的消化过程。它利用最先进的人工智能，将复杂的研究准确地提炼成清晰简洁的摘要。该工具非常适合学生、学者和专业人士，可提高效率，节省时间，同时确保对关键发现和见解的透彻理解。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-ai-research-paper-summarizer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Elicit
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elicit.webp" alt="Elicit">
+
+#### 引出：人工智能研究助理
+
+
+[Visit](https://thataicollection.com/redirect/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键声明、总结、集思广益等等。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/elicit?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Sourcely
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
@@ -7236,6 +7219,23 @@ Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/sourcely?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Scispace
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+
+#### Scispace by Typeset-发现、创建、发布和推广您的研究论文
+
+
+[Visit](https://thataicollection.com/redirect/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 ScisSpace 与 PDF 聊天，更快地进行文献综述。查阅 2 亿多篇论文或上传您自己的 PDF，突出显示文本或提问，并提取解释和摘要。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/scispace?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7280,6 +7280,22 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 <br />
 
 
+### Resume Worded
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
+
+#### 改善您的简历和 LinkedIn 个人资料
+
+
+[Visit](https://thataicollection.com/redirect/resume-worded?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们的人工智能平台由顶级招聘人员设计，可立即为您提供有关您的简历和 LinkedIn 个人资料的定制反馈。获得 5 倍以上的面试、机会和工作机会。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/resume-worded?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Resume Editor
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
@@ -7319,6 +7335,22 @@ JobWinner是一个由人工智能驱动的平台，可为您提供更多的面�
 <br />
 
 
+### Prodigy AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+
+#### 使用 AI 改善软件工程师的职业生涯
+
+
+[Visit](https://thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们的使命是使用最新的 AI 构建工具，帮助软件工程师打造更好的职业生涯。我们的人工智能工具是 100% 免费的。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### ResumeUp.AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
 
@@ -7337,38 +7369,6 @@ ResumeUp.AI 是一个由人工智能驱动的多合一职业平台，受到全�
 <br />
 
 
-### Resume Worded
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
-
-#### 改善您的简历和 LinkedIn 个人资料
-
-
-[Visit](https://thataicollection.com/redirect/resume-worded?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的人工智能平台由顶级招聘人员设计，可立即为您提供有关您的简历和 LinkedIn 个人资料的定制反馈。获得 5 倍以上的面试、机会和工作机会。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/resume-worded?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Prodigy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
-
-#### 使用 AI 改善软件工程师的职业生涯
-
-
-[Visit](https://thataicollection.com/redirect/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的使命是使用最新的 AI 构建工具，帮助软件工程师打造更好的职业生涯。我们的人工智能工具是 100% 免费的。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/prodigy-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 📋 简历和简历生成器 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/resume-and-cv-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -7377,18 +7377,39 @@ ResumeUp.AI 是一个由人工智能驱动的多合一职业平台，受到全�
 ---
 
 ## 搜索引擎优化和关键字研究
-### Backlink GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
+### LinkActions
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
 
-#### 使用人工智能生成高质量的反向链接。
-
-
-[Visit](https://thataicollection.com/redirect/backlink-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-提高您网站的搜索引擎优化并提高您的在线知名度。 BacklinkGPT.com 利用先进的人工智能技术创建高效的外展消息，帮助您获得更多反向链接并提高网站性能。
+#### LinkActions是您网站的全自动内部链接工具。 
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/backlink-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。
+
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SEOByAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+
+#### 使用免费的 AI SEO 工具更快地在 Google 上排名
+
+
+[Visit](https://thataicollection.com/redirect/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SEOBy.ai 可以帮助你无需花一分钱就能启动营销工作并在搜索引擎上获得更高的排名。为您的网站/着陆页获取自然流量，并销售更多产品。
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7405,25 +7426,6 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/seoify?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### LinkActions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
-
-#### LinkActions是您网站的全自动内部链接工具。 
-
-
-[Visit](https://thataicollection.com/redirect/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-LinkActions可以发现人们错过的内部链接，这样他们就可以在谷歌上获得更高的排名并增加自然流量。与其他仅适用于WordPress的工具不同，LinkActions适用于任何网络平台。
-
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/linkactions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7460,6 +7462,22 @@ LinkActions可以发现人们错过的内部链接，这样他们就可以在谷
 <br />
 
 
+### Backlink GPT
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
+
+#### 使用人工智能生成高质量的反向链接。
+
+
+[Visit](https://thataicollection.com/redirect/backlink-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+提高您网站的搜索引擎优化并提高您的在线知名度。 BacklinkGPT.com 利用先进的人工智能技术创建高效的外展消息，帮助您获得更多反向链接并提高网站性能。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/backlink-gpt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Link Finder
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-link-finder.webp" alt="Link Finder">
 
@@ -7472,24 +7490,6 @@ LinkActions可以发现人们错过的内部链接，这样他们就可以在谷
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/link-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SEOByAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
-
-#### 使用免费的 AI SEO 工具更快地在 Google 上排名
-
-
-[Visit](https://thataicollection.com/redirect/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SEOBy.ai 可以帮助你无需花一分钱就能启动营销工作并在搜索引擎上获得更高的排名。为您的网站/着陆页获取自然流量，并销售更多产品。
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/seobyai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7536,18 +7536,18 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 <br />
 
 
-### MyMap.AI Swot Analysis Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
+### NioLeads
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nioleads.webp" alt="NioLeads">
 
-#### MyMap.AI Swot 分析生成器-在做出任何业务决策之前必须进行竞争分析，可通过 AI 轻松生成
-
-
-[Visit](https://thataicollection.com/redirect/mymap-ai-swot-analysis-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一款人工智能工具，旨在为企业、项目和个人活动创建全面的 SWOT 分析。通过利用人工智能技术，它识别和评估优势、劣势、机会和威胁，提供富有洞察力和可操作的报告。该工具非常适合寻求做出明智决策和制定有效战略的企业主、策略师和个人。
+#### Nioleads Enterprise LikedIn 电子邮件查找器和销售导航器抓取工具
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-ai-swot-analysis-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/nioleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+企业级邮箱线索查找器，提供专业的企业邮箱搜索/导出领英销售导航搜索结果/领英线索挖掘/ Apollo.io无限收集等功能。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/nioleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7568,18 +7568,34 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 <br />
 
 
-### NioLeads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nioleads.webp" alt="NioLeads">
+### MyMap.AI Swot Analysis Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
 
-#### Nioleads Enterprise LikedIn 电子邮件查找器和销售导航器抓取工具
-
-
-[Visit](https://thataicollection.com/redirect/nioleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-企业级邮箱线索查找器，提供专业的企业邮箱搜索/导出领英销售导航搜索结果/领英线索挖掘/ Apollo.io无限收集等功能。 
+#### MyMap.AI Swot 分析生成器-在做出任何业务决策之前必须进行竞争分析，可通过 AI 轻松生成
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/nioleads?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/mymap-ai-swot-analysis-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一款人工智能工具，旨在为企业、项目和个人活动创建全面的 SWOT 分析。通过利用人工智能技术，它识别和评估优势、劣势、机会和威胁，提供富有洞察力和可操作的报告。该工具非常适合寻求做出明智决策和制定有效战略的企业主、策略师和个人。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/mymap-ai-swot-analysis-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### THEO: Context-aware Strategic Co-Pilot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
+
+#### 将您的网站和文档变成支持人工智能的 “备忘单”，使您的AI助手成为战略合作伙伴
+
+
+[Visit](https://thataicollection.com/redirect/theo-context-aware-strategic-co-pilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+帮助创始人在几分钟内将分散的业务信息转化为结构完美的人工智能知识。无需任何技术技能，即可增强任何 AI 助手，真正了解您的独特策略和方法。通过更好的 AI 交互，获得始终如一的准确输出，所需的迭代次数减少 3-5 倍，每周最多可节省 12 个小时。兼容 ChatGPT、Claude 和其他主要的人工智能助手。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/theo-context-aware-strategic-co-pilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7597,22 +7613,6 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/reply?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### THEO: Context-aware Strategic Co-Pilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
-
-#### 将您的网站和文档变成支持人工智能的 “备忘单”，使您的AI助手成为战略合作伙伴
-
-
-[Visit](https://thataicollection.com/redirect/theo-context-aware-strategic-co-pilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-帮助创始人在几分钟内将分散的业务信息转化为结构完美的人工智能知识。无需任何技术技能，即可增强任何 AI 助手，真正了解您的独特策略和方法。通过更好的 AI 交互，获得始终如一的准确输出，所需的迭代次数减少 3-5 倍，每周最多可节省 12 个小时。兼容 ChatGPT、Claude 和其他主要的人工智能助手。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/theo-context-aware-strategic-co-pilot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7637,73 +7637,6 @@ FrameTrace是一个由人工智能驱动的反向视频搜索引擎，它可以�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/frametrace-|-reverse-video-search?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Everypixel
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everypixel.webp" alt="Everypixel">
-
-#### 图库图片搜索引擎-50 多个最佳来源-Everypixel
-
-
-[Visit](https://thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-图库图片查找器适合所有讨厌劣库存照片的人。使用它可以以最低的价格找到最好的许可图片。超过 50 个图像来源。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Andisearch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-andisearch.webp" alt="Andisearch">
-
-#### Andi-利用人工智能的力量寻找下一代
-
-
-[Visit](https://thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-安迪正在使用生成式人工智能寻找下一代。Andi 不只是链接，而是给你答案——比如和聪明的朋友聊天
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Perplexity AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
-
-#### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
-
-
-[Visit](https://thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity AI 由大型语言模型和搜索引擎提供支持。准确性受到搜索结果和人工智能功能的限制。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Anypod
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anypod.webp" alt="Anypod">
-
-#### 为创作者打造的搜索引擎
-
-
-[Visit](https://thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们让您的内容可搜索
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7745,6 +7678,73 @@ AI 助手可帮助您完成更多工作。毫不费力地体验 AI 聊天
 <br />
 
 
+### Anypod
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anypod.webp" alt="Anypod">
+
+#### 为创作者打造的搜索引擎
+
+
+[Visit](https://thataicollection.com/redirect/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们让您的内容可搜索
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/anypod?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Andisearch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-andisearch.webp" alt="Andisearch">
+
+#### Andi-利用人工智能的力量寻找下一代
+
+
+[Visit](https://thataicollection.com/redirect/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+安迪正在使用生成式人工智能寻找下一代。Andi 不只是链接，而是给你答案——比如和聪明的朋友聊天
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/andisearch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Perplexity AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+
+#### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
+
+
+[Visit](https://thataicollection.com/redirect/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity AI 由大型语言模型和搜索引擎提供支持。准确性受到搜索结果和人工智能功能的限制。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/perplexity-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Everypixel
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everypixel.webp" alt="Everypixel">
+
+#### 图库图片搜索引擎-50 多个最佳来源-Everypixel
+
+
+[Visit](https://thataicollection.com/redirect/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+图库图片查找器适合所有讨厌劣库存照片的人。使用它可以以最低的价格找到最好的许可图片。超过 50 个图像来源。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/everypixel?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 🔍 搜索引擎 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/search-engines?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -7753,6 +7753,22 @@ AI 助手可帮助您完成更多工作。毫不费力地体验 AI 聊天
 ---
 
 ## 幻灯片和演示文稿
+### ChatBA
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
+
+#### ChatBCG：幻灯片的生成人工智能
+
+
+[Visit](https://thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 ChatBCG 即时创建幻灯片
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Storydoc
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
@@ -7765,22 +7781,6 @@ Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/storydoc?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SlidesAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
-
-#### 使用 AI 在几秒钟内创建演示幻灯片
-
-
-[Visit](https://thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7799,6 +7799,38 @@ Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/my-pitch-deck?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Pitchgrade
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
+
+#### Pitchgrade-简化演示文稿
+
+
+[Visit](https://thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+推介会是公司用来向投资者推销的演示文稿。它涵盖了公司的商业模式、财务预测和投资者希望看到的其他关键指标。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SlidesAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
+
+#### 使用 AI 在几秒钟内创建演示幻灯片
+
+
+[Visit](https://thataicollection.com/redirect/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+告别繁琐的手动幻灯片创建。让 AI 为您编写大纲和演示内容。使用我们的工具，您可以立即从任何文本轻松创建专业、引人入胜的幻灯片。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/slidesai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7839,38 +7871,6 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 <br />
 
 
-### Pitchgrade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
-
-#### Pitchgrade-简化演示文稿
-
-
-[Visit](https://thataicollection.com/redirect/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-推介会是公司用来向投资者推销的演示文稿。它涵盖了公司的商业模式、财务预测和投资者希望看到的其他关键指标。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/pitchgrade?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### ChatBA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
-
-#### ChatBCG：幻灯片的生成人工智能
-
-
-[Visit](https://thataicollection.com/redirect/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 ChatBCG 即时创建幻灯片
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/chatba?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 📊 幻灯片和演示文稿 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/slides-and-presentations?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -7879,20 +7879,18 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 ---
 
 ## 社交媒体内容
-### Qura AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+### Lunroo
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lunroo.webp" alt="Lunroo">
 
-#### 立即开始在自动驾驶仪上发展你的 X（Twitter）
-
-
-[Visit](https://thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量身定制的一键回复、YouTube 视频转换为病毒式 Twitter 话题以及根据大量推文分析开发的自动化工具。 
-
-借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
+#### 用于社交媒体营销的免费 AI 工具
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/lunroo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Lunroo是一个由人工智能驱动的平台，旨在简化和增强社交媒体营销。它提供了一套功能强大的工具，包括为领英、抖音、YouTube和Instagram等流行的社交媒体平台量身定制。这些工具旨在帮助用户扩大社交媒体影响力，与受众互动，并为其内容吸引更多流量。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/lunroo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7909,22 +7907,6 @@ Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/robopost-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Postlyy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
-
-#### 通过轻松的内容管理更快地扩大受众群体
-
-
-[Visit](https://thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Postlyy是一个旨在简化创作者内容管理的平台，提供创作、计划和分析工具。该服务迎合了那些希望在LinkedIn和Twitter等平台上优化内容交付的用户，提供人工智能驱动的内容制作、高效的计划和深入的性能分析等功能。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -7947,6 +7929,24 @@ Podify是一个内容和社区平台，致力于发展您的LinkedIn和个人品
 <br />
 
 
+### Qura AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+
+#### 立即开始在自动驾驶仪上发展你的 X（Twitter）
+
+
+[Visit](https://thataicollection.com/redirect/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量身定制的一键回复、YouTube 视频转换为病毒式 Twitter 话题以及根据大量推文分析开发的自动化工具。 
+
+借助易于访问的Chrome扩展程序，它为前100名用户提供50％的折扣，并在三个月内实现了真正可衡量的增长。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/qura-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Predis
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-predis.webp" alt="Predis">
 
@@ -7964,18 +7964,18 @@ Predis是一款用于社交媒体的人工智能营销工具，可帮助企业�
 <br />
 
 
-### Lunroo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lunroo.webp" alt="Lunroo">
+### Postlyy
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
 
-#### 用于社交媒体营销的免费 AI 工具
-
-
-[Visit](https://thataicollection.com/redirect/lunroo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Lunroo是一个由人工智能驱动的平台，旨在简化和增强社交媒体营销。它提供了一套功能强大的工具，包括为领英、抖音、YouTube和Instagram等流行的社交媒体平台量身定制。这些工具旨在帮助用户扩大社交媒体影响力，与受众互动，并为其内容吸引更多流量。
+#### 通过轻松的内容管理更快地扩大受众群体
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/lunroo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Postlyy是一个旨在简化创作者内容管理的平台，提供创作、计划和分析工具。该服务迎合了那些希望在LinkedIn和Twitter等平台上优化内容交付的用户，提供人工智能驱动的内容制作、高效的计划和深入的性能分析等功能。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/postlyy?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8004,54 +8004,6 @@ Lunroo是一个由人工智能驱动的平台，旨在简化和增强社交媒�
 ---
 
 ## 社交网络和约会
-### RIZZ AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
-
-#### 使用最佳的人工智能约会助手RIZZ AI改变您的约会体验。
-
-
-[Visit](https://thataicollection.com/redirect/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-RIZZ AI 是一款基于 RIZE GPT 框架的人工智能约会工具。它对用户心理有着深刻的理解，擅长提供幽默和浪漫的对话。对于那些正在寻找接送助手的人来说，RIZZ AI是最佳选择。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### SynthLife
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-synthlife.webp" alt="SynthLife">
-
-#### 帮助创作者建立、成长 AI 角色并从中获利
-
-
-[Visit](https://thataicollection.com/redirect/synthlife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SynthLife是一个旨在促进虚拟影响者的创造、成长和获利的平台。该工具为希望深入探索不断扩大的虚拟影响者世界的个人或公司提供了多合一的解决方案，而无需高级技术技能。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/synthlife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### CommentGuard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
-
-#### CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核工具
-
-
-[Visit](https://thataicollection.com/redirect/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核工具。它将帖子和广告中的所有评论集中到一个收件箱中，使用户可以毫不费力地点赞、隐藏、删除、屏蔽或回复。主要功能包括实时 AI 审核、人工智能生成的回复（基于上传的公司信息）、人工智能意图检测、保存的回复和自动回复。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### KeyMentions
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
 
@@ -8105,6 +8057,38 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 <br />
 
 
+### CommentGuard
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
+
+#### CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核工具
+
+
+[Visit](https://thataicollection.com/redirect/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核工具。它将帖子和广告中的所有评论集中到一个收件箱中，使用户可以毫不费力地点赞、隐藏、删除、屏蔽或回复。主要功能包括实时 AI 审核、人工智能生成的回复（基于上传的公司信息）、人工智能意图检测、保存的回复和自动回复。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/commentguard?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### SynthLife
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-synthlife.webp" alt="SynthLife">
+
+#### 帮助创作者建立、成长 AI 角色并从中获利
+
+
+[Visit](https://thataicollection.com/redirect/synthlife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SynthLife是一个旨在促进虚拟影响者的创造、成长和获利的平台。该工具为希望深入探索不断扩大的虚拟影响者世界的个人或公司提供了多合一的解决方案，而无需高级技术技能。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/synthlife?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AI Social Bio
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
@@ -8124,6 +8108,22 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 <br />
 
 
+### RIZZ AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
+
+#### 使用最佳的人工智能约会助手RIZZ AI改变您的约会体验。
+
+
+[Visit](https://thataicollection.com/redirect/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+RIZZ AI 是一款基于 RIZE GPT 框架的人工智能约会工具。它对用户心理有着深刻的理解，擅长提供幽默和浪漫的对话。对于那些正在寻找接送助手的人来说，RIZZ AI是最佳选择。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rizz-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 [See All 💞 社交网络和约会 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/social-networks-and-dating?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -8132,6 +8132,28 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 ---
 
 ## 音效生成器
+### HarmonySnippetsAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
+
+#### 上传您的音轨，让 AI 找到最具吸引力的片段，速度最多可提高 10 倍。非常适合在 Instagram、脸书和抖音上进行宣传。
+
+
+[Visit](https://thataicollection.com/redirect/harmonysnippetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HarmonySnippetSai是一款改变游戏规则的工具，它可以在音乐曲目中找到最迷人的片段，尤其是在你尝试优化社交媒体内容时。
+
+它是如何工作的：
+
+上传您的曲目（MP3 或 WAV），人工智能将对其进行分析以选出最吸引人的片段。不用再猜测了。
+
+如果你一直不确定要展示曲目的哪一部分，这个工具就是为你准备的。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/harmonysnippetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### SFX Engine
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
 
@@ -8164,24 +8186,18 @@ SFX Engine 是一款多功能且强大的音效生成器，旨在帮助您为项
 <br />
 
 
-### HarmonySnippetsAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
+### AI Sound Effect Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
-#### 上传您的音轨，让 AI 找到最具吸引力的片段，速度最多可提高 10 倍。非常适合在 Instagram、脸书和抖音上进行宣传。
-
-
-[Visit](https://thataicollection.com/redirect/harmonysnippetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-HarmonySnippetSai是一款改变游戏规则的工具，它可以在音乐曲目中找到最迷人的片段，尤其是在你尝试优化社交媒体内容时。
-
-它是如何工作的：
-
-上传您的曲目（MP3 或 WAV），人工智能将对其进行分析以选出最吸引人的片段。不用再猜测了。
-
-如果你一直不确定要展示曲目的哪一部分，这个工具就是为你准备的。 
+#### 使用我们的 AI 音效生成器创建逼真的 AI 声音。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/harmonysnippetsai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们的 AI 音效生成器允许您为项目创建自定义音效。从未来派的音色到自然的声音，您可以轻松生成独特的音频来增强您的内容。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8202,38 +8218,6 @@ SoundAI Studio是一款由人工智能驱动的终极工具包，可轻松生成
 <br />
 
 
-### AI Sound Effects Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
-
-#### AI 音效生成器-从文本生成音效
-
-
-[Visit](https://thataicollection.com/redirect/ai-sound-effects-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-直接从文字描述中生成任何可以想象的音效，从而简化音效制作过程。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effects-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
-
-#### 使用我们的 AI 音效生成器创建逼真的 AI 声音。
-
-
-[Visit](https://thataicollection.com/redirect/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的 AI 音效生成器允许您为项目创建自定义音效。从未来派的音色到自然的声音，您可以轻松生成独特的音频来增强您的内容。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### PopPop AI Sound Effect Generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
 
@@ -8247,6 +8231,22 @@ PopPop AI 音效生成器是一款完全免费的在线人工智能声音制作�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/poppop-ai-sound-effect-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Sound Effects Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
+
+#### AI 音效生成器-从文本生成音效
+
+
+[Visit](https://thataicollection.com/redirect/ai-sound-effects-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+直接从文字描述中生成任何可以想象的音效，从而简化音效制作过程。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-sound-effects-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8276,18 +8276,18 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 <br />
 
 
-### QUIZGECKO
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
+### FairyTailAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
 
-#### 停止浪费时间手动创建测验
-
-
-[Visit](https://thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。
+#### 使用 AI 的个性化睡前故事生成器
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+每天使用 AI 为您的孩子生成个性化的睡前童话故事。选择你想传达给孩子的场景、环境、角色名称和道德。您的故事将在不到一分钟的时间内准备就绪，并附上定制的适当插图和配音。或者，您可以从目录中选择已经生成的故事进行阅读。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8304,6 +8304,54 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/botta?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Quizwhiz
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
+
+#### Quizwhiz-从任意文本生成多选题
+
+
+[Visit](https://thataicollection.com/redirect/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+QuizWhiz 是一款由 AI 驱动的应用程序，它接收文本，例如输入文本或 Pdf 文件上传，并从中生成多选题和答案。它旨在帮助教师为学生创建测验和考试。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### QUIZGECKO
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
+
+#### 停止浪费时间手动创建测验
+
+
+[Visit](https://thataicollection.com/redirect/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+从任何文本即时创建和共享测验问题、抽认卡和笔记。非常适合企业、教育工作者和学生。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/quizgecko?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### KardsAI - AI Flashcard Maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
+
+#### KardSAI 是一款移动应用程序，可帮助您更快地学习任何东西。它会根据任何 PDF、文本或提示自动生成抽认卡。间隔重复学习，长期保持记忆！
+
+
+[Visit](https://thataicollection.com/redirect/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+KardSAI 移动应用程序适用于 iOS 和安卓系统，可为您节省数小时的学习时间。它使您能够在几秒钟内从 PDF、文本或提示符中生成任何主题的抽认卡。你可以与朋友分享你的抽认卡套牌，随时随地学习。通过正确回答问题来赚取积分。我们的间隔重复算法可帮助您记住更长的时间，每日通知可让您保持动力。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8328,54 +8376,6 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 <br />
 
 
-### FairyTailAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
-
-#### 使用 AI 的个性化睡前故事生成器
-
-
-[Visit](https://thataicollection.com/redirect/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-每天使用 AI 为您的孩子生成个性化的睡前童话故事。选择你想传达给孩子的场景、环境、角色名称和道德。您的故事将在不到一分钟的时间内准备就绪，并附上定制的适当插图和配音。或者，您可以从目录中选择已经生成的故事进行阅读。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/fairytailai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### KardsAI - AI Flashcard Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
-
-#### KardSAI 是一款移动应用程序，可帮助您更快地学习任何东西。它会根据任何 PDF、文本或提示自动生成抽认卡。间隔重复学习，长期保持记忆！
-
-
-[Visit](https://thataicollection.com/redirect/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-KardSAI 移动应用程序适用于 iOS 和安卓系统，可为您节省数小时的学习时间。它使您能够在几秒钟内从 PDF、文本或提示符中生成任何主题的抽认卡。你可以与朋友分享你的抽认卡套牌，随时随地学习。通过正确回答问题来赚取积分。我们的间隔重复算法可帮助您记住更长的时间，每日通知可让您保持动力。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/kardsai---ai-flashcard-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Quizwhiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
-
-#### Quizwhiz-从任意文本生成多选题
-
-
-[Visit](https://thataicollection.com/redirect/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-QuizWhiz 是一款由 AI 驱动的应用程序，它接收文本，例如输入文本或 Pdf 文件上传，并从中生成多选题和答案。它旨在帮助教师为学生创建测验和考试。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/quizwhiz?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🎓 学习与导师 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/study-and-tutor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -8396,6 +8396,78 @@ QuizWhiz 是一款由 AI 驱动的应用程序，它接收文本，例如输入�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/dewey?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### dypt
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dypt.webp" alt="dypt">
+
+#### 使用 AI 自动将任务分解为更易于管理的子任务，克服心理障碍
+
+
+[Visit](https://thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
+-按层次结构组织任务，允许您根据需要多次分解任务
+-使用 AI 自动将任务分解成更易于完成的块。
+-公开和私下共享任务
+-设置优先级、截止日期和提醒并接收通知，这样您就不会错过任何一个
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Sidekick
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sidekick.webp" alt="Sidekick">
+
+#### 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。
+
+
+[Visit](https://thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### So You Had An Idea
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+
+#### 借助 AI 的力量，将您的商业想法转化为行动计划
+
+
+[Visit](https://thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Finder
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
+
+#### AI Finder-使用 LLM 查询您的文件系统。
+
+
+[Visit](https://thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜索助手，帮助您避免在一堆文档中搜索所需的文件。
+
+你给出指令，它可以帮助你在一堆混乱的文档中找到所需的文件。
+
+它可以帮助您处理与文件相关的其他任务，从而节省时间并提高工作效率。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8436,78 +8508,6 @@ Cogram 使用 AI 在虚拟会议中做笔记、跟踪行动项目并自动执行
 <br />
 
 
-### AI Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
-
-#### AI Finder-使用 LLM 查询您的文件系统。
-
-
-[Visit](https://thataicollection.com/redirect/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜索助手，帮助您避免在一堆文档中搜索所需的文件。
-
-你给出指令，它可以帮助你在一堆混乱的文档中找到所需的文件。
-
-它可以帮助您处理与文件相关的其他任务，从而节省时间并提高工作效率。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-finder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### dypt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dypt.webp" alt="dypt">
-
-#### 使用 AI 自动将任务分解为更易于管理的子任务，克服心理障碍
-
-
-[Visit](https://thataicollection.com/redirect/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
--按层次结构组织任务，允许您根据需要多次分解任务
--使用 AI 自动将任务分解成更易于完成的块。
--公开和私下共享任务
--设置优先级、截止日期和提醒并接收通知，这样您就不会错过任何一个
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dypt?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### So You Had An Idea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
-
-#### 借助 AI 的力量，将您的商业想法转化为行动计划
-
-
-[Visit](https://thataicollection.com/redirect/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-你有个不错的商业想法但不知道从哪里开始吗？我们的指导性问卷将引导您确定业务范围和潜在客户。根据您的答案，我们将制定定制的行动计划以帮助您入门，包括创收和营销策略。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/so-you-had-an-idea?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Sidekick
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sidekick.webp" alt="Sidekick">
-
-#### 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。
-
-
-[Visit](https://thataicollection.com/redirect/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-直接从您的 Slack 即时免费访问 ChatGPT 4.0 并享受其他功能，例如在 Slack 中询问您的组织应用程序问题、跟踪重要主题、设置提醒、查询文档和总结对话
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sidekick?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All ✅ 任务和个人助理 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/task-and-personal-assistant?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -8532,18 +8532,18 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 <br />
 
 
-### Infiniteconversation
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
+### Excelformulabot
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
 
-#### 无限对话
-
-
-[Visit](https://thataicollection.com/redirect/infiniteconversation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-人工智能在维尔纳·赫尔佐格和斯拉沃热·齐泽克之间产生了永无止境的讨论。
+#### Excel 和 Google 表格 AI 公式生成器 - Excelformulabot.com
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/infiniteconversation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/excelformulabot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 AI 在几秒钟内将您的文本指令转换为 Excel 和 Google 表格公式
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/excelformulabot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8564,34 +8564,18 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 <br />
 
 
-### Excelformulabot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
+### Scarlettpanda
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
 
-#### Excel 和 Google 表格 AI 公式生成器 - Excelformulabot.com
-
-
-[Visit](https://thataicollection.com/redirect/excelformulabot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 AI 在几秒钟内将您的文本指令转换为 Excel 和 Google 表格公式
+#### Scarlett Panda - 定制短睡前故事
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/excelformulabot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/scarlettpanda?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Kidotail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kidotail.webp" alt="Kidotail">
-
-#### KidoTail 人工智能
+Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡前故事。
 
 
-[Visit](https://thataicollection.com/redirect/kidotail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一种激发孩子想象力的新方法。无尽的讲故事的可能性。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/kidotail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/scarlettpanda?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8612,18 +8596,34 @@ ReplAI 是一个浏览器扩展程序，可帮助您起草您的个人消息、�
 <br />
 
 
-### Scarlettpanda
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
+### Infiniteconversation
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
 
-#### Scarlett Panda - 定制短睡前故事
-
-
-[Visit](https://thataicollection.com/redirect/scarlettpanda?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡前故事。
+#### 无限对话
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/scarlettpanda?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/infiniteconversation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+人工智能在维尔纳·赫尔佐格和斯拉沃热·齐泽克之间产生了永无止境的讨论。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/infiniteconversation?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Kidotail
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kidotail.webp" alt="Kidotail">
+
+#### KidoTail 人工智能
+
+
+[Visit](https://thataicollection.com/redirect/kidotail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+一种激发孩子想象力的新方法。无尽的讲故事的可能性。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/kidotail?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8636,6 +8636,22 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 ---
 
 ## 文字转语音
+### Wellsaid
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
+
+#### 将文本实时转换为语音
+
+
+[Visit](https://thataicollection.com/redirect/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+借助 WellSaid，您和您的团队可以为所有数字内容创建引人入胜的逼真 AI 配音。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Lovo
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovo.webp" alt="Lovo">
 
@@ -8669,6 +8685,22 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 <br />
 
 
+### Childbook
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-childbook.webp" alt="Childbook">
+
+#### 欢迎来到儿童图书创作者！
+
+
+[Visit](https://thataicollection.com/redirect/childbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/childbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### NaturalReader
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
@@ -8681,22 +8713,6 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/naturalreader?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Voicera
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicera.webp" alt="Voicera">
-
-#### Voicera-为你的文章和博客发声
-
-
-[Visit](https://thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一键为您的博客和文章创建逼真的语音听写。将声音嵌入到您的内容中。提高用户的参与度。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8717,34 +8733,18 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 <br />
 
 
-### Childbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-childbook.webp" alt="Childbook">
+### Voicera
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicera.webp" alt="Voicera">
 
-#### 欢迎来到儿童图书创作者！
-
-
-[Visit](https://thataicollection.com/redirect/childbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的书将通过人物、图片和故事进行个性化设置。故事和插图还具有文本转语音功能，可以收听。
+#### Voicera-为你的文章和博客发声
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/childbook?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-<br />
-
-
-### Wellsaid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
-
-#### 将文本实时转换为语音
+一键为您的博客和文章创建逼真的语音听写。将声音嵌入到您的内容中。提高用户的参与度。
 
 
-[Visit](https://thataicollection.com/redirect/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-借助 WellSaid，您和您的团队可以为所有数字内容创建引人入胜的逼真 AI 配音。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/wellsaid?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/voicera?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8757,6 +8757,70 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 ---
 
 ## 文字转图片
+### AI Picasso
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
+
+#### 人工智能毕加索
+
+
+[Visit](https://thataicollection.com/redirect/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+用强大的 AI 创造惊人的艺术作品！它会根据您输入的文本生成图像，就像您期望使用名为 Stable Diffusion 的 AI 一样。让我们享受用 AI 创作艺术吧！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI2image
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2image.webp" alt="AI2image">
+
+#### 免费的 AI 图像生成器 - 在线文本到图像应用程序 - AI2image
+
+
+[Visit](https://thataicollection.com/redirect/ai2image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 AI2image 的免费 AI 图像生成器在线生成最佳图像。使用AI生成您想要的任何尺寸和样式的高质量图像！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai2image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### DrawAnyone
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
+
+#### drawanyone - 画任何人，任何你想要的方式
+
+
+[Visit](https://thataicollection.com/redirect/drawanyone?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖像
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/drawanyone?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AI Wall Decor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
+
+#### 氢
+
+
+[Visit](https://thataicollection.com/redirect/ai-wall-decor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+使用 Stable Diffusion 生成高质量的框架艺术，无需提起画笔。只需输入您想要的画作外观，生成您的艺术作品，选择您最喜欢的框架，然后发送。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-wall-decor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Imaginator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imaginator.webp" alt="Imaginator">
 
@@ -8805,70 +8869,6 @@ Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创�
 <br />
 
 
-### AI Picasso
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
-
-#### 人工智能毕加索
-
-
-[Visit](https://thataicollection.com/redirect/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-用强大的 AI 创造惊人的艺术作品！它会根据您输入的文本生成图像，就像您期望使用名为 Stable Diffusion 的 AI 一样。让我们享受用 AI 创作艺术吧！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-picasso?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Wall Decor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
-
-#### 氢
-
-
-[Visit](https://thataicollection.com/redirect/ai-wall-decor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 Stable Diffusion 生成高质量的框架艺术，无需提起画笔。只需输入您想要的画作外观，生成您的艺术作品，选择您最喜欢的框架，然后发送。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-wall-decor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### DrawAnyone
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
-
-#### drawanyone - 画任何人，任何你想要的方式
-
-
-[Visit](https://thataicollection.com/redirect/drawanyone?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖像
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/drawanyone?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI2image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2image.webp" alt="AI2image">
-
-#### 免费的 AI 图像生成器 - 在线文本到图像应用程序 - AI2image
-
-
-[Visit](https://thataicollection.com/redirect/ai2image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-使用 AI2image 的免费 AI 图像生成器在线生成最佳图像。使用AI生成您想要的任何尺寸和样式的高质量图像！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai2image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🖌️ 文字转图片 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/text-to-image?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -8893,6 +8893,22 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 <br />
 
 
+### Make a Video
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+
+#### Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。
+
+
+[Visit](https://thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
 
@@ -8905,6 +8921,22 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### AIDreamMachine
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
+
+#### AI Dream Machine | 制作精彩的 AI 生成的视频
+
+
+[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AI Dream Machine 是一款由人工智能驱动的免费视频生成器，可通过令人惊叹的动画和修复使您的照片生动起来。立即开始轻松创建 AI 视频！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -8941,38 +8973,6 @@ SORA 是 OpenAI 建立的庞大文本到视频生成平台，目前在正式入�
 <br />
 
 
-### Make a Video
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
-
-#### Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。
-
-
-[Visit](https://thataicollection.com/redirect/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Make-A-Video研究建立在文本到图像生成技术的最新进展的基础上，该技术旨在实现文本到视频的生成。该系统使用带有描述的图像来了解世界是什么样子以及通常是如何描述世界的。有了这些数据，Make-A-Video 只需几个字或几行文字就能生成异想天开、独一无二的视频，让你的想象力变为现实。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/make-a-video?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AIDreamMachine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
-
-#### AI Dream Machine | 制作精彩的 AI 生成的视频
-
-
-[Visit](https://thataicollection.com/redirect/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AI Dream Machine 是一款由人工智能驱动的免费视频生成器，可通过令人惊叹的动画和修复使您的照片生动起来。立即开始轻松创建 AI 视频！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aidreammachine?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Fotor AI video generator
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
 
@@ -8997,22 +8997,6 @@ AI Dream Machine 是一款由人工智能驱动的免费视频生成器，可通
 ---
 
 ## 抖音和短片创作者
-### AI Videos (TikTok etc)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
-
-#### 抖音的人工智能视频生成器（短片、卷轴） 
-
-
-[Visit](https://thataicollection.com/redirect/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TextoVideo.bot 是一款人工智能工具，它使用人工智能图像和人工智能画外音生成有趣的抖音（卷轴、短片）视频。它可以将提示或脚本作为输入，并将在1分钟内生成一个可以上传的有趣视频。它最适合无脸频道。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Supercreator AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
 
@@ -9026,22 +9010,6 @@ Supercreator是一款使用人工智能的移动应用程序，可以轻松快�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/supercreator-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Clip Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
-
-#### 适用于抖音、YouTube和Instagram的病毒式人工智能视频短生成工具。毫不费力地创建病毒式视频。
-
-
-[Visit](https://thataicollection.com/redirect/clip-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Clip Studio是一款帮助制作病毒式短视频的工具，非常适合YouTube、抖音和Instagram。Clip Studio允许用户毫不费力地创建引人入胜且可共享的视频，这些视频一定会吸引观众。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/clip-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9062,24 +9030,50 @@ Clip Studio是一款帮助制作病毒式短视频的工具，非常适合YouTub
 <br />
 
 
-### EazyCaptions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
+### AI Videos (TikTok etc)
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
-#### 无需编辑技能即可创建引人入胜的短格式视频
-
-
-[Visit](https://thataicollection.com/redirect/eazycaptions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-增强您的短格式视频并使其极具吸引力。非常适合内容创作者、机构和企业。🎥✨
-
-EazyCaptions 如何加快您的工作流程：
-
-🌐📝 自动化 AI 精确字幕：上传视频并获得准确的字幕，耗时为零。17 种语言的支持视频
-
-查看更多：https://eazycaptions.com/
+#### 抖音的人工智能视频生成器（短片、卷轴） 
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/eazycaptions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TextoVideo.bot 是一款人工智能工具，它使用人工智能图像和人工智能画外音生成有趣的抖音（卷轴、短片）视频。它可以将提示或脚本作为输入，并将在1分钟内生成一个可以上传的有趣视频。它最适合无脸频道。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-videos-(tiktok-etc)?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Topview AI TikTok Video Generator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
+
+#### TopView AI 利用自动脚本、片段、画外音和音乐，迅速将文本转化为病毒式 TikTok 视频。
+
+
+[Visit](https://thataicollection.com/redirect/topview-ai-tiktok-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平台，可将文本快速转换为病毒视频。它可以自动编写剧本、片段选择、画外音和音乐，从而简化制作。凭借其直观的编辑套件，TopView 确保每个视频都经过精心打磨，帮助创作者快速为 TikTok 病毒式传播制作引人入胜的内容。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/topview-ai-tiktok-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Clip Studio
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
+
+#### 适用于抖音、YouTube和Instagram的病毒式人工智能视频短生成工具。毫不费力地创建病毒式视频。
+
+
+[Visit](https://thataicollection.com/redirect/clip-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Clip Studio是一款帮助制作病毒式短视频的工具，非常适合YouTube、抖音和Instagram。Clip Studio允许用户毫不费力地创建引人入胜且可共享的视频，这些视频一定会吸引观众。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/clip-studio?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9106,18 +9100,24 @@ AcaiVideo 使用 AI 为抖音、YouTube 和 Instagram Reels 生成完整视频�
 <br />
 
 
-### Topview AI TikTok Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
+### EazyCaptions
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
 
-#### TopView AI 利用自动脚本、片段、画外音和音乐，迅速将文本转化为病毒式 TikTok 视频。
-
-
-[Visit](https://thataicollection.com/redirect/topview-ai-tiktok-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平台，可将文本快速转换为病毒视频。它可以自动编写剧本、片段选择、画外音和音乐，从而简化制作。凭借其直观的编辑套件，TopView 确保每个视频都经过精心打磨，帮助创作者快速为 TikTok 病毒式传播制作引人入胜的内容。
+#### 无需编辑技能即可创建引人入胜的短格式视频
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/topview-ai-tiktok-video-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/eazycaptions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+增强您的短格式视频并使其极具吸引力。非常适合内容创作者、机构和企业。🎥✨
+
+EazyCaptions 如何加快您的工作流程：
+
+🌐📝 自动化 AI 精确字幕：上传视频并获得准确的字幕，耗时为零。17 种语言的支持视频
+
+查看更多：https://eazycaptions.com/
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/eazycaptions?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9130,6 +9130,70 @@ TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平�
 ---
 
 ## 翻译和成绩单
+### Sumly
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sumly.webp" alt="Sumly">
+
+#### 人工智能生成的播客摘要-Sumly.Ai
+
+
+[Visit](https://thataicollection.com/redirect/sumly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+不要让繁忙的日程安排阻碍你向最优秀的人学习。人工智能生成的播客摘要直接发送到您的收件箱。随时关注你最喜欢的节目并发现新的节目。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sumly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Snipd Podcast Summaries
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
+
+#### 解锁播客中的知识 - Snipd
+
+
+[Visit](https://thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+发现亮点收听您喜爱的播客中的最佳亮点并深入了解整集
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Deciphr AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
+
+#### 破译AI
+
+
+[Visit](https://thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在深度 AI 的支持下，Deciphr 为您添加时间戳并总结您的整个播客记录。比煮咖啡的时间还短
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Rythmex
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
+
+#### 使用 Rythmex Converter 将音频转换为文本
+
+
+[Visit](https://thataicollection.com/redirect/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+轻松、快速、有效地将音频转录为文本
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### RIVERSIDE
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
@@ -9152,38 +9216,6 @@ TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平�
 <br />
 
 
-### Sumly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sumly.webp" alt="Sumly">
-
-#### 人工智能生成的播客摘要-Sumly.Ai
-
-
-[Visit](https://thataicollection.com/redirect/sumly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-不要让繁忙的日程安排阻碍你向最优秀的人学习。人工智能生成的播客摘要直接发送到您的收件箱。随时关注你最喜欢的节目并发现新的节目。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sumly?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Deciphr AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
-
-#### 破译AI
-
-
-[Visit](https://thataicollection.com/redirect/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在深度 AI 的支持下，Deciphr 为您添加时间戳并总结您的整个播客记录。比煮咖啡的时间还短
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/deciphr-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### BiRead
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-biread.webp" alt="BiRead">
 
@@ -9196,22 +9228,6 @@ TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/biread?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Rythmex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
-
-#### 使用 Rythmex Converter 将音频转换为文本
-
-
-[Visit](https://thataicollection.com/redirect/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-轻松、快速、有效地将音频转录为文本
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/rythmex?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9232,22 +9248,6 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 <br />
 
 
-### Snipd Podcast Summaries
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
-
-#### 解锁播客中的知识 - Snipd
-
-
-[Visit](https://thataicollection.com/redirect/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-发现亮点收听您喜爱的播客中的最佳亮点并深入了解整集
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/snipd-podcast-summaries?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🇺🇳 翻译和成绩单 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/translation-and-transcript?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -9256,6 +9256,38 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 ---
 
 ## 假期和旅行计划
+### AI Trip Maker
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+
+#### AI Trip Maker-你的个人旅行规划师 AI
+
+
+[Visit](https://thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得轻松而有趣！只需输入您的目的地，即可获得个性化的旅行计划！只需让 AitripMaker 这样做，就可以以任何方式自定义计划（增加天数，使其成为美食家度假等）！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Vacay
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vacay.webp" alt="Vacay">
+
+#### 假期聊天代理
+
+
+[Visit](https://thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Let''s Trip
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-let''s-trip.webp" alt="Let''s Trip">
 
@@ -9306,38 +9338,6 @@ Let''s Trip 是一款由人工智能驱动的创新旅行规划器，旨在创�
 <br />
 
 
-### Vacay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vacay.webp" alt="Vacay">
-
-#### 假期聊天代理
-
-
-[Visit](https://thataicollection.com/redirect/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-这个 AI 助手可以设计定制旅行，为您提供去哪里的灵感，甚至可以为酒店、餐厅和景点生成本地推荐。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/vacay?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI Trip Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
-
-#### AI Trip Maker-你的个人旅行规划师 AI
-
-
-[Visit](https://thataicollection.com/redirect/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得轻松而有趣！只需输入您的目的地，即可获得个性化的旅行计划！只需让 AitripMaker 这样做，就可以以任何方式自定义计划（增加天数，使其成为美食家度假等）！
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-trip-maker?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### Roamr
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roamr.webp" alt="Roamr">
 
@@ -9378,6 +9378,61 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 ---
 
 ## Vibe 编码和应用程序生成器
+### Aspen
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aspen.webp" alt="Aspen">
+
+#### 在几分钟内构建 AI 驱动的工具。Aspen 是一个用于构建 AI 驱动的 Web 应用程序的无代码平台。
+
+
+[Visit](https://thataicollection.com/redirect/aspen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在几分钟内配置 AI
+使用我们的无代码界面配置您的 AI 模型并在几分钟内部署您的应用程序。配置布局和组件
+使用我们的简单编辑器自定义您的 AI 产品。无需验证码。构建和启动 AI 驱动的 SaaS 应用程序所需的一切。全部集中在一处。
+
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/aspen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BuildAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-buildai.webp" alt="BuildAI">
+
+#### 在几分钟内构建 AI 界面
+
+
+[Visit](https://thataicollection.com/redirect/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### BASE44
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-base44.webp" alt="BASE44">
+
+#### BASE44-使用 AI 在几分钟内构建任何软件
+
+
+
+[Visit](https://thataicollection.com/redirect/base44?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+转变你的想法
+在几分钟内转化为产品。
+第一个无需编码即可轻松构建功能齐全的应用程序的多合一人工智能平台。-与 AI 聊天，无需编码即可迭代构建自定义软件。免费试用 BASE44，立即开始创建自己的应用程序。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/base44?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### AITable AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
 
@@ -9411,18 +9466,18 @@ AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。Al
 <br />
 
 
-### BuildAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-buildai.webp" alt="BuildAI">
+### Cloobot X
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
-#### 在几分钟内构建 AI 界面
-
-
-[Visit](https://thataicollection.com/redirect/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-输入基于用户文本输入输出文本的应用程序的描述，我们将为您打造！
+#### 现在可以立即创建业务应用程序
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/buildai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通过基于即时的交互为整个软件生命周期中的问题解决者提供支持，并将交付时间缩短了10倍，以所选语言提供原型、MVP和代码库。为了解决人工智能问题，它可以在本地部署，适应自定义 LLM，并通过专有算法生成代码。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9443,61 +9498,6 @@ AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。Al
 <br />
 
 
-### Aspen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aspen.webp" alt="Aspen">
-
-#### 在几分钟内构建 AI 驱动的工具。Aspen 是一个用于构建 AI 驱动的 Web 应用程序的无代码平台。
-
-
-[Visit](https://thataicollection.com/redirect/aspen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在几分钟内配置 AI
-使用我们的无代码界面配置您的 AI 模型并在几分钟内部署您的应用程序。配置布局和组件
-使用我们的简单编辑器自定义您的 AI 产品。无需验证码。构建和启动 AI 驱动的 SaaS 应用程序所需的一切。全部集中在一处。
-
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/aspen?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BASE44
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-base44.webp" alt="BASE44">
-
-#### BASE44-使用 AI 在几分钟内构建任何软件
-
-
-
-[Visit](https://thataicollection.com/redirect/base44?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-转变你的想法
-在几分钟内转化为产品。
-第一个无需编码即可轻松构建功能齐全的应用程序的多合一人工智能平台。-与 AI 聊天，无需编码即可迭代构建自定义软件。免费试用 BASE44，立即开始创建自己的应用程序。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/base44?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Cloobot X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
-
-#### 现在可以立即创建业务应用程序
-
-
-[Visit](https://thataicollection.com/redirect/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通过基于即时的交互为整个软件生命周期中的问题解决者提供支持，并将交付时间缩短了10倍，以所选语言提供原型、MVP和代码库。为了解决人工智能问题，它可以在本地部署，适应自定义 LLM，并通过专有算法生成代码。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/cloobot-x?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🛠️ Vibe 编码和应用程序生成器 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/vibe-coding-and-app-builder?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -9506,38 +9506,6 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 ---
 
 ## 视频配音和翻译
-### TranslateVideo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
-
-#### Translate.Video-一键翻译视频
-
-
-[Visit](https://thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-您的视频所需的一切都在一个应用程序中：生成字幕、翻译字幕、视频配音、AI 画外音、录制语音笔录等。\ n 别再浪费数周或数月了\ n 翻译和字幕视频的速度提高 100 倍\ n
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### BlipCut Video Translator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
-
-#### 具有类人人工智能语音、语音克隆和 ChatGPT 翻译功能的 AI 视频翻译器
-
-
-[Visit](https://thataicollection.com/redirect/blipcut-video-translator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-专为教育工作者、营销人员、学生、内容创作者、记者、媒体公司和您量身定制！BlipCut AI 视频翻译器是您的多合一解决方案，可实现无缝有效的视频翻译。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/blipcut-video-translator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### VideoDub
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videodub.webp" alt="VideoDub">
 
@@ -9554,34 +9522,35 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 <br />
 
 
-### Dubverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
+### Papercup
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-papercup.webp" alt="Papercup">
 
-#### 使用 Dubverse.Ai 进行在线视频配音
-
-
-[Visit](https://thataicollection.com/redirect/dubverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Dubverse 是一个在线视频配音平台。Dubverse 使用人工智能以闪电般的速度对 30 种语言的视频进行配音
+#### Papercup-人工智能配音和视频翻译软件
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/dubverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+通过屡获殊荣的 AI 配音扩大您的全球受众
+逼真的 AI 语音，由真正的翻译者完善。我们使用来自真实演员的数据来制作如此真实的声音，以至于观众无法将他们与真实事物区分开来。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
 
-### youtube dubbing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
+### TranslateVideo
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
-#### 消除观看视频的语言障碍
-
-
-[Visit](https://thataicollection.com/redirect/youtube-dubbing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-我们的初创公司通过提供浏览器扩展程序来将视频内容实时翻译和配音为用户的母语，从而彻底改变了视频消费。我们的工具专为提高效率和易于理解而设计，专注于教育和信息视频，以增强学习和理解能力，而不会受到字幕的干扰。
+#### Translate.Video-一键翻译视频
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/youtube-dubbing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+您的视频所需的一切都在一个应用程序中：生成字幕、翻译字幕、视频配音、AI 画外音、录制语音笔录等。\ n 别再浪费数周或数月了\ n 翻译和字幕视频的速度提高 100 倍\ n
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/translatevideo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9602,19 +9571,50 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 <br />
 
 
-### Papercup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+### BlipCut Video Translator
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
 
-#### Papercup-人工智能配音和视频翻译软件
-
-
-[Visit](https://thataicollection.com/redirect/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-通过屡获殊荣的 AI 配音扩大您的全球受众
-逼真的 AI 语音，由真正的翻译者完善。我们使用来自真实演员的数据来制作如此真实的声音，以至于观众无法将他们与真实事物区分开来。 
+#### 具有类人人工智能语音、语音克隆和 ChatGPT 翻译功能的 AI 视频翻译器
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/papercup?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/blipcut-video-translator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+专为教育工作者、营销人员、学生、内容创作者、记者、媒体公司和您量身定制！BlipCut AI 视频翻译器是您的多合一解决方案，可实现无缝有效的视频翻译。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/blipcut-video-translator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### youtube dubbing
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
+
+#### 消除观看视频的语言障碍
+
+
+[Visit](https://thataicollection.com/redirect/youtube-dubbing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+我们的初创公司通过提供浏览器扩展程序来将视频内容实时翻译和配音为用户的母语，从而彻底改变了视频消费。我们的工具专为提高效率和易于理解而设计，专注于教育和信息视频，以增强学习和理解能力，而不会受到字幕的干扰。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/youtube-dubbing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Dubverse AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
+
+#### 使用 Dubverse.Ai 进行在线视频配音
+
+
+[Visit](https://thataicollection.com/redirect/dubverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Dubverse 是一个在线视频配音平台。Dubverse 使用人工智能以闪电般的速度对 30 种语言的视频进行配音
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/dubverse-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9659,6 +9659,22 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 <br />
 
 
+### AI video editor
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
+
+#### 人工智能继续重塑我们制作视频的方式。该领域的最新创新之一是 TopView.ai，这是一款在线人工智能视频编辑器，它利用人工智能的力量来简化流程 
+
+
+[Visit](https://thataicollection.com/redirect/ai-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+TopView.ai 改变了抖音、Reels、YouTube和推特等社交媒体视频制作的游戏规则。它使用人工智能来分析成功的广告，帮助用户制作脱颖而出的视频。其运作方式如下：你上传内容，描述你的想法，然后人工智能会推荐具有病毒价值的脚本。选择一个，AI 会将你的镜头编辑成一个引人入胜的故事。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Klap App
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-klap-app.webp" alt="Klap App">
 
@@ -9684,18 +9700,20 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 <br />
 
 
-### TheFluxTrain
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
+### SellerPic AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
 
-#### Agentic AI 制作工作室可实现一致的角色、工作流程和视频
-
-
-[Visit](https://thataicollection.com/redirect/thefluxtrain?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-一个支持代理的端到端 AI 制作创意平台：训练 LoRA 以保持角色和品牌的一致性，在 Flow Studio 中连接多步流水线，在时间轴视频编辑器中汇编短片，并通过浏览器或专为 AI 助手构建的 tft CLI 进行全部驱动。还要通过图像引用保持一致性。
+#### SellerPic：人工智能时装模特和产品图像和视频生成器
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/thefluxtrain?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+[Visit](https://thataicollection.com/redirect/sellerpic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+SellerPic是一个专为电子商务卖家打造的AI SaaS平台，与Shopify、Facebook、抖音、Instagram和Canva无缝集成。卖家可以在SellerPic中直接导入产品图片，生成或编辑产品、模型和营销视觉效果，然后一键将其发布回商店或社交渠道。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/sellerpic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9716,36 +9734,18 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 <br />
 
 
-### SellerPic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
+### TheFluxTrain
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
 
-#### SellerPic：人工智能时装模特和产品图像和视频生成器
-
-
-
-[Visit](https://thataicollection.com/redirect/sellerpic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-SellerPic是一个专为电子商务卖家打造的AI SaaS平台，与Shopify、Facebook、抖音、Instagram和Canva无缝集成。卖家可以在SellerPic中直接导入产品图片，生成或编辑产品、模型和营销视觉效果，然后一键将其发布回商店或社交渠道。
+#### Agentic AI 制作工作室可实现一致的角色、工作流程和视频
 
 
+[Visit](https://thataicollection.com/redirect/thefluxtrain?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/sellerpic-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### AI video editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
-
-#### 人工智能继续重塑我们制作视频的方式。该领域的最新创新之一是 TopView.ai，这是一款在线人工智能视频编辑器，它利用人工智能的力量来简化流程 
+一个支持代理的端到端 AI 制作创意平台：训练 LoRA 以保持角色和品牌的一致性，在 Flow Studio 中连接多步流水线，在时间轴视频编辑器中汇编短片，并通过浏览器或专为 AI 助手构建的 tft CLI 进行全部驱动。还要通过图像引用保持一致性。
 
 
-[Visit](https://thataicollection.com/redirect/ai-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-TopView.ai 改变了抖音、Reels、YouTube和推特等社交媒体视频制作的游戏规则。它使用人工智能来分析成功的广告，帮助用户制作脱颖而出的视频。其运作方式如下：你上传内容，描述你的想法，然后人工智能会推荐具有病毒价值的脚本。选择一个，AI 会将你的镜头编辑成一个引人入胜的故事。 
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-video-editor?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/thefluxtrain?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9758,6 +9758,22 @@ TopView.ai 改变了抖音、Reels、YouTube和推特等社交媒体视频制作
 ---
 
 ## 语音代理和电话机器人
+### Poly AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
+
+#### 客户主导的语音助手
+
+
+[Visit](https://thataicollection.com/redirect/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+始终如一地提供您最好的品牌体验，实现准确的解决方案并发现数据驱动的商机
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### VoAgents
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voagents.webp" alt="VoAgents">
 
@@ -9786,24 +9802,6 @@ VoAgents.ai 是一个先进的人工智能语音代理平台，旨在改变企�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/simplephones-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### nagish
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nagish.webp" alt="nagish">
-
-#### Nagish-最好的电话字幕应用程序
-
-
-
-[Visit](https://thataicollection.com/redirect/nagish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Nagish 为您的电话添加字幕，并允许您使用文字或语音通话。它快速、私密且免费。 
-Nagish 使用人工智能 (AI) 将文本实时转换为语音和语音转文本。我们的技术使您无需听力或说话即可轻松拨打和接听电话。相反，你可以打字和阅读。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/nagish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9840,6 +9838,24 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 <br />
 
 
+### nagish
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nagish.webp" alt="nagish">
+
+#### Nagish-最好的电话字幕应用程序
+
+
+
+[Visit](https://thataicollection.com/redirect/nagish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Nagish 为您的电话添加字幕，并允许您使用文字或语音通话。它快速、私密且免费。 
+Nagish 使用人工智能 (AI) 将文本实时转换为语音和语音转文本。我们的技术使您无需听力或说话即可轻松拨打和接听电话。相反，你可以打字和阅读。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/nagish?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Voice AI
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
 
@@ -9856,22 +9872,6 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 <br />
 
 
-### Poly AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
-
-#### 客户主导的语音助手
-
-
-[Visit](https://thataicollection.com/redirect/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-始终如一地提供您最好的品牌体验，实现准确的解决方案并发现数据驱动的商机
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/poly-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All ☎️ 语音代理和电话机器人 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/voice-agent-and-phone-bot?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -9880,6 +9880,38 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 ---
 
 ## 网页设计
+### welovenocode
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
+
+#### 聘请顶尖的无代码和低代码人才，以快速且经济实惠的方式构建您的网站
+
+
+[Visit](https://thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+与构建价值数百万美元产品的可靠、经过审查的专家合作
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### Designs AI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
+
+#### 使用 AI 创建徽标、视频、横幅、画外音
+
+
+[Visit](https://thataicollection.com/redirect/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Magician
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magician.webp" alt="Magician">
 
@@ -9896,18 +9928,19 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 <br />
 
 
-### welovenocode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
+### Linkrr
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
 
-#### 聘请顶尖的无代码和低代码人才，以快速且经济实惠的方式构建您的网站
-
-
-[Visit](https://thataicollection.com/redirect/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-与构建价值数百万美元产品的可靠、经过审查的专家合作
+#### Linkrr-用一个平台做所有事情！
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/ai-project-description-generator?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+
+Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短链接、可自定义的个人简历页面、二维码、Vcard共享、文件传输和HTML网站托管。功能包括分析、URL 缩短和自定义域名。定价计划可满足各种需求，确保有效的在线状态管理。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -9962,39 +9995,6 @@ Kopage AI 建站神器是一个白标平台，您可以在其中创建网站或�
 <br />
 
 
-### Linkrr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
-
-#### Linkrr-用一个平台做所有事情！
-
-
-[Visit](https://thataicollection.com/redirect/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-
-Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短链接、可自定义的个人简历页面、二维码、Vcard共享、文件传输和HTML网站托管。功能包括分析、URL 缩短和自定义域名。定价计划可满足各种需求，确保有效的在线状态管理。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/linkrr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Designs AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
-
-#### 使用 AI 创建徽标、视频、横幅、画外音
-
-
-[Visit](https://thataicollection.com/redirect/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-在 2 分钟内在线创建任何内容！使用 AI 制作徽标、视频、社交媒体横幅、名片、传单、模型等。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/designs-ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 [See All 🕸 网页设计 Applications on AI Collection](https://thataicollection.com/zh-CN/categories/web-design?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <!--lint ignore double-link-->
@@ -10003,57 +10003,6 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 ---
 
 ## 工作流程和自动化
-### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
-
-#### 只需几个简单的输入，即可从任何网站无缝提取数据。
-
-
-[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网站提取数据，而无需编写代码或管理复杂的脚本。通过利用大型语言模型，它简化了数据提取过程，使每个人都可以访问。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Hexowatch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
-
-#### 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。
-
-
-[Visit](https://thataicollection.com/redirect/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### airops
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
-
-#### Airops-推动增长的人工智能工作流程-使用 Airops Studio 创建、测试、部署和扩展人工智能应用程序。
-
-
-
-[Visit](https://thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-创建由 LLM 提供支持的工作流程、工具和聊天代理，让您的用户和团队感到高兴。从构思到生产，速度非常快。
-
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
 ### guidde
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
 
@@ -10087,6 +10036,22 @@ guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视
 <br />
 
 
+### WebscrapeAI
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+
+#### 使用 AI 在没有代码的情况下抓取任何网站
+
+
+[Visit](https://thataicollection.com/redirect/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从网络中提取数据。它是一个无代码抓取工具，不需要编程技能，包括那些技术知识有限的人。这个人工智能驱动的工具可以浏览网站，识别相关数据，并以 CSV、JSON 或 HTML 等结构化格式进行收集。 
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Sintra
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
 
@@ -10103,18 +10068,53 @@ guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视
 <br />
 
 
-### WebscrapeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+### Hexowatch
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
-#### 使用 AI 在没有代码的情况下抓取任何网站
-
-
-[Visit](https://thataicollection.com/redirect/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从网络中提取数据。它是一个无代码抓取工具，不需要编程技能，包括那些技术知识有限的人。这个人工智能驱动的工具可以浏览网站，识别相关数据，并以 CSV、JSON 或 HTML 等结构化格式进行收集。 
+#### 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。
 
 
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/webscrapeai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://thataicollection.com/redirect/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源代码、技术、可用性或价格变化。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/hexowatch?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### No-Code Scraper
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+
+#### 只需几个简单的输入，即可从任何网站无缝提取数据。
+
+
+[Visit](https://thataicollection.com/redirect/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网站提取数据，而无需编写代码或管理复杂的脚本。通过利用大型语言模型，它简化了数据提取过程，使每个人都可以访问。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/no-code-scraper?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
+### airops
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
+
+#### Airops-推动增长的人工智能工作流程-使用 Airops Studio 创建、测试、部署和扩展人工智能应用程序。
+
+
+
+[Visit](https://thataicollection.com/redirect/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+创建由 LLM 提供支持的工作流程、工具和聊天代理，让您的用户和团队感到高兴。从构思到生产，速度非常快。
+
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/airops?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
@@ -10159,6 +10159,22 @@ WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句�
 <br />
 
 
+### Smodin
+<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
+
+####  写作和家庭作业辅助产品
+
+
+[Visit](https://thataicollection.com/redirect/smodin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+Smodin 提供多合一的写作必备品。面向全球学生、作家和企业的写作和作业辅助产品有 50 多种语言的版本。主要工具包括人工智能作家（Smodin Author）、重写器、抄袭检查器、人工智能导师（Smodin Omni）和一对多翻译器。
+
+
+[More Information and Pricing](https://thataicollection.com/zh-CN/application/smodin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Rytr
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rytr.webp" alt="Rytr">
 
@@ -10173,22 +10189,6 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 
 
 [More Information and Pricing](https://thataicollection.com/zh-CN/application/rytr?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-<br />
-
-
-### Smodin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
-
-####  写作和家庭作业辅助产品
-
-
-[Visit](https://thataicollection.com/redirect/smodin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
-
-Smodin 提供多合一的写作必备品。面向全球学生、作家和企业的写作和作业辅助产品有 50 多种语言的版本。主要工具包括人工智能作家（Smodin Author）、重写器、抄袭检查器、人工智能导师（Smodin Omni）和一对多翻译器。
-
-
-[More Information and Pricing](https://thataicollection.com/zh-CN/application/smodin?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
