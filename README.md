@@ -4409,7 +4409,7 @@ Solvely is an all-in-one AI study tool: homework help, AI notes, flashcards, qui
 
 #### Image Translate AI - Instant Image Translate for 200+ Languages
 
-[Visit](https://thataicollection.com/redirect/imagetranslateai.org?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+[Visit](https://imagetranslateai.org/)
 
 Image Translate AI - Instant Image Translate for 200+ Languages
 
