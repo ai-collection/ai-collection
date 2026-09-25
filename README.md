@@ -3630,6 +3630,8 @@ FaceRate.ai offers a face attractiveness test, facial analysis, and golden ratio
 ### VideoWeb AI Face Rating
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
+- [Gemini Omni](https://gemini-omni.dev) - Cinema-grade text/image to video platform with native audio-visual sync.
+
 #### VideoWeb AI: Free Ultimate AI Video Suite for Marketers & Creators
 
 
