@@ -4529,11 +4529,17 @@ The specialized AI-assisted photo editing tool, offering professional photo edit
 
 ## Image Upscaler
 ### UpRes
+<img align="left" width="240" src="https://upres.ai/og-image.png" alt="UpRes">
+
 #### UpRes — AI Image and Video Upscaler up to 8K
+
 
 [Visit](https://upres.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 UpRes is a multi-model AI image and video upscaler supporting resolutions up to 8K. Features dedicated models for photos, portraits, illustrations, and videos, alongside a developer API, CLI, and MCP server for automated workflows.
+
+
+[More Information and Pricing](https://upres.ai/#pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
 
