@@ -3579,6 +3579,8 @@ Upload one photo for a private AI face analysis. Preview face shape, symmetry an
 ### VideoWeb AI Face Rating
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
+- [Gemini Omni](https://gemini-omni.dev) - Cinema-grade text/image to video platform with native audio-visual sync.
+
 #### VideoWeb AI: Free Ultimate AI Video Suite for Marketers & Creators
 
 
