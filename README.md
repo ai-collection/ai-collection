@@ -1145,6 +1145,22 @@ The possibilities are limitless, beb
 ---
 
 ## Agentic Coding
+### MySpec
+<img align="left" width="240" src="https://myspec.dev/og-image.png" alt="MySpec">
+
+#### MySpec: Collaborative Specification-Driven Development Platform
+
+
+[Visit](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=ai-collection)
+
+Web-based platform for authoring, reviewing, and managing software specifications, PRD contracts, and architectural blueprints for AI coding agents and engineering teams. Features bidirectional MCP server integration, live collaborative spec sessions, and schema validation.
+
+
+[More Information and Pricing](https://myspec.dev?utm_source=github&utm_medium=referral&utm_campaign=ai-collection#pricing)
+
+<br />
+
+
 ### Rainforest QA
 <img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
