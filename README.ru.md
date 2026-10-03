@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://thataicollection.com/img/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
@@ -182,7 +182,7 @@
 - ✍️ [Помощник по письму](#помощник-по-письму)
 ## Последние дополнения к коллекции AI
 ### Self-Hosted AI Stack
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
 
 #### Самостоятельное размещение локальных инструментов искусственного интеллекта, RAG, голосовой связи и MCP с помощью Docker Compose
 
@@ -198,7 +198,7 @@ Self-Hosted AI Stack — это платформа Docker Compose с откры�
 
 
 ### AIGoCode
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
 
 #### AigoCode — искусственный интеллект — внесен в коллекцию искусственного интеллекта
 
@@ -214,7 +214,7 @@ Self-Hosted AI Stack — это платформа Docker Compose с откры�
 
 
 ### ClartiyOne
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
 
 #### Приложение AI mental Clearity для переосмысления и упорядочивания мыслей
 
@@ -230,7 +230,7 @@ ClarityOne — это приложение на базе искусственн�
 
 
 ### MuseGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
 
 #### MuseGen - генератор музыки с искусственным интеллектом для 100% коммерчески используемых песен из текста, аудио или текстов песен.
 
@@ -249,7 +249,7 @@ MuseGen помогает авторам, маркетологам, разраб�
 
 
 ### Seply
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
 
 #### Разделение динамиков AI — разделение звука по динамикам | Ответить
 
@@ -265,7 +265,7 @@ MuseGen помогает авторам, маркетологам, разраб�
 
 
 ### UGCfy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
 
 #### Создавайте рекламу UGC с искусственным интеллектом по ссылкам на продукты, перечисленным в AI Collection
 
@@ -281,7 +281,7 @@ MuseGen помогает авторам, маркетологам, разраб�
 
 
 ### AI Product Photo
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
 
 #### Генератор фотографий продуктов AI для электронной коммерции | ФОТО ПРОДУКТА AI
 
@@ -297,7 +297,7 @@ MuseGen помогает авторам, маркетологам, разраб�
 
 ## Агенты искусственного интеллекта
 ### AI Agent Store
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
 
 #### AI Agent Store — лучшая торговая площадка агентов искусственного интеллекта для создателей и пользователей
 
@@ -313,7 +313,7 @@ AI Agent Store — это место, где компании находят р�
 
 
 ### BrainSoup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
 #### Создайте команду по искусственному интеллекту, которая будет работать для вас на вашем ПК
 
@@ -329,7 +329,7 @@ BrainSoup — это нативный клиент с несколькими а�
 
 
 ### NexusGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
 
 #### NexusGPT — создавайте агенты искусственного интеллекта за считанные минуты без программирования.
 
@@ -349,7 +349,7 @@ NexusGPT позволяет любому создавать, настраива�
 
 
 ### AICamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
 #### ChatGPT для команд
 AICamp позволяет командам централизовать доступ к ведущим моделям искусственного интеллекта, таким как Claude, Bard, и пользовательским крупноязычным моделям с помощью унифицированной платформы. 
@@ -367,7 +367,7 @@ AICamp позволяет командам централизовать дост
 
 
 ### Opencord AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
 
 #### Контент для социальных сетей, созданный агентами искусственного интеллекта
 
@@ -383,7 +383,7 @@ AICamp позволяет командам централизовать дост
 
 
 ### Genspark.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
 
 #### Genspark — это движок AI Agent, в котором специализированные агенты ИИ проводят исследования и создают собственные страницы под названием Sparkpages. 
 
@@ -399,7 +399,7 @@ AICamp позволяет командам централизовать дост
 
 
 ### ImmersimAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
 
 #### Захватывающая сюжетная ролевая игра в любом мире и с кем угодно.
 
@@ -426,7 +426,7 @@ Immersim AI — это иммерсивная и основанная на по�
 
 ## Искусственное искусство и иллюстрация
 ### Canvora
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creativepixel.webp" alt="Canvora">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creativepixel.webp" alt="Canvora">
 
 #### Творческая студия на базе искусственного интеллекта, которая превращает «невозможное» в «выполненное за считанные секунды».
 
@@ -446,7 +446,7 @@ CreativePixel — это платформа, которая превращает
 
 
 ### Creative Fabrica
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
 
 #### Первый инструмент искусственного интеллекта для создания собственных пользовательских шрифтов и загрузки их в устанавливаемом формате на Mac и Windows
 
@@ -464,7 +464,7 @@ CreativePixel — это платформа, которая превращает
 
 
 ### Picture to Drawing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
 
 #### Ощутите магию преобразования фотографий в эскизы с помощью искусственного интеллекта. Превратите любое изображение в рисунок, используя аутентичные художественные стили и невероятную сохранность деталей.
 
@@ -480,7 +480,7 @@ Picture to Drawing — это усовершенствованная платф�
 
 
 ### AnimeGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
 
 #### Лучший генератор аниме с искусственным интеллектом для создания потрясающих изображений с искусственным интеллектом для людей со всего мира.
 
@@ -496,7 +496,7 @@ AnimeGenius — это бесплатный генератор аниме с и�
 
 
 ### Ink AI - Tattoo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
 
 #### InKai — это генератор татуировок на базе искусственного интеллекта, который создает персонализированные дизайны татуировок на основе пользовательского ввода.
 
@@ -515,7 +515,7 @@ AnimeGenius — это бесплатный генератор аниме с и�
 
 
 ### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
 #### APOB.AI - искусственный интеллект создателя | Персонализированный портрет искусственного интеллекта | Изображения и видео с искусственным интеллектом
 
@@ -531,7 +531,7 @@ APOB AI предоставляет услуги по созданию изобр
 
 
 ### Republiclabs.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
 
 #### Republiclabs.ai — народная платформа GenAI!
 
@@ -555,7 +555,7 @@ Republiclabs.ai — это платформа на базе искусствен
 
 ## Детектор и гуманизатор искусственного интеллекта
 ### WriteHuman
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
 
 #### WriteHuman: необнаруживаемый искусственный интеллект и гуманизатор искусственного интеллекта
 
@@ -573,7 +573,7 @@ WriteHuman: превращайте текст искусственного ин�
 
 
 ### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
 
 #### Используйте наш бесплатный детектор контента AI для анализа текста и определения того, был ли он создан искусственным интеллектом или нет. Инструмент AI Checker, 100% бесплатный и навсегда.
 
@@ -589,7 +589,7 @@ AI Content Detector от Leap AI — это ваш незаменимый инс
 
 
 ### ZeroGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
 
 #### ZeroGPT — самый надежный и точный детектор искусственного интеллекта для обнаружения текста, сгенерированного ChatGPT.
 
@@ -605,7 +605,7 @@ AI Content Detector от Leap AI — это ваш незаменимый инс
 
 
 ### aiundetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
 #### Инструмент для письма с искусственным интеллектом Freemium Undetectable, который обходит детекторы искусственного интеллекта
 
@@ -622,7 +622,7 @@ AI Content Detector от Leap AI — это ваш незаменимый инс
 
 
 ### HumanizeAI.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
 
 #### Преобразуйте текст, созданный искусственным интеллектом, в текст, похожий на человека, с помощью Humanize
 
@@ -638,7 +638,7 @@ Humanize AI превращает текст, созданный искусств
 
 
 ### GPT-Zero
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
 
 #### GPT Zero — бесплатный детектор контента с искусственным интеллектом для ChatGPT, GPT-4 и других приложений
 
@@ -654,7 +654,7 @@ Humanize AI превращает текст, созданный искусств
 
 
 ### Tweet Detective
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
 
 #### AI Text Detection for X улучшает работу с Твиттером, выявляя и анализируя контент, созданный искусственным интеллектом.
 
@@ -684,7 +684,7 @@ Humanize AI превращает текст, созданный искусств
 
 ## Генератор песен и музыки с искусственным интеллектом
 ### BeatViz Ai Music Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
 
 #### BeatViz | Генератор музыкальных видео с искусственным интеллектом для музыкантов
 
@@ -700,7 +700,7 @@ BeatViz AI: универсальный генератор музыки и вид
 
 
 ### Aiva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Aiva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiva.webp" alt="Aiva">
 
 #### AIVA - Искусственный интеллект, сочиняющий эмоциональный саундтрек
 
@@ -717,7 +717,7 @@ BeatViz AI: универсальный генератор музыки и вид
 
 
 ### AI Lyrics Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
 
 #### Автор песен с искусственным интеллектом - Этих текстов не существует
 
@@ -733,7 +733,7 @@ BeatViz AI: универсальный генератор музыки и вид
 
 
 ### Amazing AI Radio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
 
 #### Amazing AI Radio | Слушайте музыку, созданную искусственным интеллектом, находите новых исполнителей, изучайте чарты и загружайте собственные треки на Amazing AI Radio.
 
@@ -750,7 +750,7 @@ BeatViz AI: универсальный генератор музыки и вид
 
 
 ### Emergent Drums
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
 #### Создавайте уникальные барабанные сэмплы с помощью искусственного интеллекта
 
@@ -766,7 +766,7 @@ BeatViz AI: универсальный генератор музыки и вид
 
 
 ### Amadeus Code
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
 
 #### Amadeus Code — компания, создавшая Evoke Music, топ-лайн Amadeus, MusicTGA-HR
 
@@ -784,7 +784,7 @@ Amadeus Topline — это приложение для сочинения муз
 
 
 ### audjust.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
 
 #### Audjust AI - аудиоредактор и генератор музыки с искусственным интеллектом: сокращайте песни, удлиняйте звук, находите циклы или создавайте музыку из текста
 
@@ -809,7 +809,7 @@ Audjust AI помогает редактировать существующие 
 
 ## Таро и гадание с искусственным интеллектом
 ### AI Lenormand
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
 
 #### Бесплатное онлайн-чтение карт Lenormand с интерпретацией на основе искусственного интеллекта. Изучите значения карт и изучите различные спреды.
 
@@ -825,7 +825,7 @@ Audjust AI помогает редактировать существующие 
 
 
 ### AI Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
 
 #### Бесплатное онлайн-чтение Таро с искусственным интеллектом - выберите свой читатель Таро с искусственным интеллектом
 
@@ -841,7 +841,7 @@ Audjust AI помогает редактировать существующие 
 
 
 ### Yes or No Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
 
 #### Да или нет | Бесплатное и точное чтение Таро с искусственным интеллектом
 
@@ -857,7 +857,7 @@ Audjust AI помогает редактировать существующие 
 
 
 ### TaroTeller
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
 
 #### Taroteller - веб-сайт, использующий технологию искусственного интеллекта для чтения карт Таро
 
@@ -873,7 +873,7 @@ TaroTeller стремится предоставить бесплатное чт
 
 
 ### Quin-AI Tarot Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
 
 #### Спросите Куина о чем угодно. Ваш личный читатель Таро с искусственным интеллектом. ✨
 
@@ -889,7 +889,7 @@ Quin — это революционное приложение для таро 
 
 
 ### SINE AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
 
 #### Откройте себя с помощью Sine AI: астрология, Таро и не только
 
@@ -905,7 +905,7 @@ Sine AI предлагает путешествие в самопознание 
 
 
 ### Tarot Card Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
 
 #### Искусство карт Таро: персонализированный генератор изображений карт Таро
 
@@ -929,7 +929,7 @@ Sine AI предлагает путешествие в самопознание 
 
 ## Бухгалтерский учет и финансы
 ### MoneyCoach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
 #### MoneyCoach - современное приложение для управления капиталом и бюджетирования
 
@@ -947,7 +947,7 @@ MoneyCoach — это приложение для личных финансов,
 
 
 ### Eilla
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eilla.webp" alt="Eilla">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eilla.webp" alt="Eilla">
 
 #### Eilla — платформа искусственного интеллекта для управления процессами слияний и поглощений, венчурного капитала и прямых инвестиций.
 
@@ -963,7 +963,7 @@ MoneyCoach — это приложение для личных финансов,
 
 
 ### Mrgn
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mrgn.webp" alt="Mrgn">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mrgn.webp" alt="Mrgn">
 
 #### MRGN - интеллектуальное программное обеспечение для бюджетирования и планирования малого бизнеса
 
@@ -981,7 +981,7 @@ MoneyCoach — это приложение для личных финансов,
 
 
 ### Jinnee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jinnee.webp" alt="Jinnee">
 
 #### Джинни — ваш виртуальный ассистент в сфере финансовых технологий
 
@@ -997,7 +997,7 @@ MoneyCoach — это приложение для личных финансов,
 
 
 ### GooseAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gooseai.webp" alt="GooseAI">
 
 #### Gooseai — прекратите переплачивать за инфраструктуру искусственного интеллекта.
 
@@ -1013,7 +1013,7 @@ GooseAI — это полностью управляемый сервис NLP к
 
 
 ### StockGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
 
 #### поисковая система с искусственным интеллектом
 
@@ -1029,7 +1029,7 @@ StockGPT — это поисковая система на базе искусс
 
 
 ### BeeBee AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
 #### BeeBee.AI разработан специально для фондового рынка США и предназначен для долгосрочных инвесторов, которые в основном сосредоточены на фундаментальном анализе и ценят данные и информацию.
 
@@ -1055,7 +1055,7 @@ StockGPT — это поисковая система на базе искусс
 
 ## Генератор рекламных креативов
 ### RMIQ Ads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
 
 #### Ваша универсальная рекламная платформа для розничной торговли
 
@@ -1071,7 +1071,7 @@ RMIQ связывает вас с рекламным пространством 
 
 
 ### Beb AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
 
 #### Beb.Ai - получайте бесконечное количество креативного контента для своего бренда
 
@@ -1093,7 +1093,7 @@ RMIQ связывает вас с рекламным пространством 
 
 
 ### Post Parrot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
 
 #### Post Parrot — бесплатный маркетинговый инструмент для Reddit
 
@@ -1110,7 +1110,7 @@ RMIQ связывает вас с рекламным пространством 
 
 
 ### Persuva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-persuva.webp" alt="Persuva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-persuva.webp" alt="Persuva">
 
 #### Persuva — это платформа на базе искусственного интеллекта для масштабного создания убедительных рекламных текстов с высокой конверсией
 
@@ -1126,7 +1126,7 @@ Persuva — это платформа, основанная на искусст�
 
 
 ### ThumbnailCreator.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
 
 #### ThumbnailCreator.com - создатель миниатюр YouTube с искусственным интеллектом
 
@@ -1142,7 +1142,7 @@ Persuva — это платформа, основанная на искусст�
 
 
 ### Creatify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
 
 #### Создавайте короткие видеообъявления из любого URL-адреса продукта. 
 
@@ -1159,7 +1159,7 @@ Creatify — это передовое решение на основе иску
 
 
 ### Jot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jot.webp" alt="Jot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jot.webp" alt="Jot">
 
 #### Jot – копия объявления AI
 
@@ -1183,7 +1183,7 @@ Jot автоматически генерирует для вас бесконе
 
 ## Агентское кодирование
 ### NeuralTrust
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
 
 #### NeuralTrust | Платформа для искусственного интеллекта и безопасности агентов
 
@@ -1199,7 +1199,7 @@ Jot автоматически генерирует для вас бесконе
 
 
 ### TestSprite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-testsprite.webp" alt="TestSprite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-testsprite.webp" alt="TestSprite">
 
 #### Первый полностью автономный комплексный агент тестирования ИИ
 
@@ -1215,7 +1215,7 @@ TestSprite — это полностью автономный агент тес�
 
 
 ### Wan2.7 AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
 
 #### Wan 2.7 | Бесплатный генератор видео Wan онлайн
 
@@ -1231,7 +1231,7 @@ TestSprite — это полностью автономный агент тес�
 
 
 ### automatic crud api + ui generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-automatic-crud-api-+-ui-generator.webp" alt="automatic crud api + ui generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-automatic-crud-api-%2B-ui-generator.webp" alt="automatic crud api + ui generator">
 
 #### GitHub — саморазвивающиеся среды выполнения и развитие: мгновенно создавайте полноценные панели администратора, API и пользовательский интерфейс на основе схемы базы данных на основе агентов искусственного интеллекта и LLM и надейтесь в будущем на саморазв
 
@@ -1247,7 +1247,7 @@ TestSprite — это полностью автономный агент тес�
 
 
 ### Metatron
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-metatron.webp" alt="Metatron">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-metatron.webp" alt="Metatron">
 
 #### null
 
@@ -1263,7 +1263,7 @@ null
 
 
 ### Rainforest QA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
 #### Простая автоматизация тестирования для команд SaaS, которые хотят быстро поставлять продукцию
 
@@ -1279,7 +1279,7 @@ Rainforest QA — это платформа автоматизации тест�
 
 
 ### AgentStamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
 
 #### AgentStamp — доверие, проверенное. Одна строка кода.
 
@@ -1303,7 +1303,7 @@ Rainforest QA — это платформа автоматизации тест�
 
 ## Анимация и 3D-моделирование
 ### Make3D
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make3d.webp" alt="Make3D">
 
 #### Make3D - сделайте свое изображение трехмерным
             
@@ -1322,7 +1322,7 @@ Rainforest QA — это платформа автоматизации тест�
 
 
 ### Blimey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blimey.webp" alt="Blimey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blimey.webp" alt="Blimey">
 
 #### Blimey — ОТ ВООБРАЖЕНИЯ К ОБРАЗУ ЗА СЧИТАННЫЕ МИНУТЫ
 
@@ -1338,7 +1338,7 @@ Blimey — это генератор изображений с искусств�
 
 
 ### Kaedim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kaedim.webp" alt="Kaedim">
 
 #### Волшебное создание пользовательских 3D-моделей за считанные минуты
 
@@ -1354,7 +1354,7 @@ Blimey — это генератор изображений с искусств�
 
 
 ### plask
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-plask.webp" alt="plask">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-plask.webp" alt="plask">
 
 #### Plask Motion: инструмент анимации Mocap на базе искусственного интеллекта
 
@@ -1372,7 +1372,7 @@ Plask предлагает искусственный захват движен�
 
 
 ### Meshy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
 
 #### null
 
@@ -1388,7 +1388,7 @@ null
 
 
 ### Neuralframes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
 #### Neural Frames — откройте для себя синтезатор для визуального мира.
 
@@ -1405,7 +1405,7 @@ Neural Frames — генератор анимации с искусственн�
 
 
 ### Tripo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tripo.webp" alt="Tripo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tripo.webp" alt="Tripo">
 
 #### Создавайте 3D-модели AI из изображений и текстов.
 
@@ -1429,7 +1429,7 @@ TRIPO — это модель генеративного фундамента, �
 
 ## Архитектура и дизайн интерьера
 ### Dimensions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
 #### Размеры — быстро создавайте визуальные концепции с помощью ИИ
 
@@ -1445,7 +1445,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Deft
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deft_.webp" alt="Deft">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deft_.webp" alt="Deft">
 
 #### Deft Imagine — рестайлинг дома за 10 секунд или меньше. Вдохновение, дизайн интерьера, постановка и многое другое.
 
@@ -1463,7 +1463,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Interior AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
 #### Interior Ai: идеи дизайна интерьера, вдохновение и приложение для виртуальной постановки с использованием искусственного интеллекта
 
@@ -1479,7 +1479,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Image Computer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-computer.webp" alt="Image Computer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### Создайте свой следующий дизайн интерьера / панорамирование / модную коллекцию / концепт-арт
 
@@ -1495,7 +1495,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Oda Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
 #### Oda Moodboard • Oda Studio - Выберите свой стиль и цвет, чтобы персонализировать свой дом за считанные секунды с помощью искусственного интеллекта.
 
@@ -1512,7 +1512,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Coolaiid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
 
 #### Coolaiid - измените дизайн интерьера с помощью искусственного интеллекта
 
@@ -1528,7 +1528,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### AI Room Planner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
 
 #### Дизайн интерьера от AI
 
@@ -1552,7 +1552,7 @@ TRIPO — это модель генеративного фундамента, �
 
 ## Усилитель звука и удаление вокала
 ### Assemblyai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
 
 #### Платформа API №1 для моделей ИИ
 
@@ -1568,7 +1568,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Adobe Speech Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
 #### Улучшайте голосовые записи бесплатно
 
@@ -1584,7 +1584,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### NOISE REMOVER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
 
 #### Бесплатный инструмент для удаления фонового шума - AI Noise Remover
 
@@ -1600,7 +1600,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Audio Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
 
 #### Audio Enhancer - усилитель звука с искусственным интеллектом для музыкантов, подкастов, интервью и многого другого.
 
@@ -1617,7 +1617,7 @@ TRIPO — это модель генеративного фундамента, �
 
 
 ### Cleanvoice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
 
 #### Избавьтесь от слов-паразитов из ваших аудиозаписей
 
@@ -1633,7 +1633,7 @@ Cleanvoice — это искусственный интеллект, котор�
 
 
 ### Adobe Mic Check
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
 
 #### Adobe Mic Check — проверьте свой микрофон бесплатно
 
@@ -1650,7 +1650,7 @@ Cleanvoice — это искусственный интеллект, котор�
 
 
 ### Krisp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-krisp.webp" alt="Krisp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-krisp.webp" alt="Krisp">
 
 #### Приложение для шумоподавления №1 в мире - Krisp
 
@@ -1674,7 +1674,7 @@ Cleanvoice — это искусственный интеллект, котор�
 
 ## Аватары
 ### Real Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
 
 #### Создавайте реалистичные фотографии себя и близких с помощью искусственного интеллекта
 
@@ -1692,7 +1692,7 @@ Cleanvoice — это искусственный интеллект, котор�
 
 
 ### Avtrs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
 #### Аватары, созданные счастливыми пользователями
 
@@ -1708,7 +1708,7 @@ Cleanvoice — это искусственный интеллект, котор�
 
 
 ### Vana
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vana.webp" alt="Vana">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vana.webp" alt="Vana">
 
 #### Создайте цифрового двойника, узнайте, кто вы есть на самом деле, используйте его в приложениях и познакомьтесь с технологиями будущего. 
 
@@ -1724,7 +1724,7 @@ Vana позволяет создать мини-« вы», используя в
 
 
 ### aiselfi.es
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
 
 #### Создавайте изображения профиля, созданные искусственным интеллектом, быстро и легко. Используйте наш инструмент для создания бесплатных персонализированных изображений профиля с искусственным интеллектом за считанные минуты. Попробуйте → aiselfi.es
 
@@ -1742,7 +1742,7 @@ Aiselfi.es — это инновационная платформа, котор�
 
 
 ### HairstyleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
 #### Попробуйте новые прически с помощью искусственного интеллекта
 
@@ -1758,7 +1758,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### CustomQR AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
 
 #### Сервис генерации QR-кода для бизнеса
 
@@ -1774,7 +1774,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
 #### Создайте свои собственные фотореалистичные аватары с искусственным интеллектом
 
@@ -1798,7 +1798,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 ## Средство для удаления фона
 ### Mokker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mokker.webp" alt="Mokker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mokker.webp" alt="Mokker">
 
 #### Mokker AI - мгновенная замена фона AI
 
@@ -1816,7 +1816,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Zoomscape
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
 
 #### Zoomscape.ai
 
@@ -1832,7 +1832,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Stillgram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stillgram.webp" alt="Stillgram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stillgram.webp" alt="Stillgram">
 
 #### Стиллграм™ - А.И. Приложение Travel Photo Camera для iPhone®
 
@@ -1848,7 +1848,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### img-cut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-img-cut.webp" alt="img-cut">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-img-cut.webp" alt="img-cut">
 
 #### Лучшее решение на основе искусственного интеллекта для удаления фона — точное, безопасное и бесплатное
 
@@ -1864,7 +1864,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### ImageColorizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
 
 #### Colorize - мобильное приложение для iOS и Android
 
@@ -1880,7 +1880,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Pixian
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixian.webp" alt="Pixian">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pixian.webp" alt="Pixian">
 
 #### Удалить фоновое изображение, бесплатно HD, без регистрации - Pixian.AI
 
@@ -1896,7 +1896,7 @@ HairstyleAI позволяет виртуально опробовать нов�
 
 
 ### Green Screen AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
 
 #### Измените фон любого изображения с помощью ИИ.
 
@@ -1920,7 +1920,7 @@ Green Screen AI — это веселый и простой способ пре�
 
 ## Автор книг и романов
 ### StoryBee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
 #### StoryBee — это платформа, на которой пользователи могут создавать истории с помощью искусственного интеллекта.
 
@@ -1936,7 +1936,7 @@ StoryBee — это платформа на базе искусственног�
 
 
 ### Fable Fiesta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
 
 #### Fable Fiesta, ваш творческий соавтор искусственного интеллекта
 
@@ -1952,7 +1952,7 @@ Fable Fiesta — это помощник по творческому письм�
 
 
 ### Sudowrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
 
 #### Преодолейте писательский кризис и проявите творческий подход с нашим волшебным искусственным интеллектом.
 
@@ -1968,7 +1968,7 @@ Fable Fiesta — это помощник по творческому письм�
 
 
 ### Scene One
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
 #### Онлайн-приложение для написания книг для романов, рассказов и бизнеса
 
@@ -1985,7 +1985,7 @@ Fable Fiesta — это помощник по творческому письм�
 
 
 ### AI-story-Generator site
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
 
 #### Этот инструмент поможет вам создавать отличные истории
 
@@ -2001,7 +2001,7 @@ AI Story Generator — это бесплатный онлайн-инструме
 
 
 ### Perchance AI Story
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
 
 #### Perchance AI Story — это веб-сайт, который поддерживает несколько языков и может продолжать писать истории
 
@@ -2017,7 +2017,7 @@ Perchance AI Story — это инновационная платформа, п�
 
 
 ### Storywizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storywizard.webp" alt="Storywizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storywizard.webp" alt="Storywizard">
 
 #### Storywizard.ai - Создавайте невероятные детские истории в кратчайшие сроки с помощью ИИ
 
@@ -2041,7 +2041,7 @@ Storywizard использует искусственный интеллект, 
 
 ## CRM и данные клиентов
 ### Foundy.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
 
 #### Продавайте свой бизнес по более высокой цене или находите качественные приобретения с помощью искусственного интеллекта и экспертной поддержки Foundy.
 
@@ -2057,7 +2057,7 @@ Foundy.com — первая платформа с поддержкой иску�
 
 
 ### forms.app
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-forms-app.webp" alt="forms.app">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-forms-app.webp" alt="forms.app">
 
 #### Онлайн-приложение для создания форм, которое позволяет пользователям создавать любые типы форм, опросов и викторин. 
 
@@ -2074,7 +2074,7 @@ forms.app — это удобная платформа, которая позв�
 
 
 ### Oliv AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
 
 #### Позвольте Oliv помогать вам проводить исследования, делать заметки и обновлять CRM после каждого звонка, чтобы вы могли сосредоточиться на победном разговоре!
 
@@ -2090,7 +2090,7 @@ Oliv — помощник по продажам на базе искусстве
 
 
 ### Skydis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-skydis.webp" alt="Skydis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-skydis.webp" alt="Skydis">
 
 #### Skydis — самый простой конструктор чат-ботов с искусственным интеллектом для веб-сайтов. Он помогает компаниям привлекать посетителей, привлекать потенциальных клиентов и обеспечивать круглосуточную поддержку клиентов.
 
@@ -2106,7 +2106,7 @@ Skydis — это мощная платформа чат-ботов с иску�
 
 
 ### WAPlus - WhatsApp CRM
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
 
 #### WhatsApp CRM, интеграция CRM, управление контактами, производительность, расписание сообщений, автоматический ответ, AI ChatBot, AI Translator
 WAPlus CRM: повысьте производительность в WhatsApp
@@ -2128,7 +2128,7 @@ WAPlus — это универсальная CRM-система WhatsApp, пов
 
 
 ### REI BlackBook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
 
 #### REI BlackBook: ваше комплексное решение для инвестирования в недвижимость
 
@@ -2150,7 +2150,7 @@ REI Black Book, универсальная платформа, созданна�
 
 
 ### Ctrl
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrl.webp" alt="Ctrl">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrl.webp" alt="Ctrl">
 
 #### Современный пользовательский интерфейс для ваших сложных рабочих процессов CRM
 
@@ -2174,7 +2174,7 @@ REI Black Book, универсальная платформа, созданна�
 
 ## Чат-бот
 ### HammerAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hammerai.webp" alt="HammerAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hammerai.webp" alt="HammerAI">
 
 #### Общайтесь с ролевыми персонажами с искусственным интеллектом, которые запускаются локально в вашем браузере или в настольном приложении — на 100% бесплатно и полностью конфиденциально.
 
@@ -2191,7 +2191,7 @@ REI Black Book, универсальная платформа, созданна�
 
 
 ### My AskAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
 #### Создайте помощника с искусственным интеллектом быстрее, чем нужно для приготовления кофе
 
@@ -2207,7 +2207,7 @@ REI Black Book, универсальная платформа, созданна�
 
 
 ### HUMATA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humata.webp" alt="HUMATA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humata.webp" alt="HUMATA">
 
 #### Humata - ChatGPT для ваших файлов данных. Спрашивать быстрее, чем просматривать.
 
@@ -2223,7 +2223,7 @@ REI Black Book, универсальная платформа, созданна�
 
 
 ### Chatbase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
 #### Настраиваемый чат GPT
 для ваших данных — создайте чат-бота с искусственным интеллектом, обученного вашим данным
@@ -2240,7 +2240,7 @@ REI Black Book, универсальная платформа, созданна�
 
 
 ### Chatsimple
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
 
 #### Бизнес-чат-бот ChatGPT стал проще для вас
 
@@ -2256,7 +2256,7 @@ ChatSimple — это платформа, которая специализир�
 
 
 ### Owlbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-owlbot.webp" alt="Owlbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-owlbot.webp" alt="Owlbot">
 
 #### Owlbot предлагает передовую службу чат-ботов на базе искусственного интеллекта, которая легко интегрируется с вашими данными и мгновенно отвечает вам, вашим клиентам или вашей команде. 
 
@@ -2272,7 +2272,7 @@ Owlbot — один из самых настраиваемых чат-ботов
 
 
 ### Albus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-albus.webp" alt="Albus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-albus.webp" alt="Albus">
 
 #### Альбомы - чат GPT теперь в Slack | Springworks
 
@@ -2296,7 +2296,7 @@ Albus — платформа искусственного интеллекта, 
 
 ## помощник по программированию
 ### CodeWP
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
 #### CodeWP — Генератор кода и помощник WordPress с искусственным интеллектом
 
@@ -2312,7 +2312,7 @@ CodeWP — это генератор кода WordPress, который испо
 
 
 ### Interview Solver
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
 
 #### Проводите интервью по программированию в реальном времени с нашим помощником по искусственному интеллекту
 
@@ -2330,7 +2330,7 @@ Interview Solver — это второй пилот с искусственны�
 
 
 ### ExplainDev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
 
 #### ОбъяснениеDev — Объяснитель кода, который отвечает на ваши вопросы в контексте
 
@@ -2346,7 +2346,7 @@ Interview Solver — это второй пилот с искусственны�
 
 
 ### JustCopy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
 
 #### justcopy.ai — агенты искусственного интеллекта, которые можно копировать, настраивать и развертывать менее чем за 2 минуты без какой-либо настройки
 
@@ -2362,7 +2362,7 @@ JustCopy.ai позволяет любому перейти от идеи к ре
 
 
 ### Dynamiq
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
 
 #### Операционная платформа для приложений GenAI
 
@@ -2378,7 +2378,7 @@ Dynamiq — это платформа, созданная для инженер�
 
 
 ### Swimm AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
 #### Ваша сверхмощная документация по коду
 
@@ -2394,7 +2394,7 @@ Dynamiq — это платформа, созданная для инженер�
 
 
 ### Qodo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codiumai.webp" alt="Qodo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codiumai.webp" alt="Qodo">
 
 #### Значимые тесты для занятых разработчиков
 
@@ -2418,7 +2418,7 @@ CodiumAI анализирует ваш код и создает содержат
 
 ## Генерация контента и SEO
 ### Taskade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-taskade.webp" alt="Taskade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-taskade.webp" alt="Taskade">
 
 #### Второй мозг для вас и вашей команды. Пять инструментов на базе ИИ в одном для повышения производительности вашей команды. С Taskade вся ваша работа синхронизируется в едином рабочем пространстве.
 
@@ -2434,7 +2434,7 @@ Taskade — это первый инструмент для написания �
 
 
 ### XXAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xxai.webp" alt="XXAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-xxai.webp" alt="XXAI">
 
 #### XAI — первый второй пилот с искусственным интеллектом для GPT-4o и Claude 3.5
 
@@ -2450,7 +2450,7 @@ Taskade — это первый инструмент для написания �
 
 
 ### Content Raptor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-karolina.webp" alt="Content Raptor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-karolina.webp" alt="Content Raptor">
 
 #### Лучший инструмент оптимизации контента на рынке — Content Raptor
 
@@ -2466,7 +2466,7 @@ Content Raptor — это мощный инструмент управления
 
 
 ### Everneed AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
 
 #### Создавайте лучший контент с меньшими усилиями.
 
@@ -2484,7 +2484,7 @@ Everneed AI — это универсальная платформа для пр
 
 
 ### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storychief.webp" alt="StoryChief">
 
 #### Создавайте успешные контент-стратегии с помощью аналитики на основе данных и искусственного интеллекта. 
 
@@ -2501,7 +2501,7 @@ StoryChief позволяет вам разрабатывать эффектив
 
 
 ### The Humanize Ai Pro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
 
 #### The Humanize Ai — превращайте контент, созданный искусственным интеллектом, в текст, написанный людьми
 
@@ -2517,7 +2517,7 @@ Humanize AI превращает роботизированный текст, с
 
 
 ### BurstyAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
 
 #### Персонализированный искусственный интеллект для 10-кратного роста: автоматизирует написание текстов, поисковую оптимизацию и работу с общественностью
 
@@ -2543,7 +2543,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 ## Генератор сопроводительных писем
 ### Cover Letter AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
 
 #### Сопроводительное письмо AI
 
@@ -2559,7 +2559,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### resumator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumator.webp" alt="resumator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumator.webp" alt="resumator">
 
 #### Ищу работу? Мы вас прикрыли.
 
@@ -2575,7 +2575,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### Coverletterwrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
 
 #### Сопроводительное письмо Написать
 
@@ -2591,7 +2591,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### Writemeacoverletter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
 
 #### Напишите мне сопроводительное письмо
 
@@ -2607,7 +2607,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### Your Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
 
 #### Конструктор сопроводительных писем с искусственным интеллектом — загрузите свое резюме, чтобы начать
 
@@ -2623,7 +2623,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
 #### Индивидуальные сопроводительные письма к каждой вакансии за считанные секунды
 
@@ -2639,7 +2639,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 
 ### AI Rental Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
 
 #### 🏡 Sharehouse — бесплатный поиск соседей по дому с сопроводительным письмом по аренде на базе искусственного интеллекта ⚡️
 Выделитесь из толпы с помощью сопроводительного письма на базе искусственного интеллекта
@@ -2666,7 +2666,7 @@ BurstyAI — это платформа, предлагающая инструм�
 
 ## Служба поддержки
 ### Chat Data
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chat-data.webp" alt="Chat Data">
 
 #### Настраиваемый чат-бот с искусственным интеллектом, работающий круглосуточно и без выходных
 
@@ -2688,7 +2688,7 @@ Chat Data — это платформа чат-ботов с искусстве�
 
 
 ### MotionShot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-motionshot.webp" alt="MotionShot">
 
 #### Создавайте привлекательные пошаговые руководства для ваших продуктов и клиентов
 
@@ -2704,7 +2704,7 @@ MotionShot помогает создавать информативные рук
 
 
 ### SiteSpeakAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
 #### Автоматизируйте поддержку клиентов с помощью ChatGPT.
 
@@ -2720,7 +2720,7 @@ MotionShot помогает создавать информативные рук
 
 
 ### FastBots.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
 
 #### FastBots.ai: ваш путь к интеллектуальной автоматизации
 
@@ -2736,7 +2736,7 @@ MotionShot помогает создавать информативные рук
 
 
 ### chtrbx
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jake-b.webp" alt="chtrbx">
 
 #### Chtrbx: революционизируйте обслуживание клиентов с помощью аналитики на основе искусственного интеллекта
 
@@ -2752,7 +2752,7 @@ Chtrbx — это чат-платформа с искусственным инт
 
 
 ### Chaindesk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
 
 #### Платформа разговорных агентов без кода с открытым исходным кодом на основе ваших данных.
 
@@ -2768,7 +2768,7 @@ Chaindesk — это полноценная экосистема поддерж�
 
 
 ### Rosie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rosie.webp" alt="Rosie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rosie.webp" alt="Rosie">
 
 #### Rosie — это служба автоответчика с искусственным интеллектом для малого и среднего бизнеса.
 
@@ -2796,7 +2796,7 @@ Rosie идеально подходит для поставщиков услуг
 
 ## Анализ данных
 ### LLM-Powered Invoice & Receipt Extractor (OSS)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
 
 #### Экстрактор счетов и чеков на базе LLM (OSS)
 
@@ -2814,7 +2814,7 @@ Rosie идеально подходит для поставщиков услуг
 
 
 ### AutoPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
 #### Автопрогноз - предскажите, как долго прослужит ваш автомобиль
 
@@ -2830,7 +2830,7 @@ AutoPredict — первое приложение, использующее ис
 
 
 ### Genius Sheets
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
 #### Genius Sheets — БИЗНЕС-АНАЛИТИКА ИЗ БУДУЩЕГО
 Аналитика данных на основе искусственного интеллекта
@@ -2851,7 +2851,7 @@ Enterprise Security — создан в соответствии с корпор
 
 
 ### DetangleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
 
 #### Обобщите любой подкаст, электронное письмо, юридический документ, книгу и многое другое, чтобы вы могли
 сосредоточьтесь на том, что важно.
@@ -2868,7 +2868,7 @@ Enterprise Security — создан в соответствии с корпор
 
 
 ### Decile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-decile.webp" alt="Decile">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-decile.webp" alt="Decile">
 
 #### Получите необходимые данные, спросив.
 
@@ -2884,7 +2884,7 @@ Enterprise Security — создан в соответствии с корпор
 
 
 ### NewsDeck from OneSub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
 
 #### Newsdeck — ежедневно находите, фильтруйте и анализируйте тысячи статей.
 
@@ -2902,7 +2902,7 @@ NewsDeck использует возможности интеллектуаль�
 
 
 ### SummerEyes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
 
 #### Summereyes: сводки на основе искусственного интеллекта в вашем браузере
 
@@ -2926,7 +2926,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 ## Помощник по базам данных и SQL
 ### Scale
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scale.webp" alt="Scale">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scale.webp" alt="Scale">
 
 #### Scale Ai: используйте свои данные в генеративном искусственном интеллекте
 
@@ -2942,7 +2942,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 
 ### Code Language Converter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
 
 #### Преобразователь языка кода — конвертируйте код в другие языки с помощью ИИ.
 
@@ -2958,7 +2958,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 
 ### AI SQL BOT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
 
 #### Конструктор SQL-запросов AI: самый простой способ создания SQL-запросов без предварительных знаний SQL - Конструктор SQL-запросов с использованием искусственного интеллекта
 
@@ -2975,7 +2975,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 
 ### QueryGenie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
 
 #### Пишите запросы к БД быстрее!
 
@@ -2991,7 +2991,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 
 ### DataLang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-datalang.webp" alt="DataLang">
 
 #### Создайте собственный ChatGPT с использованием баз данных и SQL
 
@@ -3007,7 +3007,7 @@ Summereyes - суммируйте любой текст в Интернете в
 
 
 ### Text2SQL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
 #### Text2Sql.Ai - генерируйте SQL-запросы с помощью AI бесплатно!
 
@@ -3024,7 +3024,7 @@ TEXT-TO-SQL: переводите простой английский язык �
 
 
 ### ai2sql
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
 
 #### Конструктор SQL-запросов - ИИ-бот для создания SQL-запросов
 
@@ -3048,7 +3048,7 @@ TEXT-TO-SQL: переводите простой английский язык �
 
 ## Профиль знакомств и линия самовывоза
 ### HotConvo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
 
 #### Spark Romance - получите веселые, остроумные и сексуальные предложения в чате для ваших онлайн-знакомств.
 
@@ -3064,7 +3064,7 @@ TEXT-TO-SQL: переводите простой английский язык �
 
 
 ### LoveGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
 
 #### Создавайте броские и привлекающие внимание биографии знакомств и находите лучшие совпадения в Tinder, Bumble и других сервисах!
 
@@ -3080,7 +3080,7 @@ LoveGenius — это помощник для знакомств с искусс
 
 
 ### WingmanX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
 
 #### Ассистент знакомств с искусственным интеллектом WingManx - лучшие линии пикапа Rizz
 
@@ -3096,7 +3096,7 @@ LoveGenius — это помощник для знакомств с искусс
 
 
 ### OneDateIdea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
 
 #### Получите идею для одного свидания! OnedateIdea.com — источник вдохновения, гарантирующий, что ваше свидание не будет скучным или типичным.
 
@@ -3112,7 +3112,7 @@ OneDateIdea — идеальное решение для всех, кто ста
 
 
 ### TinderProfile AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
 
 #### AI Photoshoot Generator для знакомств
 
@@ -3128,7 +3128,7 @@ TinderProfile.ai использует ИИ для анализа селфи и �
 
 
 ### Dating Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
 
 #### Получайте больше совпадений с помощью лучших фотографий для свиданий
 
@@ -3144,7 +3144,7 @@ Dating Photo AI — это сервис, управляемый искусств
 
 
 ### Roast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roast.webp" alt="Roast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roast.webp" alt="Roast">
 
 #### AI-анализ профиля приложения для знакомств - AI-генератор для фотосессии
 
@@ -3168,7 +3168,7 @@ ROAST помогает людям в 10 раз увеличить количе�
 
 ## Электронная торговля
 ### Wizishop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wizishop.webp" alt="Wizishop">
 
 #### РАЗВИВАЙТЕ СВОЙ БИЗНЕС С ПОМОЩЬЮ ЭЛЕКТРОННОЙ КОММЕРЦИИ
 
@@ -3184,7 +3184,7 @@ WiziShop делает электронную коммерцию на основ�
 
 
 ### Embolden
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-embolden.webp" alt="Embolden">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-embolden.webp" alt="Embolden">
 
 #### Используйте ИИ для написания текстов для электронной коммерции.
 
@@ -3200,7 +3200,7 @@ Embolden использует искусственный интеллект, ч�
 
 
 ### CopyMonkey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
 
 #### Ваш эксперт по оптимизации листинга Amazon на базе искусственного интеллекта
 
@@ -3216,7 +3216,7 @@ CopyMonkey генерирует и оптимизирует списки Amazon 
 
 
 ### unbounce
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbounce.webp" alt="unbounce">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unbounce.webp" alt="unbounce">
 
 #### Умные маркетинговые инструменты для развития вашего бизнеса
 
@@ -3232,7 +3232,7 @@ CopyMonkey генерирует и оптимизирует списки Amazon 
 
 
 ### Prems Ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
 
 #### Prems Air 🔔 📉🚨 Уведомления о снижении цен и пополнении запасов
 
@@ -3250,7 +3250,7 @@ CopyMonkey генерирует и оптимизирует списки Amazon 
 
 
 ### Zust AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
 
 #### Идеальная платформа искусственного интеллекта для фотосъемки продуктов
 
@@ -3266,7 +3266,7 @@ CopyMonkey генерирует и оптимизирует списки Amazon 
 
 
 ### DoMyShoot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
 
 #### DoMyShoot — упрощенная фотосъемка товаров
 
@@ -3290,7 +3290,7 @@ CopyMonkey генерирует и оптимизирует списки Amazon 
 
 ## Помощник по электронной почте
 ### Intellimail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-intellimail.webp" alt="Intellimail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-intellimail.webp" alt="Intellimail">
 
 #### Ваш личный помощник по электронной почте
 
@@ -3306,7 +3306,7 @@ IntelliMail — это расширение для Chrome, которое ген
 
 
 ### Ellie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ellie.webp" alt="Ellie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ellie.webp" alt="Ellie">
 
 #### Элли — ваш помощник по работе с электронной почтой с искусственным интеллектом
 
@@ -3322,7 +3322,7 @@ IntelliMail — это расширение для Chrome, которое ген
 
 
 ### DraftLab
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-draftlab.webp" alt="DraftLab">
 
 #### DraftLab AI: пишите более качественные электронные письма быстрее с помощью ИИ
 
@@ -3338,7 +3338,7 @@ IntelliMail — это расширение для Chrome, которое ген
 
 
 ### Rapidreply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
 
 #### Быстрый ответ - помощник электронной почты с искусственным интеллектом
 
@@ -3354,7 +3354,7 @@ IntelliMail — это расширение для Chrome, которое ген
 
 
 ### Remail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-remail.webp" alt="Remail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-remail.webp" alt="Remail">
 
 #### Пишите электронные письма в 10 раз быстрее
 
@@ -3370,7 +3370,7 @@ Remail — это расширение Chrome для Gmail, которое ис�
 
 
 ### AImReply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aimreply.webp" alt="AImReply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aimreply.webp" alt="AImReply">
 
 #### Ваш идеальный помощник по электронной почте с искусственным интеллектом. Повысьте эффективность работы с электронной почтой с помощью интеллектуальной автоматизации. Позвольте AimReply анализировать и улучшать ваши ответы по электронной почте, экономя ваше
 
@@ -3388,7 +3388,7 @@ AimReply может сыграть решающую роль в оптимиза
 
 
 ### EmailTriager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
 
 #### EmailTriager · Электронная почта на автопилоте.
 
@@ -3412,7 +3412,7 @@ AimReply может сыграть решающую роль в оптимиза
 
 ## Маркетинг по электронной почте
 ### Quicklines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quicklines.webp" alt="Quicklines">
 
 #### Пожизненный доступ к Quicklines — всего $59
 
@@ -3428,7 +3428,7 @@ Quicklines – это ваш новый помощник на базе иску
 
 
 ### Mailsplash AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
 
 #### Mailsplash обеспечивает оптимальный и удобный электронный маркетинг без высоких затрат.
 
@@ -3446,7 +3446,7 @@ Mailsplash — ваш специалист по маркетингу элект�
 
 
 ### GetResponse
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getresponse.webp" alt="GetResponse">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getresponse.webp" alt="GetResponse">
 
 #### GetResponse — профессиональный электронный маркетинг для всех
 
@@ -3462,7 +3462,7 @@ Mailsplash — ваш специалист по маркетингу элект�
 
 
 ### Warmy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-warmy.webp" alt="Warmy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-warmy.webp" alt="Warmy">
 
 #### Warmy: революция в доставляемости электронной почты с помощью Email Warm Up
 
@@ -3478,7 +3478,7 @@ Mailsplash — ваш специалист по маркетингу элект�
 
 
 ### SalesStream.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
 
 #### Самый простой в мире конструктор кампаний по электронной почте и SMS для владельцев малого бизнеса
 
@@ -3494,7 +3494,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Hoppy Copy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
 
 #### Hoppy Copy: Платформа для копирайтинга по электронной почте с искусственным интеллектом
 
@@ -3510,7 +3510,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Smartwriter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
 #### Создавайте тысячи персонализированных электронных писем, которые принесут вам в 8 раз больше ответов за считанные минуты с помощью ИИ.
 
@@ -3534,7 +3534,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 ## Развлечения и новинки
 ### MemeGenAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
 
 #### Этот совершенно бесплатный инструмент искусственного интеллекта помогает пользователям создавать персонализированные мемы в формате gif. Они могут делиться своими работами с друзьями и семьями, а получатель может использовать этот мем, чтобы создать новый 
 
@@ -3550,7 +3550,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Ask RBG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
 #### Что сказал бы РБГ (вероятно)?
 
@@ -3566,7 +3566,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Langame card game
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
 
 #### Созданная искусственным интеллектом карточная игра для общения с друзьями и семьей
 
@@ -3582,7 +3582,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dreamgen%3A-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
 #### DreamGen: ролевые игры с искусственным интеллектом и написание рассказа
 
@@ -3600,7 +3600,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Philosophy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
 #### Спросите философа
 
@@ -3616,7 +3616,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Creative QR codes using AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
 #### Превратите свою ссылку в художественный QR-код с помощью искусственного интеллекта и увеличьте конверсию
 
@@ -3632,7 +3632,7 @@ Reach from SalesStream.ai — один из лучших инструменто�
 
 
 ### Pet Booth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
 #### Pet Booth — это сервис для создания собственных портретов, иллюстраций и фотографий домашних животных с искусственным интеллектом. Просто загрузите 10-20 фотографий своей кошки или собаки и выберите из более чем 80 тем, в которые можно превратить их.
 
@@ -3662,7 +3662,7 @@ Pet Booth — это сервис для создания собственных
 
 ## Рейтинг лица и красоты
 ### Face Analysis Attractiveness
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
 
 #### Анализ лица на предмет привлекательности: понимание красоты с помощью технологий
 
@@ -3678,7 +3678,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### How Attractive am I
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
 
 #### Насколько я привлекательна - тест на оценку красоты с искусственным интеллектом [обновление 2026]
 
@@ -3694,7 +3694,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
 #### Анализатор лица с искусственным интеллектом и калькулятор оценки красоты
 
@@ -3710,7 +3710,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### AI Attractiveness Test
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
 
 #### «Тест привлекательности искусственного интеллекта: оценка 
 привлекательность вашего лица»
@@ -3730,7 +3730,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### VideoWeb AI Face Rating
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
 #### Бесплатный универсальный онлайн-инструмент для обработки видео и изображений с искусственным интеллектом - VideoWeb AI
 
@@ -3746,7 +3746,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### FaceRate.ai: Face Attractiveness Test and Analysis Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
 
 #### Проверьте свое лицо с помощью нашего оценщика лица, чтобы узнать свой показатель привлекательности и получить научные рекомендации по улучшению ваших черт лица.
 
@@ -3762,7 +3762,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### Glowup AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
 
 #### Узнайте, насколько вы красивы с помощью Glowup AI. Наш инструмент служит вашим персональным путеводителем по красоте с искусственным интеллектом. 
 
@@ -3786,7 +3786,7 @@ Pet Booth — это сервис для создания собственных
 
 ## Мода
 ### Outfit Changer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
 
 #### Искусственный интеллект для смены одежды | Искусственный интеллект для всех | Виртуальная примерка | Ваш виртуальный гардероб ждет вас | Смена одежды с искусственным интеллектом | outfitchanger.com
 
@@ -3802,7 +3802,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### Visualhound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-visualhound.webp" alt="Visualhound">
 
 #### VisualHound — прототипируйте свои идеи дизайна одежды с помощью ИИ
 
@@ -3818,7 +3818,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### LooksMax AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
 #### Looksmax AI анализирует вашу внешность и делится советами по самосовершенствованию, разработанными искусственным интеллектом, которые помогут вам повысить уверенность в себе и самооценку. 
 
@@ -3836,7 +3836,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### Outfit Anyone AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
 #### AI Outfit Anyone — простая виртуальная примерка для любого стиля
 
@@ -3852,7 +3852,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### HuHu AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
 
 #### HuHu AI — от фотографий одежды до потрясающих модных моделей
 
@@ -3868,7 +3868,7 @@ Pet Booth — это сервис для создания собственных
 
 
 ### FashionAdvisorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
 
 #### FashionAdvisor.AI — задавайте вопросы и получайте ответы от FashionAdvisor.AI
 
@@ -3884,7 +3884,7 @@ FashionAdvisor — это искусственный интеллект, осн�
 
 
 ### SwagAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
 #### Украсьте свой скучный гардероб с помощью
 Сувениры, созданные искусственным интеллектом.
@@ -3910,7 +3910,7 @@ SwagAI — изображения, созданные искусственным
 
 ## Игры
 ### Chess AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
 #### Betafish — объединение AlphaZero и Stockfish.
 
@@ -3926,7 +3926,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### hidden door
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
 #### Привет, миры!
 
@@ -3942,7 +3942,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### GGPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
 
 #### Тренируйтесь умнее. Ранг вверх быстрее.
 
@@ -3958,7 +3958,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### charisma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-charisma.webp" alt="charisma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-charisma.webp" alt="charisma">
 
 #### Мощные цифровые люди в реальном времени
 
@@ -3974,7 +3974,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Assetsai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assetsai.webp" alt="Assetsai">
 
 #### УНИКАЛЬНЫЕ И ОБЕСПЕЧЕННЫЕ АКТИВЫ ДЛЯ ВАШИХ ИГР
 
@@ -3990,7 +3990,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Scenario
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scenario.webp" alt="Scenario">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scenario.webp" alt="Scenario">
 
 #### Сценарий
 
@@ -4006,7 +4006,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### latitude
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-latitude.webp" alt="latitude">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-latitude.webp" alt="latitude">
 
 #### Будущее игр, созданных искусственным интеллектом
 
@@ -4030,7 +4030,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 ## Идеи и рекомендации для подарков
 ### Gifts Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
 
 #### Genie - Генератор подарков с искусственным интеллектом
 
@@ -4046,7 +4046,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Text2present
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2present.webp" alt="Text2present">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2present.webp" alt="Text2present">
 
 #### text2present.com - Креативные подарки от занятых людей.
 
@@ -4062,7 +4062,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Lovelines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovelines.webp" alt="Lovelines">
 
 #### Lovelines.xyz - Поделись своей любовью с подарками на память, сделанными искусственным интеллектом
 
@@ -4078,7 +4078,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### GiftBot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftbot.webp" alt="GiftBot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftbot.webp" alt="GiftBot">
 
 ####  Получить помощь в виде подарка
 
@@ -4094,7 +4094,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### Giftastic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
 #### Giftastic.ai - Идеальный подарок для вашего особенного!
 
@@ -4110,7 +4110,7 @@ Betafish — это шахматный движок и ИИ-искатель х�
 
 
 ### ColorBliss
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
 
 #### ColorBliss — это инструмент на базе искусственного интеллекта, который позволяет создавать, сохранять и распечатывать уникальные пользовательские раскраски с помощью текстовых подсказок, конвертируя фотографии и даже собственные фотографии.
 
@@ -4136,7 +4136,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 
 ### Outdone V2
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
 
 #### Найдите идеальный подарок за считанные минуты или меньше
 
@@ -4160,7 +4160,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 ## Генератор выстрелов в голову
 ### Free AI Headshot Generator | Supawork AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-headshot-generator-|-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-headshot-generator-%7C-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
 
 #### Бесплатный генератор хедшотов с искусственным интеллектом | Supawork AI (без регистрации)
 
@@ -4176,7 +4176,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 
 ### ImageArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imageart.webp" alt="ImageArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imageart.webp" alt="ImageArt">
 
 #### ImageArt - Генератор хедшотов Imagine AI
 
@@ -4192,7 +4192,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 
 ### Headpix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-headpix.webp" alt="Headpix">
 
 #### Headpix | Хедшоты, созданные искусственным интеллектом, — будущее портретов
 
@@ -4209,7 +4209,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 
 ### The Multiverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
 #### Превратите свои селфи в профессиональные хедшоты
 
@@ -4225,7 +4225,7 @@ ColorBliss позволяет создать любую раскраску, ка
 
 
 ### Fulgent AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
 #### Fulgent AI | Самый современный генератор хедшотов с искусственным интеллектом 
 
@@ -4241,7 +4241,7 @@ Fulgent AI использует новейшие технологии, чтоб�
 
 
 ### Executive Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
 
 #### Executive Headshots — обновите свои профессиональные профили уже сегодня
 
@@ -4257,7 +4257,7 @@ Executive Headshots разработан специально для руков�
 
 
 ### BetterPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
 #### BetterPic — снимки головы студийного качества в формате 4K по цене от 29 долларов менее чем за 60 минут.
 
@@ -4281,7 +4281,7 @@ Executive Headshots разработан специально для руков�
 
 ## Здравоохранение
 ### Calisthenics Workout Plan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
 
 #### Получите персонализированные тренировки на базе искусственного интеллекта, соответствующие вашему уровню физической подготовки и целям.
 
@@ -4297,7 +4297,7 @@ Executive Headshots разработан специально для руков�
 
 
 ### Well Me Right
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
 
 #### AI Health-coaching: обратитесь к ведущим мировым экспертам по оздоровлению и получите консультацию по видеосвязи
 
@@ -4315,7 +4315,7 @@ AI Matching: познакомьтесь с проверенными экспер
 
 
 ### Kallo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kallo.webp" alt="Kallo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kallo.webp" alt="Kallo">
 
 #### Инструмент для совместной работы с несколькими LLM, попробуйте инструмент искусственного интеллекта
 
@@ -4331,7 +4331,7 @@ Kallo — это инструмент GenAI с несколькими LLM, с п
 
 
 ### Medidex Connect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
 
 #### Medidex Connect — круглосуточный онлайн-чат для фармацевтов
 
@@ -4349,7 +4349,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Getactyv
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getactyv.webp" alt="Getactyv">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getactyv.webp" alt="Getactyv">
 
 #### Getactyv - Платформа для здоровья и фитнеса с искусственным интеллектом и компьютерным зрением
 
@@ -4365,7 +4365,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Ubie AI Symptom Checker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
 
 #### Проверьте симптомы и найдите причины с помощью ИИ
 
@@ -4381,7 +4381,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### S10.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
 
 #### Медицинский писец с искусственным интеллектом для всех сотрудников и специальностей
 
@@ -4406,7 +4406,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 ## Помощник по выполнению домашних заданий и эссе
 ### AssignmentGPT AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
 
 #### AssignmentGPT AI — это новый революционный веб-сайт с инструментами для письма, который предоставляет пользователям мощный помощник по написанию на базе искусственного интеллекта.
 
@@ -4428,7 +4428,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Caktus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caktus.webp" alt="Caktus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-caktus.webp" alt="Caktus">
 
 #### Caktus AI — ЛУЧШИЙ В СВОЕМ КЛАССЕ ПОМОЩНИК ПО ИСКУССТВЕННОМУ ИНТЕЛЛЕКТУ ДЛЯ УЧАЩИХСЯ
 
@@ -4445,7 +4445,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### AIQuizGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
 
 #### Генератор викторин и вопросов с искусственным интеллектом: создавайте разнообразные высококачественные тесты за считанные минуты. Наш генератор викторин с искусственным интеллектом обеспечивает последовательные, персонализированные и безошибочные оценки, п
 
@@ -4462,7 +4462,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Myess
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myess.webp" alt="Myess">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myess.webp" alt="Myess">
 
 #### myEssai — репетитор по написанию эссе на основе искусственного интеллекта
 
@@ -4478,7 +4478,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
 
 #### Teacherbot — инструмент, которого заслуживает каждый учитель
 
@@ -4494,7 +4494,7 @@ Medidex Connect — это чат-бот с искусственным инте�
 
 
 ### Solvely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-solvely.webp" alt="Solvely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-solvely.webp" alt="Solvely">
 
 #### Solvely AI помогает учащимся решать домашние задания, предоставляя пошаговые объяснения по таким предметам, как математика, естественные науки, гуманитарные науки и экономика, что упрощает и повышает эффективность обучения.
 
@@ -4510,7 +4510,7 @@ Solvely AI — это помощник в обучении, который по�
 
 
 ### SopCreator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
 
 #### Создайте свое заявление о целях с помощью искусственного интеллекта
 
@@ -4534,7 +4534,7 @@ SopCreator.com — это платформа с поддержкой искус�
 
 ## Редактирование изображений
 ### PicTools.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
 
 #### Легко создавайте и редактируйте изображения с помощью инструментов искусственного интеллекта
 
@@ -4550,7 +4550,7 @@ PicTools AI предоставляет мощные инструменты ис�
 
 
 ### Stabledojo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
 
 #### Первая фотостудия с искусственным интеллектом
 
@@ -4566,7 +4566,7 @@ PicTools AI предоставляет мощные инструменты ис�
 
 
 ### AI Photos Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
 
 #### Редактор фотографий AI - создавайте реалистичные фотографии с помощью искусственного интеллекта
 
@@ -4588,7 +4588,7 @@ PicTools AI предоставляет мощные инструменты ис�
 
 
 ### Fotor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor.webp" alt="Fotor">
 
 #### Fotor — онлайн-редактор фотографий для всех. Редактируйте фотографии быстрее и проще с помощью искусственного интеллекта.
 
@@ -4607,7 +4607,7 @@ PicTools AI предоставляет мощные инструменты ис�
 
 
 ### ProductScope AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
 
 #### ProductScope AI предлагает брендам и маркетологам электронной коммерции два основных инструмента: инструмент для фотосъемки продуктов с искусственным интеллектом и оптимизатор объявлений.
 
@@ -4624,7 +4624,7 @@ AI Product Photoshoot позволяет брендам без труда соз
 
 
 ### AVCLabs PhotoPro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
 
 #### Редактор фотографий с искусственным интеллектом: улучшите все возможности редактирования фотографий | AVCLabs
 
@@ -4642,7 +4642,7 @@ AI Product Photoshoot позволяет брендам без труда соз
 
 
 ### Unrealme
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unrealme.webp" alt="Unrealme">
 
 #### Unreal Me - Получите изображения, сгенерированные AI
 
@@ -4666,7 +4666,7 @@ AI Product Photoshoot позволяет брендам без труда соз
 
 ## Апскейлер изображений
 ### AI Image Enlarger
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
 
 #### Увеличивайте и улучшайте изображения с помощью AI Image Enlarger
 
@@ -4682,7 +4682,7 @@ AI Product Photoshoot позволяет брендам без труда соз
 
 
 ### BigJpg
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
 
 #### Bigjpg - инструмент для увеличения/масштабирования изображений AI в сверхвысоком разрешении без потерь с использованием глубоких сверточных нейронных сетей
 
@@ -4698,7 +4698,7 @@ Bigjpg - сверхвысокое разрешение изображений д
 
 
 ### Waifu XL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
 
 #### Waifuxl обеспечивает современное масштабирование прямо в вашем браузере одним нажатием кнопки.
 
@@ -4714,7 +4714,7 @@ Waifuxl обеспечивает современное масштабирова
 
 
 ### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
 #### AVClabs AI Photo Enhancer: легко улучшайте качество фотографий с помощью искусственного интеллекта 
 
@@ -4731,7 +4731,7 @@ Waifuxl обеспечивает современное масштабирова
 
 
 ### HitPaw Online Photo Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
 #### Размытие изображений и попрощайтесь с некачественными фотографиями.
 
@@ -4747,7 +4747,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### AVC AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
 
 #### Онлайн-улучшитель изображения с искусственным интеллектом, который улучшает качество фотографий за счет масштабирования, шумоподавления, восстановления, уточнения лица и т. д.
 
@@ -4763,7 +4763,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Imgupscaler
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
 
 #### Интеллектуальное масштабирование изображений PNG / JPG
 
@@ -4787,7 +4787,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 ## Вариация изображения в изображение
 ### Photo to Anime
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
 #### Аниме-фильтр с искусственным интеллектом, ориентированный на конфиденциальность, для хранителей памяти
 
@@ -4807,7 +4807,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### AI Anime Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
 
 #### Конвертер фотографий в аниме: фильтр аниме с искусственным интеллектом онлайн
 
@@ -4823,7 +4823,7 @@ HitPaw Online AI Photo Enhancer использует передовую техн
 
 
 ### Raphael AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
 
 #### Raphael AI - бесплатный неограниченный генератор изображений AI
 
@@ -4839,7 +4839,7 @@ Raphael AI — это бесплатный неограниченный гене
 
 
 ### Image to Image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
 
 #### Искусственный интеллект для преобразования изображений в изображение - генератор и редактор изображений AI онлайн
 
@@ -4855,7 +4855,7 @@ Raphael AI — это бесплатный неограниченный гене
 
 
 ### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
 
 #### Создавайте высококачественные изображения за считанные секунды.
 
@@ -4871,7 +4871,7 @@ SDXL Turbo основан на новой технологии дистилля�
 
 
 ### Image to Image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
 
 #### Искусственный интеллект от изображения к изображению
 
@@ -4887,7 +4887,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 
 ### Simpedit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simpedit.webp" alt="Simpedit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simpedit.webp" alt="Simpedit">
 
 #### Simpedit — это мощный инструмент преобразования изображений, который позволяет пользователям легко применять модные стили к своим изображениям одним щелчком мыши.
 
@@ -4911,7 +4911,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 ## Анимация изображения в видео
 ### AnimateMyPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
 
 #### Бесплатный фотоаниматор с искусственным интеллектом для анимации фотографий в Интернете | AnimateMyPic
 
@@ -4927,7 +4927,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 
 ### Deep Nostalgia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
 
 #### Превратите семейные фотографии в анимированные видеоролики
 
@@ -4943,7 +4943,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 
 ### Ebsynth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
 
 #### Ebsynth - преобразуйте видео, рисуя поверх одного кадра
 
@@ -4959,7 +4959,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 
 ### AIKissfiy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
 
 #### Генератор поцелуев с искусственным интеллектом: создавайте видео о поцелуях онлайн - AikissFiy
 
@@ -4975,7 +4975,7 @@ Image to Image AI Generator — это бесплатный онлайн-ред�
 
 
 ### Deep Nostalgia AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
 
 #### Превратите старые фотографии в видео. Оживите изображение.
 
@@ -4992,7 +4992,7 @@ Deep Nostalgia AI — это модель мгновенного доступа,
 
 
 ### Seedance 3.0 AI Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
 
 #### Создавайте кинематографические видеоролики с искусственным интеллектом с помощью Seedance 3.0 — объединяйте ссылки на изображения, видео, аудио и текст в связанные сцены, готовые к производству. Нативное разрешение 4K, до 50 входов, без водяных знаков.
 
@@ -5008,7 +5008,7 @@ Seedance 3.0 — это мультимодальный генератор вид
 
 
 ### Kadapt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kadapt.webp" alt="Kadapt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kadapt.webp" alt="Kadapt">
 
 #### Размещение фотографий в, озвученные вертикальные барабаны — агент по катушкам с искусственным интеллектом для агентов по недвижимости.
 
@@ -5032,7 +5032,7 @@ Kadapt — это агент по продаже недвижимости с и�
 
 ## Подготовка к собеседованию
 ### Interviews Chat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
 
 #### Подготовка к собеседованию и второй пилот для поддержки в режиме реального времени.
 
@@ -5048,7 +5048,7 @@ Interviews Chat предлагает самые передовые инстру�
 
 
 ### Careerflow AI Mock Interview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
 #### Проведите предстоящие собеседования и повысьте свои навыки на собеседовании.
 
@@ -5064,7 +5064,7 @@ Interviews Chat предлагает самые передовые инстру�
 
 
 ### STAR Method Coach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
 
 #### Тренер по методу STAR научит вас овладеть поведенческими интервью с тренером по собеседованию по методу AI STAR.
 
@@ -5080,7 +5080,7 @@ Star Method Coach — это платформа для имитации инте
 
 
 ### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
 
 #### Генератор ответов на интервью с искусственным интеллектом — Ace ваше следующее интервью
 
@@ -5096,7 +5096,7 @@ Star Method Coach — это платформа для имитации инте
 
 
 ### Parakeet AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
 
 #### Parakeet AI предлагает помощь при проведении собеседований на основе ИИ в режиме реального времени, предоставляя мгновенные ответы и отраслевые рекомендации.
 
@@ -5113,7 +5113,7 @@ Parakeet AI помогает кандидатам на работу проход
 
 
 ### MIND-Interview AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
 
 #### Mind-interview — это передовая коучинговая платформа на базе искусственного интеллекта, призванная помочь пользователям преуспеть на собеседованиях.
 
@@ -5130,7 +5130,7 @@ Mind-interview — это платформа для обучения собес�
 
 
 ### AiInterview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
 
 #### Интервью с нулевой предвзятостью в первом раунде фильтрации
 
@@ -5154,7 +5154,7 @@ Mind-interview — это платформа для обучения собес�
 
 ## Изучение языка
 ### Lorro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lorro.webp" alt="Lorro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lorro.webp" alt="Lorro">
 
 #### Станьте свободно говорящим по-английски за небольшие деньги. Поговорив с репетитором по ИИ
 
@@ -5170,7 +5170,7 @@ Mind-interview — это платформа для обучения собес�
 
 
 ### DET Practice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-det-practice.webp" alt="DET Practice">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-det-practice.webp" alt="DET Practice">
 
 #### Практика DET — пройдите тест по английскому языку Duolingo
 
@@ -5186,7 +5186,7 @@ DET Practice (https://www.detpractice.com/) — это платформа на �
 
 
 ### TutorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
 #### Узнайте все, что угодно, выполнив поиск по нужной теме
 
@@ -5202,7 +5202,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 ### Speakingclubai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
 
 #### Разговорный клуб ИИ
 
@@ -5218,7 +5218,7 @@ TutoEAI Learn Anything — это поисковая система для из�
 
 
 ### ELSA SPEECH ANALYZER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
 #### Улучшайте свой английский по одному разговору за раз.
 
@@ -5234,7 +5234,7 @@ Speech Analyzer — это тренер по беглости разговорн
 
 
 ### Langotalk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langotalk.webp" alt="Langotalk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langotalk.webp" alt="Langotalk">
 
 #### Langotalk: изучайте языки в 6 раз быстрее с помощью искусственного интеллекта
 
@@ -5250,7 +5250,7 @@ Speech Analyzer — это тренер по беглости разговорн
 
 
 ### Lingostar
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lingostar.webp" alt="Lingostar">
 
 #### Lingostar - Реальные разговоры с искусственным интеллектом
 
@@ -5274,7 +5274,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 ## Юридический
 ### Compliance Quarter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
 #### Экспертные системы и ресурсы по соблюдению нормативных требований — квартал соответствия нормативным требованиям
 
@@ -5290,7 +5290,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### PatentPal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-patentpal.webp" alt="PatentPal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-patentpal.webp" alt="PatentPal">
 
 #### Генеративный ИИ для интеллектуальной собственности
 
@@ -5306,7 +5306,7 @@ Lingostar — это искусственный интеллект, с кото�
 
 
 ### CFRexplorer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
 
 #### CFR Explorer — задавайте искусственному интеллекту вопросы о CFRS
 
@@ -5322,7 +5322,7 @@ CFR Explorer — это приложение, в котором использу
 
 
 ### Spellbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-spellbook.webp" alt="Spellbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-spellbook.webp" alt="Spellbook">
 
 #### Составляйте контракты в 3 раза быстрее с помощью ИИ
 
@@ -5338,7 +5338,7 @@ CFR Explorer — это приложение, в котором использу
 
 
 ### ScoreDetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
 
 #### Обеспечьте будущее своего контента. Доверьтесь защите блокчейна.
 
@@ -5354,7 +5354,7 @@ CFR Explorer — это приложение, в котором использу
 
 
 ### DoNotPay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
 
 #### Первый в мире робот-адвокат
 
@@ -5370,7 +5370,7 @@ CFR Explorer — это приложение, в котором использу
 
 
 ### Paralegal AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
 
 #### Параюрист ИИ
 
@@ -5394,7 +5394,7 @@ CFR Explorer — это приложение, в котором использу
 
 ## Генератор логотипов
 ### AI Logo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
 
 #### Создание логотипов с точностью искусственного интеллекта: быстро, бесплатно и безупречно.
 
@@ -5410,7 +5410,7 @@ CFR Explorer — это приложение, в котором использу
 
 
 ### Zarla Logo Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
 
 #### Создайте бесплатный профессиональный логотип за считанные секунды! - для любого бизнеса или бренда с помощью простого и интуитивно понятного конструктора логотипов Zarla.
 
@@ -5426,7 +5426,7 @@ Zarla была создана для того, чтобы логотипы пр�
 
 
 ### Logo Rank
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
 
 #### Brandmark Logo Maker - самый передовой инструмент для разработки логотипов с искусственным интеллектом
 
@@ -5443,7 +5443,7 @@ Zarla была создана для того, чтобы логотипы пр�
 
 
 ### Text To Book Cover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
 #### Генерация изображений AI для команд. Вы можете легко создавать логотип AI, обложки книг AI, плакаты AI и многое другое - Stockimg AI
 
@@ -5459,7 +5459,7 @@ Zarla была создана для того, чтобы логотипы пр�
 
 
 ### Looka
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looka.webp" alt="Looka">
 
 #### Looka - дизайн логотипа и фирменный стиль для предпринимателей 
 
@@ -5477,7 +5477,7 @@ Zarla была создана для того, чтобы логотипы пр�
 
 
 ### MagiMaker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
 
 #### Простые, быстрые и доступные дизайнерские решения с использованием искусственного интеллекта для независимых креативщиков, включая обложки книг, обложки подкастов, логотипы и многое другое.
 
@@ -5497,7 +5497,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### Создайте логотип с помощью искусственного интеллекта - Logomakerr.AI сочетает ваши бизнес-идеи с логотипами, созданными искусственным интеллектом, всего за несколько кликов!
 
@@ -5522,7 +5522,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 ## Планировщик блюд и рецептов
 ### FoodAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foodai.webp" alt="FoodAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foodai.webp" alt="FoodAI">
 
 #### Foodai.App - Создавайте кулинарные рецепты с помощью Ai!
 
@@ -5538,7 +5538,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### Bite Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
 
 #### Bite Genie — ваш лучший помощник по рецептам с искусственным интеллектом
 
@@ -5554,7 +5554,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### AI Food Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
 
 #### Генератор еды с искусственным интеллектом — что приготовить сегодня? | Бесплатный генератор рецептов
 
@@ -5570,7 +5570,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### AI Recipe Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
 
 #### Генератор рецептов AI - мгновенно получайте уникальные и вкусные рецепты
 
@@ -5595,7 +5595,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 ## Помощник по встречам
 ### Jamie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jamie.webp" alt="Jamie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jamie.webp" alt="Jamie">
 
 #### Джейми — помощник по искусственному интеллекту для составления резюме встреч
 
@@ -5611,7 +5611,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### Wudpecker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### Wudpecker — это инструмент для встреч с искусственным интеллектом, который устанавливает новый стандарт по умолчанию для хранения информации о собраниях.
 Получайте сводки, действия и аналитическую информацию из Zoom, Google Meet и Microsoft Teams.
@@ -5634,7 +5634,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### Avoma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avoma.webp" alt="Avoma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avoma.webp" alt="Avoma">
 
 #### Ускорьте производительность своей команды и рост доходов компании
 
@@ -5650,7 +5650,7 @@ MagiMaker предоставляет индивидуальные дизайне
 
 
 ### Fireflies
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fireflies.webp" alt="Fireflies">
 
 #### Fireflies.Ai — автоматизируйте свою
 заметки о собраниях — блокнот и аналитика разговоров
@@ -5668,7 +5668,7 @@ Fireflies.ai помогает вашей команде записывать, т
 
 
 ### Graphic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
 #### Платформа совместной работы с поддержкой искусственного интеллекта для команд
 
@@ -5684,7 +5684,7 @@ Stork помогает командам улучшить коммуникаци�
 
 
 ### Supernormal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
 #### Supernormal — искусственный интеллект, который пишет заметки о ваших встречах
 
@@ -5702,7 +5702,7 @@ Supernormal делает заметки во время встречи и авт
 
 
 ### Fathom
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fathom.webp" alt="Fathom">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fathom.webp" alt="Fathom">
 
 #### Повысьте производительность с помощью
 собственный бесплатный помощник по организации встреч с искусственным интеллектом
@@ -5727,7 +5727,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 ## Конструктор мобильных приложений
 ### Anakin AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
 
 #### Создайте собственное приложение для искусственного интеллекта за одну минуту. Раскройте возможности искусственного интеллекта для своего бизнеса. Наш конструктор приложений с искусственным интеллектом, не требующий написания кода, позволяет создавать уника
 
@@ -5743,7 +5743,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Srcbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srcbook.webp" alt="Srcbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-srcbook.webp" alt="Srcbook">
 
 #### Srcbook — лучший онлайн-конструктор сайтов с искусственным интеллектом.
 
@@ -5761,7 +5761,7 @@ Fathom записывает, расшифровывает, выделяет и �
 
 
 ### Fuselio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fuselio.webp" alt="Fuselio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fuselio.webp" alt="Fuselio">
 
 #### Fuselio — это платформа быстрой разработки MVP для стартапов и малого и среднего бизнеса, позволяющая разрабатывать собственные мобильные и веб-приложения всего за 6 недель. 
 
@@ -5778,7 +5778,7 @@ Fuselio — инновационное агентство по разработ�
 
 
 ### Quickie Dev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
 
 #### Quickie.dev — приложение для отправки текстовых сообщений в Интернет за считанные минуты
 
@@ -5794,7 +5794,7 @@ Fuselio — инновационное агентство по разработ�
 
 
 ### SubPage
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-subpage.webp" alt="SubPage">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-subpage.webp" alt="SubPage">
 
 #### SubPage - конструктор страниц, создайте свою страницу, создайте свой сайт
 
@@ -5810,7 +5810,7 @@ SubPage помогает создавать целевые страницы, с�
 
 
 ### SinglebaseCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
 
 #### Серверная платформа на базе искусственного интеллекта с Vector DB, Document DB, Auth и другими функциями для ускорения разработки приложений.
 
@@ -5826,7 +5826,7 @@ SingleBaseCloud — это универсальная платформа «бэ�
 
 
 ### Keringit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keringit.webp" alt="Keringit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keringit.webp" alt="Keringit">
 
 #### Создавайте, тестируйте и запускайте продукты Onchain с помощью искусственного интеллекта
 
@@ -5852,7 +5852,7 @@ Keringit — это конструктор продуктов на базе ис
 
 ## Генератор имен, слоганов и имён
 ### namefinder AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
 
 #### Генератор доменных имен и бизнеса на базе искусственного интеллекта
 
@@ -5868,7 +5868,7 @@ Keringit — это конструктор продуктов на базе ис
 
 
 ### NameSnack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namesnack.webp" alt="NameSnack">
 
 #### Найдите идеальное название своей компании за считанные секунды с помощью нашего мощного генератора имен на основе искусственного интеллекта.
 
@@ -5884,7 +5884,7 @@ NameSnack сочетает в себе передовой искусственн
 
 
 ### Smarty Names
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
 
 #### Бесплатный креативный поиск доменных имен от AI Robots
 
@@ -5900,7 +5900,7 @@ NameSnack сочетает в себе передовой искусственн
 
 
 ### Travel Blog Name Ideas Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
 #### Генератор идей названий для блогов о путешествиях: найдите идеальное название для блога о путешествиях!
 
@@ -5916,7 +5916,7 @@ NameSnack сочетает в себе передовой искусственн
 
 
 ### Namelix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namelix.webp" alt="Namelix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namelix.webp" alt="Namelix">
 
 #### Генератор бизнес-названий — бесплатный инструмент для наименования на базе искусственного интеллекта — Namelix
 
@@ -5932,7 +5932,7 @@ NameSnack сочетает в себе передовой искусственн
 
 
 ### Podcast Name Generator by Podcast Rocket
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
 
 #### Найдите идеальное название для своего подкаста бесплатно с помощью искусственного интеллекта.
 
@@ -5950,7 +5950,7 @@ NameSnack сочетает в себе передовой искусственн
 
 
 ### Namewizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
 #### namewizard.ai — генератор доменных имен с искусственным интеллектом
 
@@ -5974,7 +5974,7 @@ namewizard — это генератор, который использует и
 
 ## Ведение заметок и «второй мозг»
 ### Fabric
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fabric.webp" alt="Fabric">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fabric.webp" alt="Fabric">
 
 #### Ваш второй мозг. Самоорганизующееся рабочее пространство и файловый менеджер будущего.
 
@@ -5990,7 +5990,7 @@ Fabric — это рабочее пространство на базе иску
 
 
 ### Ideamap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ideamap.webp" alt="Ideamap">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ideamap.webp" alt="Ideamap">
 
 #### Лучший инструмент визуального мозгового штурма на базе искусственного интеллекта
 
@@ -6006,7 +6006,7 @@ Ideamap — это новый визуальный способ мозговог
 
 
 ### Voxio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voxio.webp" alt="Voxio">
 
 #### Voxio: с легкостью превращайте свой голос в организованные заметки
 
@@ -6023,7 +6023,7 @@ Voxio — инновационное приложение, преобразую�
 
 
 ### MyMap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
 
 #### MyMap.AI PDF Summarizer — сэкономьте часы на обобщении длинных PDF-файлов в виде ментальной карты, PPT или контура с помощью искусственного интеллекта.
 
@@ -6039,7 +6039,7 @@ MyMap AI PDF Summarizer: ваше интеллектуальное решени�
 
 
 ### Beloga
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beloga.webp" alt="Beloga">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beloga.webp" alt="Beloga">
 
 #### Центр знаний на базе искусственного интеллекта для сбора, анализа и использования информации.
 
@@ -6055,7 +6055,7 @@ Beloga — это центр знаний на базе искусственно
 
 
 ### Whisper Memos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
 
 #### Whisper Memos — запишите голосовую заметку,
 получите ее по электронной почте.
@@ -6073,7 +6073,7 @@ Whisper Memos превращает ваши разговоры в статьи �
 
 
 ### Thegist
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thegist.webp" alt="Thegist">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thegist.webp" alt="Thegist">
 
 #### Искусственный интеллект тегистов резюмирует темы и каналы Slack — поймите суть
 
@@ -6097,7 +6097,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 ## Другое
 ### Coursebox
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coursebox.webp" alt="Coursebox">
 
 #### Создатель курсов искусственного интеллекта и система управления обучением
 
@@ -6113,7 +6113,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### Clipdrop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
 #### Создавайте потрясающие визуальные эффекты за считанные секунды
 
@@ -6129,7 +6129,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### IndexApps
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-indexapps.webp" alt="IndexApps">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-indexapps.webp" alt="IndexApps">
 
 #### IndexApps — разработка отличных приложений для искусственного интеллекта
 
@@ -6146,7 +6146,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### Gemma Guard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
 
 #### Gemma Guard — обнаружение фишинга на Android с помощью Gemma 4 на устройстве
 
@@ -6164,7 +6164,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### Tally Forms
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
 #### Самый простой способ создания форм
 
@@ -6180,7 +6180,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### Damn Good Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
 #### Ох уж эти чертовски хорошие инструменты
 Простые в использовании и интересные инструменты — бесплатные (и с открытым исходным кодом).
@@ -6198,7 +6198,7 @@ TheGist Workspace — все ваши рабочие приложения в о�
 
 
 ### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
 
 #### Шаблон Svelte 5 для быстрого создания приложений с искусственным интеллектом
 
@@ -6225,7 +6225,7 @@ SvelteLaunch — это не просто шаблон; это комплекс�
 
 ## Инструменты для работы с PDF-файлами и документами
 ### Free AI PDF Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
 
 #### Бесплатный PDF-ридер с искусственным интеллектом — более эффективный способ понять любой PDF-файл
 
@@ -6241,7 +6241,7 @@ SvelteLaunch — это не просто шаблон; это комплекс�
 
 
 ### PrismPoster
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
 
 #### PrismPoster — студия изображений, видео и музыки с искусственным интеллектом, полный спектр
 
@@ -6257,7 +6257,7 @@ SvelteLaunch — это не просто шаблон; это комплекс�
 
 
 ### SwifDoo PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
 
 #### SwifDoo PDF - универсальное программное обеспечение для работы с PDF-файлами
 Идеальное решение для ваших PDF-документов
@@ -6278,7 +6278,7 @@ SwifDoo PDF — молодая команда, основанная в 2017 го
 
 
 ### Filechat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-filechat.webp" alt="Filechat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-filechat.webp" alt="Filechat">
 
 #### Исследуйте документы с помощью искусственного интеллекта
 
@@ -6294,7 +6294,7 @@ Filechat — идеальный инструмент для изучения д�
 
 
 ### Bard PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
 
 #### Идеальный инструмент на базе искусственного интеллекта для суммирования и анализа PDF-документов
 
@@ -6310,7 +6310,7 @@ BARD PDF меняет подход к работе с PDF-файлами. Про
 
 
 ### SlideSpeak
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
 
 #### SlideSpeak — обобщайте PowerPoint, Word, PDF с помощью искусственного интеллекта
 
@@ -6326,7 +6326,7 @@ SlideSpeak — это чат-бот на базе ChatGPT, который поз
 
 
 ### PDF GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
 
 #### Загрузите любой PDF-файл и получите резюме, переводы, ответы и цитаты за считанные секунды. 
 
@@ -6353,7 +6353,7 @@ PDF GPT — инструмент, меняющий правила игры, ко
 
 ## Личностный рост и благополучие
 ### Ask Poppy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
 
 #### Poppylist - будь родителем, которым хочешь быть
 
@@ -6372,7 +6372,7 @@ PDF GPT — инструмент, меняющий правила игры, ко
 
 
 ### HelloScribe
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
 
 #### HelloScribe: ваш автономный движок рассуждений.
 
@@ -6391,7 +6391,7 @@ HelloScribe — это автономный движок рассуждений 
 
 
 ### Podwise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podwise.webp" alt="Podwise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podwise.webp" alt="Podwise">
 
 #### Podwise, ведущее приложение для обучения искусственному интеллекту для слушателей подкастов.
 
@@ -6407,7 +6407,7 @@ HelloScribe — это автономный движок рассуждений 
 
 
 ### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
 #### Предложение навыков на основе искусственного интеллекта
 
@@ -6423,7 +6423,7 @@ HelloScribe — это автономный движок рассуждений 
 
 
 ### RTutor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rtutor.webp" alt="RTutor">
 
 #### Общайтесь с вашими данными на десятках человеческих языков.
 
@@ -6439,7 +6439,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Kinestex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kinestex.webp" alt="Kinestex">
 
 #### Kinestex — тренируйтесь где угодно и когда угодно с вашим персональным тренером по искусственному интеллекту
 
@@ -6455,7 +6455,7 @@ RTutor использует мощную модель большого язык�
 
 
 ### Daydrm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-daydrm.webp" alt="Daydrm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-daydrm.webp" alt="Daydrm">
 
 #### Daydrm.Ai - инструменты искусственного интеллекта для творчества, стратегии и производства
 
@@ -6479,7 +6479,7 @@ RTutor использует мощную модель большого язык�
 
 ## Реставрация фотографий
 ### Photorestoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
 
 #### Реставрация старых фотографий онлайн - photorestoration.ai
 
@@ -6495,7 +6495,7 @@ VanceAI Photo Restorer помогает восстановить старые ф
 
 
 ### Palette
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palette.webp" alt="Palette">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-palette.webp" alt="Palette">
 
 #### Палитра - Раскрасить фотографии
 
@@ -6511,7 +6511,7 @@ VanceAI Photo Restorer помогает восстановить старые ф
 
 
 ### Free Restore Photos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
 
 #### null
 
@@ -6527,7 +6527,7 @@ null
 
 
 ### Colorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorize.webp" alt="Colorize">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorize.webp" alt="Colorize">
 
 #### Раскрашивайте фото с помощью глубокого обучения
 
@@ -6543,7 +6543,7 @@ null
 
 
 ### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgak---%E7%85%A7%E7%89%87ai%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7.webp" alt="Imgak - 照片AI修复工具">
 
 #### Imgak - Восстановление старых фотографий с помощью искусственного интеллекта для всех
 
@@ -6559,7 +6559,7 @@ null
 
 
 ### Old Photo Restoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
 
 #### Восстановите старые фотографии онлайн бесплатно за считанные секунды с помощью искусственного интеллекта
 
@@ -6575,7 +6575,7 @@ null
 
 
 ### jpghd
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jpghd.webp" alt="jpghd">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jpghd.webp" alt="jpghd">
 
 #### jpgHD - Восстановление старых фотографий без потерь с помощью ИИ
 
@@ -6599,7 +6599,7 @@ null
 
 ## Плагины и расширения
 ### SplashAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
 #### Splashai — это плагин Figma, поисковая система и генератор изображений AI.
 
@@ -6615,7 +6615,7 @@ SplashAI — это как помощник: он помогает быстро 
 
 
 ### Texti
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texti.webp" alt="Texti">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-texti.webp" alt="Texti">
 
 #### ИИ, живущий в вашем браузере!
 
@@ -6631,7 +6631,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### NSFW JS
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
 
 #### NSFW Js — проверка непристойного контента на стороне клиента.
 
@@ -6648,7 +6648,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### Autoname
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autoname.webp" alt="Autoname">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autoname.webp" alt="Autoname">
 
 #### Переименуйте все свои слои в один клик. Благодаря ИИ. Открытый источник
 
@@ -6664,7 +6664,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### AIduh
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
 #### AI-Responder для HostAway - AI Duh
 
@@ -6680,7 +6680,7 @@ Texti будет сотрудничать с вами, чтобы повысит
 
 
 ### All in One Accessibility
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
 
 #### Быстрое решение для обеспечения доступности веб-сайтов на базе искусственного интеллекта!
 
@@ -6698,7 +6698,7 @@ All in One Accessibility — это плагин для быстрого улу�
 
 
 ### Grokipedia VS Wikipedia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
 
 #### Грокипедия против Википедии: посмотрите альтернативный взгляд
 
@@ -6726,7 +6726,7 @@ All in One Accessibility — это плагин для быстрого улу�
 
 ## Инструменты для подкастов
 ### Podnav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podnav.webp" alt="Podnav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podnav.webp" alt="Podnav">
 
 #### AipodNav: суммировщик подкастов AI с транскрипцией в реальном времени
 AipodNav: сборник подкастов с искусственным интеллектом
@@ -6749,7 +6749,7 @@ AIPodNav: непревзойденный опыт работы с подкаст
 
 
 ### AIPodNav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
 
 #### Эффективный инструмент для подкастов, включающий расшифровку, резюме, ментальную карту и основные моменты, представляет собой комплексное решение для управления информацией о подкастах.
 
@@ -6765,7 +6765,7 @@ AipodNav — это продукт с улучшенным искусствен�
 
 
 ### Recast Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
 #### Помощник по маркетингу подкастов на базе искусственного интеллекта 
 
@@ -6787,7 +6787,7 @@ Recast Studio автоматически превращает эпизод ва�
 
 
 ### AIdeaFlow Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
 
 #### Преобразуйте PDF-файлы или любые тексты в увлекательные подкасты с диалогами для двух человек или лекции для одного человека.
 
@@ -6803,7 +6803,7 @@ Recast Studio автоматически превращает эпизод ва�
 
 
 ### Podzay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podzay.webp" alt="Podzay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podzay.webp" alt="Podzay">
 
 #### Podzay — это платформа, объединяющая подкастеров и гостей для получения впечатляющего эффекта
 совместная работа благодаря умному подбору партнеров, удобному общению и удобному бронированию.
@@ -6823,7 +6823,7 @@ Podzay упрощает процесс поиска подходящего па�
 
 
 ### Adobe Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
 
 #### Adobe Podcast — аудиозапись и редактирование с помощью ИИ, все в Интернете
 
@@ -6839,7 +6839,7 @@ Podzay упрощает процесс поиска подходящего па�
 
 
 ### Digest.fm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
 #### Digest.fm — создавайте подкасты на основе своего контента на основе искусственного интеллекта и запускайте их на Spotify, YouTube и Apple Podcasts за считанные минуты.
 
@@ -6863,7 +6863,7 @@ Digest.fm — это платформа на базе искусственног
 
 ## Быстрая библиотека и проектирование
 ### Drawing Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
 
 #### Генератор подсказок с улучшенным искусственным интеллектом для каждого художника
 
@@ -6882,7 +6882,7 @@ Drawing Prompt — это бесплатный инструмент, разра�
 
 
 ### PromptExplained
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
 
 #### Веб-сайт, который помогает пользователям освоить проектирование подсказок с помощью аналитических данных, методов и советов по настройке подсказок искусственного интеллекта
 
@@ -6898,7 +6898,7 @@ Drawing Prompt — это бесплатный инструмент, разра�
 
 
 ### Promptogy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
 #### Универсальный генератор подсказок, который поможет вам создавать уникальные произведения искусства с искусственным интеллектом.
 
@@ -6914,7 +6914,7 @@ Promptogy — это бесплатный инструмент для созда
 
 
 ### Sora Prompts Today
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
 
 #### Лучшая в мире коллекция подсказок Sora
 
@@ -6934,7 +6934,7 @@ Promptogy — это бесплатный инструмент для созда
 
 
 ### Promptomania
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptomania.webp" alt="Promptomania">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptomania.webp" alt="Promptomania">
 
 #### Генератор подсказок PromptoMania - арт-сообщество искусственного интеллекта с онлайн-конструктором подсказок
 
@@ -6950,7 +6950,7 @@ Promptogy — это бесплатный инструмент для созда
 
 
 ### Promptmakr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
 
 #### Платформа, позволяющая инженерам Prompt бесплатно создавать и публиковать неограниченное количество подсказок по искусственному интеллекту
 
@@ -6966,7 +6966,7 @@ Promptogy — это бесплатный инструмент для созда
 
 
 ### Deploy Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
 
 #### Создавайте и делитесь подсказками Resuable
 
@@ -6990,7 +6990,7 @@ Promptogy — это бесплатный инструмент для созда
 
 ## Рекрутинг и ATS
 ### Screenloop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenloop.webp" alt="Screenloop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-screenloop.webp" alt="Screenloop">
 
 #### Screenloop — трансформируйте процесс найма персонала с помощью нашей платформы для работы с кадрами на основе искусственного интеллекта, включающей аналитику интервью, блокнот с искусственным интеллектом и комплексную систему ATS.
 
@@ -7008,7 +7008,7 @@ Screenloop — это лучшая платформа для управлени�
 
 
 ### springworks
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-springworks.webp" alt="springworks">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-springworks.webp" alt="springworks">
 
 #### Программные решения для управления персоналом для растущего бизнеса
 
@@ -7024,7 +7024,7 @@ Springworks создает программные решения для упра
 
 
 ### rankode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rankode.webp" alt="rankode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rankode.webp" alt="rankode">
 
 #### ИИ для управления персоналом — Rankode
 
@@ -7040,7 +7040,7 @@ Springworks создает программные решения для упра
 
 
 ### MoAIJobs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
 
 #### Работа в сфере искусственного интеллекта в области машинного обучения, обработки данных, инженерии, обработки естественного языка, продаж и т. д.
 
@@ -7062,7 +7062,7 @@ MoaiJobs — это доска объявлений #1 для поиска ра�
 
 
 ### Hirex AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
 
 #### Hirex.ai
 
@@ -7078,7 +7078,7 @@ MoaiJobs — это доска объявлений #1 для поиска ра�
 
 
 ### Hire Hoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
 
 #### Hire Hoc — инструмент найма на базе искусственного интеллекта
 
@@ -7094,7 +7094,7 @@ MoaiJobs — это доска объявлений #1 для поиска ра�
 
 
 ### JD Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
 
 #### Познакомьтесь с командой - HireQuotient
 
@@ -7118,7 +7118,7 @@ MoaiJobs — это доска объявлений #1 для поиска ра�
 
 ## Научный сотрудник
 ### Scispace
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scispace.webp" alt="Scispace">
 
 #### Scispace от Typeset — найдите, создайте, опубликуйте и продвигайте свою исследовательскую работу
 
@@ -7135,7 +7135,7 @@ MoaiJobs — это доска объявлений #1 для поиска ра�
 
 
 ### Afforai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-afforai.webp" alt="Afforai">
 
 #### Ваш второй пилот по чтению с помощью искусственного интеллекта. Необходимые инструменты для анализа текста, исследований и поиска документов
 
@@ -7151,7 +7151,7 @@ Afforai — это чат-бот с искусственным интеллек�
 
 
 ### Sourcely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
 #### Источник: завершите исследование за считанные минуты. Берегите сон.
 
@@ -7168,7 +7168,7 @@ Afforai — это чат-бот с искусственным интеллек�
 
 
 ### QoQo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
 
 #### Искусственный интеллект QoQo помогает разработчикам продуктов и исследователям пользовательского интерфейса преодолеть ограниченные ресурсы для исследований, обеспечивая быстрый и эффективный доступ к исследовательской информации.
 
@@ -7188,7 +7188,7 @@ Afforai — это чат-бот с искусственным интеллек�
 
 
 ### MyMap.AI Research Paper Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
 
 #### Сводчик резюме исследовательских работ MyMap.AI — сводите 4-часовые исследования к 4-минутным чтениям, получая четкие и краткие сведения, обобщенные искусственным интеллектом.
 
@@ -7204,7 +7204,7 @@ MyMap.AI Research Paper Summarizer — это бесплатный инстру�
 
 
 ### Elicit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elicit.webp" alt="Elicit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elicit.webp" alt="Elicit">
 
 #### Elicit: помощник по исследованиям в области ИИ
 
@@ -7220,7 +7220,7 @@ Elicit использует машинное обучение, чтобы пом
 
 
 ### MyMap Book Summerizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
 
 #### MyMap.AI Book Summarizer — переварите суть книги с помощью маркеров или интеллектуальных карт с помощью искусственного интеллекта.
 
@@ -7244,7 +7244,7 @@ MyMap AI Book Summarizer превращает длинную книгу в кр�
 
 ## Конструктор резюме и резюме
 ### AiApply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
 #### AiApply: инструменты искусственного интеллекта для соискателей работы для создания идеального приложения
 
@@ -7260,7 +7260,7 @@ AiApply — это динамичный набор инструментов ис
 
 
 ### Huntr AI Resume Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
 
 #### Создайте идеальное резюме с небольшой помощью искусственного интеллекта
 
@@ -7276,7 +7276,7 @@ AiApply — это динамичный набор инструментов ис
 
 
 ### Prodigy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
 #### Использование ИИ для улучшения карьеры инженеров-программистов
 
@@ -7292,7 +7292,7 @@ AiApply — это динамичный набор инструментов ис
 
 
 ### AI Resume Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
 #### Как мир делает резюме. Самый умный конструктор резюме на основе GPT.
 
@@ -7308,7 +7308,7 @@ Rezi — единственная платформа для резюме, исп
 
 
 ### JobWinner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
 
 #### JobWinner — это помощник по трудоустройству на базе искусственного интеллекта, который готовит индивидуальные резюме, сопроводительные письма и документы для подготовки к собеседованию. 
 
@@ -7331,7 +7331,7 @@ JobWinner — это платформа на базе искусственног
 
 
 ### Resume Worded
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
 
 #### Улучшите свое резюме и профиль LinkedIn
 
@@ -7347,7 +7347,7 @@ JobWinner — это платформа на базе искусственног
 
 
 ### ResumeUp.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
 
 #### Карьерная платформа на базе искусственного интеллекта с конструктором резюме, средством проверки ATS, оптимизатором LinkedIn и многим другим. Оптимизация резюме с помощью искусственного интеллекта позволяет быстрее проходить собеседования.
 
@@ -7373,7 +7373,7 @@ ResumeUp.AI — это универсальная карьерная платф�
 
 ## SEO и исследование ключевых слов
 ### LinkActions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkactions.webp" alt="LinkActions">
 
 #### LinkActions — это полностью автоматизированный инструмент внутренних ссылок для вашего веб-сайта. 
 
@@ -7392,7 +7392,7 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 ### Ctrify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrify.webp" alt="Ctrify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrify.webp" alt="Ctrify">
 
 #### Первая платформа действий SEO на базе искусственного интеллекта
 
@@ -7408,7 +7408,7 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 ### Quattr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quattr.webp" alt="Quattr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quattr.webp" alt="Quattr">
 
 #### Quattr — ваша штаб-квартира роста
 
@@ -7424,7 +7424,7 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 ### Backlink GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
 
 #### Создавайте качественные обратные ссылки с помощью ИИ.
 
@@ -7440,7 +7440,7 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 ### Link Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-link-finder.webp" alt="Link Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-link-finder.webp" alt="Link Finder">
 
 #### Найдите лучшие ссылки по лучшим ценам всего за 10 секунд
 
@@ -7456,7 +7456,7 @@ LinkActions выявляет внутренние ссылки, которые �
 
 
 ### SEOByAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
 
 #### Повысьте рейтинг в Google с помощью БЕСПЛАТНЫХ инструментов AI SEO
 
@@ -7474,7 +7474,7 @@ SEOBy.ai поможет вам начать маркетинговые усил�
 
 
 ### SEOify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seoify.webp" alt="SEOify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seoify.webp" alt="SEOify">
 
 #### Автоматизированный помощник SEO SEOIfy AI, помогающий ранжироваться в Google
 
@@ -7498,7 +7498,7 @@ SEOBy.ai поможет вам начать маркетинговые усил�
 
 ## Информационно-пропагандистская деятельность и привлечение потенциальных клиентов
 ### ApplyPass
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-applypass.webp" alt="ApplyPass">
 
 #### Найдите идеальную работу с помощью нашего искусственного интеллекта для подачи заявлений о приеме на работу. Каждую неделю автоматически подавайте заявки на сотни инженерных вакансий! Присоединяйтесь к ApplyPass, чтобы получить 100 бесплатных заявок.
 
@@ -7516,7 +7516,7 @@ ApplyPass.com провел тысячи интервью для инженеро
 
 
 ### LinkDR
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkdr.webp" alt="LinkDR">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkdr.webp" alt="LinkDR">
 
 #### Инструмент для построения ссылок на базе искусственного интеллекта для основателей и маркетологов SaaS
 
@@ -7532,7 +7532,7 @@ LinkDR — это инструмент для создания ссылок на
 
 
 ### THEO: Context-aware Strategic Co-Pilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
 
 #### Превратите свой веб-сайт и документы в «шпаргалку», готовую к использованию искусственного интеллекта, и ваш помощник по искусственному интеллекту станет стратегическим партнером
 
@@ -7548,7 +7548,7 @@ LinkDR — это инструмент для создания ссылок на
 
 
 ### MyInfluencer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
 
 #### Поисковая система AI Influencer, которая находит подходящих влиятельных лиц для любого бизнеса
 
@@ -7564,7 +7564,7 @@ LinkDR — это инструмент для создания ссылок на
 
 
 ### NioLeads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nioleads.webp" alt="NioLeads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nioleads.webp" alt="NioLeads">
 
 #### NiLeads Enterprise LikedIn для поиска электронной почты и навигатора по продажам
 
@@ -7580,7 +7580,7 @@ LinkDR — это инструмент для создания ссылок на
 
 
 ### reply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-reply.webp" alt="reply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-reply.webp" alt="reply">
 
 #### Reply.io - платформа для продаж и привлечения потенциальных клиентов с помощью искусственного интеллекта
 
@@ -7597,7 +7597,7 @@ LinkDR — это инструмент для создания ссылок на
 
 
 ### MyMap.AI Swot Analysis Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
 
 #### Генератор Swot-анализа MyMap.AI - необходимый конкурентный анализ перед принятием любого бизнес-решения, легко генерируемый искусственным интеллектом
 
@@ -7621,7 +7621,7 @@ LinkDR — это инструмент для создания ссылок на
 
 ## Поисковые системы
 ### FrameTrace | Reverse Video Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-frametrace-|-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-frametrace-%7C-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
 
 #### FrameTrace: система обратного поиска видео на базе искусственного интеллекта для обнаружения источника и проверки подлинности
 
@@ -7637,7 +7637,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Anypod
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anypod.webp" alt="Anypod">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anypod.webp" alt="Anypod">
 
 #### Поисковые системы, созданные для авторов
 
@@ -7653,7 +7653,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Perplexity AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
 
 #### Perplexity AI — это система ответов, которая дает точные ответы на сложные вопросы с использованием больших языковых моделей.
 
@@ -7670,7 +7670,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Everypixel
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everypixel.webp" alt="Everypixel">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everypixel.webp" alt="Everypixel">
 
 #### Система поиска стоковых изображений - более 50 лучших источников - Everypixel
 
@@ -7687,7 +7687,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Context Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-context-search.webp" alt="Context Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-context-search.webp" alt="Context Search">
 
 #### Контекст — поиск аудио и видео с помощью искусственного интеллекта для поиска контента в плейлистах YouTube.
 
@@ -7704,7 +7704,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Andisearch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-andisearch.webp" alt="Andisearch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-andisearch.webp" alt="Andisearch">
 
 #### Andi: Ищите новое поколение, используя возможности искусственного интеллекта
 
@@ -7721,7 +7721,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### You
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-you.webp" alt="You">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-you.webp" alt="You">
 
 #### Поисковая система AI, которой вы управляете
 
@@ -7749,7 +7749,7 @@ FrameTrace — это система обратного поиска видео 
 
 ## Слайды и презентации
 ### SlidesAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
 
 #### Создавайте слайды презентации с помощью ИИ за считанные секунды
 
@@ -7765,7 +7765,7 @@ FrameTrace — это система обратного поиска видео 
 
 
 ### Glimmer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
 
 #### Магия презентаций на базе искусственного интеллекта
 
@@ -7781,7 +7781,7 @@ Glimmer AI использует GPT-3 и DALL-E 2 для простого и б�
 
 
 ### Storydoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
 #### С легкостью создавайте потрясающие интерактивные колоды, повышающие вовлеченность.
 
@@ -7797,7 +7797,7 @@ Storydoc — это интуитивно понятный редактор сл�
 
 
 ### ChatBA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
 #### ChatBCG: генеративный ИИ для слайдов
 
@@ -7813,7 +7813,7 @@ Storydoc — это интуитивно понятный редактор сл�
 
 
 ### My Pitch Deck
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
 
 #### My Pitch Deck — начните финансирование с помощью специального шаблона презентационного колоды для своего стартапа.
 
@@ -7831,7 +7831,7 @@ Storydoc — это интуитивно понятный редактор сл�
 
 
 ### Pitchgrade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
 
 #### Pitchgrade — презентации прошли безболезненно
 
@@ -7847,7 +7847,7 @@ Storydoc — это интуитивно понятный редактор сл�
 
 
 ### PitchBob io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
 
 #### Генератор питч-дек AI и второй пилот стартапа
 
@@ -7872,7 +7872,7 @@ Pitchbob.io — это цифровой помощник на базе иску�
 
 ## Контент в социальных сетях
 ### Podify.io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podify.io.webp" alt="Podify.io">
 
 #### Используйте искусственный интеллект и сообщество для роста в LinkedIn
 
@@ -7890,7 +7890,7 @@ Podify — это контентная и общественная платфо�
 
 
 ### Lunroo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lunroo.webp" alt="Lunroo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lunroo.webp" alt="Lunroo">
 
 #### Бесплатные инструменты искусственного интеллекта для маркетинга в социальных сетях
 
@@ -7906,7 +7906,7 @@ Lunroo — это платформа на базе искусственного 
 
 
 ### Qura AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
 
 #### Начните развивать свой X (Twitter) на автопилоте уже сегодня
 
@@ -7924,7 +7924,7 @@ Qura — это комплексный набор инструментов дл�
 
 
 ### Postlyy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-postlyy.webp" alt="Postlyy">
 
 #### Ускорьте рост аудитории с помощью простого управления контентом
 
@@ -7940,7 +7940,7 @@ Postlyy — это платформа, предназначенная для о�
 
 
 ### Viral Post Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
 
 #### Генератор вирусных сообщений - используйте искусственный интеллект, чтобы написать идеальный пост в Linkedin.
 
@@ -7956,7 +7956,7 @@ Postlyy — это платформа, предназначенная для о�
 
 
 ### Predis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-predis.webp" alt="Predis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-predis.webp" alt="Predis">
 
 #### Маркетинг в социальных сетях стал проще с помощью искусственного интеллекта - Predis.Ai
 
@@ -7973,7 +7973,7 @@ Predis — это маркетинговый инструмент искусст
 
 
 ### Robopost AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
 #### Robopost AI генерирует идеи для постов с помощью ИИ и публикует/планирует их в своих учетных записях в социальных сетях.
 
@@ -7997,7 +7997,7 @@ Predis — это маркетинговый инструмент искусст
 
 ## Знакомства и социальные сети
 ### KeyMentions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
 
 #### Преобразуйте трафик Reddit в клиентов...
 
@@ -8016,7 +8016,7 @@ Predis — это маркетинговый инструмент искусст
 
 
 ### AI Social Bio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
 #### AI Social Bio - ваша биография в социальных сетях, созданная искусственным интеллектом
 
@@ -8035,7 +8035,7 @@ Predis — это маркетинговый инструмент искусст
 
 
 ### MyDogNames
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
 
 #### MyDogNames - Найдите идеальное имя для собаки
 
@@ -8051,7 +8051,7 @@ Predis — это маркетинговый инструмент искусст
 
 
 ### CommentGuard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
 
 #### CommentGuard — это инструмент модерации комментариев в Facebook и Instagram на базе искусственного интеллекта
 
@@ -8067,7 +8067,7 @@ CommentGuard — это инструмент модерации коммента
 
 
 ### SynthLife
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-synthlife.webp" alt="SynthLife">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-synthlife.webp" alt="SynthLife">
 
 #### Помогает авторам создавать, развивать и монетизировать искусственный интеллект
 
@@ -8083,7 +8083,7 @@ SynthLife — это платформа, предназначенная для �
 
 
 ### Ai Dating Tips
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
 
 #### Ознакомьтесь с советами экспертов по созданию идеального профиля знакомств! Узнайте, как выбрать правильные фотографии
 
@@ -8101,7 +8101,7 @@ SynthLife — это платформа, предназначенная для �
 
 
 ### RIZZ AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
 
 #### Измените свой опыт знакомств с помощью RIZZ AI, лучшего помощника для знакомств с искусственным интеллектом.
 
@@ -8125,7 +8125,7 @@ RIZZ AI — это инструмент для знакомств с искус�
 
 ## Генератор звуковых эффектов
 ### AI Sound Effects Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
 
 #### Генератор звуковых эффектов AI - создание звукового эффекта из текста
 
@@ -8141,7 +8141,7 @@ RIZZ AI — это инструмент для знакомств с искус�
 
 
 ### GetSound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getsound.webp" alt="GetSound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getsound.webp" alt="GetSound">
 
 #### Добро пожаловать в будущее звуковых ландшафтов гостеприимства AI.
 
@@ -8157,7 +8157,7 @@ RIZZ AI — это инструмент для знакомств с искус�
 
 
 ### HarmonySnippetsAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
 
 #### Загрузите свои звуковые дорожки и позвольте искусственному интеллекту находить наиболее интересные сегменты в 10 раз быстрее. Идеально подходит для продвижения в Instagram, Facebook и TikTok.
 
@@ -8179,7 +8179,7 @@ HarmonySnippetsai поможет вам найти самые интересны
 
 
 ### SoundAI Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
 
 #### Мгновенно создавайте идеальные звуковые эффекты. 
 
@@ -8195,7 +8195,7 @@ SoundAI Studio — это идеальный набор инструментов
 
 
 ### SFX Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
 
 #### Создавайте неограниченное количество звуковых эффектов с помощью искусственного интеллекта
 
@@ -8211,7 +8211,7 @@ SFX Engine — это универсальный и мощный генерат�
 
 
 ### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### Создавайте реалистичные звуки искусственного интеллекта с помощью нашего генератора звуковых эффектов AI.
 
@@ -8227,7 +8227,7 @@ SFX Engine — это универсальный и мощный генерат�
 
 
 ### PopPop AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
 
 #### Бесплатный генератор звуковых эффектов AI: онлайн-создатель звука
 
@@ -8252,7 +8252,7 @@ PopPop AI Sound Effect Generator — это совершенно бесплат�
 
 ## Учеба и репетитор
 ### QuizRise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizrise.webp" alt="QuizRise">
 
 #### QuizRise | Легко создавайте вопросы для онлайн-викторин, тестов и экзаменов с помощью искусственного интеллекта.
 
@@ -8272,7 +8272,7 @@ PopPop AI Sound Effect Generator — это совершенно бесплат�
 
 
 ### Botta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-botta.webp" alt="Botta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-botta.webp" alt="Botta">
 
 #### Проблемы с темой? Познакомьтесь с Боттой
 
@@ -8288,7 +8288,7 @@ PopPop AI Sound Effect Generator — это совершенно бесплат�
 
 
 ### KardsAI - AI Flashcard Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
 
 #### KardSai — это мобильное приложение, которое поможет вам быстрее научиться чему-либо. Оно автоматически генерирует карточки из любого PDF-файла, текста или подсказки. Учитесь с интервалами между повторениями, чтобы надолго сохранить память!
 
@@ -8304,7 +8304,7 @@ PopPop AI Sound Effect Generator — это совершенно бесплат�
 
 
 ### FairyTailAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
 
 #### Персонализированный генератор сказок на ночь с использованием ИИ
 
@@ -8320,7 +8320,7 @@ PopPop AI Sound Effect Generator — это совершенно бесплат�
 
 
 ### Quizwhiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
 
 #### Quizwhiz — генерируйте вопросы с несколькими вариантами ответов из любого текста
 
@@ -8336,7 +8336,7 @@ QuizWhiz — это приложение на базе искусственно�
 
 
 ### Jenni
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jenni.webp" alt="Jenni">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jenni.webp" alt="Jenni">
 
 #### Дженни — искусственный интеллект для написания эссе, исследовательских работ и многого другого!
 
@@ -8353,7 +8353,7 @@ QuizWhiz — это приложение на базе искусственно�
 
 
 ### QUIZGECKO
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
 #### Хватит тратить время на создание тестов вручную
 
@@ -8377,7 +8377,7 @@ QuizWhiz — это приложение на базе искусственно�
 
 ## Задачи и личный ассистент
 ### AI Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
 #### AI Finder — запросите файловую систему с помощью LLM.
 
@@ -8397,7 +8397,7 @@ AI Finder — ваш файловый золотистый ретривер. О�
 
 
 ### dypt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dypt.webp" alt="dypt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dypt.webp" alt="dypt">
 
 #### Автоматически разбивайте задачи с помощью искусственного интеллекта на более простые в управлении подзадачи и преодолевайте ментальные барьеры
 
@@ -8417,7 +8417,7 @@ dypt — это диспетчер задач для современного с
 
 
 ### So You Had An Idea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
 #### Превратите свои бизнес-идеи в планы действий с помощью искусственного интеллекта
 
@@ -8433,7 +8433,7 @@ dypt — это диспетчер задач для современного с
 
 
 ### Cogram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cogram.webp" alt="Cogram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cogram.webp" alt="Cogram">
 
 #### Удвойте свою производительность с интеллектуальным коллегой для вашей команды
 
@@ -8449,7 +8449,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### Dewey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dewey.webp" alt="Dewey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dewey.webp" alt="Dewey">
 
 #### Делайте больше с Дьюи. Получайте напоминания и оставайтесь мотивированными с помощью текстовых сообщений от Дьюи, вашего друга по подотчетности ИИ.
 
@@ -8465,7 +8465,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### Sidekick
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sidekick.webp" alt="Sidekick">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sidekick.webp" alt="Sidekick">
 
 #### Представляем Jigso Sidekick — AI Slackbot, который действует как ваш личный бизнес-помощник.
 
@@ -8481,7 +8481,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### Todobee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-todobee.webp" alt="Todobee">
 
 #### Красивое приложение для управления проектами на базе искусственного интеллекта
 
@@ -8509,7 +8509,7 @@ Cogram использует искусственный интеллект, чт�
 
 ## Генерация текста
 ### Oracle
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oracle.webp" alt="Oracle">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oracle.webp" alt="Oracle">
 
 #### Oracle — получайте мгновенные ответы из всей своей базы знаний
 
@@ -8525,7 +8525,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### Kidotail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kidotail.webp" alt="Kidotail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kidotail.webp" alt="Kidotail">
 
 #### КидоТейл ИИ
 
@@ -8541,7 +8541,7 @@ Cogram использует искусственный интеллект, чт�
 
 
 ### ReplAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-replai.webp" alt="ReplAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-replai.webp" alt="ReplAI">
 
 #### ReplAI — быстрый ответ с помощью ИИ
 
@@ -8557,7 +8557,7 @@ ReplAI — это расширение для браузера, которое �
 
 
 ### Infiniteconversation
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
 
 #### Бесконечный разговор
 
@@ -8573,7 +8573,7 @@ ReplAI — это расширение для браузера, которое �
 
 
 ### Scarlettpanda
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
 
 #### Scarlett Panda - Индивидуальные короткие сказки на ночь
 
@@ -8589,7 +8589,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Formula Dog
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
 
 #### Создавайте формулы Excel и многое другое с помощью AI - Formula Dog
 
@@ -8605,7 +8605,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Excelformulabot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
 
 #### Генератор формул AI для Excel и Google Таблиц - Excelformulabot.com
 
@@ -8629,7 +8629,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 ## Текст в речь
 ### Childbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-childbook.webp" alt="Childbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-childbook.webp" alt="Childbook">
 
 #### Добро пожаловать в создатель детской книги!
 
@@ -8645,7 +8645,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Lovo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovo.webp" alt="Lovo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovo.webp" alt="Lovo">
 
 #### Генератор голоса AI: реалистичное преобразование текста в речь и клонирование голоса
 
@@ -8662,7 +8662,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Wellsaid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
 
 #### Преобразование текста в голос в режиме реального времени
 
@@ -8678,7 +8678,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Createaivoiceovers
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
 
 #### Онлайн-генератор голоса из текста в речь, генератор текста в речь - реалистичные голоса - создавайте озвучку с искусственным интеллектом
 
@@ -8694,7 +8694,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### NaturalReader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
 #### Решение #1 для преобразования текста в речь для личного, коммерческого и образовательного использования
 
@@ -8710,7 +8710,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Voicera
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicera.webp" alt="Voicera">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voicera.webp" alt="Voicera">
 
 #### Voicera - озвучьте свои статьи и блоги
 
@@ -8726,7 +8726,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Cliptics
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics, бесплатный перевод текста в речь! Ваши слова, наши голоса.
 
@@ -8750,7 +8750,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 ## Преобразование текста в изображение
 ### Designify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designify.webp" alt="Designify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designify.webp" alt="Designify">
 
 #### Designify - Превратите любую фотографию в потрясающую
 
@@ -8766,7 +8766,7 @@ Scarlett Panda — используйте нашу магию, чтобы соз
 
 
 ### Playground
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-playground.webp" alt="Playground">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-playground.webp" alt="Playground">
 
 #### Playground AI - онлайн-создатель изображений AI
 
@@ -8782,7 +8782,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### AI Wall Decor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
 
 #### Водород
 
@@ -8798,7 +8798,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### AI Picasso
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
 
 #### ИИ Пикассо
 
@@ -8814,7 +8814,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### AI2image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2image.webp" alt="AI2image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2image.webp" alt="AI2image">
 
 #### Бесплатный генератор изображений с искусственным интеллектом — онлайн-приложение «Текст в изображение» — AI2image
 
@@ -8830,7 +8830,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### Imaginator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imaginator.webp" alt="Imaginator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imaginator.webp" alt="Imaginator">
 
 #### Imaginator - Превратите свой текст в изображения
 
@@ -8846,7 +8846,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 
 ### DrawAnyone
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
 
 #### drawanyone - нарисуй кого угодно, как хочешь
 
@@ -8870,7 +8870,7 @@ Playground AI — это бесплатный онлайн-редактор из
 
 ## Преобразование текста в видео
 ### LTX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ltx.webp" alt="LTX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ltx.webp" alt="LTX">
 
 #### LTX - Создавайте потрясающие видеоролики за считанные секунды с помощью LTX
 
@@ -8886,7 +8886,7 @@ LTX — это платформа для генерации видео на ба
 
 
 ### Make a Video
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
 
 #### Make-A-Video — это современная система искусственного интеллекта, которая генерирует видео из текста.
 
@@ -8902,7 +8902,7 @@ LTX — это платформа для генерации видео на ба
 
 
 ### VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
 
 #### Veggieai.dance: создавайте танцевальные видео с искусственным интеллектом с помощью Veggie AI бесплатно онлайн
 
@@ -8918,7 +8918,7 @@ LTX — это платформа для генерации видео на ба
 
 
 ### Fotor AI video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
 
 #### Генератор видео AI - искусственный интеллект для преобразования текста в видео онлайн бесплатно
 
@@ -8934,7 +8934,7 @@ LTX — это платформа для генерации видео на ба
 
 
 ### DEEPBRAIN AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
 
 #### DeepBrain AI - лучший генератор видео с искусственным интеллектом из текста
 
@@ -8950,7 +8950,7 @@ LTX — это платформа для генерации видео на ба
 
 
 ### Sora Town
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-town.webp" alt="Sora Town">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-town.webp" alt="Sora Town">
 
 #### Бесплатная пробная версия, образцы видео и подсказка от OpenAI
 
@@ -8966,7 +8966,7 @@ SORA — это обширная платформа преобразования
 
 
 ### AIDreamMachine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### AI Dream Machine | Создавайте потрясающие видеоролики на основе искусственного интеллекта
 
@@ -8990,7 +8990,7 @@ AI Dream Machine — это бесплатный генератор видео �
 
 ## Создатель TikTok и коротких фильмов
 ### Supercreator AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
 
 #### Supercreator.Ai — создавайте видео в 10 раз быстрее с помощью искусственного интеллекта
 
@@ -9007,7 +9007,7 @@ Supercreator — это мобильное приложение, использ�
 
 
 ### AI Videos (TikTok etc)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
 #### Генератор видео AI для TikTok (короткометражки, ролики) 
 
@@ -9023,7 +9023,7 @@ TextToVideo.bot — это инструмент искусственного и�
 
 
 ### InstaShorts
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
 
 #### Превратите свои закулисные видео в вирусные TikToks 
 
@@ -9039,7 +9039,7 @@ TextToVideo.bot — это инструмент искусственного и�
 
 
 ### EazyCaptions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
 
 #### Создавайте интересные короткоформатные видеоролики без навыков редактирования
 
@@ -9061,7 +9061,7 @@ TextToVideo.bot — это инструмент искусственного и�
 
 
 ### Clippie AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
 
 #### создавайте безликие короткие видеоролики за считанные секунды, а не часы с помощью Clippie AI.
 
@@ -9088,7 +9088,7 @@ TextToVideo.bot — это инструмент искусственного и�
 
 
 ### Clip Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
 
 #### Инструмент короткой генерации вирусных видео с искусственным интеллектом для TikTok, YouTube и Instagram. Создавайте вирусные видеоролики без особых усилий.
 
@@ -9104,7 +9104,7 @@ Clip Studio — это инструмент для создания вирусн
 
 
 ### Topview AI TikTok Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
 
 #### TopView AI быстро превращает текст в вирусные видеоролики TikTok с помощью автоматических сценариев, клипов, озвучек и музыки.
 
@@ -9128,7 +9128,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 ## Перевод и стенограмма
 ### Deciphr AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
 
 #### Расшифровать ИИ
 
@@ -9144,7 +9144,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 
 ### Sumly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sumly.webp" alt="Sumly">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sumly.webp" alt="Sumly">
 
 #### Сводки подкастов, созданных искусственным интеллектом - Sumly.Ai
 
@@ -9160,7 +9160,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 
 ### BiRead
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-biread.webp" alt="BiRead">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-biread.webp" alt="BiRead">
 
 #### Простой инструмент для мгновенного двуязычного чтения
 
@@ -9176,7 +9176,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 
 ### Rythmex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rythmex.webp" alt="Rythmex">
 
 #### Преобразование аудио в текст с помощью Rythmex Converter
 
@@ -9192,7 +9192,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 
 ### Snipd Podcast Summaries
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
 
 #### Раскройте знания в подкастах - Snipd
 
@@ -9208,7 +9208,7 @@ TopView AI Tiktok Video Generator — это революционная плат
 
 
 ### Rephrasely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
 
 #### БЕСПЛАТНЫЙ генератор перефраз для всех языков!
 
@@ -9224,7 +9224,7 @@ Rephrasely использует современный искусственны�
 
 
 ### RIVERSIDE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
 #### Транскрипция аудио и видео. Работает на искусственном интеллекте.
 Преобразуйте аудио и видео в текст с точностью 99%.
@@ -9254,7 +9254,7 @@ Rephrasely использует современный искусственны�
 
 ## Планировщик отпусков и поездок
 ### Roamr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roamr.webp" alt="Roamr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roamr.webp" alt="Roamr">
 
 #### Roamr — планировщик путешествий с искусственным интеллектом — отпуск вашей мечты за считанные секунды
 
@@ -9270,7 +9270,7 @@ Rephrasely использует современный искусственны�
 
 
 ### BeachAtlas
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
 
 #### Откройте для себя лучшие впечатления от местного пляжа.
 
@@ -9286,7 +9286,7 @@ Beachatlas.com — это энциклопедия пляжей. Использ�
 
 
 ### Let''s Trip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
 
 #### Незабываемые маршруты, разработанные с помощью искусственного интеллекта и основанные на тенденциях в социальных сетях
 
@@ -9302,7 +9302,7 @@ Let''s Trip — это инновационный планировщик пут�
 
 
 ### Orkoi
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-orkoi.webp" alt="Orkoi">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-orkoi.webp" alt="Orkoi">
 
 #### Orkoi — составьте индивидуальный план путешествия за считанные секунды, бесплатно, без регистрации
 
@@ -9318,7 +9318,7 @@ Let''s Trip — это инновационный планировщик пут�
 
 
 ### AI Trip Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
 
 #### AI Trip Maker — ваш персональный планировщик путешествий AI
 
@@ -9334,7 +9334,7 @@ AitripMaker — ваш персональный планировщик путе�
 
 
 ### ItineraryTrip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
 
 #### RitineraryTrip - туристическое агентство с индивидуальным маршрутом и искусственным интеллектом
 
@@ -9352,7 +9352,7 @@ AitripMaker — ваш персональный планировщик путе�
 
 
 ### Vacay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vacay.webp" alt="Vacay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vacay.webp" alt="Vacay">
 
 #### Агент чата в отпуске
 
@@ -9376,7 +9376,7 @@ AitripMaker — ваш персональный планировщик путе�
 
 ## Кодирование Vibe и конструктор приложений
 ### AITable AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
 
 #### A: Конструктор всех агентов без кода. Настройте ChatGPT, чтобы повысить конверсию целевой страницы в 5 раз.
 
@@ -9393,7 +9393,7 @@ AlTable.ai — это рабочая платформа, которая позв
 
 
 ### Cloobot X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
 #### Создавать бизнес-приложения теперь можно быстро
 
@@ -9409,7 +9409,7 @@ Cloobot X меняет разработку корпоративного про�
 
 
 ### BASE44
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-base44.webp" alt="BASE44">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-base44.webp" alt="BASE44">
 
 #### BASE44 — создавайте любое программное обеспечение за считанные минуты с помощью искусственного интеллекта
 
@@ -9428,7 +9428,7 @@ Cloobot X меняет разработку корпоративного про�
 
 
 ### aidev codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
 
 #### Коды AI Dev для вас
 
@@ -9444,7 +9444,7 @@ Cloobot X меняет разработку корпоративного про�
 
 
 ### BuildAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-buildai.webp" alt="BuildAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-buildai.webp" alt="BuildAI">
 
 #### Создавайте интерфейсы ИИ за считанные минуты
 
@@ -9460,7 +9460,7 @@ Cloobot X меняет разработку корпоративного про�
 
 
 ### B12 No-Code AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
 
 #### Искусственный интеллект без кода B12 позволяет любому создавать собственные инструменты искусственного интеллекта за считанные минуты. Перейдите от использования ИИ к созданию собственного инструмента ИИ за считанные минуты без каких-либо знаний.
 
@@ -9476,7 +9476,7 @@ Cloobot X меняет разработку корпоративного про�
 
 
 ### Aspen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aspen.webp" alt="Aspen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aspen.webp" alt="Aspen">
 
 #### Создавайте инструменты на базе искусственного интеллекта за считанные минуты. Aspen — это платформа без кода для создания веб-приложений на базе искусственного интеллекта.
 
@@ -9504,7 +9504,7 @@ Cloobot X меняет разработку корпоративного про�
 
 ## Дубляж и перевод видео
 ### Dubverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
 
 #### Онлайн-дубляж видео с помощью Dubverse.Ai
 
@@ -9520,7 +9520,7 @@ Dubverse — это онлайн-платформа для озвучивани�
 
 
 ### VideoDub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videodub.webp" alt="VideoDub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videodub.webp" alt="VideoDub">
 
 #### Переводите и озвучивайте свои видео без особых усилий
 
@@ -9536,7 +9536,7 @@ Videodub.io — это платформа на базе искусственно
 
 
 ### BlipCut Video Translator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
 
 #### Переводчик видео с искусственным интеллектом с человеческими голосами, клонированием голоса и функциями перевода ChatGPT
 
@@ -9552,7 +9552,7 @@ Videodub.io — это платформа на базе искусственно
 
 
 ### VMEG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vmeg.webp" alt="VMEG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vmeg.webp" alt="VMEG">
 
 #### VMEG | Платформа локализации видео на базе искусственного интеллекта
 
@@ -9568,7 +9568,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### TranslateVideo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
 #### Translate.Video - Переводите видео одним щелчком мыши
 
@@ -9584,7 +9584,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### Papercup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-papercup.webp" alt="Papercup">
 
 #### Papercup - программное обеспечение для дубляжа и перевода видео с помощью искусственного интеллекта
 
@@ -9601,7 +9601,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### youtube dubbing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
 
 #### Устраните языковые барьеры при просмотре видео
 
@@ -9625,7 +9625,7 @@ VMEG — это платформа для локализации видео с �
 
 ## Редактирование видео
 ### Free AI kissing video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
 
 #### Генератор видео с поцелуями с искусственным интеллектом — создавайте романтические моменты
 
@@ -9641,7 +9641,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### youtube video downloader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
 
 #### Лучший бесплатный загрузчик видео с YouTube | Сохраняйте видео в формате HD и 4K
 
@@ -9657,7 +9657,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### VideoIdeas AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
 
 #### VideoIdeas.ai — это ваша фабрика контента для YouTube с искусственным интеллектом. Создавайте полезные для вирусов сценарии, свежие идеи для видео и интересный контент за считанные минуты. 
 
@@ -9673,7 +9673,7 @@ VMEG — это платформа для локализации видео с �
 
 
 ### AI video editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
 
 #### Искусственный интеллект продолжает менять то, как мы создаем видео. Одна из последних инноваций в этой области — TopView.ai, онлайн-редактор видео с искусственным интеллектом, который использует возможности искусственного интеллекта для оптимизации 
 
@@ -9689,7 +9689,7 @@ TopView.ai меняет правила игры в создании видео �
 
 
 ### Klap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-klap-app.webp" alt="Klap App">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-klap-app.webp" alt="Klap App">
 
 #### Приложение для редактирования AI превратит длинные видео в вирусные клипы
 
@@ -9714,7 +9714,7 @@ TopView.ai меняет правила игры в создании видео �
 
 
 ### SellerPic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
 
 #### SellerPic: модные модели с искусственным интеллектом, генератор изображений продуктов и видео
 
@@ -9732,7 +9732,7 @@ SellerPic — это SaaS-платформа с искусственным ин�
 
 
 ### TheFluxTrain
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
 
 #### Студия Agentic AI Production для создания одинаковых персонажей, рабочих процессов и видео
 
@@ -9756,7 +9756,7 @@ SellerPic — это SaaS-платформа с искусственным ин�
 
 ## Голосовой агент и телефонный бот
 ### nagish
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nagish.webp" alt="nagish">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nagish.webp" alt="nagish">
 
 #### Nagish - лучшее приложение для субтитров телефонных звонков
 
@@ -9774,7 +9774,7 @@ Nagish использует искусственный интеллект (ИИ)
 
 
 ### Voyp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voyp.webp" alt="Voyp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voyp.webp" alt="Voyp">
 
 #### VOYP, приложение с голосовым управлением, — ваш помощник по вызовам с искусственным интеллектом.
 
@@ -9790,7 +9790,7 @@ Voyp — Voice Over Your Phone — это мобильное приложени�
 
 
 ### SuperU AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
 
 #### SuperU — это искусственный интеллект для голосовых вызовов с белой этикеткой, который автоматизирует звонки с точностью, аналогичной человеческой. Он позволяет запускать кампании, оценивать потенциальных клиентов и управлять разговорами в больших масштабах
 
@@ -9806,7 +9806,7 @@ Voyp — Voice Over Your Phone — это мобильное приложени�
 
 
 ### SimplePhones AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
 
 #### Никогда не пропустите звонок от клиента
 
@@ -9822,7 +9822,7 @@ Voyp — Voice Over Your Phone — это мобильное приложени�
 
 
 ### Voice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
 
 #### Приложение AI Voice Changer для ПК и Mac — меняйте свой голос «на лету»
 
@@ -9838,7 +9838,7 @@ Voyp — Voice Over Your Phone — это мобильное приложени�
 
 
 ### Poly AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
 
 #### Голосовые помощники под руководством клиентов
 
@@ -9854,7 +9854,7 @@ Voyp — Voice Over Your Phone — это мобильное приложени�
 
 
 ### VoAgents
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voagents.webp" alt="VoAgents">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voagents.webp" alt="VoAgents">
 
 #### VoAgents.ai предлагает передовое решение голосового агента с искусственным интеллектом, предназначенное для изменения способов взаимодействия компаний с клиентами. 
 
@@ -9878,7 +9878,7 @@ VoAgents.ai — это передовая платформа голосовых 
 
 ## Веб-дизайн
 ### Magician
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magician.webp" alt="Magician">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magician.webp" alt="Magician">
 
 #### Фокусник для Фигмы
 
@@ -9894,7 +9894,7 @@ VoAgents.ai — это передовая платформа голосовых 
 
 
 ### welovenocode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
 
 #### Наймите лучших специалистов без кода и с низким кодом, чтобы быстро и недорого создать свой веб-сайт
 
@@ -9910,7 +9910,7 @@ VoAgents.ai — это передовая платформа голосовых 
 
 
 ### Designs AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
 
 #### Создавайте логотипы, видеоролики, баннеры, озвучку с помощью ИИ
 
@@ -9926,7 +9926,7 @@ VoAgents.ai — это передовая платформа голосовых 
 
 
 ### Kopage AI Website Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
 
 #### Конструктор веб-сайтов White-Label AI, который вы можете использовать для создания веб-сайтов для своих клиентов под вашим собственным брендом
 
@@ -9942,7 +9942,7 @@ Kopage AI Website Builder — это платформа с белой этике
 
 
 ### Durable
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-durable.webp" alt="Durable">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-durable.webp" alt="Durable">
 
 #### Долговечность: конструктор веб-сайтов с искусственным интеллектом и сервисное программное обеспечение для бизнеса
 
@@ -9958,7 +9958,7 @@ Kopage AI Website Builder — это платформа с белой этике
 
 
 ### Linkrr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkrr.webp" alt="Linkrr">
 
 #### Linkrr — делайте все на одной платформе!
 
@@ -9975,7 +9975,7 @@ Linkr — это универсальный инструмент управле�
 
 
 ### Aida
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aida.webp" alt="Aida">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aida.webp" alt="Aida">
 
 #### Bookmark.com | Конструктор сайтов без кода для начала бизнеса
 
@@ -10001,7 +10001,7 @@ Linkr — это универсальный инструмент управле�
 
 ## Рабочий процесс и автоматизация
 ### Riku
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riku.webp" alt="Riku">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riku.webp" alt="Riku">
 
 #### Riku.Ai - создание подсказок и наборов данных без кода для моделей искусственного интеллекта
 
@@ -10018,7 +10018,7 @@ Linkr — это универсальный инструмент управле�
 
 
 ### airops
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-airops.webp" alt="airops">
 
 #### AirPS — рабочие процессы искусственного интеллекта, способствующие росту. Создавайте, тестируйте, развертывайте и масштабируйте приложения искусственного интеллекта с помощью AirPS Studio.
 
@@ -10036,7 +10036,7 @@ Linkr — это универсальный инструмент управле�
 
 
 ### guidde
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-guidde.webp" alt="guidde">
 
 #### Волшебно создавайте потрясающие учебные материалы, примечания к функциям, СОП, руководства по адаптации, практические руководства, часто задаваемые вопросы с помощью ИИ.
 
@@ -10052,7 +10052,7 @@ guidde — это платформа генеративного искусств
 
 
 ### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
 
 #### Легко извлекайте данные с любого веб-сайта, используя всего несколько простых входных данных.
 
@@ -10069,7 +10069,7 @@ No-Code Scraper — это инструмент для очистки без к�
 
 
 ### WebscrapeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
 
 #### Очищайте любой веб-сайт без кода с помощью искусственного интеллекта
 
@@ -10085,7 +10085,7 @@ Webscrape AI — это продвинутая и удобная платфор�
 
 
 ### Sintra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sintra.webp" alt="Sintra">
 
 #### Sintra: ваш следующий сотрудник наймет на работу с помощью искусственного интеллекта
 
@@ -10101,7 +10101,7 @@ Webscrape AI — это продвинутая и удобная платфор�
 
 
 ### Hexowatch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
 #### Помимо доступности и цен, сторонние веб-сайты как источник данных, визуальный мониторинг веб-сайтов, отслеживание конкурентов.
 
@@ -10125,7 +10125,7 @@ Hexowatch — ваш помощник с искусственным интелл
 
 ## Помощник по письму
 ### Wordfixerbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
 
 #### Инструмент для перефразирования - лучший бесплатный онлайн-парафразировщик - Wordfixerbot
 
@@ -10141,7 +10141,7 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 ### AI Text Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
 
 #### Сказочный текстовый сумматор с искусственным интеллектом: более быстрый анализ контента
 
@@ -10157,7 +10157,7 @@ Hexowatch — ваш помощник с искусственным интелл
 
 
 ### Smodin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smodin.webp" alt="Smodin">
 
 ####  Продукты для помощи в написании и выполнении домашних заданий
 
@@ -10173,7 +10173,7 @@ Smodin предоставляет все необходимое для пись�
 
 
 ### BizPlanner AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
 #### Профессиональный генератор и составитель бизнес-планов с искусственным интеллектом
 
@@ -10189,7 +10189,7 @@ BizPlanner AI — это генератор бизнес-планов с иск�
 
 
 ### Rytr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rytr.webp" alt="Rytr">
 
 #### Rytr — лучший писатель искусственного интеллекта, генератор контента и помощник по написанию
 
@@ -10207,7 +10207,7 @@ Rytr — это помощник по написанию текстов с ис�
 
 
 ### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatart.webp" alt="ChatArt">
 
 #### ChatArt - лучшая платформа для создания контента AI для вас
 
@@ -10223,7 +10223,7 @@ ChatArt — это всеобъемлющая платформа для созд
 
 
 ### AI-Writer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
 
 #### AI Writer™ — лучший генератор текстов с искусственным интеллектом, обещанный.
 
