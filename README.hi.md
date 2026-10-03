@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://thataicollection.com/img/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
@@ -180,7 +180,7 @@
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
 ### Self-Hosted AI Stack
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
 
 #### डॉकर कंपोज़ के साथ लोकल AI, RAG, वॉइस और MCP टूल को सेल्फ़ होस्ट करें
 
@@ -196,7 +196,7 @@
 
 
 ### AIGoCode
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
 
 #### ऐगोकोड - AI - AI कलेक्शन पर लिस्ट किया गया
 
@@ -212,7 +212,7 @@
 
 
 ### ClartiyOne
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
 
 #### ज्यादा सोचने और अपने विचारों को व्यवस्थित करने के लिए AI मेंटल क्लैरिटी ऐप
 
@@ -228,7 +228,7 @@
 
 
 ### MuseGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
 
 #### MuseGen - टेक्स्ट, ऑडियो या लिरिक्स के 100% व्यावसायिक रूप से इस्तेमाल करने योग्य गानों के लिए AI म्यूज़िक जेनरेटर।
 
@@ -247,7 +247,7 @@ MuseGen क्रिएटर्स, मार्केटर्स, गेम �
 
 
 ### Seply
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
 
 #### AI स्पीकर सेपरेशन — स्पीकर के हिसाब से ऑडियो स्प्लिट करें | Sply
 
@@ -263,7 +263,7 @@ MuseGen क्रिएटर्स, मार्केटर्स, गेम �
 
 
 ### UGCfy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
 
 #### प्रॉडक्ट लिंक से AI UGC विज्ञापन बनाएं - AI कलेक्शन पर लिस्ट किया गया है
 
@@ -279,7 +279,7 @@ MuseGen क्रिएटर्स, मार्केटर्स, गेम �
 
 
 ### AI Product Photo
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
 
 #### ईकॉमर्स के लिए AI प्रॉडक्ट फोटो जेनरेटर | AI प्रोडक्ट फोटो
 
@@ -295,7 +295,7 @@ MuseGen क्रिएटर्स, मार्केटर्स, गेम �
 
 ## एआई एजेंट्स
 ### AI Agent Store
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
 
 #### एआई एजेंट स्टोर - क्रिएटर्स और यूज़र के लिए अल्टीमेट एआई एजेंट मार्केटप्लेस
 
@@ -311,7 +311,7 @@ AI एजेंट स्टोर वह जगह है जहाँ व्�
 
 
 ### NexusGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
 
 #### NexusGPT - बिना कोडिंग के, मिनटों में AI एजेंट बनाएं।
 
@@ -331,7 +331,7 @@ Nexus पर, तुम एजेंट बना सकते हो, जो �
 
 
 ### ImmersimAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
 
 #### किसी भी दुनिया में, किसी के भी साथ इमर्सिव और कहानी से प्रेरित रोल-प्ले।
 
@@ -350,7 +350,7 @@ Nexus पर, तुम एजेंट बना सकते हो, जो �
 
 
 ### AICamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
 #### टीमों के लिए ChatGPT
 AICamp एक एकीकृत प्लेटफ़ॉर्म के माध्यम से टीमों को प्रमुख AI मॉडल जैसे क्लाउड, बार्ड और कस्टम बड़े भाषा मॉडल तक पहुँच को केंद्रीकृत करने में मदद करता है। 
@@ -368,7 +368,7 @@ AICamp एक एकीकृत प्लेटफ़ॉर्म के मा
 
 
 ### Opencord AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
 
 #### सोशल मीडिया के लिए AI एजेंट-जनरेटेड कॉन्टेंट
 
@@ -384,7 +384,7 @@ AICamp एक एकीकृत प्लेटफ़ॉर्म के मा
 
 
 ### Genspark.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
 
 #### गेनस्पार्क एक AI एजेंट इंजन है जहाँ विशिष्ट AI एजेंट रिसर्च करते हैं और स्पार्कपेज नाम से कस्टम पेज जेनरेट करते हैं। 
 
@@ -400,7 +400,7 @@ AICamp एक एकीकृत प्लेटफ़ॉर्म के मा
 
 
 ### BrainSoup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
 #### अपने पीसी पर एक AI टीम बनाओ जो तुम्हारे लिए काम करे
 
@@ -424,7 +424,7 @@ AICamp एक एकीकृत प्लेटफ़ॉर्म के मा
 
 ## एआई आर्ट एंड इलस्ट्रेशन
 ### Canvora
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creativepixel.webp" alt="Canvora">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creativepixel.webp" alt="Canvora">
 
 #### एआई-संचालित क्रिएटिव स्टूडियो जो “असंभव” को “डन इन सेकंड्स” में बदल देता है।
 
@@ -444,7 +444,7 @@ CreativePixel एक ऐसा प्लेटफ़ॉर्म है, जो “
 
 
 ### Creative Fabrica
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
 
 #### अपने खुद के कस्टम फ़ॉन्ट जेनरेट करने और उन्हें Mac और Windows पर इंस्टॉल करने योग्य फॉर्मेट में डाउनलोड करने के लिए पहला AI टूल
 
@@ -462,7 +462,7 @@ CreativePixel एक ऐसा प्लेटफ़ॉर्म है, जो “
 
 
 ### Picture to Drawing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
 
 #### एआई-संचालित फ़ोटो से स्केच रूपांतरण के जादू का अनुभव करें। प्रामाणिक कलात्मक शैलियों और अविश्वसनीय विवरण को सुरक्षित रखकर किसी भी तस्वीर को चित्रकारी में बदलें।
 
@@ -478,7 +478,7 @@ CreativePixel एक ऐसा प्लेटफ़ॉर्म है, जो “
 
 
 ### Ink AI - Tattoo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
 
 #### InKai एक AI-संचालित टैटू जनरेटर है, जो यूज़र के इनपुट के आधार पर वैयक्तिकृत टैटू डिज़ाइन बनाता है।
 
@@ -497,7 +497,7 @@ InKai की एक खास विशेषता इसकी बॉडी �
 
 
 ### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
 #### APOB.AI - क्रिएटर AI | पर्सनलाइज्ड AI पोर्ट्रेट | AI इमेज और वीडियो
 
@@ -513,7 +513,7 @@ APOB AI AI इमेज, AI वीडियो और AI पोर्ट्र�
 
 
 ### AnimeGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
 
 #### दुनिया भर के लोगों के लिए शानदार AI इमेज बनाने के लिए सबसे अच्छा AI एनीमे जनरेटर।
 
@@ -529,7 +529,7 @@ AnimeGenius एक फ्रीमियम AI एनीमे जनरेट�
 
 
 ### Republiclabs.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
 
 #### Republiclabs.ai - लोगों का GenAI प्लैटफ़ॉर्म!
 
@@ -553,7 +553,7 @@ Republiclabs.ai एक AI संचालित प्लेटफ़ॉर्�
 
 ## एआई डिटेक्टर और ह्यूमनाइज़र
 ### WriteHuman
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
 
 #### राइटह्यूमन: अनडिटेक्टेबल एआई और एआई ह्यूमैनाइज़र
 
@@ -571,7 +571,7 @@ Republiclabs.ai एक AI संचालित प्लेटफ़ॉर्�
 
 
 ### ZeroGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
 
 #### ChatGPT जेनरेट किए गए टेक्स्ट का पता लगाने के लिए ZeroGPT सबसे भरोसेमंद और सटीक AI डिटेक्टर टूल है।
 
@@ -587,7 +587,7 @@ ZeroGPT.com की ताकत देखें — बेहतरीन AI ड
 
 
 ### aiundetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
 #### फ्रीमियम अनडिटेक्टेबल AI राइटिंग टूल जो AI डिटेक्टर्स को बायपास करता है
 
@@ -604,7 +604,7 @@ ZeroGPT.com की ताकत देखें — बेहतरीन AI ड
 
 
 ### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
 
 #### टेक्स्ट का विश्लेषण करने के लिए हमारे मुफ़्त AI कंटेंट डिटेक्टर का इस्तेमाल करें और देखें कि यह AI द्वारा जेनरेट किया गया था या नहीं। AI चेकर टूल, हमेशा के लिए 100% मुफ़्त।
 
@@ -620,7 +620,7 @@ ZeroGPT.com की ताकत देखें — बेहतरीन AI ड
 
 
 ### HumanizeAI.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
 
 #### Humanize AI की मदद से एआई-जनरेट किए गए टेक्स्ट को मानव-जैसे लेखन में ट्रांसफ़ॉर्म करें
 
@@ -636,7 +636,7 @@ Humanize AI, AI-जनरेट किए गए टेक्स्ट को �
 
 
 ### Tweet Detective
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
 
 #### X के लिए AI टेक्स्ट डिटेक्शन, AI-जनरेट की गई सामग्री की पहचान करके और उसका विश्लेषण करके तुम्हारे Twitter अनुभव को बेहतर बनाता है।
 
@@ -658,7 +658,7 @@ Humanize AI, AI-जनरेट किए गए टेक्स्ट को �
 
 
 ### GPT-Zero
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
 
 #### जीपीटी ज़ीरो - चैटजीपीटी, जीपीटी-4 और बहुत कुछ के लिए मुफ़्त AI कॉन्टेंट डिटेक्टर
 
@@ -682,7 +682,7 @@ Humanize AI, AI-जनरेट किए गए टेक्स्ट को �
 
 ## AI सॉन्ग और म्यूज़िक जेनरेटर
 ### BeatViz Ai Music Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
 
 #### BeatViz | म्यूज़िशियन के लिए AI म्यूज़िक वीडियो जेनरेटर
 
@@ -698,7 +698,7 @@ Humanize AI, AI-जनरेट किए गए टेक्स्ट को �
 
 
 ### Amadeus Code
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
 
 #### एमॅड्यूस कोड - इवोक म्यूज़िक, एमॅड्यूस टॉपलाइन, MusictGA-HR के पीछे की कंपनी
 
@@ -716,7 +716,7 @@ MusicTGA-HR एक API सेवा है जो कॉन्टेंट ब�
 
 
 ### Amazing AI Radio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
 
 #### अद्भुत AI रेडियो | AI- जनरेटेड म्यूज़िक स्ट्रीम करें, नए कलाकारों को खोजें, चार्ट देखें, और Amazing AI रेडियो पर अपने खुद के ट्रैक अपलोड करें।
 
@@ -733,7 +733,7 @@ Amazing AI Radio में आपका स्वागत है, जो दु
 
 
 ### Emergent Drums
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
 #### आर्टिफिशियल इंटेलिजेंस का उपयोग करके अद्वितीय ड्रम नमूने उत्पन्न करें
 
@@ -749,7 +749,7 @@ Amazing AI Radio में आपका स्वागत है, जो दु
 
 
 ### audjust.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
 
 #### Audjust AI - ऑडियो एडिटर और AI म्यूज़िक जेनरेटर: गाने छोटा करें, ऑडियो लंबा करें, लूप ढूँढें या टेक्स्ट से म्यूज़िक बनाएँ
 
@@ -766,7 +766,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### AI Lyrics Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
 
 #### आर्टिफिशियल इंटेलिजेंस सॉन्ग राइटर - ये लिरिक्स मौजूद नहीं हैं
 
@@ -782,7 +782,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### Aiva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Aiva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiva.webp" alt="Aiva">
 
 #### AIVA - आर्टिफिशियल इंटेलिजेंस भावनात्मक साउंडट्रैक संगीत तैयार कर रहा है
 
@@ -807,7 +807,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 ## एआई टैरो और डिविनेशन
 ### Quin-AI Tarot Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
 
 #### क़ुइन से कुछ भी पूछ लो। तुम्हारा निजी एआई टैरो रीडर। ✨
 
@@ -823,7 +823,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### TaroTeller
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
 
 #### टैरोटेलर- एक वेबसाइट जो टैरो कार्ड रीडिंग के लिए AI तकनीक का इस्तेमाल करती है
 
@@ -839,7 +839,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### SINE AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
 
 #### साइन एआई के ज़रिए ख़ुद के बारे में जानें: ज्योतिष, टैरो, और उसके बाद
 
@@ -855,7 +855,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### AI Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
 
 #### मुफ़्त ऑनलाइन एआई टैरो रीडिंग - अपना एआई टैरो रीडर चुनें
 
@@ -871,7 +871,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### AI Lenormand
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
 
 #### एआई-संचालित व्याख्याओं के साथ मुफ़्त ऑनलाइन लेनोरमैंड कार्ड रीडिंग। कार्ड के अर्थ जानें और विभिन्न स्प्रेड एक्सप्लोर करें।
 
@@ -887,7 +887,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### Yes or No Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
 
 #### हाँ या नहीं | मुफ़्त और सटीक AI टैरो रीडिंग
 
@@ -903,7 +903,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### Tarot Card Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
 
 #### टैरो कार्ड आर्ट: पर्सनलाइज्ड टैरो कार्ड इमेज जेनरेटर
 
@@ -927,7 +927,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 ## लेखा और वित्त
 ### StockGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
 
 #### एआई-पावर्ड सर्च इंजन
 
@@ -943,7 +943,7 @@ Audjust AI तुम्हेंं मौजूदा ऑडियो फ़ाइ
 
 
 ### GooseAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gooseai.webp" alt="GooseAI">
 
 #### Gooseai - अपने AI इंफ़्रास्ट्रक्चर के लिए ज़्यादा भुगतान करना बंद करो।
 
@@ -959,7 +959,7 @@ GooseAI API के ज़रिए डिलीवर की जाने वा
 
 
 ### MoneyCoach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
 #### MoneyCoach - मॉडर्न मनी मैनेजर और बजट ऐप
 
@@ -977,7 +977,7 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 
 ### Eilla
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eilla.webp" alt="Eilla">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eilla.webp" alt="Eilla">
 
 #### ईला - एम एंड ए, वीसी और पीई डील वर्कफ़्लो को पावर देने के लिए AI प्लेटफ़ॉर्म।
 
@@ -993,7 +993,7 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 
 ### BeeBee AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
 #### BeeBee.AI को अमेरिका के शेयर बाज़ार के लिए तैयार किया गया है, जो लंबी अवधि के निवेशकों के लिए है, जो मुख्य रूप से फ़ंडामेंटल विश्लेषण पर ध्यान देते हैं, और जो डेटा और जानकारी को महत्व देते हैं।
 
@@ -1011,7 +1011,7 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 
 ### Jinnee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jinnee.webp" alt="Jinnee">
 
 #### जिनी - आपका फिनटेक वर्चुअल असिस्टेंट
 
@@ -1027,7 +1027,7 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 
 ### Mrgn
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mrgn.webp" alt="Mrgn">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mrgn.webp" alt="Mrgn">
 
 #### एमआरजीएन - इंटेलिजेंट स्मॉल बिज़नेस बजटिंग एंड प्लानिंग सॉफ़्टवेयर
 
@@ -1053,7 +1053,7 @@ MoneyCoach एक पर्सनल फाइनेंस ऐप है, जो
 
 ## विज्ञापन क्रिएटिव जेनरेटर
 ### RMIQ Ads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
 
 #### तुम्हारा ऑल-इन-वन रिटेल मीडिया विज्ञापन प्लेटफ़ॉर्म
 
@@ -1069,7 +1069,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### Beb AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
 
 #### Beb.Ai - अपने ब्रांड के लिए अंतहीन रचनात्मक सामग्री पाओ
 
@@ -1091,7 +1091,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### Post Parrot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
 
 #### पोस्ट पैरट - रेडिट के लिए मुफ़्त मार्केटिंग टूल
 
@@ -1108,7 +1108,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### Persuva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-persuva.webp" alt="Persuva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-persuva.webp" alt="Persuva">
 
 #### पर्सुवा एआई-संचालित प्लेटफ़ॉर्म है, जिससे बड़े पैमाने पर प्रेरक, ज़्यादा बदलने वाली विज्ञापन कॉपी बनाई जाती है
 
@@ -1124,7 +1124,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### Creatify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
 
 #### किसी भी प्रॉडक्ट के URL से छोटे वीडियो विज्ञापन जेनरेट करें। 
 
@@ -1141,7 +1141,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### ThumbnailCreator.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
 
 #### ThumbnailCreator.com - AI YouTube थंबनेल क्रिएटर
 
@@ -1157,7 +1157,7 @@ RMIQ तुम्हेंं टॉप रिटेल मीडिया न�
 
 
 ### Jot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jot.webp" alt="Jot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jot.webp" alt="Jot">
 
 #### जोत - एआई विज्ञापन प्रति
 
@@ -1181,7 +1181,7 @@ Jot स्वचालित रूप से AI का उपयोग कर�
 
 ## एजेंटिक कोडिंग
 ### TestSprite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-testsprite.webp" alt="TestSprite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-testsprite.webp" alt="TestSprite">
 
 #### पहला फुली ऑटोनॉमस शुरू से अंत तक AI टेस्टिंग एजेंट
 
@@ -1197,7 +1197,7 @@ TestSprite एक पूरी तरह से ऑटोनॉमस AI टे�
 
 
 ### Wan2.7 AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
 
 #### Wan 2.7 | फ्री WAN वीडियो जेनरेटर ऑनलाइन
 
@@ -1213,7 +1213,7 @@ Wan 2.7 को मुफ़्त में ऑनलाइन आज़मा�
 
 
 ### AgentStamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
 
 #### AgentStamp — भरोसा रखें, सत्यापित है। कोड की एक लाइन।
 
@@ -1229,7 +1229,7 @@ AI एजेंट के लिए आइडेंटिटी सर्टि�
 
 
 ### Metatron
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-metatron.webp" alt="Metatron">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-metatron.webp" alt="Metatron">
 
 #### null
 
@@ -1245,7 +1245,7 @@ null
 
 
 ### NeuralTrust
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
 
 #### न्यूरलट्रस्ट | AI और एजेंट सुरक्षा के लिए प्लेटफ़ॉर्म
 
@@ -1261,7 +1261,7 @@ null
 
 
 ### Rainforest QA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
 #### जो SaaS टीमें तेज़ी से शिप करना चाहती हैं, उनके लिए परेशानी से मुक्त टेस्ट ऑटोमेशन
 
@@ -1277,7 +1277,7 @@ null
 
 
 ### automatic crud api + ui generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-automatic-crud-api-+-ui-generator.webp" alt="automatic crud api + ui generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-automatic-crud-api-%2B-ui-generator.webp" alt="automatic crud api + ui generator">
 
 #### GitHub - सेल्फ-इवॉल्विंग-रनटाइम/रिवॉल्व: अपने डेटाबेस स्कीमा से तुरन्त फुल-स्टैक एडमिन पैनल, API और UI जेनरेट करें—जो AI एजेंट और LLM द्वारा संचालित होते हैं और उम्मीद करते हैं कि भविष्य में उपयोग के आधार पर एक ख़ुद विकसित होने वाला रनटाइम होगा
 
@@ -1301,7 +1301,7 @@ null
 
 ## एनिमेशन और 3डी मॉडलिंग
 ### Blimey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blimey.webp" alt="Blimey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blimey.webp" alt="Blimey">
 
 #### ब्लिमी - कल्पना से छवि तक मिनटों में
 
@@ -1317,7 +1317,7 @@ null
 
 
 ### Neuralframes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
 #### न्यूरल फ़्रेम्स - विज़ुअल वर्ल्ड के लिए सिंथेसाइज़र खोजें।
 
@@ -1334,7 +1334,7 @@ null
 
 
 ### Make3D
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make3d.webp" alt="Make3D">
 
 #### Make3D - अपनी छवि को 3D बनाओ
             
@@ -1353,7 +1353,7 @@ null
 
 
 ### Tripo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tripo.webp" alt="Tripo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tripo.webp" alt="Tripo">
 
 #### इमेज और टेक्स्ट से AI 3D मॉडल जेनरेट करें।
 
@@ -1369,7 +1369,7 @@ TRIPO एक जनरेटिव फ़ाउंडेशन मॉडल ह�
 
 
 ### plask
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-plask.webp" alt="plask">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-plask.webp" alt="plask">
 
 #### प्लास्क मोशन: एआई-पावर्ड मोकैप एनिमेशन टूल
 
@@ -1387,7 +1387,7 @@ TRIPO एक जनरेटिव फ़ाउंडेशन मॉडल ह�
 
 
 ### Meshy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
 
 #### null
 
@@ -1403,7 +1403,7 @@ null
 
 
 ### Kaedim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kaedim.webp" alt="Kaedim">
 
 #### मिनटों में जादुई रूप से Custom3D मॉडल बनाएं
 
@@ -1427,7 +1427,7 @@ null
 
 ## वास्तुकला और आंतरिक डिजाइन
 ### Interior AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
 #### इंटीरियर एआई: आर्टिफ़िकल इंटेलीजेंस का इस्तेमाल करने वाला इंटीरियर डिज़ाइन आइडिया, प्रेरणा और वर्चुअल स्टेजिंग ऐप
 
@@ -1443,7 +1443,7 @@ null
 
 
 ### Coolaiid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
 
 #### Coolaid - AI की मदद से अपने इंटीरियर डिज़ाइन को ट्रांसफ़ॉर्म करें
 
@@ -1459,7 +1459,7 @@ null
 
 
 ### Dimensions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
 #### डाइमेंशन - एआई के साथ तेजी से विज़ुअल कॉन्सेप्ट बनाएं
 
@@ -1475,7 +1475,7 @@ null
 
 
 ### Oda Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
 #### ओडा मूडबोर्ड • ओडीए स्टूडियो - एआई की मदद से कुछ ही सेकंड में अपने घर को कस्टमाइज़ करने के लिए अपना स्टाइल और रंग चुनें।
 
@@ -1492,7 +1492,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### Deft
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deft_.webp" alt="Deft">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deft_.webp" alt="Deft">
 
 #### डेफ़्ट इमेजिन - किसी घर को 10 सेकंड या उससे कम समय में रीस्टाइल करें। प्रेरणा, इंटीरियर डिज़ाइन, स्टेजिंग, और बहुत कुछ।
 
@@ -1510,7 +1510,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### AI Room Planner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
 
 #### एआई द्वारा आंतरिक डिजाइन
 
@@ -1526,7 +1526,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### Image Computer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-computer.webp" alt="Image Computer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### अपनी अगली आंतरिक सज्जा / पैनिटिंग / फैशन संग्रह / संकल्पना कला तैयार करें
 
@@ -1550,7 +1550,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 ## ऑडियो एन्हांसर और वोकल रिमूवल
 ### NOISE REMOVER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
 
 #### मुफ़्त बैकग्राउंड नॉइज़ रिमूवल टूल - एआई नॉइज़ रिमूवर
 
@@ -1566,7 +1566,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### Adobe Speech Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
 #### वॉयस रिकॉर्डिंग को मुफ्त में बढ़ाएं
 
@@ -1582,7 +1582,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### Assemblyai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
 
 #### एआई मॉडल के लिए #1 एपीआई प्लेटफॉर्म
 
@@ -1598,7 +1598,7 @@ AI की मदद से कुछ ही सेकंड में अपन�
 
 
 ### Cleanvoice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
 
 #### अपने ऑडियो रिकॉर्डिंग्स से फिलर वर्ड्स से छुटकारा पाएं
 
@@ -1614,7 +1614,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### Adobe Mic Check
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
 
 #### Adobe माइक चेक - अपने माइक को मुफ़्त में जाँचें
 
@@ -1631,7 +1631,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### Krisp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-krisp.webp" alt="Krisp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-krisp.webp" alt="Krisp">
 
 #### दुनिया का #1 शोर रद्द करने वाला ऐप - क्रिस्प
 
@@ -1647,7 +1647,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### Audio Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
 
 #### ऑडियो बढ़ाने वाला - संगीतकार, पॉडकास्ट, इंटरव्यू वगैरह के लिए AI ऑडियो एन्हांसर।
 
@@ -1672,7 +1672,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 ## अवतारों
 ### Real Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
 
 #### AI का इस्तेमाल करके अपनी और प्रियजनों की वास्तविक फ़ोटो जेनरेट करें
 
@@ -1690,7 +1690,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### HairstyleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
 #### एआई की शक्ति से नए हेयर स्टाइल आज़माएं
 
@@ -1706,7 +1706,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### CustomQR AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
 
 #### व्यवसाय के लिए क्यूआर कोड जनरेशन सेवा
 
@@ -1722,7 +1722,7 @@ Cleanvoice एक आर्टिफिशियल इंटेलिजें�
 
 
 ### Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
 #### अपना खुद का फ़ोटोरियलिस्टिक AI अवतार बनाएं
 
@@ -1738,7 +1738,7 @@ AI की मदद से लोगों की फ़ोटोरियलिस
 
 
 ### Avtrs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
 #### हैप्पी यूजर्स द्वारा बनाए गए अवतार
 
@@ -1754,7 +1754,7 @@ AI की मदद से लोगों की फ़ोटोरियलिस
 
 
 ### Vana
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vana.webp" alt="Vana">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vana.webp" alt="Vana">
 
 #### एक डिजिटल ट्विन बनाएं, जानें कि तुम असल में कौन हो, इसे ऐप्स की मदद से ले जाओ और टेक के भविष्य का अनुभव करो। 
 
@@ -1770,7 +1770,7 @@ AI की मदद से लोगों की फ़ोटोरियलिस
 
 
 ### aiselfi.es
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
 
 #### जल्दी और आसानी से AI- जनरेट की गई प्रोफ़ाइल तस्वीरें बनाएं। मिनटों में मुफ़्त, वैयक्तिकृत AI प्रोफ़ाइल चित्र बनाने के लिए हमारे टूल का इस्तेमाल करें। इसे आज़माएँ → aiselfi.es
 
@@ -1796,7 +1796,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 ## बैकग्राउंड रिमूवर
 ### Zoomscape
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
 
 #### जूमस्केप.आई
 
@@ -1812,7 +1812,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### Green Screen AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
 
 #### एआई के साथ किसी भी छवि की पृष्ठभूमि बदलें।
 
@@ -1828,7 +1828,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### ImageColorizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
 
 #### Colorize - iOS और Android के लिए मोबाइल ऐप
 
@@ -1844,7 +1844,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### Stillgram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stillgram.webp" alt="Stillgram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stillgram.webp" alt="Stillgram">
 
 #### स्टिलग्राम™ - ए.आई. Iphone® के लिए यात्रा फोटो कैमरा ऐप
 
@@ -1860,7 +1860,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### Mokker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mokker.webp" alt="Mokker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mokker.webp" alt="Mokker">
 
 #### मोकर एआई - इंस्टेंट एआई बैकग्राउंड रिप्लेसमेंट
 
@@ -1878,7 +1878,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### img-cut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-img-cut.webp" alt="img-cut">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-img-cut.webp" alt="img-cut">
 
 #### सटीक, सुरक्षित और निःशुल्क पृष्ठभूमि हटाने के लिए अंतिम AI समाधान
 
@@ -1894,7 +1894,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 
 ### Pixian
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixian.webp" alt="Pixian">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pixian.webp" alt="Pixian">
 
 #### इमेज बैकग्राउंड हटाएं, फ्री एचडी, नो साइनअप - Pixian.Ai
 
@@ -1918,7 +1918,7 @@ Aiselfi.es एक नवोन्मेषी प्लेटफ़ॉर्म 
 
 ## किताब और नावेल राइटर
 ### AI-story-Generator site
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
 
 #### यह टूल तुम्हेंं बेहतरीन कहानियाँ बनाने में मदद कर सकता है
 
@@ -1934,7 +1934,7 @@ AI स्टोरी जेनरेटर एक मुफ़्त ऑनल�
 
 
 ### Perchance AI Story
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
 
 #### शायद एआई स्टोरी एक ऐसी वेबसाइट है जो कई भाषाओं को सपोर्ट करती है और स्टोरी लिखना जारी रख सकती है
 
@@ -1950,7 +1950,7 @@ AI स्टोरी जेनरेटर एक मुफ़्त ऑनल�
 
 
 ### Scene One
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
 #### उपन्यास, लघु कथाओं और कारोबार के लिए ऑनलाइन किताब लेखन ऐप्लिकेशन
 
@@ -1967,7 +1967,7 @@ AI स्टोरी जेनरेटर एक मुफ़्त ऑनल�
 
 
 ### Fable Fiesta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
 
 #### फ़ेबल फ़ेस्टा, तुम्हारा क्रिएटिव AI का सह-लेखक
 
@@ -1983,7 +1983,7 @@ Fable Fiesta रचनात्मक लेखन सहायक है, ज�
 
 
 ### StoryBee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
 #### StoryBee एक ऐसा प्लेटफ़ॉर्म है जहाँ यूज़र AI की मदद से स्टोरीज़ बना सकते हैं।
 
@@ -1999,7 +1999,7 @@ StoryBee एक AI-संचालित प्लेटफ़ॉर्म ह�
 
 
 ### Sudowrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
 
 #### हमारे जादुई लेखन एआई के साथ लेखक के ब्लॉक को तोड़ें और अधिक रचनात्मक बनें
 
@@ -2015,7 +2015,7 @@ StoryBee एक AI-संचालित प्लेटफ़ॉर्म ह�
 
 
 ### Storywizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storywizard.webp" alt="Storywizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storywizard.webp" alt="Storywizard">
 
 #### Storywizard.Ai - AI का उपयोग करके बहुत कम समय में अविश्वसनीय बच्चों की कहानियां बनाएं
 
@@ -2039,7 +2039,7 @@ Storywizard एआई का उपयोग आपको बच्चों क
 
 ## CRM और ग्राहक डेटा
 ### REI BlackBook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
 
 #### आरईआई ब्लैकबुक: तुम्हारा पूरा रियल एस्टेट निवेश समाधान
 
@@ -2061,7 +2061,7 @@ Storywizard एआई का उपयोग आपको बच्चों क
 
 
 ### WAPlus - WhatsApp CRM
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
 
 #### WhatsApp CRM, CRM इंटीग्रेशन, कॉन्टैक्ट मैनेजमेंट, प्रॉडक्टिविटी, शेड्यूल मैसेज, ऑटो रिप्लाई, AI चैटबोट, AI ट्रांसलेटर
 WaPlus CRM: अपने WhatsApp की प्रॉडक्टिविटी को सुपरचार्ज करें
@@ -2083,7 +2083,7 @@ WaPlus एक ऑल-इन-वन WhatsApp CRM है, जो तुम्ह�
 
 
 ### Oliv AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
 
 #### ऑलिव को रिसर्च करने, नोट्स लेने और हर कॉल के बाद अपना CRM अपडेट करने में तुम्हारी मदद करने दें: ताकि तुम बातचीत जीतने पर ध्यान केंद्रित कर सको!
 
@@ -2099,7 +2099,7 @@ WaPlus एक ऑल-इन-वन WhatsApp CRM है, जो तुम्ह�
 
 
 ### Ctrl
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrl.webp" alt="Ctrl">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrl.webp" alt="Ctrl">
 
 #### आपके जटिल सीआरएम वर्कफ़्लोज़ के लिए एक आधुनिक यूआई
 
@@ -2115,7 +2115,7 @@ WaPlus एक ऑल-इन-वन WhatsApp CRM है, जो तुम्ह�
 
 
 ### Foundy.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
 
 #### Foundy's AI और विशेषज्ञ सहायता से अपने व्यवसाय को ज़्यादा मूल्यांकन पर बेचें या गुणवत्तापूर्ण अधिग्रहण पाएं।
 
@@ -2131,7 +2131,7 @@ Foundy.com पहला AI-सक्षम प्लेटफ़ॉर्म ह
 
 
 ### forms.app
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-forms-app.webp" alt="forms.app">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-forms-app.webp" alt="forms.app">
 
 #### ऑनलाइन फ़ॉर्म बिल्डर ऐप्लिकेशन जो यूज़र को किसी भी तरह के फ़ॉर्म, सर्वे और क्विज़ बनाने की सुविधा देता है। 
 
@@ -2148,7 +2148,7 @@ forms.app एक यूज़र फ़्रेंडली प्लेटफ�
 
 
 ### Skydis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-skydis.webp" alt="Skydis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-skydis.webp" alt="Skydis">
 
 #### Skydis - वेबसाइटों के लिए सबसे आसान AI चैटबोट बिल्डर। यह बिज़नेस को विज़िटर से जुड़ने, लीड कैप्चर करने और 24/7 ग्राहक सहायता प्रदान करने में मदद करता है।
 
@@ -2172,7 +2172,7 @@ forms.app एक यूज़र फ़्रेंडली प्लेटफ�
 
 ## चैट बॉट
 ### HammerAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hammerai.webp" alt="HammerAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hammerai.webp" alt="HammerAI">
 
 #### रोल-प्लेइंग AI कैरेक्टर के साथ बात करो, जो स्थानीय स्तर पर तुम्हारे ब्राउज़र में या डेस्कटॉप ऐप पर चलते हैं - 100% मुफ़्त और पूरी तरह से निजी।
 
@@ -2189,7 +2189,7 @@ forms.app एक यूज़र फ़्रेंडली प्लेटफ�
 
 
 ### Albus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-albus.webp" alt="Albus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-albus.webp" alt="Albus">
 
 #### एल्बस - चैटजीपीटी नाउ ऑन स्लैक | स्प्रिंगवर्क्स
 
@@ -2205,7 +2205,7 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 ### My AskAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
 #### कॉफ़ी बनाने में जितनी जल्दी होती है, उससे कहीं ज़्यादा तेज़ी से AI असिस्टेंट बनाएँ
 
@@ -2221,7 +2221,7 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 ### Owlbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-owlbot.webp" alt="Owlbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-owlbot.webp" alt="Owlbot">
 
 #### Owlbot, AI-संचालित एक अत्याधुनिक चैटबोट सेवा प्रदान करता है, जो तुम्हारे डेटा के साथ सहजता से इंटीग्रेट हो जाती है, ताकि तुम्हेंं, तुम्हारे ग्राहकों या तुम्हारी टीम को तुरंत प्रतिसाद मिले। 
 
@@ -2237,7 +2237,7 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 ### Chatbase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
 #### कस्टम चैटGPT
 तुम्हारे डेटा के लिए - अपने डेटा पर प्रशिक्षित AI चैटबोट बनाएँ
@@ -2254,7 +2254,7 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 ### HUMATA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humata.webp" alt="HUMATA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humata.webp" alt="HUMATA">
 
 #### हमता - तुम्हारी डेटा फ़ाइलों के लिए चैटजीपीटी। पूछना स्किमिंग से ज़्यादा तेज़ है।
 
@@ -2270,7 +2270,7 @@ Albus एक AI प्लेटफ़ॉर्म है जो मानव स
 
 
 ### Chatsimple
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
 
 #### ChatGPT बिज़नेस चैटबॉट तुम्हारे लिए आसान बना दिया गया है
 
@@ -2294,7 +2294,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 ## कोडिंग असिस्टेंट
 ### ExplainDev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
 
 #### एक्सप्लेनदेव - कोड एक्सप्लेनर जो संदर्भ में आपके प्रश्नों का उत्तर देता है
 
@@ -2310,7 +2310,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### Dynamiq
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
 
 #### GenAI अनुप्रयोगों के लिए ऑपरेटिंग प्लेटफ़ॉर्म
 
@@ -2326,7 +2326,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### Interview Solver
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
 
 #### हमारे AI कोपिलॉट के साथ अपने लाइव कोडिंग इंटरव्यू में सफलता हासिल करो
 
@@ -2344,7 +2344,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### Swimm AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
 #### आपका कोड दस्तावेज़ीकरण महाशक्ति
 
@@ -2360,7 +2360,7 @@ ChatSimple एक ऐसा प्लेटफ़ॉर्म है, जो छ
 
 
 ### Qodo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codiumai.webp" alt="Qodo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codiumai.webp" alt="Qodo">
 
 #### व्यस्त देवों के लिए सार्थक परीक्षण
 
@@ -2376,7 +2376,7 @@ CodiumAI आपके कोड का विश्लेषण करता ह
 
 
 ### JustCopy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
 
 #### justcopy.ai - AI एजेंट बिना किसी सेटअप के 2 मिनट के अंदर कॉपी करने, कस्टमाइज़ करने और डिप्लॉय करने के लिए
 
@@ -2392,7 +2392,7 @@ JustCopy.ai की मदद से कोई भी मिनटों मे�
 
 
 ### CodeWP
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
 #### Codewp - AI Wordpress कोड जेनरेटर और सहायक
 
@@ -2416,7 +2416,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 ## सामग्री निर्माण और एसईओ
 ### Taskade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-taskade.webp" alt="Taskade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-taskade.webp" alt="Taskade">
 
 #### आपके और आपकी टीमों के लिए दूसरा मस्तिष्क। आपकी टीम की उत्पादकता को सुपरचार्ज करने के लिए एक साथ पांच एआई-संचालित उपकरण। टास्कडे के साथ, आपका सारा काम एक एकीकृत कार्यक्षेत्र में समन्वयित होता है।
 
@@ -2432,7 +2432,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### XXAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xxai.webp" alt="XXAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-xxai.webp" alt="XXAI">
 
 #### XXAI — GPT-4o और क्लाउड 3.5 के लिए प्रीमियर AI कोपायलट
 
@@ -2448,7 +2448,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### Everneed AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
 
 #### कम प्रयासों में बेहतर कॉन्टेंट बनाएं।
 
@@ -2466,7 +2466,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### The Humanize Ai Pro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
 
 #### द ह्यूमनाइज़ एआई - एआई से जनरेट किए गए कॉन्टेंट को मानव लेखन में ट्रांसफ़ॉर्म करें
 
@@ -2482,7 +2482,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### Content Raptor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-karolina.webp" alt="Content Raptor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-karolina.webp" alt="Content Raptor">
 
 #### मार्केट पर सबसे अच्छा कंटेंट ऑप्टिमाइज़ेशन टूल - कंटेंट रैप्टर
 
@@ -2498,7 +2498,7 @@ CodeWP एक वर्डप्रेस कोड जनरेटर है �
 
 
 ### BurstyAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
 
 #### 10 गुना तरक्की के लिए वैयक्तिकृत AI: लेखन, एसईओ और आउटरीच को ऑटोमेटिक बनाता है
 
@@ -2516,7 +2516,7 @@ BurstyAI एक प्लेटफ़ॉर्म है जो कंटें�
 
 
 ### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storychief.webp" alt="StoryChief">
 
 #### डेटा से चलने वाली जानकारी और AI की मदद से जीतने वाली कॉन्टेंट की रणनीतियां बनाएं। 
 
@@ -2541,7 +2541,7 @@ StoryChief तुम्हेंं प्रभावी कंटेंट र
 
 ## कवर लेटर जेनरेटर
 ### Coverletterwrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
 
 #### कवर लेटर लिखें
 
@@ -2557,7 +2557,7 @@ StoryChief तुम्हेंं प्रभावी कंटेंट र
 
 
 ### Cover Letter AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
 
 #### कवर लेटर एआई
 
@@ -2573,7 +2573,7 @@ StoryChief तुम्हेंं प्रभावी कंटेंट र
 
 
 ### Your Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
 
 #### एआई कवर लेटर बिल्डर - आरंभ करने के लिए अपना बायोडाटा अपलोड करें
 
@@ -2589,7 +2589,7 @@ StoryChief तुम्हेंं प्रभावी कंटेंट र
 
 
 ### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
 #### हर काम के खुलने के लिए कुछ ही सेकंड में तैयार किए गए कवर लेटर
 
@@ -2605,7 +2605,7 @@ AI को एक साथ 10 आउटपुट तक एक्सप्लो
 
 
 ### resumator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumator.webp" alt="resumator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumator.webp" alt="resumator">
 
 #### एक नौकरी के लिए देख रहे हैं? हमने आपका ध्यान रखा है।
 
@@ -2621,7 +2621,7 @@ AI को एक साथ 10 आउटपुट तक एक्सप्लो
 
 
 ### Writemeacoverletter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
 
 #### मुझे एक कवर लेटर लिखें
 
@@ -2637,7 +2637,7 @@ AI को एक साथ 10 आउटपुट तक एक्सप्लो
 
 
 ### AI Rental Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
 
 #### 🏡 शेयरहाउस - AI द्वारा संचालित रेंटल कवर लेटर के साथ मुफ़्त हाउसमेट फ़ाइंडर ⚡️
 AI से मिलने वाले कवर लेटर के साथ भीड़ से अलग दिखें
@@ -2664,7 +2664,7 @@ AI से मिलने वाले कवर लेटर के साथ �
 
 ## ग्राहक सहेयता
 ### Chat Data
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chat-data.webp" alt="Chat Data">
 
 #### 24/7 कस्टम AI चैटबोट और लाइव चैट एस्केलेशन
 
@@ -2686,7 +2686,7 @@ AI से मिलने वाले कवर लेटर के साथ �
 
 
 ### Chaindesk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
 
 #### तुम्हारे डेटा के आधार पर बिना कोड वाले वार्तालाप एजेंट ओपन सोर्स प्लेटफ़ॉर्म करते हैं।
 
@@ -2702,7 +2702,7 @@ AI से मिलने वाले कवर लेटर के साथ �
 
 
 ### MotionShot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-motionshot.webp" alt="MotionShot">
 
 #### अपने उत्पादों और ग्राहकों के लिए आकर्षक वॉकथ्रू गाइड बनाएं
 
@@ -2718,7 +2718,7 @@ MotionShot तुम्हेंं कई इस्तेमाल के म�
 
 
 ### SiteSpeakAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
 #### ChatGPT के साथ अपनी ग्राहक सहायता को स्वचालित बनाएं।
 
@@ -2734,7 +2734,7 @@ MotionShot तुम्हेंं कई इस्तेमाल के म�
 
 
 ### Rosie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rosie.webp" alt="Rosie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rosie.webp" alt="Rosie">
 
 #### रोज़ी छोटे और मध्यम व्यवसायों के लिए AI फ़ोन का जवाब देने वाली सेवा है।
 
@@ -2754,7 +2754,7 @@ MotionShot तुम्हेंं कई इस्तेमाल के म�
 
 
 ### FastBots.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
 
 #### FastBots.ai: इंटेलिजेंट ऑटोमेशन के लिए तुम्हारा गेटवे
 
@@ -2770,7 +2770,7 @@ MotionShot तुम्हेंं कई इस्तेमाल के म�
 
 
 ### chtrbx
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jake-b.webp" alt="chtrbx">
 
 #### Chtrbx: AI-संचालित जानकारी के साथ ग्राहक सेवा में क्रांति लाएं
 
@@ -2794,7 +2794,7 @@ Chtrbx एक AI चैट प्लेटफ़ॉर्म है जो बि�
 
 ## डेटा एनालिसिस
 ### LLM-Powered Invoice & Receipt Extractor (OSS)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
 
 #### एलएलएम द्वारा संचालित इनवॉइस और रसीद एक्सट्रैक्टर (OSS)
 
@@ -2812,7 +2812,7 @@ Chtrbx एक AI चैट प्लेटफ़ॉर्म है जो बि�
 
 
 ### NewsDeck from OneSub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
 
 #### न्यूज़डेक - रोज़ाना हज़ारों लेख ढूँढें, फ़िल्टर करें और उनका विश्लेषण करें।
 
@@ -2830,7 +2830,7 @@ Chtrbx एक AI चैट प्लेटफ़ॉर्म है जो बि�
 
 
 ### SummerEyes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
 
 #### Summereyes: तुम्हारे ब्राउज़र में AI द्वारा संचालित सारांश
 
@@ -2846,7 +2846,7 @@ Summereyes - इंटरनेट पर मौजूद किसी भी �
 
 
 ### DetangleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
 
 #### किसी भी पॉडकास्ट, ईमेल, कानूनी दस्तावेज़, किताब वगैरह को संक्षेप में बताओ, ताकि तुम कर सको
 जो मायने रखता है उस पर ध्यान दो।
@@ -2863,7 +2863,7 @@ Summereyes - इंटरनेट पर मौजूद किसी भी �
 
 
 ### Genius Sheets
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
 #### जीनियस शीट्स - बिज़नेस इंटेलिजेंस फ़्रॉम द फ्यूचर
 एआई पावर्ड डेटा एनालिटिक्स
@@ -2884,7 +2884,7 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 
 ### Decile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-decile.webp" alt="Decile">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-decile.webp" alt="Decile">
 
 #### पूछकर अपनी जरूरत का डेटा प्राप्त करें।
 
@@ -2900,7 +2900,7 @@ Genius Sheets AI तुम्हारे सभी महत्वपूर्�
 
 
 ### AutoPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
 #### ऑटोप्रेडिक्ट - भविष्यवाणी करो कि तुम्हारी कार कितने समय तक चलेगी
 
@@ -2924,7 +2924,7 @@ AutoPredict वह पहला ऐप है जो आर्टिफिशि
 
 ## डेटाबेस और एसक्यूएल असिस्टेंट
 ### Scale
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scale.webp" alt="Scale">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scale.webp" alt="Scale">
 
 #### स्केल एआई: तुम्हारे डेटा के साथ पावर जनरेटिव एआई
 
@@ -2940,7 +2940,7 @@ AutoPredict वह पहला ऐप है जो आर्टिफिशि
 
 
 ### ai2sql
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
 
 #### एसक्यूएल क्वैरी बिल्डर - एसक्यूएल क्वैरी बिल्डर एआई बॉट
 
@@ -2956,7 +2956,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### QueryGenie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
 
 #### डीबी प्रश्न तेजी से लिखें!
 
@@ -2972,7 +2972,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### Code Language Converter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
 
 #### कोड लैंग्वेज कन्वर्टर - AI का उपयोग करके कोड को अन्य भाषाओं में बदलें
 
@@ -2988,7 +2988,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### DataLang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-datalang.webp" alt="DataLang">
 
 #### डेटाबेस और एसक्यूएल का इस्तेमाल करके कस्टम ChatGPT बनाएं
 
@@ -3004,7 +3004,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### AI SQL BOT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
 
 #### AI SQL क्वेरी बिल्डर: बिना किसी पूर्व SQL ज्ञान के SQL क्वेरीज़ बनाने का सबसे आसान तरीका - AI का इस्तेमाल करने वाला SQL क्वेरी बिल्डर
 
@@ -3021,7 +3021,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### Text2SQL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
 #### Text2Sql.Ai - AI की मदद से मुफ़्त में SQL क्वेरीज़ जेनरेट करें!
 
@@ -3046,7 +3046,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 ## डेटिंग प्रोफ़ाइल और पिकअप लाइन
 ### Roast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roast.webp" alt="Roast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roast.webp" alt="Roast">
 
 #### डेटिंग ऐप प्रोफाइल एआई विश्लेषण - फोटोशूट एआई जेनरेटर
 
@@ -3062,7 +3062,7 @@ AI2SQL के साथ, इंजीनियर और गैर-इंजी�
 
 
 ### WingmanX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
 
 #### विंगमैनएक्स एआई डेटिंग असिस्टेंट - बेस्ट रिज़ पिकअप लाइन्स
 
@@ -3078,7 +3078,7 @@ WingManX के ज़रिए सबसे अच्छी राइज़ प
 
 
 ### HotConvo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
 
 #### चिंगारी रोमांस - अपने ऑनलाइन डेटिंग के लिए मज़ा, मजाकिया और सेक्सी चैट सुझाव प्राप्त करें।
 
@@ -3094,7 +3094,7 @@ WingManX के ज़रिए सबसे अच्छी राइज़ प
 
 
 ### TinderProfile AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
 
 #### डेटिंग के लिए एआई फोटोशूट जेनरेटर
 
@@ -3110,7 +3110,7 @@ TinderProfile.ai डेटिंग प्रोफ़ाइल को बढ़
 
 
 ### OneDateIdea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
 
 #### वन डेट आइडिया पाओ! OneDateIdea.com प्रेरणा स्रोत के रूप में काम करता है, यह पक्का करता है कि तुम्हारी डेट उबाऊ या सामान्य यात्रा न हो।
 
@@ -3126,7 +3126,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 
 ### Dating Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
 
 #### बेहतर डेटिंग फ़ोटो के साथ ज़्यादा मैच पाओ
 
@@ -3142,7 +3142,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 
 ### LoveGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
 
 #### आकर्षक और ध्यान आकर्षित करने वाला डेटिंग बायोस बनाएं और टिंडर, बंबल और अन्य पर बेहतर मिलान प्राप्त करें!
 
@@ -3166,7 +3166,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 ## ई-कॉमर्स
 ### Embolden
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-embolden.webp" alt="Embolden">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-embolden.webp" alt="Embolden">
 
 #### अपने ईकॉमर्स लेखन को सशक्त बनाने के लिए एआई का उपयोग करें।
 
@@ -3182,7 +3182,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 
 ### unbounce
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbounce.webp" alt="unbounce">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unbounce.webp" alt="unbounce">
 
 #### आपके व्यवसाय को बढ़ाने के लिए स्मार्ट मार्केटिंग टूल
 
@@ -3198,7 +3198,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 
 ### DoMyShoot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
 
 #### DoMyShoot - उत्पाद फोटोग्राफी सरलीकृत
 
@@ -3214,7 +3214,7 @@ OneDateIdea किसी डेट की योजना बनाने के
 
 
 ### CopyMonkey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
 
 #### आपका एआई-संचालित अमेज़ॅन लिस्टिंग अनुकूलन विशेषज्ञ
 
@@ -3230,7 +3230,7 @@ CopyMonkey सेकंडों में Amazon लिस्टिंग क�
 
 
 ### Prems Ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
 
 #### Prems Ai 🔔 📉🚨 कीमत में कमी और रीस्टॉक अलर्ट्स
 
@@ -3248,7 +3248,7 @@ CopyMonkey सेकंडों में Amazon लिस्टिंग क�
 
 
 ### Zust AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
 
 #### प्रॉडक्ट फ़ोटोशूट के लिए बेहतरीन AI प्लेटफ़ॉर्म
 
@@ -3264,7 +3264,7 @@ AI का इस्तेमाल करके तुरंत शानदा�
 
 
 ### Wizishop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wizishop.webp" alt="Wizishop">
 
 #### एसईओ-संचालित ईकॉमर्स के साथ अपना व्यवसाय बढ़ाएँ
 
@@ -3288,7 +3288,7 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 ## ईमेल सहायक
 ### DraftLab
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-draftlab.webp" alt="DraftLab">
 
 #### ड्राफ्टलैब ऐ: एआई के साथ तेजी से बेहतर ईमेल लिखें
 
@@ -3304,7 +3304,7 @@ WiziShop SEO-संचालित ई-कॉमर्स को पहले �
 
 
 ### EmailTriager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
 
 #### ईमेलट्राइजर · ऑटोपायलट पर ईमेल।
 
@@ -3320,7 +3320,7 @@ EmailTriager में, हम ऐसे उत्पाद बनाते ह�
 
 
 ### AImReply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aimreply.webp" alt="AImReply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aimreply.webp" alt="AImReply">
 
 #### तुम्हारा सबसे अच्छा AI ईमेल सहायक। इंटेलिजेंट ऑटोमेशन की मदद से अपनी ईमेल उत्पादकता को सुपरचार्ज करें। AIM रिप्लाई को तुम्हारी ईमेल प्रतिक्रियाओं का विश्लेषण करने और उन्हें बेहतर बनाने दें, जिससे तुम्हारा समय बचता है
 
@@ -3338,7 +3338,7 @@ AIMREPLY में, हमारी टीम अविश्वसनीय स
 
 
 ### Intellimail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-intellimail.webp" alt="Intellimail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-intellimail.webp" alt="Intellimail">
 
 #### आपका व्यक्तिगत ईमेल सहायक
 
@@ -3354,7 +3354,7 @@ IntelliMail एक क्रोम एक्सटेंशन है जो आ
 
 
 ### Remail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-remail.webp" alt="Remail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-remail.webp" alt="Remail">
 
 #### ईमेल 10 गुना तेजी से लिखें
 
@@ -3370,7 +3370,7 @@ Remail, gmail के लिए एक क्रोम एक्सटेंश�
 
 
 ### Ellie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ellie.webp" alt="Ellie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ellie.webp" alt="Ellie">
 
 #### ऐली - आपका एआई ईमेल सहायक
 
@@ -3386,7 +3386,7 @@ Remail, gmail के लिए एक क्रोम एक्सटेंश�
 
 
 ### Rapidreply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
 
 #### रैपिड रिप्लाई - एआई ईमेल असिस्टेंट
 
@@ -3410,7 +3410,7 @@ Remail, gmail के लिए एक क्रोम एक्सटेंश�
 
 ## ईमेल मार्केटिंग
 ### Quicklines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quicklines.webp" alt="Quicklines">
 
 #### क्विकलाइन लाइफटाइम एक्सेस - केवल $59
 
@@ -3426,7 +3426,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Hoppy Copy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
 
 #### हॉपी कॉपी: एआई ईमेल मार्केटिंग कॉपी राइटिंग प्लेटफॉर्म
 
@@ -3442,7 +3442,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### SalesStream.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
 
 #### छोटे व्यवसाय के मालिकों के लिए दुनिया का सबसे सरल ईमेल और एसएमएस कैंपेन बिल्डर
 
@@ -3458,7 +3458,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Smartwriter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
 #### 1000S वैयक्तिकृत ईमेल उत्पन्न करें जो आपको AI का उपयोग करके मिनटों के भीतर 8 गुना अधिक उत्तर प्राप्त करें
 
@@ -3474,7 +3474,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Warmy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-warmy.webp" alt="Warmy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-warmy.webp" alt="Warmy">
 
 #### वार्मी: ईमेल वार्म अप के साथ ईमेल डिलीवरबिलिटी रेवोल्यूशन
 
@@ -3490,7 +3490,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### GetResponse
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getresponse.webp" alt="GetResponse">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getresponse.webp" alt="GetResponse">
 
 #### प्रतिक्रिया प्राप्त करें - सभी के लिए व्यावसायिक ईमेल मार्केटिंग
 
@@ -3506,7 +3506,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Mailsplash AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
 
 #### MailSplash की मदद से, बिना किसी भारी कीमत के, बेहतरीन ईमेल मार्केटिंग की सुविधा मिलती है।
 
@@ -3532,7 +3532,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 ## मनोरंजन और नोवेल्टी
 ### MemeGenAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
 
 #### यह पूरी तरह से मुफ़्त AI टूल यूज़र को कस्टमाइज़्ड जिफ़ मेम बनाने में मदद करता है। वे अपने काम को दोस्तों और परिवारों के साथ शेयर कर सकते हैं और प्राप्तकर्ता इस मीम के साथ बातचीत करके एक नया रीमिक्स मेम बना सकते हैं। 
 
@@ -3548,7 +3548,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Ask RBG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
 #### आरबीजी (शायद) क्या कहेंगे?
 
@@ -3564,7 +3564,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Philosophy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
 #### एक दार्शनिक से पूछो
 
@@ -3580,7 +3580,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dreamgen%3A-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
 #### ड्रीमजेन: एआई रोल-प्लेइंग और कहानी-लेखन
 
@@ -3598,7 +3598,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Creative QR codes using AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
 #### AI का इस्तेमाल करके अपने लिंक को कलात्मक QR में बदलो और कन्वर्ज़न बढ़ाओ
 
@@ -3614,7 +3614,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Pet Booth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
 #### पेट बूथ तुम्हारे खुद के AI पेट पोर्ट्रेट्स, आर्टवर्क और फ़ोटो बनाने की सेवा है। बस अपनी बिल्ली या कुत्ते की 10-20 तस्वीरें अपलोड करें और उन्हें बदलने के लिए 80 से अधिक थीम में से चुनें।
 
@@ -3636,7 +3636,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Langame card game
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
 
 #### अपने मित्रों और परिवार के साथ आनंद लेने के लिए एआई-जेनरेटेड वार्तालाप कार्ड गेम
 
@@ -3660,7 +3660,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 ## फ़ेस एंड ब्यूटी रेटिंग
 ### FaceRate.ai: Face Attractiveness Test and Analysis Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
 
 #### अपना आकर्षण स्कोर देखने के लिए हमारे फ़ेस रेटर से अपने चेहरे की जांच करें और अपनी सुविधाओं को बेहतर बनाने के लिए वैज्ञानिक मार्गदर्शन प्राप्त करें।
 
@@ -3676,7 +3676,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Glowup AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
 
 #### ग्लोअप एआई के ज़रिए पता लगाओ कि तुम कितने सुंदर हो। हमारा टूल तुम्हारी व्यक्तिगत AI ब्यूटी गाइड के रूप में काम करता है। 
 
@@ -3692,7 +3692,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Face Analysis Attractiveness
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
 
 #### आकर्षण के लिए चेहरे का विश्लेषण: टेक्नोलॉजी के ज़रिये सुंदरता को समझना
 
@@ -3708,7 +3708,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### AI Attractiveness Test
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
 
 #### “एआई अट्रैक्टिवनेस टेस्ट: आकलन 
 तुम्हारे चेहरे का आकर्षण”
@@ -3728,7 +3728,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
 #### एआई फ़ेस एनालाइज़र-ब्यूटी स्कोर कैलकुलेटर
 
@@ -3744,7 +3744,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### How Attractive am I
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
 
 #### मैं कितना आकर्षक हूँ - एआई ब्यूटी स्कोर टेस्ट [अपडेट 2026]
 
@@ -3760,7 +3760,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### VideoWeb AI Face Rating
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
 #### मुफ़्त ऑनलाइन ऑल-इन-वन AI वीडियो और इमेज टूल - VideoWeb AI
 
@@ -3784,7 +3784,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 ## पहनावा
 ### Outfit Anyone AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
 #### आउटफिट एनीवन एआई - हर स्टाइल के लिए आसान वर्चुअल ट्राई-ऑन
 
@@ -3800,7 +3800,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### Visualhound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-visualhound.webp" alt="Visualhound">
 
 #### विज़ुअलहाउंड - एआई के साथ अपने फैशन डिजाइन विचारों को प्रोटोटाइप करें
 
@@ -3816,7 +3816,7 @@ Quicklines आपका नया AI संचालित कोल्ड आ�
 
 
 ### SwagAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
 #### अपने बोरिंग वॉर्डरोब से सजाना
 AI द्वारा जेनरेट किया गया स्वैग।
@@ -3834,7 +3834,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### HuHu AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
 
 #### हुहू एआई - गारमेंट फ़ोटोज़ से लेकर शानदार फ़ैशन मॉडल तक
 
@@ -3850,7 +3850,7 @@ AI द्वारा जेनरेट किया गया स्वैग�
 
 
 ### FashionAdvisorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
 
 #### Fashionadvisor.Ai - Fashionadvisor.A से प्रश्न पूछें और उत्तर प्राप्त करें
 
@@ -3866,7 +3866,7 @@ FashionAdvisor GPT3 पर आधारित एक AI है जो आपक�
 
 
 ### Outfit Changer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
 
 #### आउटफिट चेंजर AI | आउटफिट एनीवन AI | वर्चुअल ट्राई-ऑन | तुम्हारा वर्चुअल वॉर्डरोब इंतज़ार कर रहा है | AI क्लॉथ चेंजर | outfitchanger.com
 
@@ -3882,7 +3882,7 @@ FashionAdvisor GPT3 पर आधारित एक AI है जो आपक�
 
 
 ### LooksMax AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
 #### Looksmax AI तुम्हारी शारीरिक बनावट का विश्लेषण करता है और एआई-जनरेट किए गए सेल्फ-इम्प्रूवमेंट टिप्स शेयर करता है, जो तुम्हेंं आत्मविश्वास और आत्मसम्मान बढ़ाने में मदद करेंगी। 
 
@@ -3908,7 +3908,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 ## जुआ
 ### hidden door
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
 #### हैलो, संसारों!
 
@@ -3924,7 +3924,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### Assetsai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assetsai.webp" alt="Assetsai">
 
 #### आपके खेलों के लिए एआई-संचालित, अद्वितीय और क्यूरेटेड संपत्तियां
 
@@ -3940,7 +3940,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### charisma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-charisma.webp" alt="charisma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-charisma.webp" alt="charisma">
 
 #### पावर रीयल-टाइम डिजिटल मानव
 
@@ -3956,7 +3956,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### Chess AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
 #### बेटाफिश - अल्फाजीरो और स्टॉकफिश का मिश्रण।
 
@@ -3972,7 +3972,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### GGPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
 
 #### ट्रेन होशियार। तेजी से रैंक करें।
 
@@ -3988,7 +3988,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### Scenario
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scenario.webp" alt="Scenario">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scenario.webp" alt="Scenario">
 
 #### परिदृश्य
 
@@ -4004,7 +4004,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### latitude
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-latitude.webp" alt="latitude">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-latitude.webp" alt="latitude">
 
 #### एआई-जनरेटेड गेम्स का भविष्य
 
@@ -4028,7 +4028,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 ## उपहार के विचार और सुझाव
 ### Text2present
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2present.webp" alt="Text2present">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2present.webp" alt="Text2present">
 
 #### Text2Present.Com - व्यस्त लोगों की ओर से रचनात्मक उपहार।
 
@@ -4044,7 +4044,7 @@ Looksmax AI का इस्तेमाल करके अपनी शार�
 
 
 ### ColorBliss
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
 
 #### ColorBliss एक AI-संचालित टूल है, जिसकी मदद से तुम टेक्स्ट प्रॉम्प्ट का उपयोग करके, तस्वीरों से कन्वर्ट करके, और यहाँ तक कि अपनी खुद की तस्वीरों से यूनिक कस्टम कलरिंग शीट बना सकते हैं, सहेज सकते हैं और प्रिंट कर सकते हैं।
 
@@ -4070,7 +4070,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 
 ### Lovelines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovelines.webp" alt="Lovelines">
 
 #### Lovelines.Xyz - एआई द्वारा बनाए गए कस्टम उपहारों के साथ अपना प्यार साझा करें
 
@@ -4086,7 +4086,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 
 ### Outdone V2
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
 
 #### मिनटों या उससे कम में सही उपहार पाएं
 
@@ -4102,7 +4102,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 
 ### GiftBot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftbot.webp" alt="GiftBot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftbot.webp" alt="GiftBot">
 
 #### उपहार सहायता प्राप्त करें
 
@@ -4118,7 +4118,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 
 ### Giftastic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
 #### गिफ्टस्टिक.आई - आपके खास के लिए बिल्कुल सही उपहार!
 
@@ -4134,7 +4134,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 
 ### Gifts Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
 
 #### जिनी - एआई उपहार जेनरेटर
 
@@ -4158,7 +4158,7 @@ ColorBliss की मदद से तुम कोई भी कलरिंग
 
 ## हेडशॉट जेनरेटर
 ### Free AI Headshot Generator | Supawork AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-headshot-generator-|-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-headshot-generator-%7C-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
 
 #### मुफ़्त AI हेडशॉट जेनरेटर | सुपावर्क AI (कोई साइन-अप नहीं)
 
@@ -4174,7 +4174,7 @@ Supawork मुफ़्त AI हेडशॉट जनरेटर के ज�
 
 
 ### ImageArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imageart.webp" alt="ImageArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imageart.webp" alt="ImageArt">
 
 #### ImageArt - एआई हेडशॉट जेनरेटर की कल्पना करें
 
@@ -4190,7 +4190,7 @@ ImagineArt AI हेडशॉट जेनरेटर का उपयोग �
 
 
 ### Executive Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
 
 #### एग्जीक्यूटिव हेडशॉट्स - आज ही अपने पेशेवर प्रोफ़ाइल अपग्रेड करें
 
@@ -4206,7 +4206,7 @@ ImagineArt AI हेडशॉट जेनरेटर का उपयोग �
 
 
 ### Headpix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-headpix.webp" alt="Headpix">
 
 #### हैडपिक्स | एआई-जनरेटेड हेडशॉट्स पोर्ट्रेट्स का भविष्य है
 
@@ -4223,7 +4223,7 @@ ImagineArt AI हेडशॉट जेनरेटर का उपयोग �
 
 
 ### BetterPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
 #### बेटरपिक - स्टूडियो-क्वालिटी 4K हेडशॉट, $29 से 60 मिनट से कम में।
 
@@ -4239,7 +4239,7 @@ ImagineArt AI हेडशॉट जेनरेटर का उपयोग �
 
 
 ### The Multiverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
 #### अपनी सेल्फी को प्रोफ़ेशनल हेडशॉट में बदलो
 
@@ -4255,7 +4255,7 @@ ImagineArt AI हेडशॉट जेनरेटर का उपयोग �
 
 
 ### Fulgent AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
 #### फ़ुल्जेंट एआई | सबसे एडवांस एआई हेडशॉट जेनरेटर 
 
@@ -4279,7 +4279,7 @@ Fulgent AI यह सुनिश्चित करने के लिए न�
 
 ## स्वास्थ्य देखभाल
 ### Calisthenics Workout Plan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
 
 #### अपने फ़िटनेस स्तर और लक्ष्यों के अनुरूप एआई-संचालित, वैयक्तिकृत वर्कआउट करवाओ।
 
@@ -4295,7 +4295,7 @@ Fulgent AI यह सुनिश्चित करने के लिए न�
 
 
 ### Ubie AI Symptom Checker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
 
 #### एआई द्वारा लक्षणों की जांच करें और कारणों का पता लगाएं
 
@@ -4311,7 +4311,7 @@ Fulgent AI यह सुनिश्चित करने के लिए न�
 
 
 ### Well Me Right
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
 
 #### एआई हेल्थकोचिंग: दुनिया के प्रमुख वेलनेस एक्सपर्ट्स को बुक करें और वीडियो कॉल के बारे में सलाह पाएँ
 
@@ -4329,7 +4329,7 @@ Fulgent AI यह सुनिश्चित करने के लिए न�
 
 
 ### Getactyv
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getactyv.webp" alt="Getactyv">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getactyv.webp" alt="Getactyv">
 
 #### Getactyv - एआई और कंप्यूटर विजन असिस्टेड हेल्थ एंड फिटनेस प्लेटफॉर्म
 
@@ -4345,7 +4345,7 @@ GetActyv का AI-आधारित पर्सनल ट्रेनर आ�
 
 
 ### Medidex Connect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
 
 #### Medidex एक 24/7 ऑनलाइन फ़ार्मासिस्ट चैट सेवा से कनेक्ट करें
 
@@ -4363,7 +4363,7 @@ Medidex Connect की मदद से तुम फ़ॉर्मासिस
 
 
 ### Kallo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kallo.webp" alt="Kallo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kallo.webp" alt="Kallo">
 
 #### मल्टी-एलएलएम कोलैबोरेशन टूल, एआई टूल आजमाएं
 
@@ -4379,7 +4379,7 @@ Medidex Connect की मदद से तुम फ़ॉर्मासिस
 
 
 ### S10.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
 
 #### सभी ईएचआर और स्पेशलिटी के लिए एआई मेडिकल स्क्राइब
 
@@ -4404,7 +4404,7 @@ S10 का एम्बिएंट AI मेडिकल स्क्राइ�
 
 ## होमवर्क और निबंध हेल्पर
 ### Caktus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caktus.webp" alt="Caktus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-caktus.webp" alt="Caktus">
 
 #### कैक्टस एआई - छात्रों के लिए अपनी श्रेणी में सर्वश्रेष्ठ AI हेल्पर
 
@@ -4421,7 +4421,7 @@ S10 का एम्बिएंट AI मेडिकल स्क्राइ�
 
 
 ### SopCreator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
 
 #### AI की मदद से अपना खास स्टेटमेंट बनाएं
 
@@ -4437,7 +4437,7 @@ SOPcreator.com एक एआई-सक्षम प्लेटफ़ॉर्�
 
 
 ### AssignmentGPT AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
 
 #### असाइनमेंटजीपीटी एआई एक क्रांतिकारी नई लेखक टूल वेबसाइट है जो उपयोगकर्ताओं को एक शक्तिशाली एआई-संचालित लेखन सहायक प्रदान करती है
 
@@ -4459,7 +4459,7 @@ SOPcreator.com एक एआई-सक्षम प्लेटफ़ॉर्�
 
 
 ### Solvely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-solvely.webp" alt="Solvely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-solvely.webp" alt="Solvely">
 
 #### सॉल्वली एआई छात्रों को गणित, विज्ञान, उदारवादी कला और अर्थशास्त्र जैसे विषयों के लिए चरण-दर-चरण स्पष्टीकरण देकर, सीखने को आसान और कुशल बनाकर होमवर्क की समस्याओं को हल करने में मदद करता है।
 
@@ -4475,7 +4475,7 @@ SOPcreator.com एक एआई-सक्षम प्लेटफ़ॉर्�
 
 
 ### Myess
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myess.webp" alt="Myess">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myess.webp" alt="Myess">
 
 #### Myessai - एआई संचालित निबंध ट्यूटर
 
@@ -4491,7 +4491,7 @@ SOPcreator.com एक एआई-सक्षम प्लेटफ़ॉर्�
 
 
 ### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
 
 #### टीचरबॉट - वह टूल जिसका हर शिक्षक हकदार होता है
 
@@ -4507,7 +4507,7 @@ SOPcreator.com एक एआई-सक्षम प्लेटफ़ॉर्�
 
 
 ### AIQuizGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
 
 #### एआई क्विज़ और प्रश्न जनरेटर: मिनटों में विविध, उच्च गुणवत्ता वाले क्विज़ बनाएं। हमारा AI क्विज़ जनरेटर तुम्हारे परिणामों को बेहतर बनाने के लिए लगातार, वैयक्तिकृत और त्रुटि-मुक्त आकलन सुनिश्चित करता है।
 
@@ -4533,7 +4533,7 @@ AI क्विज़ जेनरेटर के साथ अपने क्व
 
 ## इमेज एडिटिंग
 ### PicTools.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
 
 #### AI टूल की मदद से आसानी से छवियाँ जेनरेट और संपादित करें
 
@@ -4549,7 +4549,7 @@ PicTools AI शानदार चित्र बनाने, बैकग्�
 
 
 ### Fotor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor.webp" alt="Fotor">
 
 #### फ़ॉटर - हर किसी के लिए ऑनलाइन फ़ोटो एडिटर। AI की मदद से फ़ोटो को तेज़ी से और आसानी से एडिट करें।
 
@@ -4568,7 +4568,7 @@ PicTools AI शानदार चित्र बनाने, बैकग्�
 
 
 ### Stabledojo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
 
 #### पहला एआई फोटो स्टूडियो
 
@@ -4584,7 +4584,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### AVCLabs PhotoPro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
 
 #### AI फ़ोटो एडिटर: अपने फ़ोटो एडिटिंग में सब कुछ बेहतर बनाएँ | AVCLabs
 
@@ -4602,7 +4602,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### AI Photos Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
 
 #### एआई फ़ोटो एडिटर - एआई के साथ वास्तविक फ़ोटो जेनरेट करें
 
@@ -4624,7 +4624,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### Unrealme
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unrealme.webp" alt="Unrealme">
 
 #### अवास्तविक मैं - आप की एआई जनित छवियां प्राप्त करें
 
@@ -4640,7 +4640,7 @@ StableDojo के साथ आप अपने लिए एक अवतार
 
 
 ### ProductScope AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
 
 #### ProductScope AI ईकॉमर्स ब्रांड्स और मार्केटर्स के लिए दो ज़रूरी टूल प्रदान करता है: एक AI प्रॉडक्ट फ़ोटोशूट टूल और एक लिस्टिंग ऑप्टिमाइज़र।
 
@@ -4665,7 +4665,7 @@ AI प्रॉडक्ट फ़ोटोशूट से ब्रैंड �
 
 ## इमेज अपस्केलर
 ### Imgupscaler
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
 
 #### स्मार्ट पीएनजी / जेपीजी इमेज अपस्केलर
 
@@ -4681,7 +4681,7 @@ AI प्रॉडक्ट फ़ोटोशूट से ब्रैंड �
 
 
 ### AI Image Enlarger
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
 
 #### एआई इमेज एनलार्जर के साथ छवियों को बड़ा करें और बेहतर बनाएं
 
@@ -4697,7 +4697,7 @@ AI प्रॉडक्ट फ़ोटोशूट से ब्रैंड �
 
 
 ### Waifu XL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
 
 #### Waifuxl एक बटन के क्लिक पर सीधे तुम्हारे ब्राउज़र में अत्याधुनिक अपस्केलिंग प्रदान करता है।
 
@@ -4713,7 +4713,7 @@ Waifuxl एक बटन के क्लिक पर सीधे तुम्
 
 
 ### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
 #### AVCLabs AI फ़ोटो एन्हांसर: AI के साथ आसानी से फ़ोटो की क्वालिटी बेहतर करें 
 
@@ -4730,7 +4730,7 @@ Waifuxl एक बटन के क्लिक पर सीधे तुम्
 
 
 ### BigJpg
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
 
 #### Bigjpg - डीप कन्वेन्शनल न्यूरल नेटवर्क का इस्तेमाल करके AI सुपर-रिज़ॉल्यूशन लॉसलेस इमेज एनलार्जिंग/अपस्केलिंग टूल
 
@@ -4746,7 +4746,7 @@ Bigjpg - गुणवत्ता में कमी के बिना डी
 
 
 ### AVC AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
 
 #### ऑनलाइन एआई इमेज एन्हान्सर जो अपस्केलिंग, डीनोइजिंग, रिस्टोरिंग, फेस रिफाइनमेंट, और बहुत कुछ करके फोटो की गुणवत्ता में सुधार करता है
 
@@ -4762,7 +4762,7 @@ Bigjpg - गुणवत्ता में कमी के बिना डी
 
 
 ### HitPaw Online Photo Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
 #### छवियों को धुंधला करें और कम गुणवत्ता वाली तस्वीरों को अलविदा कहें।
 
@@ -4786,7 +4786,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 ## छवि से छवि में बदलाव
 ### AI Anime Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
 
 #### फ़ोटो टू एनीमे कन्वर्टर: एआई एनीमे फ़िल्टर ऑनलाइन
 
@@ -4802,7 +4802,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Image to Image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
 
 #### इमेज टू इमेज एआई - एआई इमेज जेनरेटर और एडिटर ऑनलाइन
 
@@ -4818,7 +4818,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Photo to Anime
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
 #### मेमोरी कीपर्स के लिए प्राइवेसी-सेंट्रिक AI एनीमे फ़िल्टर
 
@@ -4838,7 +4838,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Simpedit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simpedit.webp" alt="Simpedit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simpedit.webp" alt="Simpedit">
 
 #### सिम्पेडिट एक शक्तिशाली छवि ट्रांसफ़ॉर्मेशन टूल है, जिसकी मदद से यूज़र बस एक क्लिक से अपनी छवियों पर आसानी से ट्रेंडी स्टाइल लागू कर सकते हैं।
 
@@ -4854,7 +4854,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Raphael AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
 
 #### राफेल एआई - मुफ्त अनलिमिटेड एआई इमेज जेनरेटर
 
@@ -4870,7 +4870,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### Image to Image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
 
 #### इमेज से इमेज एआई
 
@@ -4886,7 +4886,7 @@ HitPaw ऑनलाइन एआई फोटो एन्हांसर शो
 
 
 ### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
 
 #### कुछ ही सेकंड में हाई-क्वालिटी इमेज जेनरेट करें।
 
@@ -4910,7 +4910,7 @@ SDXL टर्बो एडवरसेरियल डिफ़्यूज़�
 
 ## इमेज से वीडियो एनिमेशन
 ### Deep Nostalgia AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
 
 #### पुरानी फ़ोटो को वीडियो में बदलें। छवि को जीवंत करें।
 
@@ -4927,7 +4927,7 @@ SDXL टर्बो एडवरसेरियल डिफ़्यूज़�
 
 
 ### AIKissfiy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
 
 #### एआई किसिंग जेनरेटर: किसिंग वीडियो ऑनलाइन बनाएं - AIKissfiy
 
@@ -4943,7 +4943,7 @@ SDXL टर्बो एडवरसेरियल डिफ़्यूज़�
 
 
 ### Kadapt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kadapt.webp" alt="Kadapt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kadapt.webp" alt="Kadapt">
 
 #### आवाज़ वाले वर्टिकल रीलों में फ़ोटो को सूचीबद्ध करना — रियल एस्टेट एजेंटों के लिए AI रील एजेंट।
 
@@ -4959,7 +4959,7 @@ SDXL टर्बो एडवरसेरियल डिफ़्यूज़�
 
 
 ### AnimateMyPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
 
 #### फ़ोटो को ऑनलाइन एनिमेट करने के लिए मुफ़्त एआई फ़ोटो एनिमेटर | AnimateMyPic
 
@@ -4975,7 +4975,7 @@ AnimateMyPic के ज़रिए फ़ोटो, तस्वीरें �
 
 
 ### Seedance 3.0 AI Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
 
 #### Seedance 3.0 के साथ सिनेमाई AI वीडियो बनाएं — कनेक्ट किए गए, प्रोडक्शन के लिए तैयार दृश्यों में इमेज, वीडियो, ऑडियो और टेक्स्ट रेफ़रेंस को मिलाएं। नेटिव 4K, 50 इनपुट तक, वॉटरमार्क-फ़्री।
 
@@ -4991,7 +4991,7 @@ AnimateMyPic के ज़रिए फ़ोटो, तस्वीरें �
 
 
 ### Ebsynth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
 
 #### एब्सिंथ - सिंगल फ़्रेम पर पेंटिंग करके वीडियो ट्रांसफ़ॉर्म करें
 
@@ -5007,7 +5007,7 @@ AnimateMyPic के ज़रिए फ़ोटो, तस्वीरें �
 
 
 ### Deep Nostalgia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
 
 #### अपने परिवार की फ़ोटो को एनिमेटेड वीडियो में ट्रांसफ़ॉर्म करें
 
@@ -5031,7 +5031,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 ## इंटरव्यू की तैयारी
 ### Interviews Chat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
 
 #### रियल-टाइम सहायता के लिए इंटरव्यू की तैयारी और सह-पायलट।
 
@@ -5047,7 +5047,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### MIND-Interview AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
 
 #### माइंड-इंटरव्यू एआई-संचालित एक एडवांस कोचिंग प्लेटफ़ॉर्म है, जिसे यूज़र नौकरी के इंटरव्यू में बेहतर प्रदर्शन करने में मदद करने के लिए डिज़ाइन किया गया है।
 
@@ -5064,7 +5064,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### AiInterview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
 
 #### ज़ीरो बायस के साथ पहले राउंड फ़िल्टरिंग इंटरव्यू
 
@@ -5080,7 +5080,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### STAR Method Coach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
 
 #### स्टार मेथड कोच तुम्हेंं AI स्टार मेथड इंटरव्यू कोच के साथ बिहेवियरल इंटरव्यू में महारत हासिल करना सिखाता है।
 
@@ -5096,7 +5096,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### Careerflow AI Mock Interview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
 #### अपने आने वाले नौकरी के इंटरव्यू में सफलता हासिल करें और अपने इंटरव्यू के कौशल को बढ़ाएं।
 
@@ -5112,7 +5112,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
 
 #### एआई इंटरव्यू आंसर जेनरेटर-ऐस तुम्हारा अगला इंटरव्यू
 
@@ -5128,7 +5128,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### Parakeet AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
 
 #### Parakeet AI साक्षात्कारों के लिए रियल-टाइम, AI-संचालित सहायता प्रदान करता है, तुरंत प्रतिक्रिया देता है और उद्योग-विशिष्ट मार्गदर्शन प्रदान करता है।
 
@@ -5153,7 +5153,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 ## भाषा सीखना
 ### Speakingclubai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
 
 #### स्पीकिंग क्लब एआई
 
@@ -5169,7 +5169,7 @@ AI फ़ोटो एनीमेशन की मदद से अपने प�
 
 
 ### Lorro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lorro.webp" alt="Lorro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lorro.webp" alt="Lorro">
 
 #### कम लागत में धाराप्रवाह अंग्रेजी बोलने वाले बनें। एआई ट्यूटर से बात करके
 
@@ -5185,7 +5185,7 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 
 ### Lingostar
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lingostar.webp" alt="Lingostar">
 
 #### लिंगोस्टार - आर्टिफिशियल इंटेलिजेंस के साथ वास्तविक बातचीत
 
@@ -5201,7 +5201,7 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 
 ### ELSA SPEECH ANALYZER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
 #### एक समय में अपनी अंग्रेजी एक बातचीत में सुधार करें।
 
@@ -5217,7 +5217,7 @@ AI और GPT-3 द्वारा संचालित अत्यधिक �
 
 
 ### TutorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
 #### कुछ भी सीखो - अपने इच्छित विषय को खोजकर
 
@@ -5233,7 +5233,7 @@ TutoEAI लर्न एनीथिंग किसी भी विषय क�
 
 
 ### Langotalk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langotalk.webp" alt="Langotalk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langotalk.webp" alt="Langotalk">
 
 #### लैंगोटॉक: AI की मदद से 6X तेज़ी से भाषाएँ सीखें
 
@@ -5249,7 +5249,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### DET Practice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-det-practice.webp" alt="DET Practice">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-det-practice.webp" alt="DET Practice">
 
 #### डेट प्रैक्टिस - ऐस द डुओलिंगो इंग्लिश टेस्ट
 
@@ -5273,7 +5273,7 @@ AI से बात करके किसी भाषा में तेज�
 
 ## कानूनी
 ### ScoreDetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
 
 #### अपनी सामग्री का भविष्य सुरक्षित रखें। ब्लॉकचैन प्रोटेक्शन पर भरोसा रखें।
 
@@ -5289,7 +5289,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### PatentPal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-patentpal.webp" alt="PatentPal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-patentpal.webp" alt="PatentPal">
 
 #### बौद्धिक संपदा के लिए जनरेटिव एआई
 
@@ -5305,7 +5305,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### Compliance Quarter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
 #### एक्सपर्ट कंप्लायंस सिस्टम और संसाधन - कंप्लायंस क्वार्टर
 
@@ -5321,7 +5321,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### DoNotPay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
 
 #### दुनिया का पहला रोबोट वकील
 
@@ -5337,7 +5337,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### Spellbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-spellbook.webp" alt="Spellbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-spellbook.webp" alt="Spellbook">
 
 #### ड्राफ्ट अनुबंध एआई के साथ 3 गुना तेज
 
@@ -5353,7 +5353,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### Paralegal AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
 
 #### पैरालीगल एआई
 
@@ -5369,7 +5369,7 @@ AI से बात करके किसी भाषा में तेज�
 
 
 ### CFRexplorer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
 
 #### CFR एक्सप्लोरर - CFRS के बारे में AI से सवाल पूछें
 
@@ -5393,7 +5393,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 ## लोगो जनरेटर
 ### Looka
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looka.webp" alt="Looka">
 
 #### लुका - उद्यमियों के लिए लोगो डिज़ाइन और ब्रांड की पहचान 
 
@@ -5411,7 +5411,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### MagiMaker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
 
 #### इंडी क्रिएटिव के लिए आसान, तेज़ और किफायती एआई डिज़ाइन समाधान, जिसमें पुस्तक कवर, पॉडकास्ट कवर, लोगो और बहुत कुछ शामिल है।
 
@@ -5431,7 +5431,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Text To Book Cover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
 #### टीमों के लिए एआई इमेज जेनरेशन - आप एआई लोगो, एआई बुक कवर, एआई पोस्टर और बहुत कुछ आसानी से उत्पन्न कर सकते हैं - स्टॉकिमग एआई
 
@@ -5447,7 +5447,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Logo Rank
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
 
 #### ब्रैंडमार्क लोगो मेकर - सबसे उन्नत AI लोगो डिज़ाइन टूल
 
@@ -5464,7 +5464,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Zarla Logo Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
 
 #### एक मुफ़्त पेशेवर लोगो बनाएं - कुछ ही सेकंड में! - ज़ारला के सरल, सहज लोगो निर्माता के साथ किसी भी व्यवसाय या ब्रांड के लिए।
 
@@ -5480,7 +5480,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### AI Logo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
 
 #### AI प्रिसिजन के साथ लोगो तैयार करना: तेज़, मुफ़्त और दोषरहित।
 
@@ -5496,7 +5496,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### AI के ज़रिए लोगो बनाएँ - Logomakerr.AI बस कुछ ही क्लिक में तुम्हारे कारोबार के विचारों को AI-जनरेट किए गए लोगो के साथ ब्लेंड करता है!
 
@@ -5521,7 +5521,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 ## मील और रेसिपी प्लानर
 ### Bite Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
 
 #### बाइट जिनी - तुम्हारा बेहतरीन एआई रेसिपी का साथी
 
@@ -5537,7 +5537,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### FoodAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foodai.webp" alt="FoodAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foodai.webp" alt="FoodAI">
 
 #### Foodai.App - AI की मदद से कुकिंग रेसिपी जेनरेट करें!
 
@@ -5553,7 +5553,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### AI Food Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
 
 #### एआई फ़ूड जेनरेटर - आज क्या खाना बनाना है? | मुफ़्त रेसिपी जेनरेटर
 
@@ -5569,7 +5569,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### AI Recipe Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
 
 #### AI रेसिपी जेनरेटर - अनोखी और स्वादिष्ट रेसिपी तुरंत पाएँ
 
@@ -5594,7 +5594,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 ## बैठक सहायक
 ### Jamie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jamie.webp" alt="Jamie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jamie.webp" alt="Jamie">
 
 #### जेमी - मीटिंग के सारांश के लिए AI असिस्टेंट
 
@@ -5610,7 +5610,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Wudpecker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### वुडपेकर एक एआई मीटिंग टूल है जो मीटिंग ज्ञान संग्रहीत करने के लिए नया डिफ़ॉल्ट सेट करता है।
 अपने ज़ूम, गूगल मीट, माइक्रोसॉफ्ट टीमों से सारांश, कार्रवाई आइटम और अंतर्दृष्टि प्राप्त करें
@@ -5633,7 +5633,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Graphic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
 #### टीमों के लिए एआई असिस्टेड वर्क कोलैबोरेशन प्लेटफॉर्म
 
@@ -5649,7 +5649,7 @@ CFR Explorer एक ऐसा ऐप है जो नवीनतम AI तक�
 
 
 ### Fireflies
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fireflies.webp" alt="Fireflies">
 
 #### Fireflies.Ai - अपने आप करो
 मीटिंग नोट्स - नोटटेकर और बातचीत से जुड़ी जानकारी
@@ -5667,7 +5667,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Avoma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avoma.webp" alt="Avoma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avoma.webp" alt="Avoma">
 
 #### अपनी टीम की उत्पादकता और कंपनी के राजस्व में वृद्धि में तेज़ी लाएँ
 
@@ -5683,7 +5683,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Supernormal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
 #### सुपरनॉर्मल - एआई जो तुम्हारी मीटिंग के नोट्स लिखता है
 
@@ -5701,7 +5701,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Fathom
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fathom.webp" alt="Fathom">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fathom.webp" alt="Fathom">
 
 #### अपनी उत्पादकता को अपने ज़रिए बेहतर बनाएं
 मुफ़्त AI मीटिंग असिस्टेंट का मालिक
@@ -5726,7 +5726,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 ## मोबाइल ऐप बिल्डर
 ### Fuselio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fuselio.webp" alt="Fuselio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fuselio.webp" alt="Fuselio">
 
 #### फ़्यूसेलियो स्टार्टअप्स और एसएमई के लिए एक तेज़ एमवीपी डेवलपमेंट प्लेटफ़ॉर्म है, जिससे कस्टम मोबाइल और वेब ऐप्लिकेशन सिर्फ़ 6 हफ्तों में बन जाते हैं। 
 
@@ -5743,7 +5743,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Srcbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srcbook.webp" alt="Srcbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-srcbook.webp" alt="Srcbook">
 
 #### Srcbook सबसे अच्छी ऑनलाइन AI वेबसाइट बिल्डर है।
 
@@ -5761,7 +5761,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### Anakin AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
 
 #### एक मिनट में अपना खुद का AI ऐप बनाएं। अपने कारोबार के लिए AI की पावर अनलॉक करें। हमारा नो-कोड AI ऐप बिल्डर तुम्हेंं अनोखे, स्टैंडअलोन AI ऐप्लिकेशन बनाने की सुविधा देता है
 
@@ -5777,7 +5777,7 @@ Fireflies.ai तुम्हारी टीम को वॉइस वार्
 
 
 ### SinglebaseCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
 
 #### ऐप के डेवलपमेंट में तेज़ी लाने के लिए, वेक्टर डीबी, डॉक्यूमेंट डीबी, ऑथ और बहुत कुछ के साथ एआई-संचालित बैकएंड प्लेटफ़ॉर्म।
 
@@ -5793,7 +5793,7 @@ SingleBaseCloud मोबाइल और वेब ऐप्स तेज़ी
 
 
 ### Quickie Dev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
 
 #### Quickie.dev - मिनटों में टेक्स्ट टू वेब ऐप
 
@@ -5809,7 +5809,7 @@ Quickie.dev की मदद से अपने विचारों को �
 
 
 ### Keringit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keringit.webp" alt="Keringit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keringit.webp" alt="Keringit">
 
 #### AI की मदद से Onchain प्रॉडक्ट बनाएं, उनका परीक्षण करें और लॉन्च करें
 
@@ -5827,7 +5827,7 @@ Quickie.dev की मदद से अपने विचारों को �
 
 
 ### SubPage
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-subpage.webp" alt="SubPage">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-subpage.webp" alt="SubPage">
 
 #### सबपेज - पेज बिल्डर, अपना पेज बनाएं, अपनी वेबसाइट बनाएं
 
@@ -5851,7 +5851,7 @@ Quickie.dev की मदद से अपने विचारों को �
 
 ## नाम, स्लोगन और नेमिंग जेनरेटर
 ### Smarty Names
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
 
 #### एआई रोबोट्स द्वारा नि:शुल्क रचनात्मक डोमेन नाम खोज
 
@@ -5867,7 +5867,7 @@ SmartyNames.com के साथ एक रचनात्मक और अद�
 
 
 ### namefinder AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
 
 #### एआई-संचालित व्यवसाय और डोमेन नाम जेनरेटर
 
@@ -5883,7 +5883,7 @@ SmartyNames.com के साथ एक रचनात्मक और अद�
 
 
 ### Travel Blog Name Ideas Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
 #### यात्रा ब्लॉग नाम विचार जेनरेटर: सही यात्रा ब्लॉग नाम खोजें!
 
@@ -5899,7 +5899,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 
 ### Podcast Name Generator by Podcast Rocket
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
 
 #### अपने पॉडकास्ट के लिए बिल्कुल सही नाम ढूंढो, जो AI द्वारा संचालित है।
 
@@ -5917,7 +5917,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 
 ### Namelix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namelix.webp" alt="Namelix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namelix.webp" alt="Namelix">
 
 #### बिजनेस नेम जेनरेटर - फ्री एआई-पावर्ड नेमिंग टूल - नेमलिक्स
 
@@ -5933,7 +5933,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 
 ### Namewizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
 #### Namewizard.Ai - आपका AI-महाशक्तिशाली डोमेन नाम जेनरेटर
 
@@ -5949,7 +5949,7 @@ TravelFeed के ब्लॉग नाम विचार जनरेटर �
 
 
 ### NameSnack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namesnack.webp" alt="NameSnack">
 
 #### हमारे शक्तिशाली AI नेम जनरेटर का इस्तेमाल करके कुछ ही सेकंड में अपना मनपसंद बिज़नेस नाम ढूंढें।
 
@@ -5973,7 +5973,7 @@ NameSnack अत्याधुनिक AI और उन्नत नामक�
 
 ## नोट लेना और सेकंड ब्रेन
 ### Fabric
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fabric.webp" alt="Fabric">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fabric.webp" alt="Fabric">
 
 #### तुम्हारा दूसरा दिमाग। भविष्य से खुद को व्यवस्थित करने वाला वर्कस्पेस और फ़ाइल एक्सप्लोरर।
 
@@ -5989,7 +5989,7 @@ NameSnack अत्याधुनिक AI और उन्नत नामक�
 
 
 ### MyMap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
 
 #### MyMap.AI PDF सारांश - लंबी PDF को माइंड मैप, PPT या AI की आउटलाइन में सारांशित करने के लिए घंटों बचाएं।
 
@@ -6005,7 +6005,7 @@ MyMap AI PDF सारांश: लंबे दस्तावेज़ों 
 
 
 ### Whisper Memos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
 
 #### व्हिस्पर मेमो - वॉइस मेमो रिकॉर्ड करें,
 इसे ईमेल के रूप में प्राप्त करें।
@@ -6023,7 +6023,7 @@ GPT-4 की बदौलत, हम शब्दों की गड़बड�
 
 
 ### Ideamap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ideamap.webp" alt="Ideamap">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ideamap.webp" alt="Ideamap">
 
 #### एआई-संचालित विज़ुअल ब्रेनस्टॉर्मिंग टूल
 
@@ -6039,7 +6039,7 @@ GPT-4 की बदौलत, हम शब्दों की गड़बड�
 
 
 ### Beloga
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beloga.webp" alt="Beloga">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beloga.webp" alt="Beloga">
 
 #### जानकारी पाने, समझने और उसका फ़ायदा उठाने के लिए AI-संचालित नॉलेज हब।
 
@@ -6055,7 +6055,7 @@ GPT-4 की बदौलत, हम शब्दों की गड़बड�
 
 
 ### Thegist
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thegist.webp" alt="Thegist">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thegist.webp" alt="Thegist">
 
 #### Thegist AI स्लैक थ्रेड और चैनल को सारांशित करता है - इसका सार पाएँ
 
@@ -6071,7 +6071,7 @@ GPT-4 की बदौलत, हम शब्दों की गड़बड�
 
 
 ### Voxio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voxio.webp" alt="Voxio">
 
 #### Voxio: आसानी से अपनी आवाज़ को व्यवस्थित नोट्स में ट्रांसफ़ॉर्म करें
 
@@ -6096,7 +6096,7 @@ Voxio एक अभिनव ऐप है, जो ऑडियो रिकॉ�
 
 ## अन्य
 ### Gemma Guard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
 
 #### जेम्मा गार्ड — ऑन-डिवाइस जेम्मा 4 के ज़रिए एंड्रॉइड फ़िशिंग डिटेक्शन
 
@@ -6114,7 +6114,7 @@ Android ऐप जो स्क्रीन कैप्चर करता ह�
 
 
 ### Damn Good Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
 #### ओह, ये बहुत अच्छे उपकरण हैं
 उपयोग में आसान, मज़ेदार उपकरण—निःशुल्क (और ओपन-सोर्स)।
@@ -6132,7 +6132,7 @@ Android ऐप जो स्क्रीन कैप्चर करता ह�
 
 
 ### Clipdrop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
 #### सेकंड में आश्चर्यजनक दृश्य बनाएँ
 
@@ -6148,7 +6148,7 @@ Android ऐप जो स्क्रीन कैप्चर करता ह�
 
 
 ### Tally Forms
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
 #### फ़ॉर्म बनाने का सबसे आसान तरीका
 
@@ -6164,7 +6164,7 @@ Android ऐप जो स्क्रीन कैप्चर करता ह�
 
 
 ### Coursebox
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coursebox.webp" alt="Coursebox">
 
 #### AI कोर्स क्रिएटर और लर्निंग मैनेजमेंट सिस्टम
 
@@ -6180,7 +6180,7 @@ Android ऐप जो स्क्रीन कैप्चर करता ह�
 
 
 ### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
 
 #### जल्दी से AI ऐप्स बनाने के लिए स्वेल्ट 5 बॉयलरप्लेट
 
@@ -6199,7 +6199,7 @@ SvelteLaunch सिर्फ़ एक बॉयलरप्लेट नही�
 
 
 ### IndexApps
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-indexapps.webp" alt="IndexApps">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-indexapps.webp" alt="IndexApps">
 
 #### IndexApps - बढ़िया AI एप्लीकेशन विकसित करें
 
@@ -6224,7 +6224,7 @@ Blocks Dev द्वारा विकसित MVP के साथ हफ्�
 
 ## PDF और डॉक्यूमेंट टूल
 ### Free AI PDF Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
 
 #### मुफ़्त एआई पीडीएफ रीडर — किसी भी PDF को समझने का बेहतर तरीका
 
@@ -6240,7 +6240,7 @@ Blocks Dev द्वारा विकसित MVP के साथ हफ्�
 
 
 ### PrismPoster
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
 
 #### प्रिज्मपोस्टर — एआई इमेज, वीडियो और म्यूज़िक स्टूडियो, फ़ुल स्पेक्ट्रम
 
@@ -6256,7 +6256,7 @@ Blocks Dev द्वारा विकसित MVP के साथ हफ्�
 
 
 ### SwifDoo PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
 
 #### SwifDoo PDF - ऑल-इन-वन PDF सॉफ़्टवेयर
 तुम्हारे PDF दस्तावेज़ों का बेहतरीन समाधान
@@ -6277,7 +6277,7 @@ SwifDoo PDF एक युवा टीम है, जिसकी स्था�
 
 
 ### SlideSpeak
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
 
 #### स्लाइडस्पीक - एआई के साथ पावरपॉइंट, वर्ड, पीडीएफ को सारांशित करें
 
@@ -6293,7 +6293,7 @@ SwifDoo PDF एक युवा टीम है, जिसकी स्था�
 
 
 ### Bard PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
 
 #### PDF दस्तावेज़ों का सारांश और विश्लेषण करने के लिए AI-संचालित बेहतरीन टूल
 
@@ -6309,7 +6309,7 @@ BARD PDF तुम्हारे PDF के साथ जुड़ने के
 
 
 ### Filechat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-filechat.webp" alt="Filechat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-filechat.webp" alt="Filechat">
 
 #### आर्टिफिशियल इंटेलिजेंस का उपयोग करके दस्तावेजों का अन्वेषण करें
 
@@ -6325,7 +6325,7 @@ BARD PDF तुम्हारे PDF के साथ जुड़ने के
 
 
 ### PDF GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
 
 #### कोई भी PDF अपलोड करें और कुछ ही सेकंड में सारांश, अनुवाद, उत्तर और उद्धरण पाएँ। 
 
@@ -6352,7 +6352,7 @@ PDF GPT एक गेम बदलने वाला टूल है जो �
 
 ## व्यक्तिगत विकास और तंदुरुस्ती
 ### Kinestex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kinestex.webp" alt="Kinestex">
 
 #### Kinetex - अपने निजी AI ट्रेनर के साथ कहीं भी, कभी भी कसरत करें
 
@@ -6368,7 +6368,7 @@ PDF GPT एक गेम बदलने वाला टूल है जो �
 
 
 ### Ask Poppy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
 
 #### पॉपीलिस्ट - माता-पिता बनो, जो तुम बनना चाहते हो
 
@@ -6387,7 +6387,7 @@ PDF GPT एक गेम बदलने वाला टूल है जो �
 
 
 ### HelloScribe
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
 
 #### हैलोस्क्राइब: तुम्हारा ऑटोनॉमस रीज़निंग इंजन।
 
@@ -6406,7 +6406,7 @@ HelloScribe, प्रोफ़ेशनल्स के लिए ऑटोन�
 
 
 ### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
 #### एआई संचालित कौशल-सुझाव
 
@@ -6422,7 +6422,7 @@ HelloScribe, प्रोफ़ेशनल्स के लिए ऑटोन�
 
 
 ### Daydrm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-daydrm.webp" alt="Daydrm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-daydrm.webp" alt="Daydrm">
 
 #### Daydrm.Ai - क्रिएटिव, रणनीति और प्रोडक्शन के लिए AI टूल
 
@@ -6438,7 +6438,7 @@ HelloScribe, प्रोफ़ेशनल्स के लिए ऑटोन�
 
 
 ### RTutor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rtutor.webp" alt="RTutor">
 
 #### दर्जनों मानवीय भाषाओं में अपने डेटा के साथ चैट करें।
 
@@ -6454,7 +6454,7 @@ RTutor प्राकृतिक भाषा को R कोड में अ
 
 
 ### Podwise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podwise.webp" alt="Podwise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podwise.webp" alt="Podwise">
 
 #### पोडवाइज़, पॉडकास्ट सुनने वालों के लिए पहला AI लर्निंग ऐप है।
 
@@ -6478,7 +6478,7 @@ Podwise के साथ, तुम संरचित ज्ञान से �
 
 ## फ़ोटो रीस्टोरेशन
 ### Old Photo Restoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
 
 #### AI की मदद से कुछ ही सेकंड में पुरानी तस्वीरों को मुफ्त में ऑनलाइन रिस्टोर करें
 
@@ -6494,7 +6494,7 @@ AI पुरानी फ़ोटो रीस्टोरेशन पुर�
 
 
 ### jpghd
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jpghd.webp" alt="jpghd">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jpghd.webp" alt="jpghd">
 
 #### जेपीजीएचडी - एआई के साथ पुरानी तस्वीरों की दोषरहित बहाली
 
@@ -6510,7 +6510,7 @@ AI पुरानी फ़ोटो रीस्टोरेशन पुर�
 
 
 ### Free Restore Photos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
 
 #### null
 
@@ -6526,7 +6526,7 @@ null
 
 
 ### Colorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorize.webp" alt="Colorize">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorize.webp" alt="Colorize">
 
 #### गहन शिक्षण की शक्ति से फोटो को रंगीन करें
 
@@ -6542,7 +6542,7 @@ null
 
 
 ### Palette
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palette.webp" alt="Palette">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-palette.webp" alt="Palette">
 
 #### पैलेट - तस्वीरों को रंगीन करें
 
@@ -6558,7 +6558,7 @@ null
 
 
 ### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgak---%E7%85%A7%E7%89%87ai%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7.webp" alt="Imgak - 照片AI修复工具">
 
 #### Imgak - हर किसी के लिए AI का इस्तेमाल करके पुरानी फ़ोटो रीस्टोर करना
 
@@ -6574,7 +6574,7 @@ null
 
 
 ### Photorestoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
 
 #### पुरानी फोटो बहाली ऑनलाइन - फोटोरेस्टोरेशन।आई
 
@@ -6598,7 +6598,7 @@ VanceAI फोटो रिस्टोरर पुरानी तस्वी
 
 ## प्लगइन्स और एक्सटेंशन
 ### Autoname
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autoname.webp" alt="Autoname">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autoname.webp" alt="Autoname">
 
 #### एक क्लिक में अपनी सभी परतों का नाम बदलें। आई के लिए धन्यवाद। खुला स्त्रोत
 
@@ -6614,7 +6614,7 @@ VanceAI फोटो रिस्टोरर पुरानी तस्वी
 
 
 ### SplashAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
 #### Splashai एक फ़िग्मा प्लगइन, सर्च इंजन और AI इमेज जेनरेटर है।
 
@@ -6630,7 +6630,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### Texti
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texti.webp" alt="Texti">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-texti.webp" alt="Texti">
 
 #### एआई जो आपके ब्राउज़र में रहता है!
 
@@ -6646,7 +6646,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### AIduh
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
 #### एआई-रिस्पोंडर फॉर होस्टअवे - एआई डुह
 
@@ -6662,7 +6662,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### NSFW JS
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
 
 #### NSFW Js - क्लाइंट-साइड से अश्लील कॉन्टेंट की जाँच।
 
@@ -6679,7 +6679,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### Grokipedia VS Wikipedia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
 
 #### ग्रोकीपीडिया बनाम विकिपीडिया: वैकल्पिक दृश्य देखें
 
@@ -6699,7 +6699,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 
 ### All in One Accessibility
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
 
 #### एआई-संचालित क्विक वेबसाइट एक्सेसिबिलिटी अनुपालन समाधान!
 
@@ -6725,7 +6725,7 @@ SplasHAI एक सहायक की तरह है, यह तुम्ह�
 
 ## पोडकास्ट टूल
 ### Podnav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podnav.webp" alt="Podnav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podnav.webp" alt="Podnav">
 
 #### AIPodNav: लाइव ट्रांसक्रिप्ट के साथ AI पॉडकास्ट समराइज़र
 AIPodNav: एआई पॉडकास्ट समराइज़र
@@ -6748,7 +6748,7 @@ AIPodNav: AI के साथ बेहतरीन पॉडकास्ट अ
 
 
 ### Recast Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
 #### एआई-संचालित पॉडकास्ट मार्केटिंग असिस्टेंट। 
 
@@ -6770,7 +6770,7 @@ Recast Studio तुम्हारे पॉडकास्ट एपिसो�
 
 
 ### AIPodNav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
 
 #### एफ़िशिएंट पॉडकास्ट टूल में ट्रांसक्रिप्ट, सारांश, माइंड मैप और हाइलाइट्स शामिल हैं, जो पॉडकास्ट जानकारी प्रबंधन के लिए एक व्यापक समाधान प्रदान करते हैं।
 
@@ -6786,7 +6786,7 @@ AIPodNav एक AI- बेहतर प्रॉडक्ट है, जिस�
 
 
 ### Adobe Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
 
 #### एडोब पॉडकास्ट - एआई ऑडियो रिकॉर्डिंग और संपादन, सभी वेब पर
 
@@ -6802,7 +6802,7 @@ AIPodNav एक AI- बेहतर प्रॉडक्ट है, जिस�
 
 
 ### Digest.fm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
 #### Digest.fm - अपने कॉन्टेंट से AI-संचालित पॉडकास्ट बनाएं और कुछ ही मिनटों में Spotify, YouTube और Apple पॉडकास्ट पर लॉन्च करें।
 
@@ -6819,7 +6819,7 @@ Digest.fm एक AI-संचालित प्लेटफ़ॉर्म ह�
 
 
 ### Podzay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podzay.webp" alt="Podzay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podzay.webp" alt="Podzay">
 
 #### पोडज़े एक प्लेटफ़ॉर्म है, जो इम्पैक्टफ़ुल के लिए पॉडकास्टर्स और मेहमानों को जोड़ता है
 स्मार्ट मैचिंग, आसान संवाद और आसान बुकिंग के ज़रिए सहयोग।
@@ -6839,7 +6839,7 @@ Podzay तुम्हारे पॉडकास्ट के लिए सह
 
 
 ### AIdeaFlow Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
 
 #### PDF या किसी भी टेक्स्ट को दिलचस्प दो-व्यक्ति डायलॉग पॉडकास्ट या एक व्यक्ति के लेक्चर में ट्रांसफ़ॉर्म करें।
 
@@ -6863,7 +6863,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 ## प्रॉम्प्ट लाइब्रेरी एंड इंजीनियरिंग
 ### Promptogy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
 #### एक यूनिवर्सल प्रॉम्प्ट जनरेटर जो तुम्हेंं अनोखे AI आर्टवर्क बनाने में मदद करता है।
 
@@ -6879,7 +6879,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### Sora Prompts Today
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
 
 #### दुनिया में सोरा प्रॉम्प्ट्स का सबसे अच्छा कलेक्शन
 
@@ -6899,7 +6899,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### Drawing Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
 
 #### हर कलाकार के लिए एआई-एन्हांस्ड प्रॉम्प्ट्स जेनरेटर
 
@@ -6918,7 +6918,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### Promptomania
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptomania.webp" alt="Promptomania">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptomania.webp" alt="Promptomania">
 
 #### PromptoMania प्रॉम्प्ट जेनरेटर - ऑनलाइन प्रॉम्प्ट बिल्डर के साथ AI कला समुदाय
 
@@ -6934,7 +6934,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### PromptExplained
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
 
 #### वह वेबसाइट जो एआई प्रॉम्प्ट्स को कस्टमाइज़ करने के लिए इनसाइट्स, तकनीकों और सुझावों के ज़रिए यूज़र को प्रॉम्प्ट्स इंजीनियरिंग में महारत हासिल करने में मदद करती है
 
@@ -6950,7 +6950,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### Promptmakr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
 
 #### प्रॉम्प्ट इंजीनियर्स के लिए मुफ़्त में असीमित AI आर्ट प्रॉम्प्ट जेनरेट करने और शेयर करने का प्लेटफ़ॉर्म
 
@@ -6966,7 +6966,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 
 ### Deploy Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
 
 #### पुन: प्रयोज्य संकेत बनाएं और साझा करें
 
@@ -6990,7 +6990,7 @@ PDF या किसी भी टेक्स्ट को आसानी स�
 
 ## रिक्रूटिंग और एटीएस
 ### MoAIJobs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
 
 #### मशीन लर्निंग, डेटा साइंस, इंजीनियरिंग, नेचुरल लैंग्वेज प्रोसेसिंग, सेल्स आदि में AI जॉब्स।
 
@@ -7012,7 +7012,7 @@ MoaiJobs AI में नौकरी खोजने वाला #1 जॉब 
 
 
 ### rankode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rankode.webp" alt="rankode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rankode.webp" alt="rankode">
 
 #### मानव संसाधन के लिए एआई - रैंककोड
 
@@ -7028,7 +7028,7 @@ MoaiJobs AI में नौकरी खोजने वाला #1 जॉब 
 
 
 ### Screenloop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenloop.webp" alt="Screenloop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-screenloop.webp" alt="Screenloop">
 
 #### स्क्रीनलूप - हमारे एआई-संचालित टैलेंट ऑपरेशंस प्लेटफ़ॉर्म की मदद से अपनी भर्ती में बदलाव करें, जिसमें इंटरव्यू इंटेलीजेंस, एआई नोटटेकर और व्यापक एटीएस शामिल हैं।
 
@@ -7046,7 +7046,7 @@ MoaiJobs AI में नौकरी खोजने वाला #1 जॉब 
 
 
 ### JD Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
 
 #### टीम से मिलें - किराया भागफल
 
@@ -7062,7 +7062,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Hire Hoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
 
 #### हायर हॉक - एआई पावर्ड हायरिंग टूल
 
@@ -7078,7 +7078,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### springworks
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-springworks.webp" alt="springworks">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-springworks.webp" alt="springworks">
 
 #### बढ़ते कारोबार के लिए एचआर सॉफ्टवेयर सॉल्यूशंस
 
@@ -7094,7 +7094,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 
 ### Hirex AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
 
 #### Hirex.ऐ
 
@@ -7118,7 +7118,7 @@ HireQuotients Skill Assessment Platform आपको आधे समय मे�
 
 ## अनुसंधान सहायक
 ### MyMap.AI Research Paper Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
 
 #### MyMap.AI रिसर्च पेपर समराइज़र - 4 घंटे के अध्ययन को 4-मिनट की रीडिंग में समेकित करें, AI द्वारा संक्षेप में स्पष्ट और संक्षिप्त जानकारी।
 
@@ -7134,7 +7134,7 @@ MyMap.AI रिसर्च पेपर समराइज़र एक मु�
 
 
 ### MyMap Book Summerizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
 
 #### MyMap.AI बुक समराइज़र - AI का इस्तेमाल करके बुलेट पॉइंट या माइंड मैप के ज़रिए किताब का सार डाइजेस्ट करें।
 
@@ -7150,7 +7150,7 @@ MyMap AI बुक समराइज़र एक लंबी किताब 
 
 
 ### Afforai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-afforai.webp" alt="Afforai">
 
 #### तुम्हारा AI रीडिंग कोपायलट। टेक्स्ट विश्लेषण, शोध और दस्तावेज़ खोजने के लिए ज़रूरी टूल
 
@@ -7166,7 +7166,7 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 
 
 ### QoQo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
 
 #### QoQo AI, रिसर्च से जुड़ी जानकारी का तुरंत और कुशल ऐक्सेस देकर प्रॉडक्ट डिज़ाइनर और UX रिसर्चर्स को रिसर्च के लिए सीमित संसाधनों से पार पाने में मदद करता है।
 
@@ -7186,7 +7186,7 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 
 
 ### Elicit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elicit.webp" alt="Elicit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elicit.webp" alt="Elicit">
 
 #### एलिसिट: एआई रिसर्च असिस्टेंट
 
@@ -7202,7 +7202,7 @@ Afforai एक AI चैटबॉट है जो भरोसेमंद श�
 
 
 ### Scispace
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scispace.webp" alt="Scispace">
 
 #### टाइपसेट के अनुसार साइस्पेस - अपने रिसर्च पेपर को खोजें, बनाएं, प्रकाशित करें और उसका प्रचार करें
 
@@ -7219,7 +7219,7 @@ PDF से बात करें और SciSpace का इस्तेमा�
 
 
 ### Sourcely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
 #### स्रोत- अपने रिसर्च को मिनटों में पूरा करें। अपनी नींद बचाओ।
 
@@ -7244,7 +7244,7 @@ PDF से बात करें और SciSpace का इस्तेमा�
 
 ## रेज़्यूमे और सीवी बिल्डर
 ### AiApply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
 #### AIApply: नौकरी खोजने वालों के लिए AI टूल, ताकि बेहतरीन एप्लीकेशन तैयार किया जा सके
 
@@ -7260,7 +7260,7 @@ AIApply AI टूल का एक डायनामिक सूट है, �
 
 
 ### Huntr AI Resume Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
 
 #### AI की थोड़ी मदद से, एकदम सही रिज़्यूमे तैयार करें
 
@@ -7276,7 +7276,7 @@ AIApply AI टूल का एक डायनामिक सूट है, �
 
 
 ### ResumeUp.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
 
 #### रेज़्यूमे बिल्डर, एटीएस चेकर और लिंक्डइन ऑप्टिमाइज़र आदि के साथ एआई-संचालित करियर प्लेटफ़ॉर्म। एआई रिज्यूमे ऑप्टिमाइज़ेशन के साथ लैंड इंटरव्यू तेज़ी से होता है
 
@@ -7294,7 +7294,7 @@ ResumeUp.AI एक ऑल-इन-वन AI-संचालित करियर
 
 
 ### JobWinner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
 
 #### जॉबविनर एआई-संचालित नौकरी के लिए आवेदन सहायक है, जो अनुकूलित रिज्यूमे, कवर लेटर और इंटरव्यू की तैयारी के दस्तावेज़ तैयार करता है। 
 
@@ -7317,7 +7317,7 @@ ResumeUp.AI एक ऑल-इन-वन AI-संचालित करियर
 
 
 ### AI Resume Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
 #### जिस तरह से दुनिया रिज्यूमे बनाती है। सबसे स्मार्ट जीपीटी-संचालित रिज्यूमे बिल्डर।
 
@@ -7333,7 +7333,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Prodigy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
 #### सॉफ्टवेयर इंजीनियरों के करियर को बेहतर बनाने के लिए एआई का उपयोग करना
 
@@ -7349,7 +7349,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Resume Worded
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
 
 #### अपने बायोडाटा और लिंक्डइन प्रोफाइल में सुधार करें
 
@@ -7373,7 +7373,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 ## एसईओ और कीवर्ड रिसर्च
 ### Backlink GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
 
 #### एआई के साथ गुणवत्तापूर्ण बैकलिंक्स उत्पन्न करें।
 
@@ -7389,7 +7389,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### SEOify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seoify.webp" alt="SEOify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seoify.webp" alt="SEOify">
 
 #### Google में रैंकिंग में मदद करने के लिए SEOiFy AI SEO स्वचालित सहायक उपकरण
 
@@ -7405,7 +7405,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Quattr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quattr.webp" alt="Quattr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quattr.webp" alt="Quattr">
 
 #### क्वाटर आपका विकास मुख्यालय है
 
@@ -7421,7 +7421,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### Ctrify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrify.webp" alt="Ctrify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrify.webp" alt="Ctrify">
 
 #### पहला एआई-पावर्ड एसईओ एक्शन प्लेटफॉर्म
 
@@ -7437,7 +7437,7 @@ Rezi एकमात्र रिज्यूमे प्लेटफॉर्�
 
 
 ### LinkActions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkactions.webp" alt="LinkActions">
 
 #### LinkActions तुम्हारी वेबसाइट के लिए पूरी तरह से स्वचालित आंतरिक लिंकिंग टूल है। 
 
@@ -7456,7 +7456,7 @@ LinkActions उन अंदरूनी लिंक को उजागर क
 
 
 ### Link Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-link-finder.webp" alt="Link Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-link-finder.webp" alt="Link Finder">
 
 #### सिर्फ़ 10 सेकंड में, सबसे अच्छे दामों पर, सबसे अच्छे लिंक ढूंढे
 
@@ -7472,7 +7472,7 @@ AI सर्च के ज़रिए सैकड़ों प्रासं�
 
 
 ### SEOByAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
 
 #### मुफ़्त AI SEO टूल के ज़रिए Google पर तेज़ी से रैंक करें
 
@@ -7498,7 +7498,7 @@ SEOBy.ai तुम्हेंं एक पैसा खर्च किए ब
 
 ## सेल्स आउटरीच और लीड जेन
 ### ApplyPass
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-applypass.webp" alt="ApplyPass">
 
 #### हमारे जॉब एप्लीकेशन एआई की मदद से अपने लिए आदर्श नौकरी पाओ। हर हफ़्ते सैंकड़ों इंजीनियरिंग नौकरियों पर स्वचालित रूप से आवेदन करो! 100 मुफ़्त ऐप्लिकेशन पाने के लिए ApplyPass से जुड़ें।
 
@@ -7516,7 +7516,7 @@ ApplyPass.com ने इंजीनियरों के लिए हज़�
 
 
 ### LinkDR
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkdr.webp" alt="LinkDR">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkdr.webp" alt="LinkDR">
 
 #### SaaS के संस्थापक और मार्केटर्स के लिए AI-संचालित लिंक बिल्डिंग आउटरीच टूल
 
@@ -7532,7 +7532,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### reply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-reply.webp" alt="reply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-reply.webp" alt="reply">
 
 #### Reply.io - AI सेल्स आउटरीच और लीड जनरेशन प्लेटफ़ॉर्म
 
@@ -7549,7 +7549,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### MyInfluencer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
 
 #### एआई इन्फ्लुएंसर सर्च इंजन जो किसी भी व्यवसाय के लिए सही इन्फ्लुएंसर ढूंढता है
 
@@ -7565,7 +7565,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### THEO: Context-aware Strategic Co-Pilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
 
 #### अपनी वेबसाइट और दस्तावेज़ों को एआई-रेडी 'चीट शीट' में बदलें, ताकि तुम्हारे AI सहायक को रणनीतिक पार्टनर बनाया जा सके
 
@@ -7581,7 +7581,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### NioLeads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nioleads.webp" alt="NioLeads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nioleads.webp" alt="NioLeads">
 
 #### Nioleads Enterprise, LikedIn ईमेल फ़ाइंडर और सेल्स नेविगेटर स्क्रेपर
 
@@ -7597,7 +7597,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### MyMap.AI Swot Analysis Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
 
 #### MyMap.AI स्वॉट एनालिसिस जेनरेटर - किसी भी बिज़नेस के फैसले से पहले ज़रूरी प्रतिस्पर्धात्मक विश्लेषण, AI द्वारा आसानी से जेनरेट किया जाता है
 
@@ -7621,7 +7621,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 ## खोज इंजन
 ### FrameTrace | Reverse Video Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-frametrace-|-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-frametrace-%7C-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
 
 #### फ़्रेमट्रेस: स्रोत का पता लगाने और प्रामाणिकता की पुष्टि करने के लिए AI-संचालित रिवर्स वीडियो सर्च इंजन
 
@@ -7637,7 +7637,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### Andisearch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-andisearch.webp" alt="Andisearch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-andisearch.webp" alt="Andisearch">
 
 #### एंडी - AI की ताकत का इस्तेमाल करके अगली पीढ़ी को खोजें
 
@@ -7654,7 +7654,7 @@ LinkDR एक AI-संचालित लिंक बिल्डिंग ट
 
 
 ### You
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-you.webp" alt="You">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-you.webp" alt="You">
 
 #### वह AI सर्च इंजन जिसे तुम नियंत्रित करते हो
 
@@ -7674,7 +7674,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Everypixel
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everypixel.webp" alt="Everypixel">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everypixel.webp" alt="Everypixel">
 
 #### स्टॉक इमेज सर्च इंजन - 50 से ज़्यादा बेहतरीन स्रोत - एवरीपिक्सल
 
@@ -7691,7 +7691,7 @@ GPT-4 के साथ व्यापक प्रतिक्रियाए�
 
 
 ### Context Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-context-search.webp" alt="Context Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-context-search.webp" alt="Context Search">
 
 #### संदर्भ - YouTube प्लेलिस्ट में मौजूद कॉन्टेंट के लिए AI-संचालित ऑडियो और वीडियो खोजें।
 
@@ -7708,7 +7708,7 @@ YouTube प्लेलिस्ट में कॉन्टेंट ढूं
 
 
 ### Anypod
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anypod.webp" alt="Anypod">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anypod.webp" alt="Anypod">
 
 #### रचनाकारों के लिए निर्मित खोज इंजन
 
@@ -7724,7 +7724,7 @@ YouTube प्लेलिस्ट में कॉन्टेंट ढूं
 
 
 ### Perplexity AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
 
 #### Perplexity AI एक उत्तर इंजन है जो बड़े भाषा मॉडल का इस्तेमाल करके जटिल प्रश्नों के सटीक उत्तर देता है।
 
@@ -7749,7 +7749,7 @@ Perplexity AI जानकारी खोजने और शेयर कर�
 
 ## स्लाइड और प्रस्तुतियाँ
 ### Storydoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
 #### आसानी से शानदार, इंटरैक्टिव डेक बनाएं, जो जुड़ाव बढ़ाते हैं।
 
@@ -7765,7 +7765,7 @@ Storydoc एक सहज स्लाइड एडिटर है, जो इ�
 
 
 ### PitchBob io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
 
 #### एआई पिच डेक जेनरेटर और स्टार्टअप को-पायलट
 
@@ -7782,7 +7782,7 @@ PitchBob.io AI द्वारा संचालित एक डिजिट�
 
 
 ### Glimmer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
 
 #### एआई-पावर्ड प्रेजेंटेशन मैजिक
 
@@ -7798,7 +7798,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### My Pitch Deck
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
 
 #### माय पिच डेक - अपने स्टार्टअप के लिए कस्टम पिच डेक टेम्पलेट के साथ अपनी फ़ंडिंग की शुरुआत करें।
 
@@ -7816,7 +7816,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### Pitchgrade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
 
 #### पिचग्रेड - प्रस्तुतियों ने दर्द रहित बना दिया
 
@@ -7832,7 +7832,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### ChatBA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
 #### Chatbcg: स्लाइड के लिए जनरेटिव AI
 
@@ -7848,7 +7848,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### SlidesAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
 
 #### सेकंड में एआई के साथ प्रेजेंटेशन स्लाइड बनाएं
 
@@ -7872,7 +7872,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 ## सोशल मीडिया कॉन्टेंट
 ### Viral Post Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
 
 #### वायरल पोस्ट जेनरेटर - एकदम सही Linkedin पोस्ट लिखने के लिए AI का इस्तेमाल करें।
 
@@ -7888,7 +7888,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### Lunroo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lunroo.webp" alt="Lunroo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lunroo.webp" alt="Lunroo">
 
 #### सोशल मीडिया मार्केटिंग के लिए मुफ़्त AI टूल
 
@@ -7904,7 +7904,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### Qura AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
 
 #### आज ही ऑटोपायलट पर अपना X (Twitter) बढ़ाना शुरू करें
 
@@ -7922,7 +7922,7 @@ Glimmer AI, GPT-3 और DALL-E 2 का उपयोग टेक्स्ट �
 
 
 ### Robopost AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
 #### Robopost AI, AI की मदद से तुम्हारे लिए पोस्ट आइडिया बनाता है और उन्हें तुम्हारे सोशल मीडिया अकाउंट पर पोस्ट/शेड्यूल करता है।
 
@@ -7938,7 +7938,7 @@ Robopost AI से प्रेरित हों: हमारा AI तुम
 
 
 ### Podify.io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podify.io.webp" alt="Podify.io">
 
 #### LinkedIn पर आगे बढ़ने के लिए AI और समुदाय का फ़ायदा उठाएं
 
@@ -7956,7 +7956,7 @@ Podify एक कंटेंट और सामुदायिक प्ले
 
 
 ### Predis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-predis.webp" alt="Predis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-predis.webp" alt="Predis">
 
 #### AI के ज़रिए सोशल मीडिया मार्केटिंग को आसान बनाया गया - Predis.Ai
 
@@ -7973,7 +7973,7 @@ Podify एक कंटेंट और सामुदायिक प्ले
 
 
 ### Postlyy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-postlyy.webp" alt="Postlyy">
 
 #### आसान कॉन्टेंट मैनेजमेंट की मदद से अपने दर्शकों को तेज़ी से बढ़ाएं
 
@@ -7997,7 +7997,7 @@ Postlyy एक ऐसा प्लेटफ़ॉर्म है, जिसे क
 
 ## सामाजिक नेटवर्क और डेटिंग
 ### CommentGuard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
 
 #### कमेंटगार्ड Facebook और Instagram टिप्पणियों के लिए AI-संचालित मॉडरेशन टूल है
 
@@ -8013,7 +8013,7 @@ Postlyy एक ऐसा प्लेटफ़ॉर्म है, जिसे क
 
 
 ### MyDogNames
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
 
 #### MyDogNames - कुत्ते का सबसे अच्छा नाम ढूँढें
 
@@ -8029,7 +8029,7 @@ Postlyy एक ऐसा प्लेटफ़ॉर्म है, जिसे क
 
 
 ### RIZZ AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
 
 #### RIZZ AI के साथ अपने डेटिंग अनुभव को बदलें, जो सबसे अच्छी AI डेटिंग सहायक है।
 
@@ -8045,7 +8045,7 @@ RIZZ AI एक AI डेटिंग टूल है जिसे RIZE GPT फ़�
 
 
 ### AI Social Bio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
 #### एआई सोशल बायो - आर्टिफिशियल इंटेलिजेंस द्वारा बनाया गया तुम्हारा सोशल मीडिया बायो
 
@@ -8064,7 +8064,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### Ai Dating Tips
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
 
 #### बढ़िया डेटिंग प्रोफ़ाइल तैयार करने के बारे में विशेषज्ञ की सलाह लें! सही फ़ोटो चुनने का तरीका जानें
 
@@ -8082,7 +8082,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### KeyMentions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
 
 #### Reddit ट्रैफ़िक को ग्राहकों में बदलें...
 
@@ -8101,7 +8101,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### SynthLife
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-synthlife.webp" alt="SynthLife">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-synthlife.webp" alt="SynthLife">
 
 #### क्रिएटर्स को एआई व्यक्तित्व बनाने, उसे बढ़ाने और उससे कमाई करने में मदद करता है
 
@@ -8125,7 +8125,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 ## साउंड इफ़ेक्ट जेनरेटर
 ### AI Sound Effects Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
 
 #### एआई साउंड इफ़ेक्ट जेनरेटर - टेक्स्ट से साउंड इफ़ेक्ट जेनरेट करें
 
@@ -8141,7 +8141,7 @@ X (Twitter) के लिए बिल्कुल सही। अपने ब
 
 
 ### SFX Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
 
 #### AI का इस्तेमाल करके असीमित साउंड इफ़ेक्ट जेनरेट करें
 
@@ -8157,7 +8157,7 @@ SFX Engine एक बहुमुखी और शक्तिशाली स�
 
 
 ### HarmonySnippetsAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
 
 #### अपने ऑडियो ट्रैक अपलोड करें और AI को सबसे आकर्षक सेगमेंट को 10 गुना तेज़ी से ढूंढने दें। Instagram, Facebook और TikTok पर प्रचार करने के लिए बहुत बढ़िया।
 
@@ -8179,7 +8179,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### SoundAI Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
 
 #### तुरन्त बेहतरीन साउंड इफ़ेक्ट बनाएँ। 
 
@@ -8195,7 +8195,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### GetSound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getsound.webp" alt="GetSound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getsound.webp" alt="GetSound">
 
 #### हॉस्पिटैलिटी एआई साउंडस्केप्स के भविष्य में आपका स्वागत है।
 
@@ -8211,7 +8211,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### हमारे AI साउंड इफ़ेक्ट जनरेटर की मदद से यथार्थवादी AI ध्वनियाँ बनाएँ।
 
@@ -8227,7 +8227,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### PopPop AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
 
 #### मुफ़्त AI साउंड इफ़ेक्ट जेनरेटर: ऑनलाइन साउंड मेकर
 
@@ -8252,7 +8252,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 ## स्टडी और ट्यूटर
 ### Jenni
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jenni.webp" alt="Jenni">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jenni.webp" alt="Jenni">
 
 #### जेनी - निबंध, शोध पत्र वगैरह लिखने के लिए AI!
 
@@ -8269,7 +8269,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### QUIZGECKO
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
 #### मैन्युअल रूप से क्विज़ बनाने में समय बर्बाद करना बंद करें
 
@@ -8285,7 +8285,7 @@ HarmonySnippetSAI तुम्हारे म्यूज़िक ट्रैक
 
 
 ### QuizRise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizrise.webp" alt="QuizRise">
 
 #### QuizRise | AI का इस्तेमाल करके आसानी से ऑनलाइन क्विज़, टेस्ट और परीक्षा के लिए प्रश्न तैयार करें।
 
@@ -8305,7 +8305,7 @@ PDF, TXT, या DOCX फ़ॉर्मेट में क्विज़ एक�
 
 
 ### Quizwhiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
 
 #### क्विज़विज़ - किसी भी टेक्स्ट से बहुविकल्पीय प्रश्न जेनरेट करें
 
@@ -8321,7 +8321,7 @@ QuizWhiz एक AI-संचालित ऐप है, जो टेक्स�
 
 
 ### FairyTailAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
 
 #### एआई का इस्तेमाल करके वैयक्तिकृत बेडटाइम स्टोरी जेनरेटर
 
@@ -8337,7 +8337,7 @@ AI का इस्तेमाल करके हर दिन अपने �
 
 
 ### Botta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-botta.webp" alt="Botta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-botta.webp" alt="Botta">
 
 #### किसी विषय से परेशानी हो रही है? बोटा से मिलें
 
@@ -8353,7 +8353,7 @@ AI का इस्तेमाल करके हर दिन अपने �
 
 
 ### KardsAI - AI Flashcard Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
 
 #### KardSai एक मोबाइल ऐप है जो तुम्हेंं किसी भी चीज़ को तेज़ी से सीखने में मदद करता है। यह किसी भी PDF, टेक्स्ट या प्रॉम्प्ट से अपने-आप फ़्लैशकार्ड जनरेट करता है। लॉन्ग टर्म मेमोरी रिटेंशन के लिए अलग-अलग दोहराव के साथ सीखें!
 
@@ -8377,7 +8377,7 @@ iOS और Android के लिए उपलब्ध कार्डसाई 
 
 ## टास्क और पर्सनल असिस्टेंट
 ### Dewey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dewey.webp" alt="Dewey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dewey.webp" alt="Dewey">
 
 #### डेवी के साथ और अधिक करें। रिमाइंडर प्राप्त करें और डेवी, आपके एआई जवाबदेही बडी के टेक्स्ट संदेशों से प्रेरित रहें।
 
@@ -8393,7 +8393,7 @@ iOS और Android के लिए उपलब्ध कार्डसाई 
 
 
 ### Sidekick
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sidekick.webp" alt="Sidekick">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sidekick.webp" alt="Sidekick">
 
 #### पेश है जिग्सो की साइडकिक - एआई स्लैकबॉट जो आपके खुद के बिजनेस पर्सनल असिस्टेंट के रूप में काम करता है।
 
@@ -8409,7 +8409,7 @@ iOS और Android के लिए उपलब्ध कार्डसाई 
 
 
 ### Cogram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cogram.webp" alt="Cogram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cogram.webp" alt="Cogram">
 
 #### अपनी टीम के लिए एक बुद्धिमान सहकर्मी के साथ अपनी उत्पादकता दोगुनी करें
 
@@ -8425,7 +8425,7 @@ iOS और Android के लिए उपलब्ध कार्डसाई 
 
 
 ### Todobee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-todobee.webp" alt="Todobee">
 
 #### सुंदर AI-संचालित प्रोजेक्ट मैनेजमेंट ऐप
 
@@ -8445,7 +8445,7 @@ iOS और Android के लिए उपलब्ध कार्डसाई 
 
 
 ### AI Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
 #### एआई फाइंडर - एलएलएम की मदद से अपने फाइल सिस्टम के बारे में पूछें।
 
@@ -8465,7 +8465,7 @@ AI Finder तुम्हारी फ़ाइल गोल्डन रिट्�
 
 
 ### So You Had An Idea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
 #### एआई की ताकत से अपने कारोबार के विचारों को एक्शन प्लान में बदलें
 
@@ -8481,7 +8481,7 @@ AI Finder तुम्हारी फ़ाइल गोल्डन रिट्�
 
 
 ### dypt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dypt.webp" alt="dypt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dypt.webp" alt="dypt">
 
 #### AI की मदद से टास्क को स्वचालित रूप से मैनेज किए जाने वाले सबटास्क में बांट दें और मानसिक अवरोधों को दूर करें
 
@@ -8509,7 +8509,7 @@ AI Finder तुम्हारी फ़ाइल गोल्डन रिट्�
 
 ## टेक्स्ट जनरेशन
 ### Infiniteconversation
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
 
 #### अनंत बातचीत
 
@@ -8525,7 +8525,7 @@ AI Finder तुम्हारी फ़ाइल गोल्डन रिट्�
 
 
 ### ReplAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-replai.webp" alt="ReplAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-replai.webp" alt="ReplAI">
 
 #### Replai - AI के साथ तुरंत जवाब दें
 
@@ -8541,7 +8541,7 @@ ReplAI एक ब्राउज़र एक्सटेंशन है जो
 
 
 ### Oracle
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oracle.webp" alt="Oracle">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oracle.webp" alt="Oracle">
 
 #### Oracle - अपने सभी नॉलेजबेस से तत्काल उत्तर प्राप्त करें
 
@@ -8557,7 +8557,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Excelformulabot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
 
 #### एक्सेल और गूगल शीट एआई फॉर्मूला जेनरेटर - Excelformulabot.Com
 
@@ -8573,7 +8573,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Scarlettpanda
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
 
 #### स्कारलेट पांडा - स्वनिर्धारित लघु सोने के समय की कहानियाँ
 
@@ -8589,7 +8589,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Kidotail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kidotail.webp" alt="Kidotail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kidotail.webp" alt="Kidotail">
 
 #### किडोटेल एआई
 
@@ -8605,7 +8605,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Formula Dog
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
 
 #### एआई - फॉर्मूला डॉग का उपयोग करके एक्सेल सूत्र और अधिक उत्पन्न करें
 
@@ -8629,7 +8629,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 ## भाषण के पाठ
 ### Wellsaid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
 
 #### रीयल टाइम में टेक्स्ट को वॉइस में बदलें
 
@@ -8645,7 +8645,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Cliptics
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### क्लिपटिक्स, बोलने के लिए मुफ़्त टेक्स्ट! तुम्हारे शब्द, हमारी आवाज़ें।
 
@@ -8661,7 +8661,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Childbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-childbook.webp" alt="Childbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-childbook.webp" alt="Childbook">
 
 #### चिल्ड्रन्स बुक क्रिएटर में आपका स्वागत है!
 
@@ -8677,7 +8677,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### Lovo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovo.webp" alt="Lovo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovo.webp" alt="Lovo">
 
 #### AI वॉइस जेनरेटर: रियलिस्टिक टेक्स्ट टू स्पीच और वॉइस क्लोनिंग
 
@@ -8694,7 +8694,7 @@ Oracle के साथ अपने सभी ज्वलंत प्रश�
 
 
 ### NaturalReader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
 #### व्यक्तिगत, व्यावसायिक और शैक्षिक उपयोग के लिए #1 टेक्स्ट टू स्पीच समाधान
 
@@ -8710,7 +8710,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Voicera
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicera.webp" alt="Voicera">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voicera.webp" alt="Voicera">
 
 #### वॉयसेरा - अपने लेखों और ब्लॉग को आवाज़ दें
 
@@ -8726,7 +8726,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Createaivoiceovers
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
 
 #### टेक्स्ट टू स्पीच ऑनलाइन वॉइस जेनरेटर, टेक्स्ट टू स्पीच जनरेटर - यथार्थवादी आवाज़ें - AI वॉइस ओवर बनाएँ
 
@@ -8750,7 +8750,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 ## टेक्स्ट से इमेज
 ### AI Picasso
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
 
 #### एआई पिकासो
 
@@ -8766,7 +8766,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### DrawAnyone
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
 
 #### किसी को भी ड्रा करें - किसी को भी, जिस तरह से आप चाहते हैं, ड्रा करें
 
@@ -8782,7 +8782,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Playground
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-playground.webp" alt="Playground">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-playground.webp" alt="Playground">
 
 #### खेल का मैदान ऐ - ऑनलाइन ऐ छवि निर्माता
 
@@ -8798,7 +8798,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### Designify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designify.webp" alt="Designify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designify.webp" alt="Designify">
 
 #### Designify - किसी भी फोटो को शानदार बनाएं
 
@@ -8814,7 +8814,7 @@ AI वॉइस के साथ ऑनलाइन, मोबाइल ऐप, 
 
 
 ### AI2image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2image.webp" alt="AI2image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2image.webp" alt="AI2image">
 
 #### फ्री एआई इमेज जेनरेटर - ऑनलाइन टेक्स्ट टू इमेज ऐप - एआई2इमेज
 
@@ -8830,7 +8830,7 @@ AI2image द्वारा निःशुल्क AI छवि जेनर�
 
 
 ### AI Wall Decor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
 
 #### हाइड्रोजन
 
@@ -8846,7 +8846,7 @@ AI2image द्वारा निःशुल्क AI छवि जेनर�
 
 
 ### Imaginator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imaginator.webp" alt="Imaginator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imaginator.webp" alt="Imaginator">
 
 #### इमेजिनेटर - अपने टेक्स्ट को छवियों में बदलें
 
@@ -8870,7 +8870,7 @@ AI2image द्वारा निःशुल्क AI छवि जेनर�
 
 ## टेक्स्ट से वीडियो
 ### LTX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ltx.webp" alt="LTX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ltx.webp" alt="LTX">
 
 #### LTX - LTX की मदद से कुछ ही सेकंड में शानदार वीडियो बनाएं
 
@@ -8886,7 +8886,7 @@ LTX एक AI-संचालित वीडियो जनरेशन प्
 
 
 ### VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
 
 #### VeggieAI.dance: वेजी एआई के साथ एआई डांस वीडियो बनाएं, मुफ्त ऑनलाइन
 
@@ -8902,7 +8902,7 @@ LTX एक AI-संचालित वीडियो जनरेशन प्
 
 
 ### AIDreamMachine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### एआई ड्रीम मशीन | शानदार AI-जनरेट किए गए वीडियो बनाएं
 
@@ -8918,7 +8918,7 @@ AI ड्रीम मशीन AI-संचालित एक मुफ़्त 
 
 
 ### DEEPBRAIN AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
 
 #### DeepBrain AI - टेक्स्ट का सबसे अच्छा AI वीडियो जेनरेटर
 
@@ -8934,7 +8934,7 @@ AI ड्रीम मशीन AI-संचालित एक मुफ़्त 
 
 
 ### Fotor AI video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
 
 #### AI वीडियो जेनरेटर - टेक्स्ट टू वीडियो AI ऑनलाइन मुफ़्त
 
@@ -8950,7 +8950,7 @@ Fotor के मुफ़्त AI वीडियो जनरेटर की म
 
 
 ### Sora Town
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-town.webp" alt="Sora Town">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-town.webp" alt="Sora Town">
 
 #### OpenAI के मुफ़्त परीक्षण और वीडियो के नमूने और प्रॉम्प्ट
 
@@ -8966,7 +8966,7 @@ SORA, OpenAI द्वारा स्थापित एक विस्तृ�
 
 
 ### Make a Video
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
 
 #### मेक-ए-वीडियो एक अत्याधुनिक AI सिस्टम है जो टेक्स्ट से वीडियो बनाता है।
 
@@ -8990,7 +8990,7 @@ SORA, OpenAI द्वारा स्थापित एक विस्तृ�
 
 ## TikTok और शॉर्ट्स क्रिएटर
 ### AI Videos (TikTok etc)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
 #### TikTok के लिए AI वीडियो जेनरेटर (शॉर्ट्स, रील्स) 
 
@@ -9006,7 +9006,7 @@ TextToVideo.bot एक AI टूल है, जो AI इमेज और AI व
 
 
 ### Clip Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
 
 #### TikTok, YouTube और Instagram के लिए वायरल AI वीडियो शॉर्ट जनरेशन टूल। बिना किसी परेशानी के वायरल वीडियो बनाएं।
 
@@ -9022,7 +9022,7 @@ TextToVideo.bot एक AI टूल है, जो AI इमेज और AI व
 
 
 ### InstaShorts
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
 
 #### अपने परदे के पीछे के वीडियो को वायरल TikToks में फिर से इस्तेमाल करें 
 
@@ -9038,7 +9038,7 @@ TextToVideo.bot एक AI टूल है, जो AI इमेज और AI व
 
 
 ### Supercreator AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
 
 #### Supercreator.Ai - AI की मदद से 10X तेज़ी से वीडियो बनाएं
 
@@ -9055,7 +9055,7 @@ TextToVideo.bot एक AI टूल है, जो AI इमेज और AI व
 
 
 ### Topview AI TikTok Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
 
 #### TopView AI स्वचालित स्क्रिप्ट, क्लिप, वॉयसओवर और म्यूज़िक के ज़रिये टेक्स्ट को तेज़ी से वायरल TikTok वीडियो में बदल देता है।
 
@@ -9071,7 +9071,7 @@ TopView AI Tiktok वीडियो जेनरेटर एक क्रा�
 
 
 ### Clippie AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
 
 #### कुछ ही सेकंड में फ़ेसलेस छोटे वीडियो बनाओ। Clippie AI के ज़रिए घंटों नहीं।
 
@@ -9098,7 +9098,7 @@ TopView AI Tiktok वीडियो जेनरेटर एक क्रा�
 
 
 ### EazyCaptions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
 
 #### संपादन कौशल के बिना आकर्षक छोटे फ़ॉर्मेट वाले वीडियो बनाएं
 
@@ -9128,7 +9128,7 @@ EazyCaptions किस तरह तुम्हारे वर्कफ़्�
 
 ## अनुवाद और प्रतिलेख
 ### Sumly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sumly.webp" alt="Sumly">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sumly.webp" alt="Sumly">
 
 #### AI-जनरेटेड पॉडकास्ट सारांश - Sumly.Ai
 
@@ -9144,7 +9144,7 @@ EazyCaptions किस तरह तुम्हारे वर्कफ़्�
 
 
 ### BiRead
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-biread.webp" alt="BiRead">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-biread.webp" alt="BiRead">
 
 #### तुरंत द्विभाषी पठन के लिए एक आसान टूल
 
@@ -9160,7 +9160,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 
 ### Snipd Podcast Summaries
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
 
 #### पॉडकास्ट में ज्ञान अनलॉक करें - Snipd
 
@@ -9176,7 +9176,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 
 ### RIVERSIDE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
 #### ऑडियो और वीडियो ट्रांसक्रिप्शन। AI द्वारा संचालित।
 99% सटीकता के साथ ऑडियो और वीडियो को टेक्स्ट में ट्रांसक्रिप्ट करें।
@@ -9198,7 +9198,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 
 ### Rythmex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rythmex.webp" alt="Rythmex">
 
 #### Rythmex कन्वर्टर के साथ ऑडियो को टेक्स्ट में बदलें
 
@@ -9214,7 +9214,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 
 ### Rephrasely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
 
 #### सभी भाषाओं के लिए मुफ़्त रीफ़्रेज़ जेनरेटर!
 
@@ -9230,7 +9230,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 
 ### Deciphr AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
 
 #### डिसिफर एआई
 
@@ -9254,7 +9254,7 @@ AI का इस्तेमाल करके, किसी भी वेब�
 
 ## अवकाश और ट्रिप प्लानर
 ### AI Trip Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
 
 #### एआई ट्रिप मेकर - तुम्हारा पर्सनल ट्रिप प्लानर एआई
 
@@ -9270,7 +9270,7 @@ AITripMaker - तुम्हारा निजी ट्रिप प्ला
 
 
 ### BeachAtlas
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
 
 #### स्थानीय बीच के सबसे अच्छे अनुभव के बारे में पता चलता है।
 
@@ -9286,7 +9286,7 @@ BeachAtlas.com समुद्र तटों का एक विश्वक�
 
 
 ### ItineraryTrip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
 
 #### आइटिनररीट्रिप - वैयक्तिकृत यात्रा की योजना AI ट्रेवल एजेंट
 
@@ -9304,7 +9304,7 @@ BeachAtlas.com समुद्र तटों का एक विश्वक�
 
 
 ### Orkoi
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-orkoi.webp" alt="Orkoi">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-orkoi.webp" alt="Orkoi">
 
 #### Orkoi - सेकंड में एक व्यक्तिगत यात्रा योजना बनाएं, निःशुल्क, कोई पंजीकरण नहीं
 
@@ -9320,7 +9320,7 @@ BeachAtlas.com समुद्र तटों का एक विश्वक�
 
 
 ### Roamr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roamr.webp" alt="Roamr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roamr.webp" alt="Roamr">
 
 #### रोमर - AI ट्रेवल प्लानर - कुछ ही सेकंड में आपका ड्रीम वेकेशन
 
@@ -9336,7 +9336,7 @@ Roam Around के साथ AI ट्रेवल प्लानिंग क�
 
 
 ### Vacay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vacay.webp" alt="Vacay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vacay.webp" alt="Vacay">
 
 #### अवकाश चैट एजेंट
 
@@ -9352,7 +9352,7 @@ Roam Around के साथ AI ट्रेवल प्लानिंग क�
 
 
 ### Let''s Trip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
 
 #### सोशल मीडिया ट्रेंड पर आधारित AI ट्रिप प्लानर द्वारा संचालित अविस्मरणीय यात्रा के कार्यक्रम
 
@@ -9376,7 +9376,7 @@ Roam Around के साथ AI ट्रेवल प्लानिंग क�
 
 ## वाइब कोडिंग और ऐप बिल्डर
 ### Aspen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aspen.webp" alt="Aspen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aspen.webp" alt="Aspen">
 
 #### मिनटों में AI से चलने वाले टूल बनाएं। एआई-संचालित वेब ऐप्स बनाने के लिए ऐस्पन एक नो-कोड प्लेटफ़ॉर्म है।
 
@@ -9396,7 +9396,7 @@ AI को मिनटों में कॉन्फ़िगर करें
 
 
 ### BuildAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-buildai.webp" alt="BuildAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-buildai.webp" alt="BuildAI">
 
 #### मिनटों में एआई इंटरफेस बनाएं
 
@@ -9412,7 +9412,7 @@ AI को मिनटों में कॉन्फ़िगर करें
 
 
 ### B12 No-Code AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
 
 #### B12 का नो-कोड AI किसी को भी मिनटों में कस्टम AI टूल बनाने में सक्षम बनाता है। एआई का उपयोग करने से लेकर बिना किसी विशेषज्ञता के मिनटों में अपना खुद का एआई टूल बनाने तक जाएं।
 
@@ -9428,7 +9428,7 @@ AI को मिनटों में कॉन्फ़िगर करें
 
 
 ### BASE44
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-base44.webp" alt="BASE44">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-base44.webp" alt="BASE44">
 
 #### BASE44 - AI की मदद से मिनटों में कोई भी सॉफ़्टवेयर बनाएं
 
@@ -9447,7 +9447,7 @@ AI को मिनटों में कॉन्फ़िगर करें
 
 
 ### AITable AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
 
 #### : नो-कोड अल एजेंट्स बिल्डर। तुम्हारे लैंडिंग पेज कन्वर्ज़न रेट को 5x करने के लिए कस्टम ChatGPT।
 
@@ -9464,7 +9464,7 @@ AlTable.ai एक काम करने का प्लैटफ़ॉर्�
 
 
 ### aidev codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
 
 #### आपके लिए एआई देव कोड
 
@@ -9480,7 +9480,7 @@ AlTable.ai एक काम करने का प्लैटफ़ॉर्�
 
 
 ### Cloobot X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
 #### बिज़नेस ऐप्लिकेशन बनाना अब बहुत आसान है
 
@@ -9504,7 +9504,7 @@ Cloobot X, अगली पीढ़ी के नो-कोड प्लैट�
 
 ## वीडियो डबिंग और अनुवाद
 ### VideoDub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videodub.webp" alt="VideoDub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videodub.webp" alt="VideoDub">
 
 #### आसानी से अपने वीडियो का अनुवाद करें और वॉयसओवर करें
 
@@ -9520,7 +9520,7 @@ Videodub.io एक एआई-संचालित प्लेटफॉर्�
 
 
 ### Papercup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-papercup.webp" alt="Papercup">
 
 #### पेपरकप - एआई डबिंग और वीडियो ट्रांसलेशन सॉफ़्टवेयर
 
@@ -9537,7 +9537,7 @@ Videodub.io एक एआई-संचालित प्लेटफॉर्�
 
 
 ### VMEG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vmeg.webp" alt="VMEG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vmeg.webp" alt="VMEG">
 
 #### VMEG | एआई-संचालित वीडियो लोकलाइज़ेशन प्लेटफ़ॉर्म
 
@@ -9553,7 +9553,7 @@ VMEG एक AI वीडियो लोकलाइज़ेशन प्ले
 
 
 ### TranslateVideo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
 #### अनुवाद करें। वीडियो - सिर्फ़ 1 क्लिक से वीडियो ट्रांसलेट करें
 
@@ -9569,7 +9569,7 @@ VMEG एक AI वीडियो लोकलाइज़ेशन प्ले
 
 
 ### BlipCut Video Translator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
 
 #### मानव जैसी AI आवाज़ों, वॉइस क्लोनिंग और ChatGPT अनुवाद सुविधाओं के साथ AI वीडियो ट्रांसलेटर
 
@@ -9585,7 +9585,7 @@ VMEG एक AI वीडियो लोकलाइज़ेशन प्ले
 
 
 ### youtube dubbing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
 
 #### वीडियो देखने के लिए भाषा संबंधी अवरोधों को हटा दें
 
@@ -9601,7 +9601,7 @@ VMEG एक AI वीडियो लोकलाइज़ेशन प्ले
 
 
 ### Dubverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
 
 #### Dubverse.Ai के साथ ऑनलाइन वीडियो डबिंग
 
@@ -9625,7 +9625,7 @@ VMEG एक AI वीडियो लोकलाइज़ेशन प्ले
 
 ## वीडियो एडिटिंग
 ### Free AI kissing video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
 
 #### एआई किसिंग वीडियो जेनरेटर - रोमांटिक लम्हें बनाएँ
 
@@ -9641,7 +9641,7 @@ AI की मदद से अपनी तस्वीरों को जा�
 
 
 ### youtube video downloader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
 
 #### सबसे अच्छा मुफ़्त YouTube वीडियो डाउनलोडर | HD और 4K में वीडियो सेव करें
 
@@ -9657,7 +9657,7 @@ AISEO YouTube वीडियो डाउनलोडर की मदद स�
 
 
 ### TheFluxTrain
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
 
 #### संगत कैरेक्टर, वर्कफ़्लो और वीडियो के लिए एजेंट एआई प्रोडक्शन स्टूडियो
 
@@ -9673,7 +9673,7 @@ AISEO YouTube वीडियो डाउनलोडर की मदद स�
 
 
 ### VideoIdeas AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
 
 #### VideoIdeas.ai तुम्हारी AI YouTube कॉन्टेंट फ़ैक्टरी है। कुछ ही मिनटों में वायरल-योग्य स्क्रिप्ट्स, ताज़ा वीडियो आइडिया और आकर्षक कॉन्टेंट जेनरेट करें। 
 
@@ -9689,7 +9689,7 @@ YouTube क्रिएटर्स, जो अपने चैनल को ब
 
 
 ### SellerPic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
 
 #### सेलरपिक: एआई फ़ैशन मॉडल और प्रॉडक्ट इमेज और वीडियो जेनरेटर
 
@@ -9707,7 +9707,7 @@ YouTube क्रिएटर्स, जो अपने चैनल को ब
 
 
 ### Klap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-klap-app.webp" alt="Klap App">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-klap-app.webp" alt="Klap App">
 
 #### लंबे वीडियो को वायरल क्लिप में बदलने के लिए AI एडिटिंग ऐप
 
@@ -9732,7 +9732,7 @@ AI तुम्हारे YouTube वीडियो के वायरल-�
 
 
 ### AI video editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
 
 #### हमारे वीडियो बनाने के तरीके को AI फिर से आकार देता रहता है। इस क्षेत्र में सबसे नए नवाचारों में से एक है TopView.ai, जो एक ऑनलाइन AI वीडियो एडिटर है, जो स्ट्रीमलाइन करने के लिए AI की ताकत का इस्तेमाल करता है 
 
@@ -9756,7 +9756,7 @@ TopView.ai सोशल मीडिया जैसे TikTok, Reels, YouTube �
 
 ## वॉइस एजेंट और फ़ोन बॉट
 ### SimplePhones AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
 
 #### किसी ग्राहक की कॉल मिस न करें
 
@@ -9772,7 +9772,7 @@ TopView.ai सोशल मीडिया जैसे TikTok, Reels, YouTube �
 
 
 ### Voyp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voyp.webp" alt="Voyp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voyp.webp" alt="Voyp">
 
 #### VOYP, आवाज़ से चलने वाला ऐप तुम्हारा AI कॉल असिस्टेंट है।
 
@@ -9788,7 +9788,7 @@ TopView.ai सोशल मीडिया जैसे TikTok, Reels, YouTube �
 
 
 ### Poly AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
 
 #### ग्राहक के नेतृत्व वाली आवाज सहायक
 
@@ -9804,7 +9804,7 @@ TopView.ai सोशल मीडिया जैसे TikTok, Reels, YouTube �
 
 
 ### Voice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
 
 #### Pc और Mac के लिए AI वॉइस चेंजर ऐप - तुरंत अपनी आवाज़ बदलें
 
@@ -9820,7 +9820,7 @@ PC के लिए अभी मुफ़्त रीयल टाइम व�
 
 
 ### SuperU AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
 
 #### SuperU एक व्हाइट-लेबल वॉइस कॉलिंग AI है जो इंसानों जैसी सटीकता के साथ कॉल को ऑटोमेटिक करता है। इसकी मदद से कैंपेन लॉन्च किया जा सकता है, लीड हासिल की जा सकती है, और बातचीत को बड़े पैमाने पर मैनेज किया जा सकता है, बिना एक कोड लिखे।
 
@@ -9836,7 +9836,7 @@ PC के लिए अभी मुफ़्त रीयल टाइम व�
 
 
 ### VoAgents
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voagents.webp" alt="VoAgents">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voagents.webp" alt="VoAgents">
 
 #### VoAgents.ai एक अत्याधुनिक AI वॉइस एजेंट समाधान प्रदान करता है, जिसे बिज़नेस के ग्राहकों के साथ बातचीत करने के तरीके को नया आकार देने के लिए डिज़ाइन किया गया है। 
 
@@ -9852,7 +9852,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 
 ### nagish
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nagish.webp" alt="nagish">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nagish.webp" alt="nagish">
 
 #### नागिश - फ़ोन कॉल का कैप्शन देने वाला सबसे अच्छा ऐप
 
@@ -9878,7 +9878,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 ## वेब डिजाइन
 ### Kopage AI Website Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
 
 #### व्हाइट-लेबल AI वेबसाइट बिल्डर का इस्तेमाल तुम अपने क्लाइंट्स के लिए अपने ब्रांड के तहत वेबसाइट बनाने के लिए कर सकते हो
 
@@ -9894,7 +9894,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 
 ### Linkrr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkrr.webp" alt="Linkrr">
 
 #### लिंकर - सब कुछ एक ही प्लेटफ़ॉर्म से करें!
 
@@ -9911,7 +9911,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 
 ### Aida
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aida.webp" alt="Aida">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aida.webp" alt="Aida">
 
 #### Bookmark.com | अपना बिज़नेस शुरू करने के लिए नो-कोड वेबसाइट बिल्डर
 
@@ -9929,7 +9929,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 
 ### Durable
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-durable.webp" alt="Durable">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-durable.webp" alt="Durable">
 
 #### टिकाऊ: एआई वेबसाइट बिल्डर और सर्विस बिजनेस सॉफ्टवेयर
 
@@ -9945,7 +9945,7 @@ VoAgents.ai एक एडवांस AI वॉइस एजेंट प्ल�
 
 
 ### Magician
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magician.webp" alt="Magician">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magician.webp" alt="Magician">
 
 #### Figma के लिए जादूगर
 
@@ -9961,7 +9961,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### Designs AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
 
 #### एआई के साथ लोगो, वीडियो, बैनर, वॉयसओवर बनाएं
 
@@ -9977,7 +9977,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 
 ### welovenocode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
 
 #### अपनी वेबसाइट को तेज़ और किफ़ायती तरीके से बनाने के लिए टॉप नो-कोड और लो-कोड टैलेंट को हायर करें
 
@@ -10001,7 +10001,7 @@ AI द्वारा संचालित Figma के लिए एक जा
 
 ## वर्कफ़्लो और ऑटोमेशन
 ### Riku
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riku.webp" alt="Riku">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riku.webp" alt="Riku">
 
 #### Riku.Ai - AI मॉडल के लिए नो-कोड प्रॉम्प्ट और डेटासेट बनाएं
 
@@ -10018,7 +10018,7 @@ AI के ज़रिए अपने कारोबार में बदल
 
 
 ### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
 
 #### बस कुछ आसान इनपुट की मदद से किसी भी वेबसाइट से आसानी से डेटा निकाल सकते हैं।
 
@@ -10035,7 +10035,7 @@ AI के ज़रिए अपने कारोबार में बदल
 
 
 ### Sintra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sintra.webp" alt="Sintra">
 
 #### सिंट्रा - तुम्हारा अगला कर्मचारी, AI पर काम पर रखता है
 
@@ -10051,7 +10051,7 @@ Sintra AI हेल्पर्स के साथ अपने कारोब
 
 
 ### airops
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-airops.webp" alt="airops">
 
 #### AirOps - AI वर्कफ़्लोज़ जो ग्रोथ को बढ़ावा देते हैं - AirOps Studio के साथ AI ऐप्स बनाएं, उनका परीक्षण करें, उन्हें लागू करें और स्केल करें।
 
@@ -10069,7 +10069,7 @@ LLM-संचालित वर्कफ़्लोज़, टूल और �
 
 
 ### WebscrapeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
 
 #### AI का इस्तेमाल करके किसी भी वेबसाइट को बिना कोड के स्क्रैप करें
 
@@ -10085,7 +10085,7 @@ Webscrape AI एक एडवांस, यूजर-फ़्रेंडली
 
 
 ### Hexowatch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
 #### उपलब्धता और कीमतों से परे, डेटा स्रोत के रूप में तृतीय पक्ष की वेबसाइटें, विज़ुअल वेबसाइट मॉनिटरिंग, प्रतियोगी ट्रैकिंग।
 
@@ -10101,7 +10101,7 @@ Webscrape AI एक एडवांस, यूजर-फ़्रेंडली
 
 
 ### guidde
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-guidde.webp" alt="guidde">
 
 #### जादुई रूप से आश्चर्यजनक प्रशिक्षण मीटरियल, फीचर नोट्स, एसओपी, ऑनबोर्डिंग गाइड, हाउ-टू गाइड, एआई के साथ अक्सर पूछे जाने वाले प्रश्न बनाएं।
 
@@ -10125,7 +10125,7 @@ guidde व्यवसाय के लिए जनरेटिव AI प्ल
 
 ## लेखन सहायक
 ### Wordfixerbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
 
 #### पैराफ़्रेसिंग टूल - सर्वश्रेष्ठ मुफ़्त ऑनलाइन पैराफ़्रेज़र - Wordfixerbot
 
@@ -10141,7 +10141,7 @@ WordFixerBot का पैराफ़्रेसिंग टूल किस�
 
 
 ### AI Text Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
 
 #### एआई टेक्स्ट समराइज़र दैट रॉक्स: तेज़ कंटेंट एनालिसिस
 
@@ -10157,7 +10157,7 @@ WordFixerBot का पैराफ़्रेसिंग टूल किस�
 
 
 ### AI-Writer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
 
 #### AI राइटर™ - सबसे अच्छा AI टेक्स्ट जेनरेटर, वादा किया हुआ।
 
@@ -10173,7 +10173,7 @@ WordFixerBot का पैराफ़्रेसिंग टूल किस�
 
 
 ### Smodin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smodin.webp" alt="Smodin">
 
 ####  लेखन और होमवर्क में सहायता उत्पाद
 
@@ -10189,7 +10189,7 @@ WordFixerBot का पैराफ़्रेसिंग टूल किस�
 
 
 ### Rytr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rytr.webp" alt="Rytr">
 
 #### Rytr - सर्वश्रेष्ठ AI राइटर, कंटेंट जनरेटर और लेखन सहायक
 
@@ -10207,7 +10207,7 @@ Rytr एक AI राइटिंग असिस्टेंट है, जो 
 
 
 ### BizPlanner AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
 #### पेशेवर AI बिज़नेस प्लान जनरेटर और लेखक
 
@@ -10223,7 +10223,7 @@ BizPlanner AI एक AI बिज़नेस प्लान जनरेटर �
 
 
 ### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatart.webp" alt="ChatArt">
 
 #### ChatArt - तुम्हारे लिए सबसे अच्छा AI कॉन्टेंट बनाने का प्लेटफ़ॉर्म
 

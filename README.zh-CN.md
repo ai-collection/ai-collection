@@ -1,4 +1,4 @@
-# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://cdn.thataicollection.com/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://thataicollection.com/img/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
 <div align="center">
@@ -180,7 +180,7 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
 ### Self-Hosted AI Stack
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/ce2d8c8722780da2.webp" alt="Self-Hosted AI Stack">
 
 #### 使用 Docker Compose 自托管本地 AI、RAG、语音和 MCP 工具
 
@@ -196,7 +196,7 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 
 
 ### AIGoCode
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/9bedc6dcb7589777.webp" alt="AIGoCode">
 
 #### AigoCode-AI 开发者工作台-在 AI Collection 上市
 
@@ -212,7 +212,7 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 
 
 ### ClartiyOne
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/5f16e9643148f9c6.webp" alt="ClartiyOne">
 
 #### AI 心理清晰度应用程序，用于过度思考和组织你的想法
 
@@ -228,7 +228,7 @@ ClarityOne 是一款人工智能驱动的思维清晰度应用程序，适用于
 
 
 ### MuseGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/0c50d02c1c1ad244.webp" alt="MuseGen">
 
 #### MuseGen-AI 音乐生成器，用于生成来自文本、音频或歌词的 100% 商业用歌曲。
 
@@ -247,7 +247,7 @@ MuseGen 帮助创作者、营销人员、游戏开发人员和播客为视频、
 
 
 ### Seply
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/3dc180e7611387c1.webp" alt="Seply">
 
 #### AI 扬声器分离 — 按扬声器拆分音频 | Seply
 
@@ -263,7 +263,7 @@ MuseGen 帮助创作者、营销人员、游戏开发人员和播客为视频、
 
 
 ### UGCfy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/b13aa31473fc87d4.webp" alt="UGCfy AI">
 
 #### 通过产品链接创建 AI UGC 广告-在 AI Collection 上列出
 
@@ -279,7 +279,7 @@ MuseGen 帮助创作者、营销人员、游戏开发人员和播客为视频、
 
 
 ### AI Product Photo
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/51866090babc8446.webp" alt="AI Product Photo">
 
 #### 电子商务的人工智能产品照片生成器 | AI 产品照片
 
@@ -295,7 +295,7 @@ MuseGen 帮助创作者、营销人员、游戏开发人员和播客为视频、
 
 ## 人工智能代理
 ### AI Agent Store
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
 
 #### AI 代理商城-面向创作者和用户的终极 AI 代理市场
 
@@ -311,7 +311,7 @@ AI 代理商店是企业寻找有效的 AI 代理的地方，开发人员可以�
 
 
 ### NexusGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nexusgpt.webp" alt="NexusGPT">
 
 #### NexusGPT-在几分钟内构建 AI 代理，无需编码。
 
@@ -331,7 +331,7 @@ NexusGPT 使任何人都可以在不触摸任何代码的情况下构建、微�
 
 
 ### Genspark.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genspark-ai.webp" alt="Genspark.ai">
 
 #### Genspark是一个人工智能代理引擎，专门的人工智能代理可以在其中进行研究并生成名为Sparkpages的自定义页面。 
 
@@ -347,7 +347,7 @@ NexusGPT 使任何人都可以在不触摸任何代码的情况下构建、微�
 
 
 ### AICamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aicamp.webp" alt="AICamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aicamp.webp" alt="AICamp">
 
 #### 适用于团队的 ChatGPT
 AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型，如 Claude、Bard 和自定义大型语言模型。 
@@ -365,7 +365,7 @@ AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型�
 
 
 ### Opencord AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-opencord-ai.webp" alt="Opencord AI">
 
 #### AI 代理生成的社交媒体内容
 
@@ -381,7 +381,7 @@ AiCamp 使团队能够通过统一平台集中访问领先的人工智能模型�
 
 
 ### BrainSoup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-brainsoup_.webp" alt="BrainSoup">
 
 #### 在电脑上组建一支为你工作的 AI 团队
 
@@ -397,7 +397,7 @@ BrainSoup 是一个多代理和多 LLM 原生客户端，使用户能够创建�
 
 
 ### ImmersimAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-immersimai.webp" alt="ImmersimAI">
 
 #### 在任何世界中与任何人一起玩身临其境的叙事驱动型角色扮演游戏。
 
@@ -424,7 +424,7 @@ Immersim AI 是一个沉浸式叙事驱动的角色扮演平台，用于创建�
 
 ## AI 艺术与插画
 ### Canvora
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creativepixel.webp" alt="Canvora">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creativepixel.webp" alt="Canvora">
 
 #### 人工智能驱动的创意工作室将 “不可能” 变成 “在几秒钟内完成”。
 
@@ -444,7 +444,7 @@ CreativePixel 是一个将 “我希望我能...” 变成 “看看我做了什
 
 
 ### Creative Fabrica
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-fabrica.webp" alt="Creative Fabrica">
 
 #### 第一款生成自定义字体并在 Mac 和 Windows 上以可安装格式下载的 AI 工具
 
@@ -462,7 +462,7 @@ CreativePixel 是一个将 “我希望我能...” 变成 “看看我做了什
 
 
 ### Picture to Drawing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-picture-to-drawing.webp" alt="Picture to Drawing">
 
 #### 体验人工智能驱动的照片到素描转换的魔力。将任何图片转换为具有真实艺术风格和令人难以置信的细节保留的绘画。
 
@@ -478,7 +478,7 @@ Picture to Drawing 是一个先进的人工智能平台，可在几秒钟内将�
 
 
 ### Republiclabs.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-republiclabs-ai.webp" alt="Republiclabs.ai">
 
 #### Republiclabs.ai-人民的 GenAI 平台！
 
@@ -494,7 +494,7 @@ Republiclabs.ai 是一个人工智能平台，允许用户使用文本和最新�
 
 
 ### APOB AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-apob-ai.webp" alt="APOB AI">
 
 #### APOB.AI-Creator AI | 个性化的人工智能画像 | AI 图像和视频
 
@@ -510,7 +510,7 @@ APOB AI 提供 AI 图像、AI 视频和 AI 肖像生成服务。免费试用我�
 
 
 ### Ink AI - Tattoo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ink-ai-tattoo-generator.webp" alt="Ink AI - Tattoo Generator">
 
 #### Inkai是一款基于人工智能的纹身生成器，可根据用户输入创建个性化的纹身设计。
 
@@ -529,7 +529,7 @@ Inkai的显著特点之一是其人体映射技术，使用户可以直观地预
 
 
 ### AnimeGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animegenius.webp" alt="AnimeGenius">
 
 #### 最佳的人工智能动画生成器，可为来自世界各地的人们创建令人惊叹的AI图像。
 
@@ -553,7 +553,7 @@ AnimeGenius是一款免费增值的人工智能动画生成器，它使全球用
 
 ## AI 探测器和人性化器
 ### ZeroGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zerogpt.webp" alt="ZeroGPT">
 
 #### ZeroGPT 是最值得信赖和最准确的人工智能探测器工具，用于检测 ChatGPT 生成的文本。
 
@@ -569,7 +569,7 @@ AnimeGenius是一款免费增值的人工智能动画生成器，它使全球用
 
 
 ### Tweet Detective
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tweet-detective.webp" alt="Tweet Detective">
 
 #### X 的 AI 文本检测通过识别和分析 AI 生成的内容来改善你的 Twitter 体验。
 
@@ -591,7 +591,7 @@ AnimeGenius是一款免费增值的人工智能动画生成器，它使全球用
 
 
 ### AI Content Detector by Leap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-content-detector-by-leap-ai.webp" alt="AI Content Detector by Leap AI">
 
 #### 使用我们的免费 AI 内容检测器来分析文本，看看它是否由 AI 生成。AI Checker 工具，永久免费。
 
@@ -607,7 +607,7 @@ Leap AI 的 AI 内容检测器是您轻松检测 AI 生成内容的首选工具�
 
 
 ### WriteHuman
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writehuman.webp" alt="WriteHuman">
 
 #### WriteHuman：检测不到的人工智能和人工智能人性化器
 
@@ -625,7 +625,7 @@ WriteHuman：将人工智能文本人性化为无法检测的人工智能。使�
 
 
 ### HumanizeAI.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humanizeai-com.webp" alt="HumanizeAI.com">
 
 #### 使用 Humanize AI 将 AI 生成的文本转换为类人写作
 
@@ -641,7 +641,7 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 
 
 ### aiundetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiundetect.webp" alt="aiundetect">
 
 #### 绕过人工智能探测器的免费增值不可检测的人工智能写作工具
 
@@ -658,7 +658,7 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 
 
 ### GPT-Zero
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gpt-zero.webp" alt="GPT-Zero">
 
 #### GPT Zero-适用于 ChatGPT、GPT-4 等的免费 AI 内容检测器
 
@@ -682,7 +682,7 @@ Humanize AI 将 AI 生成的文本转换为类似人类的文字，使其更自�
 
 ## AI 歌曲和音乐生成器
 ### BeatViz Ai Music Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beatviz-ai-music-video-generator.webp" alt="BeatViz Ai Music Video Generator">
 
 #### BeatViz | 适用于音乐家的 AI 音乐视频生成器
 
@@ -698,7 +698,7 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 ### AI Lyrics Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lyrics-generator.webp" alt="AI Lyrics Generator">
 
 #### 人工智能词曲作者——这些歌词不存在
 
@@ -714,7 +714,7 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 ### Amazing AI Radio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amazing-ai-radio.webp" alt="Amazing AI Radio">
 
 #### 神奇的人工智能电台 | 直播人工智能生成的音乐，发现新艺术家，浏览排行榜，并将自己的曲目上传到神奇的人工智能电台。
 
@@ -731,7 +731,7 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 ### Aiva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiva.webp" alt="Aiva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiva.webp" alt="Aiva">
 
 #### AIVA - 人工智能创作情感配乐
 
@@ -748,7 +748,7 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 ### Emergent Drums
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emergent-drums.webp" alt="Emergent Drums">
 
 #### 使用人工智能生成独特的鼓样本
 
@@ -764,7 +764,7 @@ BeatViz AI：终极的一体化人工智能音乐和视频生成器。立即将�
 
 
 ### audjust.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audjust-ai.webp" alt="audjust.ai">
 
 #### Audjust AI-音频编辑器和 AI 音乐生成器：缩短歌曲、延长音频、查找循环或从文本创建音乐
 
@@ -781,7 +781,7 @@ Audjust AI 可帮助您编辑现有音频文件并根据文本或歌词创建音
 
 
 ### Amadeus Code
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-amadeus-code.webp" alt="Amadeus Code">
 
 #### Amadeus Code——Evoke Music、Amadeus Topline、Musictga-HR 背后的公司
 
@@ -807,7 +807,7 @@ Amadeus Topline 是一款由人工智能驱动的作曲应用程序，适合每�
 
 ## AI 塔罗牌与占卜
 ### SINE AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sine-ai.webp" alt="SINE AI">
 
 #### 用 Sine AI 探索自我：占星术、塔罗牌及其他
 
@@ -823,7 +823,7 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 
 
 ### AI Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-tarot.webp" alt="AI Tarot">
 
 #### 免费在线 AI 塔罗牌阅读-选择你的 AI 塔罗牌阅读器
 
@@ -839,7 +839,7 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 
 
 ### Yes or No Tarot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-yes-or-no-tarot.webp" alt="Yes or No Tarot">
 
 #### 是还是不是 | 免费且准确的 AI 塔罗牌阅读
 
@@ -855,7 +855,7 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 
 
 ### AI Lenormand
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-lenormand.webp" alt="AI Lenormand">
 
 #### 使用人工智能驱动的解读功能免费在线 Lenormand 卡片读取。学习牌的含义并探索各种点差。
 
@@ -871,7 +871,7 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 
 
 ### Tarot Card Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tarot-card-generator.webp" alt="Tarot Card Generator">
 
 #### 塔罗牌艺术:个性化塔罗牌图像生成器
 
@@ -887,7 +887,7 @@ Sine AI 提供了一段通过占星术、塔罗牌和测验进行自我发现的
 
 
 ### TaroTeller
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jaime-wang.webp" alt="TaroTeller">
 
 #### Taroteller-一个利用人工智能技术读取塔罗牌的网站
 
@@ -903,7 +903,7 @@ TaroTeller旨在通过我们的人工智能工具提供免费的塔罗牌阅读�
 
 
 ### Quin-AI Tarot Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quin-ai-tarot-reader.webp" alt="Quin-AI Tarot Reader">
 
 #### 随便问奎因吧您的个人 AI 塔罗牌阅读器。✨
 
@@ -927,7 +927,7 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 
 ## 会计与金融
 ### BeeBee AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beebee-ai.webp" alt="BeeBee AI">
 
 #### BeeBee.AI 专为美国股市量身定制，适合主要关注基本面分析并重视数据和信息的长期投资者。
 
@@ -945,7 +945,7 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 
 
 ### Eilla
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eilla.webp" alt="Eilla">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eilla.webp" alt="Eilla">
 
 #### Eilla-支持并购、风险投资和私募股权交易工作流程的人工智能平台。
 
@@ -961,7 +961,7 @@ Quin是一款革命性的人工智能塔罗牌应用程序，旨在增强自我�
 
 
 ### StockGPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stockgpt.webp" alt="StockGPT">
 
 #### 人工智能驱动的搜索引擎
 
@@ -977,7 +977,7 @@ StockGPT 是一个基于人工智能的搜索引擎，它接受了特斯拉 2011
 
 
 ### Jinnee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jinnee.webp" alt="Jinnee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jinnee.webp" alt="Jinnee">
 
 #### Jinnee – 您的金融科技虚拟助手
 
@@ -993,7 +993,7 @@ Jinnee 可以解决的问题：能力有限 - 支持部门无法处理每个请�
 
 
 ### GooseAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gooseai.webp" alt="GooseAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gooseai.webp" alt="GooseAI">
 
 #### Gooseai-别再为你的人工智能基础设施多付钱了。
 
@@ -1009,7 +1009,7 @@ GooseAI 是一项通过 API 交付的完全托管的 NLP 即服务，在这方�
 
 
 ### Mrgn
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mrgn.webp" alt="Mrgn">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mrgn.webp" alt="Mrgn">
 
 #### MRGN-智能小型企业预算和计划软件
 
@@ -1027,7 +1027,7 @@ GooseAI 是一项通过 API 交付的完全托管的 NLP 即服务，在这方�
 
 
 ### MoneyCoach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moneycoach.webp" alt="MoneyCoach">
 
 #### MoneyCoach-现代资金经理和预算应用程序
 
@@ -1053,7 +1053,7 @@ MoneyCoach是一款个人理财应用程序，可帮助您管理资金、预算�
 
 ## 广告创意生成器
 ### RMIQ Ads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rmiq-ads.webp" alt="RMIQ Ads">
 
 #### 您的多合一零售媒体广告平台
 
@@ -1069,7 +1069,7 @@ RMIQ将您连接到顶级零售媒体网络上的优质广告空间，例如沃�
 
 
 ### Creatify AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creatify-ai.webp" alt="Creatify AI">
 
 #### 从任何产品网址生成短视频广告。 
 
@@ -1086,7 +1086,7 @@ Creatify是一种先进的人工智能解决方案，彻底改变了广告创作
 
 
 ### ThumbnailCreator.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thumbnailcreator-com.webp" alt="ThumbnailCreator.com">
 
 #### ThumbnailCreator.com-AI YouTube 缩略图创建者
 
@@ -1102,7 +1102,7 @@ Creatify是一种先进的人工智能解决方案，彻底改变了广告创作
 
 
 ### Post Parrot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-post-parrot.webp" alt="Post Parrot">
 
 #### Post Parrot-一款适用于 Reddit 的免费营销工具
 
@@ -1119,7 +1119,7 @@ Creatify是一种先进的人工智能解决方案，彻底改变了广告创作
 
 
 ### Jot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jot.webp" alt="Jot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jot.webp" alt="Jot">
 
 #### Jot - 人工智能广告文案
 
@@ -1135,7 +1135,7 @@ Jot 使用 AI 自动为您生成无限的广告文案变体。使用人工智能
 
 
 ### Persuva
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-persuva.webp" alt="Persuva">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-persuva.webp" alt="Persuva">
 
 #### Persuva 是人工智能驱动的平台，可大规模制作具有说服力、高转化率的广告文案
 
@@ -1151,7 +1151,7 @@ Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜
 
 
 ### Beb AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beb-ai.webp" alt="Beb AI">
 
 #### Beb.Ai-为您的品牌接收无穷无尽的创意内容
 
@@ -1181,7 +1181,7 @@ Persuva 是一个人工智能驱动的平台，致力于通过生成引人入胜
 
 ## 代理编码
 ### Rainforest QA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rainforest-qa.webp" alt="Rainforest QA">
 
 #### 为想要快速交付的 SaaS 团队提供无忧的测试自动化
 
@@ -1197,7 +1197,7 @@ Rainforest QA 是面向 SaaS 公司的 AI 驱动的测试自动化平台。凭�
 
 
 ### AgentStamp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-agentstamp.webp" alt="AgentStamp">
 
 #### AgentStamp — 信任，已验证。一行代码。
 
@@ -1213,7 +1213,7 @@ AI 代理的身份认证。加密信任评分、公共注册机构、欧盟 AI �
 
 
 ### TestSprite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-testsprite.webp" alt="TestSprite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-testsprite.webp" alt="TestSprite">
 
 #### 第一个完全自主的端到端 AI 测试代理
 
@@ -1229,7 +1229,7 @@ TestSprite 是一个完全自主的 AI 测试代理，可处理整个测试过�
 
 
 ### Metatron
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-metatron.webp" alt="Metatron">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-metatron.webp" alt="Metatron">
 
 #### null
 
@@ -1245,7 +1245,7 @@ null
 
 
 ### automatic crud api + ui generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-automatic-crud-api-+-ui-generator.webp" alt="automatic crud api + ui generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-automatic-crud-api-%2B-ui-generator.webp" alt="automatic crud api + ui generator">
 
 #### GitHub-自演化运行时/循环：即时从数据库架构中生成全栈管理面板、API 和用户界面，由 AI 代理和 LLM 提供支持，并希望将来能够根据使用情况实现自我发展的运行时间
 
@@ -1261,7 +1261,7 @@ null
 
 
 ### NeuralTrust
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuraltrust.webp" alt="NeuralTrust">
 
 #### NeuralTrust | 人工智能和代理安全平台
 
@@ -1277,7 +1277,7 @@ null
 
 
 ### Wan2.7 AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wan2-7-ai.webp" alt="Wan2.7 AI">
 
 #### Wan 2.7 | 免费在线广域网视频生成器
 
@@ -1301,7 +1301,7 @@ null
 
 ## 动画和 3D 建模
 ### Meshy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-meshy-ai.webp" alt="Meshy AI">
 
 #### null
 
@@ -1317,7 +1317,7 @@ null
 
 
 ### Neuralframes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-neuralframes.webp" alt="Neuralframes">
 
 #### 神经框架-探索视觉世界的合成器。
 
@@ -1334,7 +1334,7 @@ Neural Frames-AI 动画生成器，可通过逐帧图像自动化快速制作迷
 
 
 ### Make3D
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make3d.webp" alt="Make3D">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make3d.webp" alt="Make3D">
 
 #### Make3D-让你的图像变成 3D
             
@@ -1353,7 +1353,7 @@ Neural Frames-AI 动画生成器，可通过逐帧图像自动化快速制作迷
 
 
 ### Tripo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tripo.webp" alt="Tripo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tripo.webp" alt="Tripo">
 
 #### 从图像和文本生成 AI 3D 模型。
 
@@ -1369,7 +1369,7 @@ TRIPO 是 VAST 于 2023 年底推出的生成式基础模型。TRIPO 在发电�
 
 
 ### Blimey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blimey.webp" alt="Blimey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blimey.webp" alt="Blimey">
 
 #### Blimey-在几分钟内从想象到图像
 
@@ -1385,7 +1385,7 @@ Blimey 是一款人工智能图像生成器，你可以在一分钟内将想法�
 
 
 ### plask
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-plask.webp" alt="plask">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-plask.webp" alt="plask">
 
 #### Plask Motion：人工智能驱动的动作捕捉动画工具
 
@@ -1403,7 +1403,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Kaedim
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kaedim.webp" alt="Kaedim">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kaedim.webp" alt="Kaedim">
 
 #### 在几分钟内神奇地生成自定义 3D 模型
 
@@ -1427,7 +1427,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 建筑与室内设计
 ### Deft
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deft_.webp" alt="Deft">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deft_.webp" alt="Deft">
 
 #### 灵巧的想象力-在 10 秒或更短的时间内重新设计房屋。灵感、室内设计、舞台布置等等。
 
@@ -1445,7 +1445,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Coolaiid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coolaiid.webp" alt="Coolaiid">
 
 #### Coolaiid-用人工智能改变你的室内设计
 
@@ -1461,7 +1461,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Oda Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oda-studio.webp" alt="Oda Studio">
 
 #### Oda Moodboard • Oda Studio——选择你的风格和颜色，用人工智能在几秒钟内定制你的家。
 
@@ -1478,7 +1478,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### AI Room Planner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-room-planner.webp" alt="AI Room Planner">
 
 #### 人工智能室内设计
 
@@ -1494,7 +1494,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Image Computer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-computer.webp" alt="Image Computer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### 生成您的下一个室内设计/镶嵌/时装系列/概念艺术
 
@@ -1510,7 +1510,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Interior AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 
 #### Interior Ai：室内设计创意、灵感和使用人工智能的虚拟舞台应用程序
 
@@ -1526,7 +1526,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Dimensions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dimensions.webp" alt="Dimensions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
 #### Dimensions - 使用 AI 快速创建视觉概念
 
@@ -1550,7 +1550,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 ## 音频增强器和人声去除
 ### Audio Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-audio-enhancer.webp" alt="Audio Enhancer">
 
 #### 音频增强器-适用于音乐家、播客、访谈等的 AI 音频增强器。
 
@@ -1567,7 +1567,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### NOISE REMOVER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-noise-remover.webp" alt="NOISE REMOVER">
 
 #### 免费背景噪音去除工具-AI 噪音去除器
 
@@ -1583,7 +1583,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Adobe Speech Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-speech-enhancer.webp" alt="Adobe Speech Enhancer">
 
 #### 免费增强录音
 
@@ -1599,7 +1599,7 @@ Plask 提供视频中的 AI 动作捕捉功能，将您的视频转换为令人�
 
 
 ### Cleanvoice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cleanvoice-ai.webp" alt="Cleanvoice AI">
 
 #### 从录音中删除填充词
 
@@ -1615,7 +1615,7 @@ Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充
 
 
 ### Adobe Mic Check
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-mic-check.webp" alt="Adobe Mic Check">
 
 #### Adobe Mic Check-免费检查你的麦克风
 
@@ -1632,7 +1632,7 @@ Cleanvoice 是一种人工智能，可以从您的播客或录音中删除填充
 
 
 ### Krisp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-krisp.webp" alt="Krisp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-krisp.webp" alt="Krisp">
 
 #### 世界排名第一的降噪应用程序 - Krisp
 
@@ -1648,7 +1648,7 @@ Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，�
 
 
 ### Assemblyai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assemblyai.webp" alt="Assemblyai">
 
 #### #1 人工智能模型 API 平台
 
@@ -1672,7 +1672,7 @@ Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，�
 
 ## 化身
 ### Real Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-real-photo-ai.webp" alt="Real Photo AI">
 
 #### 使用 AI 生成自己和亲人的真实照片
 
@@ -1690,7 +1690,7 @@ Krisp 的 AI 可以消除您所有通话中的背景声音、噪音和回声，�
 
 
 ### HairstyleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hairstyleai.webp" alt="HairstyleAI">
 
 #### 借助人工智能的力量尝试新发型
 
@@ -1706,7 +1706,7 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 
 
 ### Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avatarai.webp" alt="Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avatarai.webp" alt="Photo AI">
 
 #### 创建你自己的逼真的 AI 头像
 
@@ -1722,7 +1722,7 @@ HairstyleAI 可让您在实际剪发之前通过 AI 虚拟尝试新发型。对�
 
 
 ### Vana
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vana.webp" alt="Vana">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vana.webp" alt="Vana">
 
 #### 创建数字双胞胎，了解自己的真实身份，将其应用到应用程序中，体验科技的未来。 
 
@@ -1738,7 +1738,7 @@ Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆
 
 
 ### CustomQR AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-customqr-ai.webp" alt="CustomQR AI">
 
 #### 商业二维码生成服务
 
@@ -1754,7 +1754,7 @@ Vana允许你利用数据和人工智能的力量创建迷你 “你”。克隆
 
 
 ### aiselfi.es
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiselfi-es.webp" alt="aiselfi.es">
 
 #### 快速轻松地创建 AI 生成的个人资料照片。使用我们的工具，在几分钟内创建免费的个性化AI头像。试试看 → aiselfi.es
 
@@ -1772,7 +1772,7 @@ Aiselfi.es是一个创新平台，可将您的日常自拍照转换为专业品�
 
 
 ### Avtrs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avtrs.webp" alt="Avtrs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avtrs.webp" alt="Avtrs">
 
 #### 快乐用户创建的头像
 
@@ -1796,7 +1796,7 @@ Aiselfi.es是一个创新平台，可将您的日常自拍照转换为专业品�
 
 ## 背景去除器
 ### Green Screen AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-green-screen-ai.webp" alt="Green Screen AI">
 
 #### 使用 AI 更改任何图像的背景。
 
@@ -1812,7 +1812,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### ImageColorizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imagecolorizer.webp" alt="ImageColorizer">
 
 #### Colorize - 适用于 iOS 和 Android 的移动应用程序
 
@@ -1828,7 +1828,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### img-cut
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-img-cut.webp" alt="img-cut">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-img-cut.webp" alt="img-cut">
 
 #### 终极 AI 背景去除解决方案 准确、安全且免费
 
@@ -1844,7 +1844,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### Pixian
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pixian.webp" alt="Pixian">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pixian.webp" alt="Pixian">
 
 #### 去除图片背景, 免费高清, 无需注册 - 皮线.AI
 
@@ -1860,7 +1860,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### Mokker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mokker.webp" alt="Mokker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mokker.webp" alt="Mokker">
 
 #### Mokker AI-即时 AI 背景替换
 
@@ -1878,7 +1878,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### Zoomscape
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zoomscape.webp" alt="Zoomscape">
 
 #### Zoomscape.ai
 
@@ -1894,7 +1894,7 @@ Green Screen AI 是一种有趣且简单的方法，可以将您的照片转换�
 
 
 ### Stillgram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stillgram.webp" alt="Stillgram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stillgram.webp" alt="Stillgram">
 
 #### Stillgram™ - 人工智能适用于 iPhone® 的旅行照片相机应用程序
 
@@ -1918,7 +1918,7 @@ Stillgram 是一个 A.I.傻瓜相机应用程序，可以神奇地从您的城�
 
 ## 书籍和小说作家
 ### Sudowrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sudowrite.webp" alt="Sudowrite">
 
 #### 使用我们神奇的写作 AI 打破作家的瓶颈，发挥更多创意
 
@@ -1934,7 +1934,7 @@ Stillgram 是一个 A.I.傻瓜相机应用程序，可以神奇地从您的城�
 
 
 ### AI-story-Generator site
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-story-generator.site.webp" alt="AI-story-Generator site">
 
 #### 这个工具可以帮助你创作精彩的故事
 
@@ -1950,7 +1950,7 @@ AI 故事生成器是一款免费的在线工具，可以帮助您生成精彩�
 
 
 ### Perchance AI Story
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perchance-ai-story.webp" alt="Perchance AI Story">
 
 #### Perchance AI Story 是一个支持多种语言并且可以继续撰写故事的网站
 
@@ -1966,7 +1966,7 @@ Perchance AI Story 是一个创新平台，旨在帮助用户在先进的人工�
 
 
 ### StoryBee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storybee.webp" alt="StoryBee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storybee.webp" alt="StoryBee">
 
 #### StoryBee 是一个平台，用户可以在人工智能的帮助下创作故事。
 
@@ -1982,7 +1982,7 @@ StoryBee 是一个人工智能驱动的平台，旨在为孩子们创作引人�
 
 
 ### Storywizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storywizard.webp" alt="Storywizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storywizard.webp" alt="Storywizard">
 
 #### Storywizard.ai - 使用 AI 立即创作令人难以置信的儿童故事
 
@@ -1998,7 +1998,7 @@ Storywizard 使用 AI 帮助您为孩子们创作具有生动形象和优美情�
 
 
 ### Fable Fiesta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fable-fiesta.webp" alt="Fable Fiesta">
 
 #### Fable Fiesta，你的创意人工智能合著者
 
@@ -2014,7 +2014,7 @@ Fable Fiesta是一款创意写作助手，可以帮助你设计角色、建造�
 
 
 ### Scene One
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scene-one.webp" alt="Scene One">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scene-one.webp" alt="Scene One">
 
 #### 适用于小说、短篇小说和商业的在线图书写作应用程序
 
@@ -2039,7 +2039,7 @@ Fable Fiesta是一款创意写作助手，可以帮助你设计角色、建造�
 
 ## CRM 和客户数据
 ### Foundy.com
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foundy-com.webp" alt="Foundy.com">
 
 #### 借助Foundy的人工智能和专家支持，以更高的估值出售您的业务或进行高质量的收购。
 
@@ -2055,7 +2055,7 @@ Foundy.com是第一个专门从事长期退出计划和成功执行并购交易�
 
 
 ### Ctrl
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrl.webp" alt="Ctrl">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrl.webp" alt="Ctrl">
 
 #### 适用于复杂 CRM 工作流程的现代 UI
 
@@ -2071,7 +2071,7 @@ Foundy.com是第一个专门从事长期退出计划和成功执行并购交易�
 
 
 ### forms.app
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-forms-app.webp" alt="forms.app">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-forms-app.webp" alt="forms.app">
 
 #### 在线表单生成器应用程序，使用户能够创建任何类型的表单、调查和测验。 
 
@@ -2088,7 +2088,7 @@ forms.app 是一个用户友好的平台，可让您轻松创建表单和调查�
 
 
 ### Skydis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-skydis.webp" alt="Skydis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-skydis.webp" alt="Skydis">
 
 #### Skydis-最简单的网站人工智能聊天机器人生成器。它可以帮助企业吸引访客，捕获潜在客户，并提供全天候客户支持。
 
@@ -2104,7 +2104,7 @@ Skydis是一个强大的人工智能聊天机器人平台，旨在帮助企业�
 
 
 ### Oliv AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oliv-ai.webp" alt="Oliv AI">
 
 #### 让Oliv帮助您研究、记笔记并在每次通话后更新您的CRM：这样您就可以专注于赢得对话了！
 
@@ -2120,7 +2120,7 @@ Oliv 是一款人工智能驱动的销售助理，可增强您的潜在客户和
 
 
 ### REI BlackBook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rei-blackbook.webp" alt="REI BlackBook">
 
 #### REI BlackBook：您的完整房地产投资解决方案
 
@@ -2142,7 +2142,7 @@ REI Black Book，专为认真考虑扩张的房地产投资者打造的多合一
 
 
 ### WAPlus - WhatsApp CRM
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waplus-whatsapp-crm.webp" alt="WAPlus - WhatsApp CRM">
 
 #### WhatsApp CRM、CRM 集成、联系人管理、工作效率、安排消息、自动回复、人工智能聊天机器人、人工智能翻译器
 Waplus CRM：提升您的 WhatsApp 工作效率
@@ -2172,7 +2172,7 @@ Waplus 是一款多合一的 WhatsApp CRM，可增强您的 What
 
 ## 聊天机器人
 ### HammerAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hammerai.webp" alt="HammerAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hammerai.webp" alt="HammerAI">
 
 #### 与在浏览器或桌面应用程序中本地运行的角色扮演型 AI 角色聊天——100% 免费且完全私密。
 
@@ -2189,7 +2189,7 @@ Waplus 是一款多合一的 WhatsApp CRM，可增强您的 What
 
 
 ### Albus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-albus.webp" alt="Albus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-albus.webp" alt="Albus">
 
 #### Albus-ChatGPT 现已上线 Slack | Springworks
 
@@ -2205,7 +2205,7 @@ Albus 是一个人工智能平台，它利用 ChatGPT 的力量来帮助人力�
 
 
 ### Chatsimple
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-achatsimple.webp" alt="Chatsimple">
 
 #### ChatGPT 商业聊天机器人让你变得简单
 
@@ -2221,7 +2221,7 @@ ChatSimple是一个专门在短短5分钟内为中小型企业（SMB）创建以
 
 
 ### Owlbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-owlbot.webp" alt="Owlbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-owlbot.webp" alt="Owlbot">
 
 #### Owlbot 提供基于人工智能的尖端聊天机器人服务，可与您的数据无缝集成，为您、您的客户或团队提供即时响应。 
 
@@ -2237,7 +2237,7 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 
 
 ### Chatbase
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatbase.webp" alt="Chatbase">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatbase.webp" alt="Chatbase">
 
 #### 自定义 ChatGPT
 为了您的数据-构建一个根据您的数据进行训练的 AI 聊天机器人
@@ -2254,7 +2254,7 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 
 
 ### HUMATA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-humata.webp" alt="HUMATA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-humata.webp" alt="HUMATA">
 
 #### Humata-ChatGPT 用于存储您的数据文件。提问比略读要快。
 
@@ -2270,7 +2270,7 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 
 
 ### My AskAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-ask-ai.webp" alt="My AskAI">
 
 #### 创建 AI 助手的速度比煮咖啡的速度更快
 
@@ -2294,7 +2294,7 @@ Owlbot 是最可定制的人工智能聊天机器人之一。你可以选择你�
 
 ## 编程助手
 ### Qodo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codiumai.webp" alt="Qodo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codiumai.webp" alt="Qodo">
 
 #### 对忙碌的开发者有意义的测试
 
@@ -2310,7 +2310,7 @@ CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发�
 
 
 ### Swimm AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swimm-ai.webp" alt="Swimm AI">
 
 #### 你的代码文档超能力
 
@@ -2326,7 +2326,7 @@ CodiumAI 分析您的代码并生成有意义的测试以在您发布之前发�
 
 
 ### CodeWP
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-codewp.webp" alt="CodeWP">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-codewp.webp" alt="CodeWP">
 
 #### CodeWP - 人工智能 WordPress 代码生成器和助手
 
@@ -2342,7 +2342,7 @@ CodeWP 是一个 WordPress 代码生成器，它使用 AI 和适用于 WordPress
 
 
 ### Dynamiq
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dynamiq.webp" alt="Dynamiq">
 
 #### GenAI 应用程序的操作平台
 
@@ -2358,7 +2358,7 @@ Dynamiq 是一个专为工程师和数据科学家构建的平台，用于为企
 
 
 ### JustCopy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-justcopy-ai.webp" alt="JustCopy AI">
 
 #### justcopy.ai-无需任何设置即可在 2 分钟内复制、自定义和部署的 AI 代理
 
@@ -2374,7 +2374,7 @@ JustCopy.ai 可以让任何人在几分钟内从创意转变为在线网站。�
 
 
 ### ExplainDev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-explaindev.webp" alt="ExplainDev">
 
 #### ExplainDev - 在上下文中回答您的问题的代码解释器
 
@@ -2390,7 +2390,7 @@ ExplainDev 帮助您更加自信和独立地处理他人的代码。通过由 AI
 
 
 ### Interview Solver
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interview-solver.webp" alt="Interview Solver">
 
 #### 使用我们的 AI Copilot 在实时编程面试中脱颖而出
 
@@ -2416,7 +2416,7 @@ Interview Solver 是一款 AI Copilot，可帮助您通过实时编程和系统�
 
 ## 内容生成和搜索引擎优化
 ### Taskade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-taskade.webp" alt="Taskade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-taskade.webp" alt="Taskade">
 
 #### 您和您的团队的第二大脑。五合一的人工智能工具可提高您的团队生产力。借助 Taskade，您的所有工作都可以在一个统一的工作空间中同步。
 
@@ -2432,7 +2432,7 @@ Taskade 是首个面向团队的协作式 AI 编写器和概述器，具有内�
 
 
 ### StoryChief
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storychief.webp" alt="StoryChief">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storychief.webp" alt="StoryChief">
 
 #### 利用数据驱动的见解和人工智能制定成功的内容策略。 
 
@@ -2449,7 +2449,7 @@ StoryChief使您能够制定有效的内容策略，以提高参与度并实现�
 
 
 ### BurstyAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-burstyai.webp" alt="BurstyAI">
 
 #### 个性化 AI 可实现 10 倍增长：自动写作、SEO 和推广
 
@@ -2467,7 +2467,7 @@ BurstyAI 是一个提供无代码人工智能工作流程工具的平台，用�
 
 
 ### Everneed AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everneed-ai.webp" alt="Everneed AI">
 
 #### 用更少的精力创建更好的内容。
 
@@ -2485,7 +2485,7 @@ Everneed AI是面向企业家和营销人员的多合一平台，可以帮助您
 
 
 ### XXAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-xxai.webp" alt="XXAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-xxai.webp" alt="XXAI">
 
 #### XXAI — 适用于 GPT-4o 和 Claude 3.5 的高级人工智能副驾驶
 
@@ -2501,7 +2501,7 @@ Everneed AI是面向企业家和营销人员的多合一平台，可以帮助您
 
 
 ### Content Raptor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-karolina.webp" alt="Content Raptor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-karolina.webp" alt="Content Raptor">
 
 #### 市场上最好的内容优化工具-Content Raptor
 
@@ -2517,7 +2517,7 @@ Content Raptor是一款强大的内容管理和SEO优化工具，可提高网站
 
 
 ### The Humanize Ai Pro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-humanize-ai-pro.webp" alt="The Humanize Ai Pro">
 
 #### Humanize Ai-将人工智能生成的内容转化为人类写作
 
@@ -2541,7 +2541,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 ## 求职信生成器
 ### Writemeacoverletter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-writemeacoverletter.webp" alt="Writemeacoverletter">
 
 #### 给我写封求职信
 
@@ -2557,7 +2557,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### Coverletterwrite
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coverletterwrite.webp" alt="Coverletterwrite">
 
 #### 求职信写
 
@@ -2573,7 +2573,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### Cover Letter AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cover-letter-ai.webp" alt="Cover Letter AI">
 
 #### 求职信人工智能
 
@@ -2589,7 +2589,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### PowerDreamer AI Cover Letter Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-powerdreamer-ai-cover-letter-generator.webp" alt="PowerDreamer AI Cover Letter Generator">
 
 #### 在几秒钟内为每个空缺职位量身定制求职信
 
@@ -2605,7 +2605,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### AI Rental Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-rental-cover-letter.webp" alt="AI Rental Cover Letter">
 
 #### 🏡 Sharehouse-带有人工智能驱动的租赁求职信的免费室友查找器 ⚡️
 用人工智能驱动的求职信从人群中脱颖而出
@@ -2624,7 +2624,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### Your Cover Letter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-your-cover-letter.webp" alt="Your Cover Letter">
 
 #### AI Cover Letter Builder - 上传您的简历以开始
 
@@ -2640,7 +2640,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 
 ### resumator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumator.webp" alt="resumator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumator.webp" alt="resumator">
 
 #### 找工作？我们已为您提供保障。
 
@@ -2664,7 +2664,7 @@ Humanize AI 将机器人人工智能生成的文本转换为绕过人工智能�
 
 ## 客户支持
 ### Chat Data
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chat-data.webp" alt="Chat Data">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chat-data.webp" alt="Chat Data">
 
 #### 全天候自定义 AI 聊天机器人加上实时聊天升级
 
@@ -2686,7 +2686,7 @@ Chat Data 是一个 AI 聊天机器人平台，提供灵活的后端和前端自
 
 
 ### Chaindesk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chaindesk.webp" alt="Chaindesk">
 
 #### 基于您的数据的无代码对话代理开源平台。
 
@@ -2702,7 +2702,7 @@ Chaindesk 是一个完整的支持生态系统，可帮助您减少花在支持�
 
 
 ### chtrbx
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jake-b.webp" alt="chtrbx">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jake-b.webp" alt="chtrbx">
 
 #### Chtrbx：利用人工智能驱动的洞察力彻底改变客户服务
 
@@ -2718,7 +2718,7 @@ Chtrbx是一个人工智能聊天平台，可帮助企业改善在线客户互�
 
 
 ### MotionShot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-motionshot.webp" alt="MotionShot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-motionshot.webp" alt="MotionShot">
 
 #### 为您的产品和客户创建有吸引力的演练指南
 
@@ -2734,7 +2734,7 @@ MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客
 
 
 ### SiteSpeakAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sitespeakai.webp" alt="SiteSpeakAI">
 
 #### 使用 ChatGPT 实现客户支持自动化。
 
@@ -2750,7 +2750,7 @@ MotionShot 可帮助您为多种用例制作内容丰富的指南，例如向客
 
 
 ### Rosie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rosie.webp" alt="Rosie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rosie.webp" alt="Rosie">
 
 #### Rosie是为中小型企业提供的人工智能电话接听服务。
 
@@ -2770,7 +2770,7 @@ Rosie 非常适合家庭服务提供商、本地企业或任何依赖电话线�
 
 
 ### FastBots.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fastbots.ai.webp" alt="FastBots.ai">
 
 #### FastBots.ai：通往智能自动化的门户
 
@@ -2794,7 +2794,7 @@ Rosie 非常适合家庭服务提供商、本地企业或任何依赖电话线�
 
 ## 数据分析
 ### LLM-Powered Invoice & Receipt Extractor (OSS)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-llm-powered-invoice-and-receipt-extractor-oss.webp" alt="LLM-Powered Invoice & Receipt Extractor (OSS)">
 
 #### 由 LLM 驱动的发票和收据提取器 (OSS)
 
@@ -2812,7 +2812,7 @@ Rosie 非常适合家庭服务提供商、本地企业或任何依赖电话线�
 
 
 ### NewsDeck from OneSub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-newsdeck-from-onesub.webp" alt="NewsDeck from OneSub">
 
 #### Newsdeck-每天查找、筛选和分析成千上万篇文章。
 
@@ -2830,7 +2830,7 @@ NewsDeck利用OneSub的智能新闻阅读器AI的强大功能，使您可以实�
 
 
 ### Genius Sheets
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-genius-sheets.webp" alt="Genius Sheets">
 
 #### Genius Sheets-来自未来的商业智能
 人工智能驱动的数据分析
@@ -2851,7 +2851,7 @@ Genius Sheets AI 是一款自助式商业智能代理，可以回答你所有最
 
 
 ### SummerEyes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-summereyes.webp" alt="SummerEyes">
 
 #### Summereyes：浏览器中的 AI 驱动摘要
 
@@ -2867,7 +2867,7 @@ Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借
 
 
 ### DetangleAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-detangleai.webp" alt="DetangleAI">
 
 #### 总结任何播客、电子邮件、法律文档、书籍等，这样你就可以
 专注于重要的事情。
@@ -2884,7 +2884,7 @@ Summereyes-一键汇总互联网上的所有文本。切入正题。快速。借
 
 
 ### AutoPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autopredict.webp" alt="AutoPredict">
 
 #### 自动预测-预测您的汽车能持续多久
 
@@ -2900,7 +2900,7 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 
 
 ### Decile
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-decile.webp" alt="Decile">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-decile.webp" alt="Decile">
 
 #### 通过询问获取您需要的数据。
 
@@ -2924,7 +2924,7 @@ AutoPredict是第一款使用人工智能来预测汽车将持续多久的应用
 
 ## 数据库和 SQL 助手
 ### Text2SQL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2sql.webp" alt="Text2SQL">
 
 #### Text2Sql.Ai-使用 AI 免费生成 SQL 查询！
 
@@ -2941,7 +2941,7 @@ TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建�
 
 
 ### QueryGenie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-querygenie.webp" alt="QueryGenie">
 
 #### 更快地编写数据库查询！
 
@@ -2957,7 +2957,7 @@ TEXT-TO-SQL：使用 AI 将普通英语翻译成 SQL！根据提示快速构建�
 
 
 ### Scale
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scale.webp" alt="Scale">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scale.webp" alt="Scale">
 
 #### Scale Ai：利用您的数据为生成式 AI 提供动力
 
@@ -2973,7 +2973,7 @@ Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增�
 
 
 ### DataLang
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-datalang.webp" alt="DataLang">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-datalang.webp" alt="DataLang">
 
 #### 使用数据库和 SQL 创建自定义 ChatGPT
 
@@ -2989,7 +2989,7 @@ Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增�
 
 
 ### Code Language Converter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-code-language-converter.webp" alt="Code Language Converter">
 
 #### 代码语言转换器 - 使用 AI 将代码转换为其他语言
 
@@ -3005,7 +3005,7 @@ Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增�
 
 
 ### ai2sql
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2sql.webp" alt="ai2sql">
 
 #### SQL 查询生成器-SQL 查询生成器 AI Bot
 
@@ -3021,7 +3021,7 @@ Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增�
 
 
 ### AI SQL BOT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sql-bot.webp" alt="AI SQL BOT">
 
 #### AI SQL 查询生成器：无需事先 SQL 知识即可构建 SQL 查询的最简单方法-使用 AI 的 SQL 查询生成器
 
@@ -3046,7 +3046,7 @@ Scale 深受世界一流公司的信赖，为自动驾驶汽车、地图、增�
 
 ## 约会资料和接送热线
 ### LoveGenius
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovegenius.webp" alt="LoveGenius">
 
 #### 创建引人入胜且引人注目的约会简历，并在 Tinder、Bumble 和其他网站上获得更好的匹配！
 
@@ -3062,7 +3062,7 @@ LoveGenius 是一款 AI 约会助手，可通过制作出色的约会档案来�
 
 
 ### Roast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roast.webp" alt="Roast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roast.webp" alt="Roast">
 
 #### 约会应用程序个人资料 AI 分析 - 拍摄照片 AI 生成器
 
@@ -3078,7 +3078,7 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 
 
 ### Dating Photo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dating-photo-ai.webp" alt="Dating Photo AI">
 
 #### 用更好的约会照片获得更多匹配
 
@@ -3094,7 +3094,7 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 
 
 ### HotConvo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hotconvo.webp" alt="HotConvo">
 
 #### Spark Romance - 为您的在线约会获取有趣、机智和性感的聊天建议。
 
@@ -3110,7 +3110,7 @@ ROAST 帮助人们将他们在 Tinder、Bumble 和 Hinge 等约会应用程序�
 
 
 ### TinderProfile AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tinderprofile.ai.webp" alt="TinderProfile AI">
 
 #### 用于约会的 AI Photoshoot 生成器
 
@@ -3126,7 +3126,7 @@ TinderProfile.ai 使用 AI 分析用户的自拍和照片并生成高质量图�
 
 
 ### WingmanX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wingmanx.webp" alt="WingmanX">
 
 #### WingManx AI 约会助手-最佳 Rizz 接送热线
 
@@ -3142,7 +3142,7 @@ TinderProfile.ai 使用 AI 分析用户的自拍和照片并生成高质量图�
 
 
 ### OneDateIdea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-onedateidea.webp" alt="OneDateIdea">
 
 #### 获取一次约会的想法!OnedateIdea.com是灵感的源泉，可确保您的约会不会是一次无聊或典型的郊游。
 
@@ -3166,7 +3166,7 @@ OneDateIdea是任何努力完成计划约会这一艰巨任务的人的终极解
 
 ## 电子商务
 ### DoMyShoot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-domyshoot.webp" alt="DoMyShoot">
 
 #### DoMyShoot - 简化产品摄影
 
@@ -3182,7 +3182,7 @@ OneDateIdea是任何努力完成计划约会这一艰巨任务的人的终极解
 
 
 ### Embolden
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-embolden.webp" alt="Embolden">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-embolden.webp" alt="Embolden">
 
 #### 使用 AI 为您的电子商务写作提供支持。
 
@@ -3198,7 +3198,7 @@ Embolden 使用 AI 帮助您为电子商务业务编写从电子邮件到产品�
 
 
 ### Wizishop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wizishop.webp" alt="Wizishop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wizishop.webp" alt="Wizishop">
 
 #### 通过 SEO 驱动的电子商务发展您的业务
 
@@ -3214,7 +3214,7 @@ WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成
 
 
 ### unbounce
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unbounce.webp" alt="unbounce">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unbounce.webp" alt="unbounce">
 
 #### 助您发展业务的智能营销工具
 
@@ -3230,7 +3230,7 @@ WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成
 
 
 ### Zust AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zust-ai.webp" alt="Zust AI">
 
 #### 产品照片拍摄的终极人工智能平台
 
@@ -3246,7 +3246,7 @@ WiziShop 使基于 SEO 的电子商务比以往任何时候都更容易，使成
 
 
 ### CopyMonkey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-copymonkey.webp" alt="CopyMonkey">
 
 #### 您的 AI 驱动的亚马逊列表优化专家
 
@@ -3262,7 +3262,7 @@ CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有�
 
 
 ### Prems Ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prems-ai.webp" alt="Prems Ai">
 
 #### Prems Ai 🔔 📉🚨 降价和补货提醒
 
@@ -3288,7 +3288,7 @@ CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有�
 
 ## 电子邮件助理
 ### DraftLab
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-draftlab.webp" alt="DraftLab">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-draftlab.webp" alt="DraftLab">
 
 #### DraftLab AI：使用 AI 更快地编写更好的电子邮件
 
@@ -3304,7 +3304,7 @@ CopyMonkey 在几秒钟内生成并优化亚马逊列表。 AI 帮助将所有�
 
 
 ### Intellimail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-intellimail.webp" alt="Intellimail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-intellimail.webp" alt="Intellimail">
 
 #### 您的个人电子邮件助理
 
@@ -3320,7 +3320,7 @@ IntelliMail 是一个 chrome 扩展程序，可以生成您的电子邮件 - 因
 
 
 ### Ellie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ellie.webp" alt="Ellie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ellie.webp" alt="Ellie">
 
 #### Ellie - 你的 AI 邮件助理
 
@@ -3336,7 +3336,7 @@ Ellie 从您的写作风格中学习，并像您写的一样精心回复
 
 
 ### EmailTriager
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-emailtriager.webp" alt="EmailTriager">
 
 #### EmailTriager · 电子邮件自动驾驶。
 
@@ -3352,7 +3352,7 @@ Ellie 从您的写作风格中学习，并像您写的一样精心回复
 
 
 ### Rapidreply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rapidreply.webp" alt="Rapidreply">
 
 #### 快速回复-AI邮件助手
 
@@ -3368,7 +3368,7 @@ Ellie 从您的写作风格中学习，并像您写的一样精心回复
 
 
 ### Remail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-remail.webp" alt="Remail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-remail.webp" alt="Remail">
 
 #### 写邮件快 10 倍
 
@@ -3384,7 +3384,7 @@ Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内�
 
 
 ### AImReply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aimreply.webp" alt="AImReply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aimreply.webp" alt="AImReply">
 
 #### 您的终极 AI 电子邮件助手。通过智能自动化提高您的电子邮件生产力。让 AimReply 分析和增强您的电子邮件回复，为您节省时间
 
@@ -3410,7 +3410,7 @@ Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内�
 
 ## 电子邮件营销
 ### Warmy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-warmy.webp" alt="Warmy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-warmy.webp" alt="Warmy">
 
 #### Warmy：电子邮件热身带来的电子邮件送达率革命
 
@@ -3426,7 +3426,7 @@ Remail 是 gmail 的 Chrome 扩展程序，它使用人工智能在几秒钟内�
 
 
 ### Mailsplash AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mailsplash-ai.webp" alt="Mailsplash AI">
 
 #### Mailsplash 可以实现最佳、顺畅的电子邮件营销，而无需付出高昂的代价。
 
@@ -3444,7 +3444,7 @@ Mailsplash 是你的 AI 电子邮件营销商。从文案写作到无缝设计�
 
 
 ### SalesStream.ai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-salesstream-ai.webp" alt="SalesStream.ai">
 
 #### 世界上最简单的面向小企业主的电子邮件和短信活动生成器
 
@@ -3460,7 +3460,7 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 ### Hoppy Copy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hoppy-copy.webp" alt="Hoppy Copy">
 
 #### Hoppy Copy：人工智能邮件营销文案平台
 
@@ -3476,7 +3476,7 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 ### GetResponse
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getresponse.webp" alt="GetResponse">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getresponse.webp" alt="GetResponse">
 
 #### GetResponse - 适合所有人的专业电子邮件营销
 
@@ -3492,7 +3492,7 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 ### Smartwriter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smartwriter.webp" alt="Smartwriter">
 
 #### 使用 AI 生成 1000 封个性化电子邮件，让您在几分钟内获得 8 倍以上的回复
 
@@ -3508,7 +3508,7 @@ Reach from SalesStream.ai 是实现电子邮件和短信个性化的最佳人工
 
 
 ### Quicklines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quicklines.webp" alt="Quicklines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quicklines.webp" alt="Quicklines">
 
 #### Quicklines 终身访问 - 仅 59 美元
 
@@ -3532,7 +3532,7 @@ Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社�
 
 ## 娱乐与新奇
 ### MemeGenAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-memegenai.webp" alt="MemeGenAI">
 
 #### 这个完全免费的人工智能工具可帮助用户生成自定义的gif模因。他们可以与朋友和家人分享他们的作品，接收者可以与这个模因互动来创建新的混音模因。 
 
@@ -3548,7 +3548,7 @@ Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社�
 
 
 ### Ask RBG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-rbg.webp" alt="Ask RBG">
 
 #### RBG（可能）会说什么？
 
@@ -3564,7 +3564,7 @@ Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社�
 
 
 ### Langame card game
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langame-card-game.webp" alt="Langame card game">
 
 #### AI 生成的对话纸牌游戏，可与您的朋友和家人一起玩
 
@@ -3580,7 +3580,7 @@ Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社�
 
 
 ### DreamGen: AI role-playing and strory-writing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dreamgen:-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dreamgen%3A-ai-role-playing-and-strory-writing.webp" alt="DreamGen: AI role-playing and strory-writing">
 
 #### DreamGen：人工智能角色扮演和故事写作
 
@@ -3598,7 +3598,7 @@ Quicklines 是您新的 AI 驱动的冷外联助手。我们通过深入的社�
 
 
 ### Pet Booth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pet-booth.webp" alt="Pet Booth">
 
 #### Pet Booth 是一项用于创建自己的 AI 宠物肖像、艺术品和照片的服务。只需上传 10-20 张您的猫或狗的照片，然后从 80 多个主题中进行选择，即可将其转换成。
 
@@ -3620,7 +3620,7 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 
 
 ### Philosophy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-philosophy.webp" alt="Philosophy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-philosophy.webp" alt="Philosophy">
 
 #### 问哲学家
 
@@ -3636,7 +3636,7 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 
 
 ### Creative QR codes using AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-creative-qr-codes-using-ai.webp" alt="Creative QR codes using AI">
 
 #### 使用人工智能将您的链接转换为艺术二维码，并提高转化率
 
@@ -3660,7 +3660,7 @@ Pet Booth 是一项用于创建自己精彩的 AI 宠物肖像、照片和艺术
 
 ## 面部和美容评级
 ### AI Attractiveness Test
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-attractiveness-test.webp" alt="AI Attractiveness Test">
 
 #### “AI 吸引力测试：评估 
 你的面部吸引力”
@@ -3680,7 +3680,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### Glowup AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glowup-ai.webp" alt="Glowup AI">
 
 #### 使用 Glowup AI 来看看你有多漂亮。我们的工具可作为您的个性化人工智能美容指南。 
 
@@ -3696,7 +3696,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### How Attractive am I
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-how-attractive-am-i.webp" alt="How Attractive am I">
 
 #### 我有多吸引人——人工智能美容分数测试 [2026 年更新]
 
@@ -3712,7 +3712,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### Face Analysis Attractiveness
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-face-analysis-attractiveness.webp" alt="Face Analysis Attractiveness">
 
 #### 面部分析吸引力：通过技术理解美
 
@@ -3728,7 +3728,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### AI Face Analyzer-Beauty Score Calculator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-face-analyzer-beauty-score-calculator.webp" alt="AI Face Analyzer-Beauty Score Calculator">
 
 #### AI 人脸分析仪-美容分数计算器
 
@@ -3744,7 +3744,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### VideoWeb AI Face Rating
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoweb-ai-face-rating.webp" alt="VideoWeb AI Face Rating">
 
 #### 免费在线多合一 AI 视频和图像工具-VideoWeb AI
 
@@ -3760,7 +3760,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 
 ### FaceRate.ai: Face Attractiveness Test and Analysis Tool
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-facerate-ai-face-attractiveness-test-and-analysis-tool.webp" alt="FaceRate.ai: Face Attractiveness Test and Analysis Tool">
 
 #### 使用我们的面部评分器测试您的脸部，以查看您的吸引力分数并获得科学指导以增强您的特征。
 
@@ -3784,7 +3784,7 @@ AI 吸引力测试可以对你的脸部进行评分，以获得乐趣和自我�
 
 ## 时尚
 ### FashionAdvisorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fashionadvisorai.webp" alt="FashionAdvisorAI">
 
 #### FashionAdvisor.AI - 从 FashionAdvisor.AI 提出问题并获得答案
 
@@ -3800,7 +3800,7 @@ FashionAdvisor 是一个基于 GPT3 的人工智能，它会立即免费回答�
 
 
 ### SwagAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swagai.webp" alt="SwagAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swagai.webp" alt="SwagAI">
 
 #### 用它来装饰你无聊的衣柜
 人工智能生成的战利品。
@@ -3818,7 +3818,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 ### HuHu AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huhu-ai.webp" alt="HuHu AI">
 
 #### HuHu AI-从服装照片到令人惊艳的时装模特
 
@@ -3834,7 +3834,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 ### Visualhound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-visualhound.webp" alt="Visualhound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-visualhound.webp" alt="Visualhound">
 
 #### VisualHound - 使用 AI 为您的时装设计创意制作原型
 
@@ -3850,7 +3850,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 ### LooksMax AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looksmax-ai.webp" alt="LooksMax AI">
 
 #### Looksmax AI 会分析您的外表，并分享人工智能生成的自我完善技巧，这些技巧将帮助您增强信心和自尊心。 
 
@@ -3868,7 +3868,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 ### Outfit Anyone AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-anyone-ai.webp" alt="Outfit Anyone AI">
 
 #### 为任何人搭配 AI-适合各种风格的轻松虚拟试穿
 
@@ -3884,7 +3884,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 
 ### Outfit Changer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outfit-changer.webp" alt="Outfit Changer">
 
 #### 服装更换器 AI | 为任何人装备 AI | 虚拟试穿 | 你的虚拟衣柜在等着你 | 人工智能换衣机 | outfitchanger.com
 
@@ -3908,7 +3908,7 @@ SwaGai-人工智能在T恤上生成了图像。
 
 ## 赌博
 ### Chess AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chess-ai.webp" alt="Chess AI">
 
 #### Betafish - AlphaZero 和 Stockfish 的合并。
 
@@ -3924,7 +3924,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### latitude
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-latitude.webp" alt="latitude">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-latitude.webp" alt="latitude">
 
 #### 人工智能生成游戏的未来
 
@@ -3940,7 +3940,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### GGPredict
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ggpredict.webp" alt="GGPredict">
 
 #### 训练更聪明。排名更快。
 
@@ -3956,7 +3956,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### Assetsai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assetsai.webp" alt="Assetsai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assetsai.webp" alt="Assetsai">
 
 #### 为您的游戏提供 AI 驱动、独特且精心策划的资产
 
@@ -3972,7 +3972,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### Scenario
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scenario.webp" alt="Scenario">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scenario.webp" alt="Scenario">
 
 #### 设想
 
@@ -3988,7 +3988,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### charisma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-charisma.webp" alt="charisma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-charisma.webp" alt="charisma">
 
 #### 为实时数字人类提供动力
 
@@ -4004,7 +4004,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### hidden door
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hidden-door.webp" alt="hidden door">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hidden-door.webp" alt="hidden door">
 
 #### 你好，世界！
 
@@ -4028,7 +4028,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 ## 礼物创意和推荐
 ### Gifts Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gifts-genie.webp" alt="Gifts Genie">
 
 #### Genie - 人工智能礼物生成器
 
@@ -4044,7 +4044,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### GiftBot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftbot.webp" alt="GiftBot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftbot.webp" alt="GiftBot">
 
 ####  获得礼物帮助
 
@@ -4060,7 +4060,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### Outdone V2
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-outdone-v2.webp" alt="Outdone V2">
 
 #### 在几分钟或更短的时间内找到完美的礼物
 
@@ -4076,7 +4076,7 @@ Betafish 是一个国际象棋引擎和 AI 移动查找器，用 Javascript 编�
 
 
 ### ColorBliss
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorbliss.webp" alt="ColorBliss">
 
 #### ColorBliss是一款人工智能驱动的工具，允许您使用文本提示生成、保存和打印独特的自定义着色表，从照片甚至自己的照片中进行转换。
 
@@ -4102,7 +4102,7 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 
 ### Lovelines
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovelines.webp" alt="Lovelines">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovelines.webp" alt="Lovelines">
 
 #### Lovelines.xyz - 用 AI 制作的定制纪念品分享你的爱
 
@@ -4118,7 +4118,7 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 
 ### Text2present
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text2present.webp" alt="Text2present">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text2present.webp" alt="Text2present">
 
 #### text2present.com - 来自忙碌人士的创意礼物。
 
@@ -4134,7 +4134,7 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 
 ### Giftastic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-giftastic-ai.webp" alt="Giftastic AI">
 
 #### Giftastic.ai - 送给特别的人的完美礼物！
 
@@ -4158,7 +4158,7 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 ## 头像生成器
 ### Free AI Headshot Generator | Supawork AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-headshot-generator-|-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-headshot-generator-%7C-supawork-ai.webp" alt="Free AI Headshot Generator | Supawork AI">
 
 #### 免费 AI 头像生成器 | Supawork AI（无需注册）
 
@@ -4174,7 +4174,7 @@ ColorBliss 可以让你创建任何你能想象的彩页，完全是你想要的
 
 
 ### Fulgent AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fulgent-ai.webp" alt="Fulgent AI">
 
 #### Fulgent AI | 最先进的人工智能头像生成器 
 
@@ -4190,7 +4190,7 @@ Fulgent AI 使用最新技术来确保生成的图像与实际照片非常相似
 
 
 ### Headpix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-headpix.webp" alt="Headpix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-headpix.webp" alt="Headpix">
 
 #### Headpix | 人工智能生成的头像是肖像的未来
 
@@ -4207,7 +4207,7 @@ Fulgent AI 使用最新技术来确保生成的图像与实际照片非常相似
 
 
 ### Executive Headshots
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-executive-headshots.webp" alt="Executive Headshots">
 
 #### 高管头像-立即升级您的专业资料
 
@@ -4223,7 +4223,7 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 
 
 ### ImageArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imageart.webp" alt="ImageArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imageart.webp" alt="ImageArt">
 
 #### ImageArt-想象一下 AI 头像生成器
 
@@ -4239,7 +4239,7 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 
 
 ### BetterPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-betterpic.webp" alt="BetterPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-betterpic.webp" alt="BetterPic">
 
 #### BetterPic——工作室品质的 4K 头像，不到 60 分钟 29 美元起。
 
@@ -4255,7 +4255,7 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 
 
 ### The Multiverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-the-multiverse-ai.webp" alt="The Multiverse AI">
 
 #### 把你的自拍变成专业头像
 
@@ -4279,7 +4279,7 @@ Executive Headshots 专为高管、专业人士和企业量身定制，我们的
 
 ## 卫生保健
 ### Well Me Right
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-well-me-right.webp" alt="Well Me Right">
 
 #### AI 健康指导：预订世界领先的健康专家，通过视频通话获得建议
 
@@ -4297,7 +4297,7 @@ AI 配对：与经过审查的饮食、营养、补品、美容、健身、正�
 
 
 ### Calisthenics Workout Plan
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-calisthenics-workout-plan.webp" alt="Calisthenics Workout Plan">
 
 #### 根据您的健身水平和目标量身定制人工智能驱动的个性化锻炼。
 
@@ -4313,7 +4313,7 @@ AI 配对：与经过审查的饮食、营养、补品、美容、健身、正�
 
 
 ### Getactyv
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getactyv.webp" alt="Getactyv">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getactyv.webp" alt="Getactyv">
 
 #### Getactyv - 人工智能和计算机视觉辅助健康和健身平台
 
@@ -4329,7 +4329,7 @@ GetActyv 基于人工智能的私人教练将彻底改变您的健身之旅
 
 
 ### Kallo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kallo.webp" alt="Kallo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kallo.webp" alt="Kallo">
 
 #### 多 LLM 协作工具，试试 AI 工具
 
@@ -4345,7 +4345,7 @@ Kallo 是一款多 LLM GenAI 工具，用户不仅可以在同一个聊天中尝
 
 
 ### Ubie AI Symptom Checker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ubie-ai-symptom-checker.webp" alt="Ubie AI Symptom Checker">
 
 #### 通过 AI 检查症状和查找原因
 
@@ -4361,7 +4361,7 @@ Kallo 是一款多 LLM GenAI 工具，用户不仅可以在同一个聊天中尝
 
 
 ### S10.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-s10-ai.webp" alt="S10.AI">
 
 #### 适用于所有 EHR 和专业的 AI 医学抄写员
 
@@ -4378,7 +4378,7 @@ S10 的环境人工智能医学抄写员是医生防止文件烧毁的秘密武�
 
 
 ### Medidex Connect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-medidex-connect.webp" alt="Medidex Connect">
 
 #### Medidex Connect 全天候在线药剂师聊天服务
 
@@ -4404,7 +4404,7 @@ Medidex Connect-一款用于询问健康和药物问题的人工智能聊天机�
 
 ## 家庭作业和作文助手
 ### SopCreator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sopcreator.webp" alt="SopCreator">
 
 #### 使用 AI 创建您的目标陈述
 
@@ -4420,7 +4420,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### Myess
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myess.webp" alt="Myess">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myess.webp" alt="Myess">
 
 #### myEssai - 人工智能驱动的论文导师
 
@@ -4436,7 +4436,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### Caktus
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-caktus.webp" alt="Caktus">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-caktus.webp" alt="Caktus">
 
 #### Caktus AI-一流的学生人工智能助手
 
@@ -4453,7 +4453,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### AIQuizGen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiquizgen.webp" alt="AIQuizGen">
 
 #### AI 测验和问题生成器：在几分钟内创建多样的高质量测验。我们的 AI 测验生成器可确保一致、个性化和无错误的评估，从而提升您的结果。
 
@@ -4471,7 +4471,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### Teacherbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-teacherbot.webp" alt="Teacherbot">
 
 #### Teacherbot-每位老师都应得的工具
 
@@ -4487,7 +4487,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### AssignmentGPT AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-assignmentgpt-ai.webp" alt="AssignmentGPT AI">
 
 #### AssignmentGPT AI是一个革命性的新型写作工具网站，为用户提供强大的AI驱动的写作助手
 
@@ -4509,7 +4509,7 @@ Sopcreator.com是一个支持人工智能的平台，旨在帮助学生为大学
 
 
 ### Solvely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-solvely.webp" alt="Solvely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-solvely.webp" alt="Solvely">
 
 #### Solvely AI 通过为数学、科学、文科和经济学等科目提供分步说明来帮助学生解决家庭作业问题，使学习变得更容易、更高效。
 
@@ -4533,7 +4533,7 @@ Solvely AI 是一款学习助手，可帮助学生解决各种科目的家庭作
 
 ## 图像编辑
 ### PicTools.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pictools-ai.webp" alt="PicTools.AI">
 
 #### 使用 AI 工具轻松生成和编辑图像
 
@@ -4549,7 +4549,7 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 ### Unrealme
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-unrealme.webp" alt="Unrealme">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-unrealme.webp" alt="Unrealme">
 
 #### Unreal Me - 获取 AI 生成的你的图像
 
@@ -4565,7 +4565,7 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 ### Fotor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor.webp" alt="Fotor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor.webp" alt="Fotor">
 
 #### Fotor-适合所有人的在线照片编辑器。使用 AI 更快、更轻松地编辑照片。
 
@@ -4584,7 +4584,7 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 ### AI Photos Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-photos-editor.webp" alt="AI Photos Editor">
 
 #### AI 照片编辑器-使用 AI 生成逼真的照片
 
@@ -4606,7 +4606,7 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 ### AVCLabs PhotoPro AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photopro-ai.webp" alt="AVCLabs PhotoPro AI">
 
 #### AI 照片编辑器：增强照片编辑中的所有功能 | AVcLabs
 
@@ -4624,7 +4624,7 @@ PicTools AI 提供了强大的 AI 工具，可以创建精美的图像、删除�
 
 
 ### ProductScope AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vijay-jacob.webp" alt="ProductScope AI">
 
 #### ProductScope AI 为电子商务品牌和营销人员提供了两个必备工具：人工智能产品照片拍摄工具和列表优化工具。
 
@@ -4641,7 +4641,7 @@ AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生�
 
 
 ### Stabledojo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-stabledojo.webp" alt="Stabledojo">
 
 #### 首家人工智能照相馆
 
@@ -4665,7 +4665,7 @@ AI 产品照片拍摄允许品牌使用我们的 AI Photoshoot 工具轻松生�
 
 ## 图像升频器
 ### HitPaw Online Photo Enhancer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hitpaw-online-photo-enhancer.webp" alt="HitPaw Online Photo Enhancer">
 
 #### 取消模糊图像并告别低质量照片。
 
@@ -4681,7 +4681,7 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 
 ### AVC AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avc-ai.webp" alt="AVC AI">
 
 #### 在线 AI 图像增强器，通过放大、去噪、恢复、面部细化等提高照片质量
 
@@ -4697,7 +4697,7 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 
 ### AI Image Enlarger
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-image-enlarger.webp" alt="AI Image Enlarger">
 
 #### 使用 AI 图像放大器放大和增强图像
 
@@ -4713,7 +4713,7 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 
 ### AVCLabs Photo Enhancer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avclabs-photo-enhancer-ai.webp" alt="AVCLabs Photo Enhancer AI">
 
 #### AVcLabs AI 照片增强器：使用 AI 轻松提高照片质量 
 
@@ -4730,7 +4730,7 @@ HitPaw Online AI Photo Enhancer 使用先进的 AI 技术去除噪点、锐化�
 
 
 ### BigJpg
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bigjpg.webp" alt="BigJpg">
 
 #### Bigjpg-使用深度卷积神经网络的人工智能超分辨率无损图像放大/放大工具
 
@@ -4746,7 +4746,7 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 
 
 ### Imgupscaler
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgupscaler.webp" alt="Imgupscaler">
 
 #### 智能 PNG / JPG 图像升级器
 
@@ -4762,7 +4762,7 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 
 
 ### Waifu XL
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-waifu-xl.webp" alt="Waifu XL">
 
 #### 只需单击一下按钮，Waifuxl即可直接在浏览器中提供最先进的放大功能。
 
@@ -4786,7 +4786,7 @@ Bigjpg-使用深度卷积神经网络为动漫风格艺术作品提供图像超�
 
 ## 图像到图像的变化
 ### SDXL TURBO ONLINE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sdxl-turbo-online.webp" alt="SDXL TURBO ONLINE">
 
 #### 在几秒钟内生成高质量的图像。
 
@@ -4802,7 +4802,7 @@ SDXL Turbo 基于一种名为对抗扩散蒸馏法 (ADD) 的新型蒸馏技术�
 
 
 ### Photo to Anime
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photo-to-anime.webp" alt="Photo to Anime">
 
 #### 以隐私为中心的 AI 动画过滤器，适用于记忆守护者
 
@@ -4822,7 +4822,7 @@ SDXL Turbo 基于一种名为对抗扩散蒸馏法 (ADD) 的新型蒸馏技术�
 
 
 ### Image to Image AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image-ai.webp" alt="Image to Image AI">
 
 #### 图像到图像的人工智能
 
@@ -4838,7 +4838,7 @@ Image to Image AI Generator是一款免费的在线照片编辑器，提供强�
 
 
 ### Simpedit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simpedit.webp" alt="Simpedit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simpedit.webp" alt="Simpedit">
 
 #### Simpedit 是一款功能强大的图像转换工具，使用户只需点击一下即可轻松地将时尚风格应用到他们的图像上。
 
@@ -4854,7 +4854,7 @@ Image to Image AI Generator是一款免费的在线照片编辑器，提供强�
 
 
 ### Raphael AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-raphael-ai.webp" alt="Raphael AI">
 
 #### Raphael AI-免费无限量人工智能图像生成器
 
@@ -4870,7 +4870,7 @@ Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模�
 
 
 ### AI Anime Filter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-anime-filter.webp" alt="AI Anime Filter">
 
 #### 照片到动画转换器：在线AI动画过滤器
 
@@ -4886,7 +4886,7 @@ Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模�
 
 
 ### Image to Image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-to-image.webp" alt="Image to Image">
 
 #### Image to Image AI-AI 在线图像生成器和编辑器
 
@@ -4910,7 +4910,7 @@ Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模�
 
 ## 图像到视频动画
 ### AnimateMyPic
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-animatemypic.webp" alt="AnimateMyPic">
 
 #### 免费的 AI 照片动画器可在线为照片制作动画 | AnimateMyPic
 
@@ -4926,7 +4926,7 @@ Raphael AI 是一款免费的、无限量的 AI 图像生成器，其顶级模�
 
 
 ### Deep Nostalgia AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia-ai.webp" alt="Deep Nostalgia AI">
 
 #### 将旧照片变成视频。让图像变为现实。
 
@@ -4943,7 +4943,7 @@ Deep Nostalgia AI 是一种即时访问模型，可以为你珍贵的旧照片�
 
 
 ### Ebsynth
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ebsynth.webp" alt="Ebsynth">
 
 #### Ebsynth-通过在单帧上绘画来转换视频
 
@@ -4959,7 +4959,7 @@ Deep Nostalgia AI 是一种即时访问模型，可以为你珍贵的旧照片�
 
 
 ### Seedance 3.0 AI Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seedance-3-0-ai-video-generator.webp" alt="Seedance 3.0 AI Video Generator">
 
 #### 使用 Seedance 3.0 创建电影 AI 视频——将图像、视频、音频和文本参考整合到互联的、可供制作的场景中。原生 4K，最多 50 个输入，无水印。
 
@@ -4975,7 +4975,7 @@ Seedance 3.0 是一款多模式 AI 视频生成器，可根据图像、视频、
 
 
 ### AIKissfiy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aikissfiy.webp" alt="AIKissfiy">
 
 #### AI 接吻生成器：在线制作接吻视频-AikissFiy
 
@@ -4991,7 +4991,7 @@ Seedance 3.0 是一款多模式 AI 视频生成器，可根据图像、视频、
 
 
 ### Kadapt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kadapt.webp" alt="Kadapt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kadapt.webp" alt="Kadapt">
 
 #### 列出照片，垂直发声——房地产经纪人的 AI 卷轴经纪人。
 
@@ -5007,7 +5007,7 @@ Kadapt 是一款面向房地产经纪人和经纪人的 AI 卷轴经纪人。上
 
 
 ### Deep Nostalgia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deep-nostalgia.webp" alt="Deep Nostalgia">
 
 #### 将您的全家福转换为动画视频
 
@@ -5031,7 +5031,7 @@ Kadapt 是一款面向房地产经纪人和经纪人的 AI 卷轴经纪人。上
 
 ## 面试准备
 ### Interviews Chat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interviews-chat-1.webp" alt="Interviews Chat">
 
 #### 面试准备和副驾驶，提供实时支持。
 
@@ -5047,7 +5047,7 @@ Interviews Chat 提供最先进的人工智能工具，可帮助你在求职面�
 
 
 ### MIND-Interview AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mind-interview-ai.webp" alt="MIND-Interview AI">
 
 #### Mind-Interview 是一个先进的人工智能辅导平台，旨在帮助用户在求职面试中脱颖而出。
 
@@ -5064,7 +5064,7 @@ Mind-Interview 是一个人工智能驱动的面试指导平台，旨在帮助�
 
 
 ### STAR Method Coach
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-star-method-coach.webp" alt="STAR Method Coach">
 
 #### STAR Method Coach 教你如何与 AI STAR 方法面试教练一起掌握行为访谈。
 
@@ -5080,7 +5080,7 @@ Star Method Coach是一个基于人工智能的模拟面试平台，旨在帮助
 
 
 ### Careerflow AI Mock Interview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-careerflow-ai-mock-interview.webp" alt="Careerflow AI Mock Interview">
 
 #### 在即将到来的求职面试中脱颖而出，提升面试技巧。
 
@@ -5096,7 +5096,7 @@ Star Method Coach是一个基于人工智能的模拟面试平台，旨在帮助
 
 
 ### Parakeet AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-parakeet-ai.webp" alt="Parakeet AI">
 
 #### Parakeet AI 为面试提供实时的、由人工智能驱动的帮助，提供即时回复和特定行业的指导。
 
@@ -5113,7 +5113,7 @@ Parakeet AI 通过提供针对特定行业和职位量身定制的实时 AI 生�
 
 
 ### AI Interview Answers Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-interview-answers-generator.webp" alt="AI Interview Answers Generator">
 
 #### AI 面试答案生成器-在下一次面试中脱颖而出
 
@@ -5129,7 +5129,7 @@ AI 面试答案生成器是一种工具，旨在通过提供实时答案指导�
 
 
 ### AiInterview
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiinterview.webp" alt="AiInterview">
 
 #### 零偏见的第一轮过滤访谈
 
@@ -5153,7 +5153,7 @@ AI 面试答案生成器是一种工具，旨在通过提供实时答案指导�
 
 ## 语言学习
 ### TutorAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tutorai.webp" alt="TutorAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tutorai.webp" alt="TutorAI">
 
 #### 学习任何东西-通过搜索你想要的主题
 
@@ -5169,7 +5169,7 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 
 ### Lorro
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lorro.webp" alt="Lorro">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lorro.webp" alt="Lorro">
 
 #### 花很少的钱就能说一口流利的英语。通过与 AI 导师交谈
 
@@ -5185,7 +5185,7 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 
 ### Speakingclubai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-speakingclubai.webp" alt="Speakingclubai">
 
 #### 口语俱乐部AI
 
@@ -5201,7 +5201,7 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 
 ### Langotalk
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-langotalk.webp" alt="Langotalk">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-langotalk.webp" alt="Langotalk">
 
 #### Langotalk：使用人工智能学习语言的速度提高 6 倍
 
@@ -5217,7 +5217,7 @@ TutoeAI Learn Anything 是一个搜索引擎，用于学习任何主题的模块
 
 
 ### DET Practice
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-det-practice.webp" alt="DET Practice">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-det-practice.webp" alt="DET Practice">
 
 #### DET 练习-Ace the Duolingo 英语考试
 
@@ -5233,7 +5233,7 @@ DET Practice（https://www.detpractice.com/）是一个由人工智能驱动的�
 
 
 ### ELSA SPEECH ANALYZER
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elsa-speech-analyzer.webp" alt="ELSA SPEECH ANALYZER">
 
 #### 一次提高您的英语水平。
 
@@ -5249,7 +5249,7 @@ Speech Analyzer 是一款由 AI 驱动的会话英语流利度教练，它会聆
 
 
 ### Lingostar
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lingostar.webp" alt="Lingostar">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lingostar.webp" alt="Lingostar">
 
 #### Lingostar - 与人工智能的真实对话
 
@@ -5273,7 +5273,7 @@ Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈�
 
 ## 合法的
 ### Compliance Quarter
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-compliance-quarter.webp" alt="Compliance Quarter">
 
 #### 专家合规体系和资源-合规季度
 
@@ -5289,7 +5289,7 @@ Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈�
 
 
 ### ScoreDetect
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scoredetect.webp" alt="ScoreDetect">
 
 #### 保护内容的未来。信任区块链保护。
 
@@ -5305,7 +5305,7 @@ Lingostar 是语言学习者可以用英语、西班牙语或法语与之交谈�
 
 
 ### Spellbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-spellbook.webp" alt="Spellbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-spellbook.webp" alt="Spellbook">
 
 #### 使用 AI 将合同起草速度提高 3 倍
 
@@ -5321,7 +5321,7 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 
 ### PatentPal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-patentpal.webp" alt="PatentPal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-patentpal.webp" alt="PatentPal">
 
 #### 知识产权的生成人工智能
 
@@ -5337,7 +5337,7 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 
 ### DoNotPay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-donotpay.webp" alt="DoNotPay">
 
 #### 世界上第一个机器人律师
 
@@ -5353,7 +5353,7 @@ Spellbook 使用 GPT-3 在 Microsoft Word 中为您的合同审查和建议语�
 
 
 ### CFRexplorer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cfrexplorer.webp" alt="CFRexplorer">
 
 #### CFR Explorer-向人工智能提问 CFRS
 
@@ -5369,7 +5369,7 @@ CFR Explorer是一款利用最新人工智能技术的应用程序，可让飞�
 
 
 ### Paralegal AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-paralegal-ai.webp" alt="Paralegal AI">
 
 #### 律师助理人工智能
 
@@ -5393,7 +5393,7 @@ CFR Explorer是一款利用最新人工智能技术的应用程序，可让飞�
 
 ## 徽标生成器
 ### MagiMaker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magimaker.webp" alt="MagiMaker">
 
 #### 为独立创意人士提供简单、快速且经济实惠的人工智能设计解决方案，包括书籍封面、播客封面、徽标等。
 
@@ -5413,7 +5413,7 @@ MagiMaker 为书籍/播客封面、徽标等提供定制设计解决方案。
 
 
 ### Zarla Logo Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-zarla-logo-maker.webp" alt="Zarla Logo Maker">
 
 #### 在几秒钟内创建免费的专业徽标！-使用 Zarla 简单、直观的徽标制作器，适用于任何企业或品牌。
 
@@ -5429,7 +5429,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### Logomakerr.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logomakerr-ai.webp" alt="Logomakerr.AI">
 
 #### 使用 AI 创建徽标-Logomakerr.AI 只需点击几下即可将您的商业理念与 AI 生成的徽标融为一体！
 
@@ -5446,7 +5446,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### Looka
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-looka.webp" alt="Looka">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-looka.webp" alt="Looka">
 
 #### Looka-企业家徽标设计和品牌标识 
 
@@ -5464,7 +5464,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### AI Logo Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-logo-generator.webp" alt="AI Logo Generator">
 
 #### 使用 AI 精度制作徽标：快速、免费、完美无瑕。
 
@@ -5480,7 +5480,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### Text To Book Cover
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-text-to-book-cover.webp" alt="Text To Book Cover">
 
 #### 为团队生成 AI 图像 - 您可以轻松生成 AI 徽标、AI 书籍封面、AI 海报等 - Stockimg AI
 
@@ -5496,7 +5496,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### Logo Rank
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-logo-rank.webp" alt="Logo Rank">
 
 #### Brandmark 徽标制作器-最先进的人工智能徽标设计工具
 
@@ -5521,7 +5521,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 ## 膳食和食谱规划师
 ### AI Food Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-food-generator.webp" alt="AI Food Generator">
 
 #### AI 食物生成器-今天要煮什么？| 免费食谱生成器
 
@@ -5537,7 +5537,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### AI Recipe Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-recipe-generator.webp" alt="AI Recipe Generator">
 
 #### AI 食谱生成器-立即获得独特而美味的食谱
 
@@ -5554,7 +5554,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### FoodAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-foodai.webp" alt="FoodAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-foodai.webp" alt="FoodAI">
 
 #### Foodai.App-用 Ai 生成烹饪食谱！
 
@@ -5570,7 +5570,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 
 ### Bite Genie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bite-genie.webp" alt="Bite Genie">
 
 #### Bite Genie-你的终极 AI 食谱伙伴
 
@@ -5594,7 +5594,7 @@ Zarla 的创建是为了向所有人提供专业品质的徽标。只需输入�
 
 ## 会议助理
 ### Graphic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-graphic-ai.webp" alt="Graphic AI">
 
 #### AI辅助团队工作协作平台
 
@@ -5610,7 +5610,7 @@ Stork 帮助团队改善沟通和生产力。它是混合和远程团队的商�
 
 
 ### Jamie
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jamie.webp" alt="Jamie">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jamie.webp" alt="Jamie">
 
 #### Jamie-会议摘要的人工智能助理
 
@@ -5626,7 +5626,7 @@ jamie 是一名 AI 助手，可以在几秒钟内以商务写作质量创建会�
 
 
 ### Supernormal
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supernormal.webp" alt="Supernormal">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supernormal.webp" alt="Supernormal">
 
 #### Supernormal-写会议记录的人工智能
 
@@ -5644,7 +5644,7 @@ Supernormal 在会议期间记笔记，并使用安全的 AI 针对所有不同�
 
 
 ### Fathom
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fathom.webp" alt="Fathom">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fathom.webp" alt="Fathom">
 
 #### 使用您的设备来提高您的工作效率
 拥有免费的 AI 会议助手
@@ -5661,7 +5661,7 @@ Fathom 记录、转录、突出显示和总结您的会议，以便您可以专�
 
 
 ### Wudpecker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wudpecker.webp" alt="Wudpecker">
 
 #### Wudpecker 是一款人工智能会议工具，为存储会议知识设置了新的默认值。
 从 Zoom、Google Meet、Microsoft Teams 获取摘要、行动项目和见解
@@ -5684,7 +5684,7 @@ Fathom 记录、转录、突出显示和总结您的会议，以便您可以专�
 
 
 ### Avoma
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-avoma.webp" alt="Avoma">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-avoma.webp" alt="Avoma">
 
 #### 加快团队的工作效率和公司的收入增长
 
@@ -5700,7 +5700,7 @@ Fathom 记录、转录、突出显示和总结您的会议，以便您可以专�
 
 
 ### Fireflies
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fireflies.webp" alt="Fireflies">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fireflies.webp" alt="Fireflies">
 
 #### Fireflies.Ai-自动化你的
 会议记录-记笔记和会话情报
@@ -5726,7 +5726,7 @@ Fireflies.ai 可帮助您的团队录制、转录、搜索和分析语音对话�
 
 ## 移动应用程序生成器
 ### SinglebaseCloud
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-singlebasecloud.webp" alt="SinglebaseCloud">
 
 #### 基于 AI 的后端平台，具有 Vector DB、文档数据库、身份验证等，可加快应用程序开发。
 
@@ -5742,7 +5742,7 @@ SingleBaseCloud是一个由人工智能驱动的多合一后端即服务平台�
 
 
 ### Fuselio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fuselio.webp" alt="Fuselio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fuselio.webp" alt="Fuselio">
 
 #### Fuselio是面向初创企业和中小企业的快速MVP开发平台，可在短短6周内开发自定义移动和Web应用程序。 
 
@@ -5759,7 +5759,7 @@ Fuselio是一家创新的开发机构，旨在加快为初创企业和中小型�
 
 
 ### SubPage
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-subpage.webp" alt="SubPage">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-subpage.webp" alt="SubPage">
 
 #### SubPage-页面生成器，创建页面，建立您的网站
 
@@ -5775,7 +5775,7 @@ SubPage 可帮助您创建登录页面、构建 MVP 并快速增加受众群体�
 
 
 ### Keringit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keringit.webp" alt="Keringit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keringit.webp" alt="Keringit">
 
 #### 使用 AI 构建、测试和发布链上产品
 
@@ -5793,7 +5793,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### Srcbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-srcbook.webp" alt="Srcbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-srcbook.webp" alt="Srcbook">
 
 #### Srcbook是最好的在线人工智能建站工具。
 
@@ -5811,7 +5811,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### Anakin AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anakin-ai.webp" alt="Anakin AI">
 
 #### 在一分钟内创建自己的 AI 应用程序。为您的企业释放 AI 的力量。我们的无代码 AI 应用程序构建器可让您创建独一无二的独立 AI 应用程序
 
@@ -5827,7 +5827,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### Quickie Dev
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quickie-dev.webp" alt="Quickie Dev">
 
 #### Quickie.dev-在几分钟内将文本发送到 Web 应用程序
 
@@ -5851,7 +5851,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 ## 名称、口号和命名生成器
 ### Podcast Name Generator by Podcast Rocket
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podcast-name-generator-by-podcast-rocket.webp" alt="Podcast Name Generator by Podcast Rocket">
 
 #### 在 AI 的支持下，免费为您的播客找到完美的名字。
 
@@ -5869,7 +5869,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### Smarty Names
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smarty-names.webp" alt="Smarty Names">
 
 #### AI 机器人免费创意域名搜索
 
@@ -5885,7 +5885,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### namefinder AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namefinder.ai.webp" alt="namefinder AI">
 
 #### 人工智能驱动的业务和域名生成器
 
@@ -5901,7 +5901,7 @@ Keringit 是一款基于人工智能的产品构建器，任何人都可以从�
 
 
 ### Namewizard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namewizard.webp" alt="Namewizard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namewizard.webp" alt="Namewizard">
 
 #### namewizard.ai - 你的人工智能超级域名生成器
 
@@ -5917,7 +5917,7 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 
 ### Namelix
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namelix.webp" alt="Namelix">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namelix.webp" alt="Namelix">
 
 #### 企业名称生成器 - 免费的人工智能命名工具 - Namelix
 
@@ -5933,7 +5933,7 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 
 ### Travel Blog Name Ideas Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-travel-blog-name-ideas-generator.webp" alt="Travel Blog Name Ideas Generator">
 
 #### 旅游博客名称创意生成器：找到完美的旅游博客名称！
 
@@ -5949,7 +5949,7 @@ namewizard 是使用 AI 为您的下一个项目寻找完美业务和域名的�
 
 
 ### NameSnack
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-namesnack.webp" alt="NameSnack">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-namesnack.webp" alt="NameSnack">
 
 #### 使用我们强大的人工智能名称生成器，在几秒钟内找到理想的公司名称。
 
@@ -5973,7 +5973,7 @@ NamesNack 将尖端的人工智能与先进的命名技术相结合，可帮助�
 
 ## 记笔记和第二大脑
 ### Fabric
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fabric.webp" alt="Fabric">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fabric.webp" alt="Fabric">
 
 #### 你的第二个大脑。未来的自组织工作空间和文件浏览器。
 
@@ -5989,7 +5989,7 @@ Fabric 是一个人工智能驱动的工作空间，可将您的数字内容跨�
 
 
 ### Voxio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voxio.webp" alt="Voxio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voxio.webp" alt="Voxio">
 
 #### Voxio：轻松将您的声音转换为有条理的笔记
 
@@ -6006,7 +6006,7 @@ Voxio 是一款创新的应用程序，可将录音转换为结构化笔记。�
 
 
 ### Beloga
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beloga.webp" alt="Beloga">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beloga.webp" alt="Beloga">
 
 #### 人工智能驱动的知识中心，用于捕获、理解和利用信息。
 
@@ -6022,7 +6022,7 @@ Beloga 是一个人工智能驱动的知识中心，它改变了您获取、理�
 
 
 ### Whisper Memos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-whisper-memos.webp" alt="Whisper Memos">
 
 #### Whisper Memos-录制语音备忘录，
 以电子邮件的形式接收。
@@ -6040,7 +6040,7 @@ Whisper Memos 将你的胡言乱语变成分段文章，然后通过电子邮件
 
 
 ### MyMap AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mahnke-gedye.webp" alt="MyMap AI">
 
 #### MyMap.AI PDF 摘要生成器-使用 AI 将冗长的 PDF 汇总成思维导图、PPT 或大纲，节省时间。
 
@@ -6056,7 +6056,7 @@ MyMap AI PDF 摘要生成器：您的智能解决方案，可将冗长的文档�
 
 
 ### Ideamap
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ideamap.webp" alt="Ideamap">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ideamap.webp" alt="Ideamap">
 
 #### 最佳 AI 驱动的视觉头脑风暴工具
 
@@ -6072,7 +6072,7 @@ Ideamap 是一种以视觉方式进行头脑风暴的新方式。它可以让你
 
 
 ### Thegist
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thegist.webp" alt="Thegist">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thegist.webp" alt="Thegist">
 
 #### Thegist AI 总结了 Slack 话题和频道——了解要点
 
@@ -6096,7 +6096,7 @@ TheGist Workspace-您的所有工作应用程序都集中在一个地方，由 A
 
 ## 其他
 ### SvelteLaunch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sveltelaunch.webp" alt="SvelteLaunch">
 
 #### 用于快速构建 AI 应用程序的 Svelte 5 样板
 
@@ -6115,7 +6115,7 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 ### Clipdrop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clipdrop.webp" alt="Clipdrop">
 
 #### 在几秒钟内创建令人惊叹的视觉效果
 
@@ -6131,7 +6131,7 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 ### Tally Forms
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-tally-forms.webp" alt="Tally Forms">
 
 #### 创建表单的最简单方法
 
@@ -6147,7 +6147,7 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 ### IndexApps
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-indexapps.webp" alt="IndexApps">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-indexapps.webp" alt="IndexApps">
 
 #### IndexApps-开发出色的 AI 应用程序
 
@@ -6164,7 +6164,7 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 ### Damn Good Tools
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-damn-good-tools.webp" alt="Damn Good Tools">
 
 #### 哦，这些该死的好工具
 易于使用、有趣的工具——免费（且开源）。
@@ -6182,7 +6182,7 @@ SvelteLaunch 不仅仅是一个样板；它是一个全面的工具包，旨在�
 
 
 ### Gemma Guard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-gemma-guard.webp" alt="Gemma Guard">
 
 #### Gemma Guard — 使用设备端 Gemma 4 进行安卓网络钓鱼检测
 
@@ -6200,7 +6200,7 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 
 
 ### Coursebox
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-coursebox.webp" alt="Coursebox">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-coursebox.webp" alt="Coursebox">
 
 #### AI 课程创建器和学习管理系统
 
@@ -6224,7 +6224,7 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 
 ## PDF 和文档工具
 ### Free AI PDF Reader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-pdf-reader.webp" alt="Free AI PDF Reader">
 
 #### 免费的 AI PDF 阅读器 — 更智能地理解任何 PDF
 
@@ -6240,7 +6240,7 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 
 
 ### PrismPoster
-<img align="left" width="240" src="https://cdn.thataicollection.com/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
+<img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/8d8969b4c0931ee7.webp" alt="PrismPoster">
 
 #### PrismPoster — AI 图像、视频和音乐工作室，全频谱
 
@@ -6256,7 +6256,7 @@ AI 课程创建器，可让您在几分钟内轻松使用 AI 创建课程。试�
 
 
 ### Bard PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bard-pdf.webp" alt="Bard PDF">
 
 #### 由人工智能驱动的终极工具，用于汇总和分析 PDF 文档
 
@@ -6272,7 +6272,7 @@ BARD PDF 重新定义了您使用 PDF 的方式。只需输入 PDF 的网址，�
 
 
 ### PDF GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pdf-gpt.webp" alt="PDF GPT">
 
 #### 上传任何 PDF，几秒钟内即可获得摘要、翻译、答案和引文。 
 
@@ -6291,7 +6291,7 @@ PDF GPT 是一款可以提高工作效率的游戏规则改变工具。
 
 
 ### Filechat
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-filechat.webp" alt="Filechat">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-filechat.webp" alt="Filechat">
 
 #### 使用人工智能探索文档
 
@@ -6307,7 +6307,7 @@ Filechat 是使用人工智能探索文档的完美工具。只需上传您的 P
 
 
 ### SlideSpeak
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidespeak.webp" alt="SlideSpeak">
 
 #### SlideSpeak - 使用 AI 总结 PowerPoint、Word、PDF
 
@@ -6323,7 +6323,7 @@ SlideSpeak 是由 ChatGPT 支持的聊天机器人，可让您总结文档、提
 
 
 ### SwifDoo PDF
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-swifdoo-pdf.webp" alt="SwifDoo PDF">
 
 #### SwifDoo PDF-多合一 PDF 软件
 您的 PDF 文档的终极解决方案
@@ -6352,7 +6352,7 @@ SwifDoo PDF是一个年轻的团队，成立于2017年，在过去的几年中�
 
 ## 个人成长与健康
 ### Ultimate Skill Extractor by Further
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ultimate-skill-extractor-by-further.webp" alt="Ultimate Skill Extractor by Further">
 
 #### AI 驱动的技能建议
 
@@ -6368,7 +6368,7 @@ SwifDoo PDF是一个年轻的团队，成立于2017年，在过去的几年中�
 
 
 ### Podwise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podwise.webp" alt="Podwise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podwise.webp" alt="Podwise">
 
 #### Podwise，面向播客听众的首选 AI 学习应用程序。
 
@@ -6384,7 +6384,7 @@ SwifDoo PDF是一个年轻的团队，成立于2017年，在过去的几年中�
 
 
 ### RTutor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rtutor.webp" alt="RTutor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rtutor.webp" alt="RTutor">
 
 #### 用数十种人类语言与您的数据聊天。
 
@@ -6400,7 +6400,7 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 
 
 ### Ask Poppy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ask-poppy.webp" alt="Ask Poppy">
 
 #### Poppylist-成为你想成为的父母
 
@@ -6419,7 +6419,7 @@ RTutor利用OpenAI强大的大语言模型将自然语言翻译成R代码，然�
 
 
 ### HelloScribe
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-helloscribe.webp" alt="HelloScribe">
 
 #### HelloScribe：你的自主推理引擎。
 
@@ -6438,7 +6438,7 @@ HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工�
 
 
 ### Daydrm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-daydrm.webp" alt="Daydrm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-daydrm.webp" alt="Daydrm">
 
 #### Daydrm.Ai-用于创意、策略和制作的人工智能工具
 
@@ -6454,7 +6454,7 @@ HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工�
 
 
 ### Kinestex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kinestex.webp" alt="Kinestex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kinestex.webp" alt="Kinestex">
 
 #### Kinestex-随时随地使用您的私人人工智能教练进行锻炼
 
@@ -6478,7 +6478,7 @@ HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工�
 
 ## 照片修复
 ### Palette
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-palette.webp" alt="Palette">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-palette.webp" alt="Palette">
 
 #### 调色板 - 给照片上色
 
@@ -6494,7 +6494,7 @@ HelloScribe 是面向专业人士的自主推理引擎。毫不费力地把工�
 
 
 ### Imgak - 照片AI修复工具
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imgak---照片ai修复工具.webp" alt="Imgak - 照片AI修复工具">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imgak---%E7%85%A7%E7%89%87ai%E4%BF%AE%E5%A4%8D%E5%B7%A5%E5%85%B7.webp" alt="Imgak - 照片AI修复工具">
 
 #### Imgak-使用 AI 为所有人恢复旧照片
 
@@ -6510,7 +6510,7 @@ imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编�
 
 
 ### jpghd
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jpghd.webp" alt="jpghd">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jpghd.webp" alt="jpghd">
 
 #### jpgHD - 老照片AI无损修复
 
@@ -6526,7 +6526,7 @@ imgak 旧照片无损修复工具是一款全面且易于使用的 AI 照片编�
 
 
 ### Photorestoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-photorestoration.webp" alt="Photorestoration">
 
 #### 旧照片在线修复 - photorestoration.ai
 
@@ -6542,7 +6542,7 @@ VanceAI 照片恢复器可帮助 100% 自动恢复旧照片。搭载AI照片修�
 
 
 ### Colorize
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-colorize.webp" alt="Colorize">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-colorize.webp" alt="Colorize">
 
 #### 利用深度学习的力量为照片着色
 
@@ -6558,7 +6558,7 @@ VanceAI 照片恢复器可帮助 100% 自动恢复旧照片。搭载AI照片修�
 
 
 ### Old Photo Restoration
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-old-photo-restoration.webp" alt="Old Photo Restoration">
 
 #### 使用 AI 在几秒钟内免费在线恢复旧照片
 
@@ -6574,7 +6574,7 @@ VanceAI 照片恢复器可帮助 100% 自动恢复旧照片。搭载AI照片修�
 
 
 ### Free Restore Photos
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-restore-photos.webp" alt="Free Restore Photos">
 
 #### null
 
@@ -6598,7 +6598,7 @@ null
 
 ## 插件和扩展
 ### All in One Accessibility
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-all-in-one-accessibility.webp" alt="All in One Accessibility">
 
 #### 人工智能驱动的快速网站无障碍合规解决方案！
 
@@ -6616,7 +6616,7 @@ null
 
 
 ### Autoname
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-autoname.webp" alt="Autoname">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-autoname.webp" alt="Autoname">
 
 #### 一键重命名所有图层。感谢人工智能。开源
 
@@ -6632,7 +6632,7 @@ null
 
 
 ### AIduh
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiduh.webp" alt="AIduh">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiduh.webp" alt="AIduh">
 
 #### HostAway 的 AI-Responder - AI Duh
 
@@ -6648,7 +6648,7 @@ Chrome 扩展程序，通过 AI 支持的响应将您的写作时间缩短 98%�
 
 
 ### Grokipedia VS Wikipedia
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-grokipedia-vs-wikipedia.webp" alt="Grokipedia VS Wikipedia">
 
 #### Grokipedia VS 维基百科：参见替代视图
 
@@ -6668,7 +6668,7 @@ Chrome 扩展程序，通过 AI 支持的响应将您的写作时间缩短 98%�
 
 
 ### Texti
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-texti.webp" alt="Texti">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-texti.webp" alt="Texti">
 
 #### 存在于您的浏览器中的 AI！
 
@@ -6684,7 +6684,7 @@ Texti将与您合作，提升您的内容质量！
 
 
 ### NSFW JS
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nsfw-js.webp" alt="NSFW JS">
 
 #### NSFW Js-客户端不雅内容检查。
 
@@ -6701,7 +6701,7 @@ Texti将与您合作，提升您的内容质量！
 
 
 ### SplashAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-splashai.webp" alt="SplashAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-splashai.webp" alt="SplashAI">
 
 #### Splashai 是一款 Figma 插件、搜索引擎和人工智能图像生成器。
 
@@ -6725,7 +6725,7 @@ SplasHai就像一个助手，它可以帮助你通过搜索功能超快地获得
 
 ## 播客工具
 ### Podnav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podnav.webp" alt="Podnav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podnav.webp" alt="Podnav">
 
 #### AipodNav：带有直播脚本的人工智能播客摘要器
 AipodNav：人工智能播客摘要器
@@ -6748,7 +6748,7 @@ AipodNav：使用 AI 实现终极播客体验
 
 
 ### Recast Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-recast-studio.webp" alt="Recast Studio">
 
 #### 人工智能驱动的播客营销助手。 
 
@@ -6770,7 +6770,7 @@ Recast Studio 会自动将您的播客剧集转换为简短的视频片段，并
 
 
 ### Digest.fm
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-digest-fm.webp" alt="Digest.fm">
 
 #### Digest.fm-根据你的内容创建人工智能驱动的播客，并在几分钟内在Spotify、YouTube和苹果播客上线。
 
@@ -6787,7 +6787,7 @@ Digest.fm是一个由人工智能驱动的平台，可将书面内容转换为�
 
 
 ### Podzay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podzay.webp" alt="Podzay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podzay.webp" alt="Podzay">
 
 #### Podzay是一个连接播客和嘉宾的平台，具有影响力
 通过智能匹配、便捷沟通和简化预订进行协作。
@@ -6807,7 +6807,7 @@ Podzay简化了为您的播客寻找合适合作伙伴的过程。
 
 
 ### AIPodNav
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aipodnav.webp" alt="AIPodNav">
 
 #### 高效的播客工具包括笔录、摘要、思维导图和精彩集锦，为播客信息管理提供了全面的解决方案。
 
@@ -6823,7 +6823,7 @@ AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并�
 
 
 ### Adobe Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-adobe-podcast.webp" alt="Adobe Podcast">
 
 #### Adobe Podcast - 人工智能音频录制和编辑，一切尽在网络
 
@@ -6839,7 +6839,7 @@ AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并�
 
 
 ### AIdeaFlow Podcast
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aideaflow-podcast.webp" alt="AIdeaFlow Podcast">
 
 #### 将 PDF 或任何文本转换为引人入胜的两人对话播客或单人讲座。
 
@@ -6863,7 +6863,7 @@ AipodNav 是一款人工智能增强型产品，旨在帮助您管理播客并�
 
 ## 即时库与工程
 ### Promptogy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptogy.webp" alt="Promptogy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptogy.webp" alt="Promptogy">
 
 #### 一个通用提示生成器，可帮助您创建独特的 AI 艺术品。
 
@@ -6879,7 +6879,7 @@ Promptogy 是一款免费工具，可以轻松生成人工智能艺术作品。�
 
 
 ### Drawing Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawing-prompt.webp" alt="Drawing Prompt">
 
 #### 适用于每位艺术家的 AI 增强提示生成器
 
@@ -6898,7 +6898,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 
 ### Promptmakr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptmakr.webp" alt="Promptmakr">
 
 #### 提示工程师免费生成和共享无限量的 AI 艺术提示的平台
 
@@ -6914,7 +6914,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 
 ### Sora Prompts Today
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-prompts-today.webp" alt="Sora Prompts Today">
 
 #### 世界上最好的 Sora 提示文集
 
@@ -6934,7 +6934,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 
 ### Deploy Prompt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deploy-prompt.webp" alt="Deploy Prompt">
 
 #### 创建和共享可重复提示
 
@@ -6950,7 +6950,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 
 ### Promptomania
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptomania.webp" alt="Promptomania">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptomania.webp" alt="Promptomania">
 
 #### PromptoMania 提示生成器——带有在线提示生成器的 AI 艺术社区
 
@@ -6966,7 +6966,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 
 ### PromptExplained
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-promptexplained.webp" alt="PromptExplained">
 
 #### 该网站通过自定义 AI 提示的见解、技术和技巧帮助用户掌握提示工程的技巧
 
@@ -6990,7 +6990,7 @@ Drawing Prompt 是一款专为 AI 艺术爱好者设计的免费工具。它提�
 
 ## 招聘和 ATS
 ### MoAIJobs
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-moaijobs.webp" alt="MoAIJobs">
 
 #### 机器学习、数据科学、工程、自然语言处理、销售等领域的 AI 职位
 
@@ -7012,7 +7012,7 @@ moaiJobs是找人工智能领域工作的 #1 求职板。
 
 
 ### springworks
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-springworks.webp" alt="springworks">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-springworks.webp" alt="springworks">
 
 #### 面向成长型企业的人力资源软件解决方案
 
@@ -7028,7 +7028,7 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 
 ### rankode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rankode.webp" alt="rankode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rankode.webp" alt="rankode">
 
 #### 人力资源人工智能 - Rankode
 
@@ -7044,7 +7044,7 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 
 ### Hire Hoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hire-hoc.webp" alt="Hire Hoc">
 
 #### Hire Hoc - 人工智能驱动的招聘工具
 
@@ -7060,7 +7060,7 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 
 ### Hirex AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hirex.ai.webp" alt="Hirex AI">
 
 #### hirex.ai
 
@@ -7076,7 +7076,7 @@ Springworks 构建人力资源软件解决方案，以解决招聘、背景验�
 
 
 ### JD Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jd-generator.webp" alt="JD Generator">
 
 #### 认识团队 - HireQuotient
 
@@ -7092,7 +7092,7 @@ HireQuotient 的技能评估平台可帮助您以一半的时间雇用人才库�
 
 
 ### Screenloop
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-screenloop.webp" alt="Screenloop">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-screenloop.webp" alt="Screenloop">
 
 #### Screenloop-利用我们的人工智能驱动的人才运营平台改变您的招聘方式，该平台包含面试情报、人工智能记事员和全面的 ATS。
 
@@ -7118,7 +7118,7 @@ Screenloop 是终极的人才运营平台，将下一代 ATS 与人工智能驱�
 
 ## 研究助理
 ### Afforai
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-afforai.webp" alt="Afforai">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-afforai.webp" alt="Afforai">
 
 #### 你的 AI 阅读副驾驶。文本分析、研究和文档搜索的必备工具
 
@@ -7134,7 +7134,7 @@ Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来�
 
 
 ### Scispace
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scispace.webp" alt="Scispace">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scispace.webp" alt="Scispace">
 
 #### Scispace by Typeset-发现、创建、发布和推广您的研究论文
 
@@ -7151,7 +7151,7 @@ Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来�
 
 
 ### QoQo AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qoqo-ai.webp" alt="QoQo AI">
 
 #### QoQo AI 通过提供快速高效的研究见解，帮助产品设计师和用户体验研究人员克服有限的研究资源。
 
@@ -7171,7 +7171,7 @@ Afforai是一款人工智能聊天机器人，可以搜索、汇总和翻译来�
 
 
 ### MyMap.AI Research Paper Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-shaheem-amir.webp" alt="MyMap.AI Research Paper Summarizer">
 
 #### MyMap.AI 研究论文摘要器-将 4 小时的研究浓缩成 4 分钟的阅读内容，人工智能总结了清晰简洁的见解。
 
@@ -7187,7 +7187,7 @@ MyMap.AI 研究论文摘要器是一款免费工具，旨在简化学术论文�
 
 
 ### Sourcely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sourcely.webp" alt="Sourcely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sourcely.webp" alt="Sourcely">
 
 #### Sourcely-在几分钟内完成研究。拯救您的睡眠。
 
@@ -7204,7 +7204,7 @@ MyMap.AI 研究论文摘要器是一款免费工具，旨在简化学术论文�
 
 
 ### Elicit
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-elicit.webp" alt="Elicit">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-elicit.webp" alt="Elicit">
 
 #### 引出：人工智能研究助理
 
@@ -7220,7 +7220,7 @@ Elicit 使用机器学习来帮助您进行研究：查找论文、提取关键�
 
 
 ### MyMap Book Summerizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-levi-russel.webp" alt="MyMap Book Summerizer">
 
 #### MyMap.AI 图书摘要生成器-使用 AI 通过要点或思维导图来消化这本书的精髓。
 
@@ -7244,7 +7244,7 @@ MyMap AI 图书摘要生成器将长书转换为简洁的摘要。这个免费�
 
 ## 简历和简历生成器
 ### AiApply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aiapply.webp" alt="AiApply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aiapply.webp" alt="AiApply">
 
 #### AIApply：供求职者制作完美应用程序的人工智能工具
 
@@ -7260,7 +7260,7 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 
 
 ### Huntr AI Resume Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-huntr-ai-resume-builder.webp" alt="Huntr AI Resume Builder">
 
 #### 在 AI 的帮助下制作完美的简历
 
@@ -7276,7 +7276,7 @@ AIApply是一套动态的人工智能工具，旨在增强求职者的能力。�
 
 
 ### AI Resume Editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-resume-editor.webp" alt="AI Resume Editor">
 
 #### 世界制作简历的方式。最智能的 GPT 驱动的简历生成器。
 
@@ -7292,7 +7292,7 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 
 
 ### Resume Worded
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resume-worded.webp" alt="Resume Worded">
 
 #### 改善您的简历和 LinkedIn 个人资料
 
@@ -7308,7 +7308,7 @@ Rezi 是唯一一个使用领先的 AI 来自动化创建可雇用简历的各�
 
 
 ### JobWinner
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jobwinner.webp" alt="JobWinner">
 
 #### JobWinner 是一款人工智能驱动的求职助手，可制作量身定制的简历、求职信和面试准备文件。 
 
@@ -7331,7 +7331,7 @@ JobWinner是一个由人工智能驱动的平台，可为您提供更多的面�
 
 
 ### Prodigy AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-prodigy-ai.webp" alt="Prodigy AI">
 
 #### 使用 AI 改善软件工程师的职业生涯
 
@@ -7347,7 +7347,7 @@ JobWinner是一个由人工智能驱动的平台，可为您提供更多的面�
 
 
 ### ResumeUp.AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-resumeup-ai.webp" alt="ResumeUp.AI">
 
 #### 人工智能驱动的职业平台，包括简历生成器、ATS检查器和LinkedIn优化器等。借助 AI 简历优化，更快地进行面试。
 
@@ -7373,7 +7373,7 @@ ResumeUp.AI 是一个由人工智能驱动的多合一职业平台，受到全�
 
 ## 搜索引擎优化和关键字研究
 ### Ctrify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ctrify.webp" alt="Ctrify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ctrify.webp" alt="Ctrify">
 
 #### 第一个 AI 驱动的 SEO 操作平台
 
@@ -7389,7 +7389,7 @@ ResumeUp.AI 是一个由人工智能驱动的多合一职业平台，受到全�
 
 
 ### SEOify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seoify.webp" alt="SEOify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seoify.webp" alt="SEOify">
 
 #### SEOify AI SEO 自动助手工具可帮助在谷歌中进行排名
 
@@ -7405,7 +7405,7 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 
 ### Link Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-link-finder.webp" alt="Link Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-link-finder.webp" alt="Link Finder">
 
 #### 在短短 10 秒钟内以最优惠的价格找到最佳链接
 
@@ -7421,7 +7421,7 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 
 ### Quattr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quattr.webp" alt="Quattr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quattr.webp" alt="Quattr">
 
 #### Quattr 是您的增长总部
 
@@ -7437,7 +7437,7 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 
 ### Backlink GPT
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-backlink-gpt.webp" alt="Backlink GPT">
 
 #### 使用人工智能生成高质量的反向链接。
 
@@ -7453,7 +7453,7 @@ SEOify简介：借助我们尖端的人工智能平台，彻底改变您网站�
 
 
 ### SEOByAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-seobyai_.webp" alt="SEOByAI">
 
 #### 使用免费的 AI SEO 工具更快地在 Google 上排名
 
@@ -7471,7 +7471,7 @@ SEOBy.ai 可以帮助你无需花一分钱就能启动营销工作并在搜索�
 
 
 ### LinkActions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkactions.webp" alt="LinkActions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkactions.webp" alt="LinkActions">
 
 #### LinkActions是您网站的全自动内部链接工具。 
 
@@ -7498,7 +7498,7 @@ LinkActions可以发现人们错过的内部链接，这样他们就可以在谷
 
 ## 销售推广和潜在客户
 ### ApplyPass
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-applypass.webp" alt="ApplyPass">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-applypass.webp" alt="ApplyPass">
 
 #### 借助我们的求职AI找到理想的工作。每周自动申请数百个工程职位！加入 ApplyPass 获得 100 个免费应用程序。
 
@@ -7516,7 +7516,7 @@ ApplyPass.com已经为工程师进行了数千次访谈，平均回复率比行�
 
 
 ### LinkDR
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkdr.webp" alt="LinkDR">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkdr.webp" alt="LinkDR">
 
 #### 面向 SaaS 创始人和营销人员的 AI 驱动的链接建设推广工具
 
@@ -7532,7 +7532,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 ### NioLeads
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nioleads.webp" alt="NioLeads">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nioleads.webp" alt="NioLeads">
 
 #### Nioleads Enterprise LikedIn 电子邮件查找器和销售导航器抓取工具
 
@@ -7548,7 +7548,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 ### THEO: Context-aware Strategic Co-Pilot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-theo-context-aware-strategic-co-pilot.webp" alt="THEO: Context-aware Strategic Co-Pilot">
 
 #### 将您的网站和文档变成支持人工智能的 “备忘单”，使您的AI助手成为战略合作伙伴
 
@@ -7564,7 +7564,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 ### MyInfluencer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-myinfluencer.webp" alt="MyInfluencer">
 
 #### AI 网红搜索引擎，可为任何企业找到合适的影响者
 
@@ -7580,7 +7580,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 ### MyMap.AI Swot Analysis Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-terresha-naomi.webp" alt="MyMap.AI Swot Analysis Generator">
 
 #### MyMap.AI Swot 分析生成器-在做出任何业务决策之前必须进行竞争分析，可通过 AI 轻松生成
 
@@ -7596,7 +7596,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 
 ### reply
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-reply.webp" alt="reply">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-reply.webp" alt="reply">
 
 #### Reply.io-人工智能销售推广和潜在客户生成平台
 
@@ -7621,7 +7621,7 @@ LinkDR 是一款人工智能驱动的链接构建工具，专为想要快速增�
 
 ## 搜索引擎
 ### FrameTrace | Reverse Video Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-frametrace-|-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-frametrace-%7C-reverse-video-search.webp" alt="FrameTrace | Reverse Video Search">
 
 #### FrameTrace：基于人工智能的反向视频搜索引擎，用于来源检测和真实性验证
 
@@ -7637,7 +7637,7 @@ FrameTrace是一个由人工智能驱动的反向视频搜索引擎，它可以�
 
 
 ### Context Search
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-context-search.webp" alt="Context Search">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-context-search.webp" alt="Context Search">
 
 #### 上下文-由人工智能驱动的音频和视频搜索 YouTube 播放列表中的内容。
 
@@ -7654,7 +7654,7 @@ FrameTrace是一个由人工智能驱动的反向视频搜索引擎，它可以�
 
 
 ### Everypixel
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-everypixel.webp" alt="Everypixel">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-everypixel.webp" alt="Everypixel">
 
 #### 图库图片搜索引擎-50 多个最佳来源-Everypixel
 
@@ -7671,7 +7671,7 @@ FrameTrace是一个由人工智能驱动的反向视频搜索引擎，它可以�
 
 
 ### Anypod
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-anypod.webp" alt="Anypod">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-anypod.webp" alt="Anypod">
 
 #### 为创作者打造的搜索引擎
 
@@ -7687,7 +7687,7 @@ FrameTrace是一个由人工智能驱动的反向视频搜索引擎，它可以�
 
 
 ### Perplexity AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-perplexity-ai_.webp" alt="Perplexity AI">
 
 #### Perplexity AI 是一个答案引擎，它使用大型语言模型为复杂的问题提供准确的答案。
 
@@ -7704,7 +7704,7 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 
 
 ### Andisearch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-andisearch.webp" alt="Andisearch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-andisearch.webp" alt="Andisearch">
 
 #### Andi-利用人工智能的力量寻找下一代
 
@@ -7721,7 +7721,7 @@ Perplexity AI 通过信息发现和共享来释放知识的力量。Perplexity A
 
 
 ### You
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-you.webp" alt="You">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-you.webp" alt="You">
 
 #### 由你控制的 AI 搜索引擎
 
@@ -7749,7 +7749,7 @@ AI 助手可帮助您完成更多工作。毫不费力地体验 AI 聊天
 
 ## 幻灯片和演示文稿
 ### SlidesAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-slidesai.webp" alt="SlidesAI">
 
 #### 使用 AI 在几秒钟内创建演示幻灯片
 
@@ -7765,7 +7765,7 @@ AI 助手可帮助您完成更多工作。毫不费力地体验 AI 聊天
 
 
 ### Glimmer AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-glimmer-ai.webp" alt="Glimmer AI">
 
 #### 人工智能驱动的演示魔术
 
@@ -7781,7 +7781,7 @@ Glimmer AI 使用 GPT-3 和 DALL-E 2 使用文本或语音命令轻松快速地�
 
 
 ### Storydoc
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-storydoc.webp" alt="Storydoc">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-storydoc.webp" alt="Storydoc">
 
 #### 轻松创建精彩的互动套牌，提高参与度。
 
@@ -7797,7 +7797,7 @@ Storydoc 是一个直观的幻灯片编辑器，可以创建交互式演示文�
 
 
 ### PitchBob io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchbob.io.webp" alt="PitchBob io">
 
 #### AI 推介板生成器和初创公司副驾驶
 
@@ -7814,7 +7814,7 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 
 
 ### Pitchgrade
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-pitchgrade.webp" alt="Pitchgrade">
 
 #### Pitchgrade-简化演示文稿
 
@@ -7830,7 +7830,7 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 
 
 ### ChatBA
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatba.webp" alt="ChatBA">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatba.webp" alt="ChatBA">
 
 #### ChatBCG：幻灯片的生成人工智能
 
@@ -7846,7 +7846,7 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 
 
 ### My Pitch Deck
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-my-pitch-deck.webp" alt="My Pitch Deck">
 
 #### My Pitch Deck-使用为你的创业公司定制的推销平台模板来启动你的资金。
 
@@ -7872,7 +7872,7 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 
 ## 社交媒体内容
 ### Viral Post Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-viral-post-generator.webp" alt="Viral Post Generator">
 
 #### 病毒帖子生成器-使用人工智能撰写完美的 Linkedin 帖子。
 
@@ -7888,7 +7888,7 @@ Pitchbob.io是一款由人工智能驱动的数字助手，旨在帮助想创业
 
 
 ### Predis
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-predis.webp" alt="Predis">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-predis.webp" alt="Predis">
 
 #### 使用 AI 轻松进行社交媒体营销-Predis.Ai
 
@@ -7905,7 +7905,7 @@ Predis是一款用于社交媒体的人工智能营销工具，可帮助企业�
 
 
 ### Qura AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-qura-ai.webp" alt="Qura AI">
 
 #### 立即开始在自动驾驶仪上发展你的 X（Twitter）
 
@@ -7923,7 +7923,7 @@ Qura 是一个全面的社交媒体增长工具箱，具有根据您的声音量
 
 
 ### Podify.io
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-podify.io.webp" alt="Podify.io">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-podify.io.webp" alt="Podify.io">
 
 #### 利用 AI 和社区在 LinkedIn 上成长
 
@@ -7941,7 +7941,7 @@ Podify是一个内容和社区平台，致力于发展您的LinkedIn和个人品
 
 
 ### Postlyy
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-postlyy.webp" alt="Postlyy">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-postlyy.webp" alt="Postlyy">
 
 #### 通过轻松的内容管理更快地扩大受众群体
 
@@ -7957,7 +7957,7 @@ Postlyy是一个旨在简化创作者内容管理的平台，提供创作、计�
 
 
 ### Robopost AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-robopost-ai.webp" alt="Robopost AI">
 
 #### Robopost AI 使用 AI 为您生成帖子创意，并将其发布/安排到您的社交媒体账户。
 
@@ -7973,7 +7973,7 @@ Postlyy是一个旨在简化创作者内容管理的平台，提供创作、计�
 
 
 ### Lunroo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lunroo.webp" alt="Lunroo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lunroo.webp" alt="Lunroo">
 
 #### 用于社交媒体营销的免费 AI 工具
 
@@ -7997,7 +7997,7 @@ Lunroo是一个由人工智能驱动的平台，旨在简化和增强社交媒�
 
 ## 社交网络和约会
 ### CommentGuard
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-commentguard.webp" alt="CommentGuard">
 
 #### CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核工具
 
@@ -8013,7 +8013,7 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 ### MyDogNames
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-mydognames.webp" alt="MyDogNames">
 
 #### myDogNames-找到完美的狗名
 
@@ -8029,7 +8029,7 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 ### KeyMentions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-keymentions.webp" alt="KeyMentions">
 
 #### 将 Reddit 流量转换为客户...
 
@@ -8048,7 +8048,7 @@ CommentGuard 是一款人工智能驱动的 Facebook 和 Instagram 评论审核�
 
 
 ### SynthLife
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-synthlife.webp" alt="SynthLife">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-synthlife.webp" alt="SynthLife">
 
 #### 帮助创作者建立、成长 AI 角色并从中获利
 
@@ -8064,7 +8064,7 @@ SynthLife是一个旨在促进虚拟影响者的创造、成长和获利的平�
 
 
 ### RIZZ AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rizz-ai.webp" alt="RIZZ AI">
 
 #### 使用最佳的人工智能约会助手RIZZ AI改变您的约会体验。
 
@@ -8080,7 +8080,7 @@ RIZZ AI 是一款基于 RIZE GPT 框架的人工智能约会工具。它对用�
 
 
 ### AI Social Bio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-social-bio.webp" alt="AI Social Bio">
 
 #### AI Social Bio-你的社交媒体简历由人工智能创作
 
@@ -8099,7 +8099,7 @@ RIZZ AI 是一款基于 RIZE GPT 框架的人工智能约会工具。它对用�
 
 
 ### Ai Dating Tips
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-dating-tips.webp" alt="Ai Dating Tips">
 
 #### 探索有关制作完美约会资料的专家建议!了解如何选择合适的照片
 
@@ -8125,7 +8125,7 @@ RIZZ AI 是一款基于 RIZE GPT 框架的人工智能约会工具。它对用�
 
 ## 音效生成器
 ### SoundAI Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-methkal.webp" alt="SoundAI Studio">
 
 #### 立即创建完美的音效。 
 
@@ -8141,7 +8141,7 @@ SoundAI Studio是一款由人工智能驱动的终极工具包，可轻松生成
 
 
 ### AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effect-generator.webp" alt="AI Sound Effect Generator">
 
 #### 使用我们的 AI 音效生成器创建逼真的 AI 声音。
 
@@ -8157,7 +8157,7 @@ SoundAI Studio是一款由人工智能驱动的终极工具包，可轻松生成
 
 
 ### GetSound
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-getsound.webp" alt="GetSound">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-getsound.webp" alt="GetSound">
 
 #### 欢迎来到热情好客的 Ai 音景的未来。
 
@@ -8173,7 +8173,7 @@ SoundAI Studio是一款由人工智能驱动的终极工具包，可轻松生成
 
 
 ### AI Sound Effects Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-sound-effects-generator.webp" alt="AI Sound Effects Generator">
 
 #### AI 音效生成器-从文本生成音效
 
@@ -8189,7 +8189,7 @@ SoundAI Studio是一款由人工智能驱动的终极工具包，可轻松生成
 
 
 ### HarmonySnippetsAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-harmonysnippetsai.webp" alt="HarmonySnippetsAI">
 
 #### 上传您的音轨，让 AI 找到最具吸引力的片段，速度最多可提高 10 倍。非常适合在 Instagram、脸书和抖音上进行宣传。
 
@@ -8211,7 +8211,7 @@ HarmonySnippetSai是一款改变游戏规则的工具，它可以在音乐曲目
 
 
 ### SFX Engine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sfx-engine.webp" alt="SFX Engine">
 
 #### 使用 AI 生成无限的音效
 
@@ -8227,7 +8227,7 @@ SFX Engine 是一款多功能且强大的音效生成器，旨在帮助您为项
 
 
 ### PopPop AI Sound Effect Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poppop-ai-sound-effect-generator.webp" alt="PopPop AI Sound Effect Generator">
 
 #### 免费 AI 音效生成器：在线声音制作器
 
@@ -8252,7 +8252,7 @@ PopPop AI 音效生成器是一款完全免费的在线人工智能声音制作�
 
 ## 学习与导师
 ### Quizwhiz
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizwhiz.webp" alt="Quizwhiz">
 
 #### Quizwhiz-从任意文本生成多选题
 
@@ -8268,7 +8268,7 @@ QuizWhiz 是一款由 AI 驱动的应用程序，它接收文本，例如输入�
 
 
 ### KardsAI - AI Flashcard Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kardsai---ai-flashcard-maker.webp" alt="KardsAI - AI Flashcard Maker">
 
 #### KardSAI 是一款移动应用程序，可帮助您更快地学习任何东西。它会根据任何 PDF、文本或提示自动生成抽认卡。间隔重复学习，长期保持记忆！
 
@@ -8284,7 +8284,7 @@ KardSAI 移动应用程序适用于 iOS 和安卓系统，可为您节省数小�
 
 
 ### Jenni
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-jenni.webp" alt="Jenni">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-jenni.webp" alt="Jenni">
 
 #### Jenni-用于撰写论文、研究论文等的人工智能！
 
@@ -8301,7 +8301,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### Botta
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-botta.webp" alt="Botta">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-botta.webp" alt="Botta">
 
 #### 话题有问题？认识博塔
 
@@ -8317,7 +8317,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### QuizRise
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizrise.webp" alt="QuizRise">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizrise.webp" alt="QuizRise">
 
 #### QuizRise | 使用 AI 轻松地为在线测验、测试和考试创建问题。
 
@@ -8337,7 +8337,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### QUIZGECKO
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-quizgecko.webp" alt="QUIZGECKO">
 
 #### 停止浪费时间手动创建测验
 
@@ -8353,7 +8353,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### FairyTailAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fairytailai.webp" alt="FairyTailAI">
 
 #### 使用 AI 的个性化睡前故事生成器
 
@@ -8377,7 +8377,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 ## 任务和个人助理
 ### Sidekick
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sidekick.webp" alt="Sidekick">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sidekick.webp" alt="Sidekick">
 
 #### 介绍 Jigso 的 Sidekick - AI Slackbot，充当您自己的业务个人助理。
 
@@ -8393,7 +8393,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### Dewey
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dewey.webp" alt="Dewey">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dewey.webp" alt="Dewey">
 
 #### 与杜威一起做更多。从您的 AI 问责伙伴 Dewey 那里获取提醒并保持动力。
 
@@ -8409,7 +8409,7 @@ Jenni 是你在学术旅程中处理所有事物的 AI 助手。我们专门开�
 
 
 ### AI Finder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-finder.webp" alt="AI Finder">
 
 #### AI Finder-使用 LLM 查询您的文件系统。
 
@@ -8429,7 +8429,7 @@ AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜
 
 
 ### So You Had An Idea
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-so-you-had-an-idea.webp" alt="So You Had An Idea">
 
 #### 借助 AI 的力量，将您的商业想法转化为行动计划
 
@@ -8445,7 +8445,7 @@ AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜
 
 
 ### Todobee
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-todobee.webp" alt="Todobee">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-todobee.webp" alt="Todobee">
 
 #### 漂亮的 AI 驱动的项目管理应用程序
 
@@ -8465,7 +8465,7 @@ AI Finder 是你的档案 “金毛寻回犬”。它旨在成为您的文件搜
 
 
 ### Cogram
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cogram.webp" alt="Cogram">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cogram.webp" alt="Cogram">
 
 #### 为您的团队配备一位聪明的同事，将您的工作效率提高一倍
 
@@ -8481,7 +8481,7 @@ Cogram 使用 AI 在虚拟会议中做笔记、跟踪行动项目并自动执行
 
 
 ### dypt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dypt.webp" alt="dypt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dypt.webp" alt="dypt">
 
 #### 使用 AI 自动将任务分解为更易于管理的子任务，克服心理障碍
 
@@ -8509,7 +8509,7 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 
 ## 文本生成
 ### Kidotail
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kidotail.webp" alt="Kidotail">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kidotail.webp" alt="Kidotail">
 
 #### KidoTail 人工智能
 
@@ -8525,7 +8525,7 @@ dypt 是当今忙碌世界的任务管理器，旨在帮助你腾出时间。
 
 
 ### ReplAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-replai.webp" alt="ReplAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-replai.webp" alt="ReplAI">
 
 #### ReplAI - 使用 AI 快速回复
 
@@ -8541,7 +8541,7 @@ ReplAI 是一个浏览器扩展程序，可帮助您起草您的个人消息、�
 
 
 ### Excelformulabot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-excelformulabot.webp" alt="Excelformulabot">
 
 #### Excel 和 Google 表格 AI 公式生成器 - Excelformulabot.com
 
@@ -8557,7 +8557,7 @@ ReplAI 是一个浏览器扩展程序，可帮助您起草您的个人消息、�
 
 
 ### Scarlettpanda
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-scarlettpanda.webp" alt="Scarlettpanda">
 
 #### Scarlett Panda - 定制短睡前故事
 
@@ -8573,7 +8573,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Infiniteconversation
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-infiniteconversation.webp" alt="Infiniteconversation">
 
 #### 无限对话
 
@@ -8589,7 +8589,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Oracle
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-oracle.webp" alt="Oracle">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-oracle.webp" alt="Oracle">
 
 #### Oracle - 从您的所有知识库中获得即时答案
 
@@ -8605,7 +8605,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Formula Dog
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-formula-dog.webp" alt="Formula Dog">
 
 #### 使用 AI 生成 Excel 公式等 - Formula Dog
 
@@ -8629,7 +8629,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 ## 文字转语音
 ### Childbook
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-childbook.webp" alt="Childbook">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-childbook.webp" alt="Childbook">
 
 #### 欢迎来到儿童图书创作者！
 
@@ -8645,7 +8645,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Voicera
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voicera.webp" alt="Voicera">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voicera.webp" alt="Voicera">
 
 #### Voicera-为你的文章和博客发声
 
@@ -8661,7 +8661,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Createaivoiceovers
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-createaivoiceovers.webp" alt="Createaivoiceovers">
 
 #### 文字转语音在线语音生成器，文字转语音生成器-逼真的声音-创建 AI 配音
 
@@ -8677,7 +8677,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Lovo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-lovo.webp" alt="Lovo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-lovo.webp" alt="Lovo">
 
 #### AI 语音生成器：逼真的文本转语音和语音克隆
 
@@ -8694,7 +8694,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Wellsaid
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wellsaid.webp" alt="Wellsaid">
 
 #### 将文本实时转换为语音
 
@@ -8710,7 +8710,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Cliptics
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cliptics_.webp" alt="Cliptics">
 
 #### Cliptics，免费文字转语音！你的话，我们的声音。
 
@@ -8726,7 +8726,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### NaturalReader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-naturalreader.webp" alt="NaturalReader">
 
 #### #1 文本转语音解决方案，适用于个人、商业和教育用途
 
@@ -8750,7 +8750,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 ## 文字转图片
 ### Designify
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designify.webp" alt="Designify">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designify.webp" alt="Designify">
 
 #### Designify - 将任何照片变成很棒的照片
 
@@ -8766,7 +8766,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### Imaginator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-imaginator.webp" alt="Imaginator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-imaginator.webp" alt="Imaginator">
 
 #### Imaginator - 把你的文字变成图片
 
@@ -8782,7 +8782,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### AI Picasso
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-picasso.webp" alt="AI Picasso">
 
 #### 人工智能毕加索
 
@@ -8798,7 +8798,7 @@ Scarlett Panda - 使用我们的魔法为您的朋友和家人制作定制的睡
 
 
 ### DrawAnyone
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-drawanyone.webp" alt="DrawAnyone">
 
 #### drawanyone - 画任何人，任何你想要的方式
 
@@ -8814,7 +8814,7 @@ AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖�
 
 
 ### AI Wall Decor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-wall-decor.webp" alt="AI Wall Decor">
 
 #### 氢
 
@@ -8830,7 +8830,7 @@ AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖�
 
 
 ### AI2image
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai2image.webp" alt="AI2image">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai2image.webp" alt="AI2image">
 
 #### 免费的 AI 图像生成器 - 在线文本到图像应用程序 - AI2image
 
@@ -8846,7 +8846,7 @@ AI 生成的肖像，随心所欲。 drawanyone.ai 让你自定义你的 AI 肖�
 
 
 ### Playground
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-playground.webp" alt="Playground">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-playground.webp" alt="Playground">
 
 #### Playground AI - 在线 AI 图像创建器
 
@@ -8870,7 +8870,7 @@ Playground AI 是一个免费使用的在线 AI 图像创建器。用它来创�
 
 ## 文字转视频
 ### LTX
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ltx.webp" alt="LTX">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ltx.webp" alt="LTX">
 
 #### LTX-使用 LTX 在几秒钟内创建精彩的视频
 
@@ -8886,7 +8886,7 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 
 
 ### DEEPBRAIN AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deepbrain-ai.webp" alt="DEEPBRAIN AI">
 
 #### DeepBrain AI-来自文本的最佳 AI 视频生成器
 
@@ -8902,7 +8902,7 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 
 
 ### Fotor AI video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-fotor-ai-video-generator.webp" alt="Fotor AI video generator">
 
 #### AI 视频生成器-免费在线文字转视频 AI
 
@@ -8918,7 +8918,7 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 
 
 ### VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-veggieai-dance-create-ai-dance-videos-with-veggie-ai-free-online.webp" alt="VeggieAI.dance: Create AI Dance Videos with Veggie AI Free Online">
 
 #### VeggieAI.Dance：使用 Veggie AI 免费在线创建 AI 舞蹈视频
 
@@ -8934,7 +8934,7 @@ LTX 是一个基于 LTX 2.3 模型的人工智能视频生成平台，提供文�
 
 
 ### Sora Town
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sora-town.webp" alt="Sora Town">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sora-town.webp" alt="Sora Town">
 
 #### OpenAI 提供的免费试用版和视频样本及提示
 
@@ -8950,7 +8950,7 @@ SORA 是 OpenAI 建立的庞大文本到视频生成平台，目前在正式入�
 
 
 ### Make a Video
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-make-a-video.webp" alt="Make a Video">
 
 #### Make-A-Video 是一种最先进的人工智能系统，可以从文本生成视频。
 
@@ -8966,7 +8966,7 @@ Make-A-Video研究建立在文本到图像生成技术的最新进展的基础�
 
 
 ### AIDreamMachine
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidreammachine.webp" alt="AIDreamMachine">
 
 #### AI Dream Machine | 制作精彩的 AI 生成的视频
 
@@ -8990,7 +8990,7 @@ AI Dream Machine 是一款由人工智能驱动的免费视频生成器，可通
 
 ## 抖音和短片创作者
 ### InstaShorts
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-instashorts.webp" alt="InstaShorts">
 
 #### 将你的幕后视频转化为病毒式 TikToks 
 
@@ -9006,7 +9006,7 @@ AI Dream Machine 是一款由人工智能驱动的免费视频生成器，可通
 
 
 ### Supercreator AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-supercreator-ai.webp" alt="Supercreator AI">
 
 #### Supercreator.Ai-使用 AI 将视频制作速度提高 10 倍
 
@@ -9023,7 +9023,7 @@ Supercreator是一款使用人工智能的移动应用程序，可以轻松快�
 
 
 ### Clip Studio
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clip-studio.webp" alt="Clip Studio">
 
 #### 适用于抖音、YouTube和Instagram的病毒式人工智能视频短生成工具。毫不费力地创建病毒式视频。
 
@@ -9039,7 +9039,7 @@ Clip Studio是一款帮助制作病毒式短视频的工具，非常适合YouTub
 
 
 ### AI Videos (TikTok etc)
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-videos-(tiktok-etc).webp" alt="AI Videos (TikTok etc)">
 
 #### 抖音的人工智能视频生成器（短片、卷轴） 
 
@@ -9055,7 +9055,7 @@ TextoVideo.bot 是一款人工智能工具，它使用人工智能图像和人�
 
 
 ### EazyCaptions
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
 
 #### 无需编辑技能即可创建引人入胜的短格式视频
 
@@ -9077,7 +9077,7 @@ EazyCaptions 如何加快您的工作流程：
 
 
 ### Topview AI TikTok Video Generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-topview-ai-tiktok-video-generator.webp" alt="Topview AI TikTok Video Generator">
 
 #### TopView AI 利用自动脚本、片段、画外音和音乐，迅速将文本转化为病毒式 TikTok 视频。
 
@@ -9093,7 +9093,7 @@ TopView AI 抖音视频生成器是专为 TikTok 创作者设计的革命性平�
 
 
 ### Clippie AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-clippie-ai.webp" alt="Clippie AI">
 
 #### 使用 Clippie AI 在几秒钟内创建不露面的短视频。而不是几个小时。
 
@@ -9128,7 +9128,7 @@ AI 故事视频
 
 ## 翻译和成绩单
 ### Snipd Podcast Summaries
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-snipd-podcast-summaries.webp" alt="Snipd Podcast Summaries">
 
 #### 解锁播客中的知识 - Snipd
 
@@ -9144,7 +9144,7 @@ AI 故事视频
 
 
 ### Rephrasely
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rephrasely.webp" alt="Rephrasely">
 
 #### 适用于所有语言的免费改写生成器！
 
@@ -9160,7 +9160,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 
 ### BiRead
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-biread.webp" alt="BiRead">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-biread.webp" alt="BiRead">
 
 #### 即时双语阅读的简单工具
 
@@ -9176,7 +9176,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 
 ### RIVERSIDE
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riverside.webp" alt="RIVERSIDE">
 
 #### 音频和视频转录。由 AI 提供支持。
 将音频和视频转录为文本，准确率为 99%。
@@ -9198,7 +9198,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 
 ### Deciphr AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deciphr-ai.webp" alt="Deciphr AI">
 
 #### 破译AI
 
@@ -9214,7 +9214,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 
 ### Sumly
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sumly.webp" alt="Sumly">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sumly.webp" alt="Sumly">
 
 #### 人工智能生成的播客摘要-Sumly.Ai
 
@@ -9230,7 +9230,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 
 ### Rythmex
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rythmex.webp" alt="Rythmex">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rythmex.webp" alt="Rythmex">
 
 #### 使用 Rythmex Converter 将音频转换为文本
 
@@ -9254,7 +9254,7 @@ Rephrasely 使用最先进的 AI 为我们提供的 18 种（12 种免费和 6 �
 
 ## 假期和旅行计划
 ### Let''s Trip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-let's-trip.webp" alt="Let''s Trip">
 
 #### 令人难忘的行程，由人工智能行程规划师提供支持，基于社交媒体趋势
 
@@ -9270,7 +9270,7 @@ Let''s Trip 是一款由人工智能驱动的创新旅行规划器，旨在创�
 
 
 ### BeachAtlas
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-beachatlas.webp" alt="BeachAtlas">
 
 #### 探索当地最佳海滩体验。
 
@@ -9286,7 +9286,7 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 
 
 ### Orkoi
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-orkoi.webp" alt="Orkoi">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-orkoi.webp" alt="Orkoi">
 
 #### Orkoi - 快速制定个性化旅行计划，免费，无需注册
 
@@ -9302,7 +9302,7 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 
 
 ### Vacay
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vacay.webp" alt="Vacay">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vacay.webp" alt="Vacay">
 
 #### 假期聊天代理
 
@@ -9318,7 +9318,7 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 
 
 ### Roamr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-roamr.webp" alt="Roamr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-roamr.webp" alt="Roamr">
 
 #### Roamr-AI 旅行规划师-几秒钟内即可实现您的梦想假期
 
@@ -9334,7 +9334,7 @@ BeachAtlas.com是一本海滩百科全书。利用人工智能，beachatlas.com�
 
 
 ### AI Trip Maker
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-trip-maker.webp" alt="AI Trip Maker">
 
 #### AI Trip Maker-你的个人旅行规划师 AI
 
@@ -9350,7 +9350,7 @@ AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得�
 
 
 ### ItineraryTrip
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-itinerarytrip.webp" alt="ItineraryTrip">
 
 #### IntineraryTrip-个性化行程 AI 旅行社
 
@@ -9376,7 +9376,7 @@ AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得�
 
 ## Vibe 编码和应用程序生成器
 ### aidev codes
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aidev.codes.webp" alt="aidev codes">
 
 #### 为您编写 AI 开发代码
 
@@ -9392,7 +9392,7 @@ AitripMaker-你的个人旅行规划器 AI 让你的下一次旅行计划变得�
 
 
 ### AITable AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aitable.ai.webp" alt="AITable AI">
 
 #### : 无代码所有代理生成器。自定义 ChatGPT 可将您的着陆页转化率提高到 5 倍。
 
@@ -9409,7 +9409,7 @@ AlTable.ai 是一个工作平台，允许你使用 Al 来组织任何数据。Al
 
 
 ### Cloobot X
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-cloobot-x.webp" alt="Cloobot X">
 
 #### 现在可以立即创建业务应用程序
 
@@ -9425,7 +9425,7 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 
 
 ### BuildAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-buildai.webp" alt="BuildAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-buildai.webp" alt="BuildAI">
 
 #### 在几分钟内构建 AI 界面
 
@@ -9441,7 +9441,7 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 
 
 ### Aspen
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aspen.webp" alt="Aspen">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aspen.webp" alt="Aspen">
 
 #### 在几分钟内构建 AI 驱动的工具。Aspen 是一个用于构建 AI 驱动的 Web 应用程序的无代码平台。
 
@@ -9461,7 +9461,7 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 
 
 ### BASE44
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-base44.webp" alt="BASE44">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-base44.webp" alt="BASE44">
 
 #### BASE44-使用 AI 在几分钟内构建任何软件
 
@@ -9480,7 +9480,7 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 
 
 ### B12 No-Code AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-b12-no-code-ai.webp" alt="B12 No-Code AI">
 
 #### B12 的无代码 AI 使任何人都可以在几分钟内构建自定义 AI 工具。无需专业知识，只需几分钟即可从使用 AI 到创建您自己的 AI 工具。
 
@@ -9504,7 +9504,7 @@ Cloobot X 正在通过下一代无代码平台改变企业软件开发。它通�
 
 ## 视频配音和翻译
 ### VMEG
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-vmeg.webp" alt="VMEG">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-vmeg.webp" alt="VMEG">
 
 #### VMEG | 人工智能驱动的视频本地化平台
 
@@ -9520,7 +9520,7 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 
 
 ### youtube dubbing
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-dubbing.webp" alt="youtube dubbing">
 
 #### 消除观看视频的语言障碍
 
@@ -9536,7 +9536,7 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 
 
 ### BlipCut Video Translator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-blipcut-video-translator.webp" alt="BlipCut Video Translator">
 
 #### 具有类人人工智能语音、语音克隆和 ChatGPT 翻译功能的 AI 视频翻译器
 
@@ -9552,7 +9552,7 @@ VMEG 是一个 AI 视频本地化平台，可通过 AI 语音克隆和口型同�
 
 
 ### Dubverse AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dubverse.ai.webp" alt="Dubverse AI">
 
 #### 使用 Dubverse.Ai 进行在线视频配音
 
@@ -9568,7 +9568,7 @@ Dubverse 是一个在线视频配音平台。Dubverse 使用人工智能以闪�
 
 
 ### VideoDub
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videodub.webp" alt="VideoDub">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videodub.webp" alt="VideoDub">
 
 #### 毫不费力地翻译和配音您的视频
 
@@ -9584,7 +9584,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 
 ### Papercup
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-papercup.webp" alt="Papercup">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-papercup.webp" alt="Papercup">
 
 #### Papercup-人工智能配音和视频翻译软件
 
@@ -9601,7 +9601,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 
 ### TranslateVideo
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-translatevideo.webp" alt="TranslateVideo">
 
 #### Translate.Video-一键翻译视频
 
@@ -9625,7 +9625,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 ## 视频编辑
 ### Free AI kissing video generator
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-free-ai-kissing-video-generator.webp" alt="Free AI kissing video generator">
 
 #### AI 接吻视频生成器-创造浪漫时刻
 
@@ -9641,7 +9641,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 
 ### youtube video downloader
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-youtube-video-downloader.webp" alt="youtube video downloader">
 
 #### 最佳免费 YouTube 视频下载器 | 以高清和 4K 格式保存视频
 
@@ -9657,7 +9657,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 
 ### VideoIdeas AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-videoideas-ai.webp" alt="VideoIdeas AI">
 
 #### VideoIdeas.ai 是你的 AI YouTube 内容工厂。在几分钟内生成具有病毒价值的脚本、新鲜的视频创意和引人入胜的内容。 
 
@@ -9673,7 +9673,7 @@ Videodub.io 是一个由人工智能驱动的平台，可简化为视频添加�
 
 
 ### SellerPic AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sellerpic-ai.webp" alt="SellerPic AI">
 
 #### SellerPic：人工智能时装模特和产品图像和视频生成器
 
@@ -9691,7 +9691,7 @@ SellerPic是一个专为电子商务卖家打造的AI SaaS平台，与Shopify、
 
 
 ### Klap App
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-klap-app.webp" alt="Klap App">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-klap-app.webp" alt="Klap App">
 
 #### AI 编辑应用程序可将长视频转换为病毒片段
 
@@ -9716,7 +9716,7 @@ SellerPic是一个专为电子商务卖家打造的AI SaaS平台，与Shopify、
 
 
 ### TheFluxTrain
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-thefluxtrain.webp" alt="TheFluxTrain">
 
 #### Agentic AI 制作工作室可实现一致的角色、工作流程和视频
 
@@ -9732,7 +9732,7 @@ SellerPic是一个专为电子商务卖家打造的AI SaaS平台，与Shopify、
 
 
 ### AI video editor
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-video-editor.webp" alt="AI video editor">
 
 #### 人工智能继续重塑我们制作视频的方式。该领域的最新创新之一是 TopView.ai，这是一款在线人工智能视频编辑器，它利用人工智能的力量来简化流程 
 
@@ -9756,7 +9756,7 @@ TopView.ai 改变了抖音、Reels、YouTube和推特等社交媒体视频制作
 
 ## 语音代理和电话机器人
 ### Poly AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-poly-ai.webp" alt="Poly AI">
 
 #### 客户主导的语音助手
 
@@ -9772,7 +9772,7 @@ TopView.ai 改变了抖音、Reels、YouTube和推特等社交媒体视频制作
 
 
 ### Voyp
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voyp.webp" alt="Voyp">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voyp.webp" alt="Voyp">
 
 #### VOYP，语音驱动的应用程序是你的 AI 呼叫助手。
 
@@ -9788,7 +9788,7 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 
 
 ### SimplePhones AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-simplephones.ai.webp" alt="SimplePhones AI">
 
 #### 绝不会错过客户的来电
 
@@ -9804,7 +9804,7 @@ Voyp-手机配音-是一款语音驱动的移动应用程序，使用户无需�
 
 
 ### nagish
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-nagish.webp" alt="nagish">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-nagish.webp" alt="nagish">
 
 #### Nagish-最好的电话字幕应用程序
 
@@ -9822,7 +9822,7 @@ Nagish 使用人工智能 (AI) 将文本实时转换为语音和语音转文本�
 
 
 ### Voice AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voice-ai.webp" alt="Voice AI">
 
 #### 适用于 Pc 和 Mac 的 AI 语音转换器应用程序-即时更改声音
 
@@ -9838,7 +9838,7 @@ Nagish 使用人工智能 (AI) 将文本实时转换为语音和语音转文本�
 
 
 ### SuperU AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-superu-ai.webp" alt="SuperU AI">
 
 #### SuperU 是一款白标语音通话人工智能，可以像人类一样精确地自动通话。它无需编写任何代码即可启动活动、认证潜在客户并大规模管理对话。
 
@@ -9854,7 +9854,7 @@ Nagish 使用人工智能 (AI) 将文本实时转换为语音和语音转文本�
 
 
 ### VoAgents
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-voagents.webp" alt="VoAgents">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-voagents.webp" alt="VoAgents">
 
 #### VoAgents.ai 提供尖端的人工智能语音代理解决方案，旨在重塑企业与客户互动的方式。 
 
@@ -9878,7 +9878,7 @@ VoAgents.ai 是一个先进的人工智能语音代理平台，旨在改变企�
 
 ## 网页设计
 ### Kopage AI Website Builder
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-kopage-ai-website-builder.webp" alt="Kopage AI Website Builder">
 
 #### White-Label AI 建站神器，你可以用你自己的品牌为你的客户建立网站
 
@@ -9894,7 +9894,7 @@ Kopage AI 建站神器是一个白标平台，您可以在其中创建网站或�
 
 
 ### Durable
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-durable.webp" alt="Durable">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-durable.webp" alt="Durable">
 
 #### 耐用：AI Website Builder 和服务业务软件
 
@@ -9910,7 +9910,7 @@ Kopage AI 建站神器是一个白标平台，您可以在其中创建网站或�
 
 
 ### Linkrr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-linkrr.webp" alt="Linkrr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-linkrr.webp" alt="Linkrr">
 
 #### Linkrr-用一个平台做所有事情！
 
@@ -9927,7 +9927,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 
 ### Aida
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-aida.webp" alt="Aida">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-aida.webp" alt="Aida">
 
 #### Bookmark.com | 无代码建站神器助你创业
 
@@ -9945,7 +9945,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 
 ### Designs AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-designs-ai.webp" alt="Designs AI">
 
 #### 使用 AI 创建徽标、视频、横幅、画外音
 
@@ -9961,7 +9961,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 
 ### welovenocode
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-project-description-generator.webp" alt="welovenocode">
 
 #### 聘请顶尖的无代码和低代码人才，以快速且经济实惠的方式构建您的网站
 
@@ -9977,7 +9977,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 
 ### Magician
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-magician.webp" alt="Magician">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-magician.webp" alt="Magician">
 
 #### Figma 魔术师
 
@@ -10001,7 +10001,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 ## 工作流程和自动化
 ### Riku
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-riku.webp" alt="Riku">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-riku.webp" alt="Riku">
 
 #### Riku.Ai-为 AI 模型构建无代码提示和数据集
 
@@ -10018,7 +10018,7 @@ Linkrr是一种多功能的链接管理工具，类似于Linktree。它提供短
 
 
 ### WebscrapeAI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-webscrapeai.webp" alt="WebscrapeAI">
 
 #### 使用 AI 在没有代码的情况下抓取任何网站
 
@@ -10034,7 +10034,7 @@ Webscrape AI 是一个先进、用户友好的平台，允许个人和企业从�
 
 
 ### No-Code Scraper
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-no-code-scraper.webp" alt="No-Code Scraper">
 
 #### 只需几个简单的输入，即可从任何网站无缝提取数据。
 
@@ -10051,7 +10051,7 @@ No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网�
 
 
 ### airops
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-airops.webp" alt="airops">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-airops.webp" alt="airops">
 
 #### Airops-推动增长的人工智能工作流程-使用 Airops Studio 创建、测试、部署和扩展人工智能应用程序。
 
@@ -10069,7 +10069,7 @@ No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网�
 
 
 ### Sintra
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-sintra.webp" alt="Sintra">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-sintra.webp" alt="Sintra">
 
 #### 辛特拉——你的下一位员工将在 AI 上招聘
 
@@ -10085,7 +10085,7 @@ No-Code Scraper是一种无代码抓取工具，可让您轻松地从任何网�
 
 
 ### guidde
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-guidde.webp" alt="guidde">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-guidde.webp" alt="guidde">
 
 #### 神奇地创建令人惊叹的培训材料、功能说明、SOP、入职指南、操作指南、AI 常见问题解答。
 
@@ -10101,7 +10101,7 @@ guidde 是用于业务的生成式 AI 平台，可帮助您的团队将创建视
 
 
 ### Hexowatch
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-hexowatch.webp" alt="Hexowatch">
 
 #### 除了可用性和价格之外，第 3 方网站作为数据源、可视化网站监控、竞争对手跟踪。
 
@@ -10125,7 +10125,7 @@ Hexowatch 是您的 AI 助手，可以监控任何网站的视觉、内容、源
 
 ## 写作助理
 ### Wordfixerbot
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-wordfixerbot.webp" alt="Wordfixerbot">
 
 #### 释义工具-最佳免费在线解释-Wordfixerbot
 
@@ -10141,7 +10141,7 @@ WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句�
 
 
 ### AI Text Summarizer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-text-summarizer.webp" alt="AI Text Summarizer">
 
 #### 震撼人心的 AI 文本摘要器：更快的内容分析
 
@@ -10157,7 +10157,7 @@ WordFixerBot 的释义工具是帮助您快速准确地改写任何文本、句�
 
 
 ### Rytr
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-rytr.webp" alt="Rytr">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-rytr.webp" alt="Rytr">
 
 #### Rytr-最佳 AI 作家、内容生成器和写作助手
 
@@ -10175,7 +10175,7 @@ Rytr是一款人工智能写作助手，可以帮助你在短短几秒钟内创�
 
 
 ### AI-Writer
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-writer.webp" alt="AI-Writer">
 
 #### AI Writer™-最好的 AI 文本生成器，承诺。
 
@@ -10191,7 +10191,7 @@ AI-Writer是最准确的内容生成平台，它使用最先进的人工智能�
 
 
 ### ChatArt
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-chatart.webp" alt="ChatArt">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-chatart.webp" alt="ChatArt">
 
 #### ChatArt-最适合你的 AI 内容创作平台
 
@@ -10207,7 +10207,7 @@ ChatArt是一个无所不包的人工智能创作平台，它利用了当今最�
 
 
 ### BizPlanner AI
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-bizplanner-ai.webp" alt="BizPlanner AI">
 
 #### 专业的人工智能商业计划书生成器和撰写者
 
@@ -10223,7 +10223,7 @@ BizPlanner AI是一个人工智能商业计划生成器，可简化详细和战�
 
 
 ### Smodin
-<img align="left" width="240" src="https://cdn.thataicollection.com/screenshots/screenshot-smodin.webp" alt="Smodin">
+<img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-smodin.webp" alt="Smodin">
 
 ####  写作和家庭作业辅助产品
 
