@@ -9919,3 +9919,4 @@ AI-Writer.com is built for academia and research. 100M+ scientific papers, prope
 
 ---
 
+- [MIDDLE](https://middle-production.up.railway.app) — AI relationship coach. Messaging-first, 24/7, practical advice.
