@@ -1386,6 +1386,7 @@ Make3D allows users to create 3D models from 2D sketches quickly and intuitively
 
 ## Architecture & Interior Design
 ### Image Computer
+- [Raphael AI](https://raphael.app) - Free AI image generator with Seedream, Nano Banana, GPT Image.
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-image-computer.webp" alt="Image Computer">
 
 #### AI Interior Designer
