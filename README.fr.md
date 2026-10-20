@@ -1436,6 +1436,22 @@ Plask propose la capture de mouvements par IA à partir de vidéos, qui transfor
 ---
 
 ## Architecture & Design d''intérieur
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Planifiez, meublez et explorez votre maison en 3D grâce à l'IA
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI est une plateforme de conception d'intérieur assistée par IA qui transforme les plans 2D en espaces 3D interactifs et époustouflants. Concevez, personnalisez et visualisez la maison de vos rêves sans effort grâce à des outils intelligents et un rendu 3D en temps réel.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Interior AI
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-interior-ai.webp" alt="Interior AI">
 

@@ -1436,6 +1436,22 @@ TRIPO — это модель генеративного фундамента, �
 ---
 
 ## Архитектура и дизайн интерьера
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Планируйте, обставляйте и изучайте свой дом в 3D с помощью ИИ
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI — это платформа для дизайна дома на базе ИИ, которая превращает 2D-планы этажей в потрясающие интерактивные 3D-пространства. Легко проектируйте, настраивайте и визуализируйте дом своей мечты с помощью интеллектуальных инструментов и 3D-рендеринга в реальном времени.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Dimensions
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 

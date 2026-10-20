@@ -1398,6 +1398,22 @@ Create AI music videos with Neural Frames, the audio-reactive platform for artis
 ---
 
 ## Architecture & Interior Design
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Plan, Furnish & Explore Your Home in 3D Using AI
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI is an AI-powered home design platform that transforms 2D floor plans into stunning, interactive 3D spaces. Design, customize, and visualize your dream home effortlessly with intelligent tools and real-time 3D rendering.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Deft
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deft_.webp" alt="Deft">
 
