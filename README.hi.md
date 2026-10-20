@@ -179,6 +179,22 @@
 - ⚙️ [वर्कफ़्लो और ऑटोमेशन](#वर्कफ़्लो-और-ऑटोमेशन)
 - ✍️ [लेखन सहायक](#लेखन-सहायक)
 ## एआई संग्रह में नवीनतम परिवर्धन
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### AI की मदद से अपने घर की योजना बनाएं, सजाएं और 3D में देखें
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI एक AI-संचालित होम डिज़ाइन प्लेटफ़ॉर्म है जो 2D फ़्लोर प्लान को शानदार, इंटरैक्टिव 3D स्पेस में बदल देता है। स्मार्ट टूल्स और रीयल-टाइम 3D रेंडरिंग के साथ अपने सपनों का घर आसानी से डिज़ाइन करें, कस्टमाइज़ करें और देखें।
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Antaeus
 <img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/1b0efe9c999f2bb4.webp" alt="Antaeus">
 
@@ -1420,6 +1436,22 @@ null
 ---
 
 ## वास्तुकला और आंतरिक डिजाइन
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### AI की मदद से अपने घर की योजना बनाएं, सजाएं और 3D में देखें
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI एक AI-संचालित होम डिज़ाइन प्लेटफ़ॉर्म है जो 2D फ़्लोर प्लान को शानदार, इंटरैक्टिव 3D स्पेस में बदल देता है। स्मार्ट टूल्स और रीयल-टाइम 3D रेंडरिंग के साथ अपने सपनों का घर आसानी से डिज़ाइन करें, कस्टमाइज़ करें और देखें।
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Deft
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-deft_.webp" alt="Deft">
 

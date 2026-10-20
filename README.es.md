@@ -179,6 +179,22 @@ Gemma Guard se creó para el Google Gemma 4 Good Hackathon como una aplicación 
 - ⚙️ [Flujo de trabajo y automatización](#flujo-de-trabajo-y-automatización)
 - ✍️ [Asistente de Redacción](#asistente-de-redacción)
 ## Últimas incorporaciones a la colección AI
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Planifica, amuebla y explora tu hogar en 3D con IA
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI es una plataforma de diseño de interiores impulsada por IA que transforma planos 2D en espacios 3D interactivos e impresionantes. Diseña, personaliza y visualiza la casa de tus sueños sin esfuerzo con herramientas inteligentes y renderizado 3D en tiempo real.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Antaeus
 <img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/1b0efe9c999f2bb4.webp" alt="Antaeus">
 
@@ -1420,6 +1436,22 @@ Deje de perder horas con las herramientas de modelado. Genere arte 3D impresiona
 ---
 
 ## Arquitectura e Interiorismo
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Planifica, amuebla y explora tu hogar en 3D con IA
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI es una plataforma de diseño de interiores impulsada por IA que transforma planos 2D en espacios 3D interactivos e impresionantes. Diseña, personaliza y visualiza la casa de tus sueños sin esfuerzo con herramientas inteligentes y renderizado 3D en tiempo real.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Dimensions
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-dimensions.webp" alt="Dimensions">
 
