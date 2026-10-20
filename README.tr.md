@@ -195,6 +195,7 @@
 | [Image Computer](http://image.computer?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Bir Sonraki İç Tasarımınızı / Panosunu / Moda Koleksiyonunuzu / Konsept Sanatınızı Oluşturun. | Her türlü resmi oluşturmak için güçlü AI teknolojimizi kullanın. Saniyeler içinde. | :x: |
 | [Interior AI](http://interiorai.com?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Interior Ai: İç Mimarlık Fikirleri İlham ve Sanal Sahneleme Uygulaması Sanal Yapay Zeka Kullanarak. | İç mimarlık fikirleri elde edin ve farklı iç mekan stilleri ile gayrimenkul listeleri için iç mekanları sanal olarak sahneye koyun. | :white_check_mark: |
 | [Makeit.ai](http://www.maket.ai?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Üretici Tasarım - Mimarlık Tasarım Yazılımı - Maket. | Üretici tasarım yazılımımız, mimarların, inşaatçıların ve geliştiricilerin binlerce mimari planı anında oluşturmasına olanak tanır. | :grey_question: |
+| [HouseSpaceAI](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection) | Yapay zeka ile evinizi 3D olarak planlayın, döşeyin ve keşfedin. | HouseSpaceAI, 2D kat planlarını etkileyici ve etkileşimli 3D alanlara dönüştüren yapay zeka destekli bir ev tasarım platformudur. Akıllı araçlar ve gerçek zamanlı 3D görselleştirme ile hayalinizdeki evi zahmetsizce tasarlayın, özelleştirin ve görün. | :white_check_mark: |
 
 <!--Mimarlık ve İç Mimarlık Sonu-->
 

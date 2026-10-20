@@ -181,6 +181,22 @@ Gemma Guard 专为 Google Gemma 4 Good Hackathon 打造，是一款注重隐私�
 - ⚙️ [工作流程和自动化](#工作流程和自动化)
 - ✍️ [写作助理](#写作助理)
 ## AI 合集的最新补充
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### 使用 AI 规划、布置并探索您的 3D 家居
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI 是一个 AI 驱动的家居设计平台，可将 2D 平面图转换为令人惊叹的交互式 3D 空间。借助智能工具和实时 3D 渲染，轻松设计、定制并可视化您的梦想之家。
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Antaeus
 <img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/1b0efe9c999f2bb4.webp" alt="Antaeus">
 

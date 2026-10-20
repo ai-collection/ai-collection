@@ -179,6 +179,22 @@ Gemma Guard a été créée pour le Google Gemma 4 Good Hackathon en tant qu'app
 - ⚙️ [Flux de travail et automatisation](#flux-de-travail-et-automatisation)
 - ✍️ [Assistante d''écriture](#assistante-d''écriture)
 ## Derniers ajouts à la collection AI
+### HouseSpaceAI
+<img align="left" width="240" src="https://www.housespaceai.app/share/housespace-ai.png" alt="HouseSpaceAI">
+
+#### Planifiez, meublez et explorez votre maison en 3D grâce à l'IA
+
+
+[Visit](https://www.housespaceai.app/?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+HouseSpaceAI est une plateforme de conception d'intérieur assistée par IA qui transforme les plans 2D en espaces 3D interactifs et époustouflants. Concevez, personnalisez et visualisez la maison de vos rêves sans effort grâce à des outils intelligents et un rendu 3D en temps réel.
+
+
+[More Information and Pricing](https://www.housespaceai.app/pricing?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
+
+<br />
+
+
 ### Antaeus
 <img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/1b0efe9c999f2bb4.webp" alt="Antaeus">
 
