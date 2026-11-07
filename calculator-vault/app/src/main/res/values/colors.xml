@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Calculator face -->
+    <color name="calc_bg">#0E0E10</color>
+    <color name="calc_display">#FFFFFF</color>
+    <color name="key_number_bg">#2A2A2E</color>
+    <color name="key_number_text">#FFFFFF</color>
+    <color name="key_func_bg">#3C3C41</color>
+    <color name="key_func_text">#FFFFFF</color>
+    <color name="key_op_bg">#FF9500</color>
+    <color name="key_op_text">#FFFFFF</color>
+
+    <!-- App / vault theme -->
+    <color name="primary">#3D5AFE</color>
+    <color name="primary_dark">#2A3EB1</color>
+    <color name="accent">#FF9500</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#1A1A1A</color>
+    <color name="background">#F5F5F7</color>
+</resources>

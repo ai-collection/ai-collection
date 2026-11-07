@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.CalculatorVault" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:statusBarColor">@color/calc_bg</item>
+        <item name="android:windowBackground">@color/calc_bg</item>
+    </style>
+
+    <style name="Theme.CalculatorVault.Fullscreen" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">@android:color/black</item>
+    </style>
+
+    <!-- Calculator keypad -->
+    <style name="CalcRow">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="CalcKey" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/key_number</item>
+        <item name="android:textColor">@color/key_number_text</item>
+        <item name="android:textSize">26sp</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="CalcKey.Func">
+        <item name="android:background">@drawable/key_func</item>
+        <item name="android:textColor">@color/key_func_text</item>
+    </style>
+
+    <style name="CalcKey.Op">
+        <item name="android:background">@drawable/key_op</item>
+        <item name="android:textColor">@color/key_op_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CalcKey.Equals">
+        <item name="android:background">@drawable/key_op</item>
+        <item name="android:textColor">@color/key_op_text</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

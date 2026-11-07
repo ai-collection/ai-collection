@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Needed for SMB / WebDAV network storage. File import/export uses the
+         Storage Access Framework, so no broad storage permission is required. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".VaultApp"
+        android:allowBackup="false"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.CalculatorVault">
+
+        <!-- The disguise: a normal-looking calculator is the launcher entry. -->
+        <activity
+            android:name=".ui.CalculatorActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- The hidden manager. Not exported, excluded from recents for privacy. -->
+        <activity
+            android:name=".ui.VaultActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:label="@string/vault_title" />
+
+        <activity
+            android:name=".ui.ImageViewerActivity"
+            android:exported="false"
+            android:excludeFromRecents="true"
+            android:theme="@style/Theme.CalculatorVault.Fullscreen" />
+
+    </application>
+
+</manifest>
