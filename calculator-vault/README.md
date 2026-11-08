@@ -87,3 +87,5 @@ app/src/main/java/com/vault/calc/
   added.
 
 <!-- CI: debug APK собирается через GitHub Actions (.github/workflows/android-build.yml) -->
+
+<!-- rebuild 084235 -->
