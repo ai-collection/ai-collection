@@ -85,3 +85,5 @@ app/src/main/java/com/vault/calc/
 - Video playback opens via export rather than an in-app player.
 - Optional biometric unlock, decoy/duress PIN, and upload-to-share could be
   added.
+
+<!-- CI: debug APK собирается через GitHub Actions (.github/workflows/android-build.yml) -->
