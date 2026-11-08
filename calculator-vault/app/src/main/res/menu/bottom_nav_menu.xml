@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_files" android:icon="@drawable/ic_files" android:title="@string/tab_files" />
+    <item android:id="@+id/nav_photos" android:icon="@drawable/ic_photos" android:title="@string/tab_photos" />
+    <item android:id="@+id/nav_network" android:icon="@drawable/ic_network" android:title="@string/tab_network" />
+</menu>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="vault_title">Vault</string>
+    <string name="error">Error</string>
+    <string name="clear">AC</string>
+
+    <!-- PIN -->
+    <string name="create_pin_title">Set vault PIN</string>
+    <string name="create_pin_message">Use %1$s as your secret unlock code? Type it on the calculator and press = to open your vault.</string>
+    <string name="set_pin">Set PIN</string>
+    <string name="change_pin">Change PIN</string>
+    <string name="pin_changed">PIN updated</string>
+    <string name="enter_new_pin">Enter a new PIN (4–12 digits)</string>
+
+    <!-- Vault tabs -->
+    <string name="tab_files">Files</string>
+    <string name="tab_photos">Photos</string>
+    <string name="tab_network">Network</string>
+
+    <!-- Actions -->
+    <string name="add">Add</string>
+    <string name="import_files">Import files</string>
+    <string name="import_photos">Import photos</string>
+    <string name="export">Export</string>
+    <string name="delete">Delete</string>
+    <string name="open">Open</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="settings">Settings</string>
+    <string name="lock">Lock</string>
+
+    <!-- Empty states -->
+    <string name="empty_files">No hidden files yet.\nTap + to import.</string>
+    <string name="empty_photos">No hidden photos yet.\nTap + to import.</string>
+    <string name="empty_network">No network storage yet.\nTap + to connect an SMB or WebDAV share.</string>
+
+    <!-- Messages -->
+    <string name="imported">Added to vault</string>
+    <string name="import_failed">Could not import</string>
+    <string name="exported">Exported</string>
+    <string name="export_failed">Export failed</string>
+    <string name="deleted">Deleted</string>
+    <string name="confirm_delete_title">Delete?</string>
+    <string name="confirm_delete_message">Permanently delete \"%1$s\" from the vault?</string>
+    <string name="download_prompt">Download this file into your encrypted vault?</string>
+    <string name="downloading">Downloading…</string>
+    <string name="download_done">Saved to vault</string>
+    <string name="download_failed">Download failed</string>
+    <string name="connecting">Connecting…</string>
+    <string name="connect_failed">Connection failed: %1$s</string>
+
+    <!-- Connection form -->
+    <string name="new_connection">New connection</string>
+    <string name="edit_connection">Edit connection</string>
+    <string name="conn_type">Type</string>
+    <string name="conn_name">Display name</string>
+    <string name="conn_host_smb">Server (host or IP)</string>
+    <string name="conn_host_webdav">Base URL (https://…)</string>
+    <string name="conn_share">Share name (SMB)</string>
+    <string name="conn_username">Username (optional)</string>
+    <string name="conn_password">Password (optional)</string>
+    <string name="conn_domain">Domain / workgroup (optional)</string>
+    <string name="delete_connection">Delete connection</string>
+
+    <!-- Settings -->
+    <string name="secure_window">Block screenshots &amp; hide from Recents</string>
+</resources>

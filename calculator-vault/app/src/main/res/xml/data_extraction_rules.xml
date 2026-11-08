@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="vault/" />
+        <exclude domain="sharedpref" path="vault_settings.xml" />
+        <exclude domain="sharedpref" path="vault_connections.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="file" path="vault/" />
+        <exclude domain="sharedpref" path="vault_settings.xml" />
+        <exclude domain="sharedpref" path="vault_connections.xml" />
+    </device-transfer>
+</data-extraction-rules>
