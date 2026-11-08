@@ -36,7 +36,7 @@ class VaultListFragment : Fragment() {
     private var pendingExport: VaultItem? = null
 
     private val importLauncher =
-        registerForActivityResult(ActivityResultContracts.OpenMultipleDocuments) { uris ->
+        registerForActivityResult(ActivityResultContracts.OpenMultipleDocuments()) { uris ->
             if (uris.isNullOrEmpty()) return@registerForActivityResult
             viewModel.import(uris) { ok, failed ->
                 val msg = if (failed == 0) getString(R.string.imported)

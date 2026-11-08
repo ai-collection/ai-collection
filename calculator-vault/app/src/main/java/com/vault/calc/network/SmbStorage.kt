@@ -35,7 +35,8 @@ class SmbStorage(private val connection: NetworkConnection) : RemoteStorage {
                 )
             )
         } else {
-            base.withGuestCrentials()
+            // No username: connect anonymously (works for open/guest shares).
+            base.withCredentials(NtlmPasswordAuthenticator())
         }
     }
 
