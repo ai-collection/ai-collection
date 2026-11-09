@@ -8712,6 +8712,8 @@ A state-of-the-art AI system generates high-quality videos from text prompts
 ---
 
 ## TikTok & Shorts Creator
+
+- [AlphaDrama](https://www.getalphadrama.com) - All-in-one AI short drama and viral video creation platform with multi-agent character consistency, automated storyboarding, and one-click stitching.
 ### EazyCaptions
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-eazycaptions.webp" alt="EazyCaptions">
 
