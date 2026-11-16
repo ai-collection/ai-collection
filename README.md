@@ -9916,3 +9916,8 @@ AI-Writer.com is built for academia and research. 100M+ scientific papers, prope
 
 ---
 
+### HumanPen
+
+Document-level AI humanize (DOCX/PPTX/TXT), translation (12 languages, PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT), DOCX condensation, citation format correction (DOCX, 12 styles), and scoped research project support. 100 signup credits; commercial credit-based pricing.
+
+[Visit](https://humanpen.net/) | [API Docs](https://api.humanpen.net/v1/docs.md)
