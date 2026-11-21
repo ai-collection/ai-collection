@@ -299,6 +299,16 @@ ClosedLoop AI reads your customer conversations (sales calls, support tickets, s
 <br />
 
 ## AI Agents
+### No Stairs Please
+
+#### No Stairs Please | Live-Music Venue Directory & Remote MCP
+
+[Visit](https://nostairsplease.com/)
+
+Every small stage in all 50 states, and who books it. Search live-music venues, capacities, and talent buyers directly or via remote MCP (https://nostairsplease.com/mcp).
+
+<br />
+
 ### AI Agent Store
 <img align="left" width="240" src="https://thataicollection.com/img/screenshots/screenshot-ai-agent-store.webp" alt="AI Agent Store">
 
