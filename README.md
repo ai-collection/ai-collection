@@ -1,6 +1,7 @@
 # <img width="20" style="margin-right:6px;" alt="ai-collection-logo" src="https://thataicollection.com/img/images/logo.webp" /> AI Collection [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 <div align="center">
 
 </div>
