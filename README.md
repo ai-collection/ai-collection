@@ -187,6 +187,18 @@ Translations:
 - ⚙️ [Workflow & Automation](#workflow--automation)
 - ✍️ [Writing Assistant](#writing-assistant)
 ## Latest Additions to AI Collection
+### Free Image to Video
+
+#### Free image to video AI with synchronized sound and no watermark
+
+
+[Visit](https://freeimagetovideo.ai/)
+
+Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. Also provides a hosted MCP server (`https://freeimagetovideo.ai/api/mcp`) and official LangChain integration.
+
+
+<br />
+
 ### OneKDP
 <img align="left" width="240" src="https://thataicollection.com/img/v/screenshots/150f6134c9e5d85b.webp" alt="OneKDP">
 
