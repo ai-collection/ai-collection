@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <RadioGroup
+            android:id="@+id/typeGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/typeSmb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="true"
+                android:text="SMB" />
+
+            <RadioButton
+                android:id="@+id/typeWebdav"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24dp"
+                android:text="WebDAV" />
+        </RadioGroup>
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_name"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editHost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_host_smb"
+            android:inputType="textUri" />
+
+        <EditText
+            android:id="@+id/editShare"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_share"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editUser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_username"
+            android:inputType="text" />
+
+        <EditText
+            android:id="@+id/editPassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_password"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/editDomain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/conn_domain"
+            android:inputType="text" />
+    </LinearLayout>
+</ScrollView>

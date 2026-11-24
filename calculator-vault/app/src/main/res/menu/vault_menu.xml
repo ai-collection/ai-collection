@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_change_pin" android:title="@string/change_pin" app:showAsAction="never" />
+    <item android:id="@+id/action_secure" android:title="@string/secure_window" android:checkable="true" app:showAsAction="never" />
+    <item android:id="@+id/action_lock" android:icon="@drawable/ic_lock" android:title="@string/lock" app:showAsAction="ifRoom" />
+</menu>
