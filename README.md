@@ -249,6 +249,7 @@ Plimo brings the newest AI image and video models and trending templates togethe
 [More Information and Pricing](https://thataicollection.com/en/application/plimo?utm_source=aicollection&utm_medium=github&utm_campaign=aicollection)
 
 <br />
+- [Free Image to Video](https://freeimagetovideo.ai/) - Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark.
 
 
 ### BankingNewsAI
